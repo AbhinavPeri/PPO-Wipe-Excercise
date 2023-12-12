@@ -1,0 +1,2739 @@
+/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/spaces/box.py:130: UserWarning: [33mWARN: Box bound precision lowered by casting to float32
+  gym.logger.warn(f"Box bound precision lowered by casting to {self.dtype}")
+global_step=200, episodic_return=[1.586943], success_rate=0.0
+global_step=400, episodic_return=[1.4395721], success_rate=0.0
+global_step=600, episodic_return=[0.5879627], success_rate=0.0
+global_step=800, episodic_return=[0.99018466], success_rate=0.0
+global_step=1000, episodic_return=[0.5715263], success_rate=0.0
+global_step=1170, episodic_return=[1.1478602], success_rate=0.0
+global_step=1370, episodic_return=[0.71887696], success_rate=0.0
+global_step=1570, episodic_return=[0.5003727], success_rate=0.0
+global_step=1770, episodic_return=[1.5393579], success_rate=0.0
+global_step=1970, episodic_return=[1.5635923], success_rate=0.0
+SPS: 81
+global_step=2170, episodic_return=[0.6088289], success_rate=0.0
+global_step=2370, episodic_return=[1.926369], success_rate=0.0
+global_step=2570, episodic_return=[1.563225], success_rate=0.0
+global_step=2770, episodic_return=[0.68919814], success_rate=0.0
+global_step=2970, episodic_return=[1.0737745], success_rate=0.0
+global_step=3170, episodic_return=[2.3544407], success_rate=0.0
+global_step=3370, episodic_return=[1.8937362], success_rate=0.0
+global_step=3570, episodic_return=[1.0467606], success_rate=0.0
+global_step=3770, episodic_return=[2.5458322], success_rate=0.0
+global_step=3970, episodic_return=[0.81574756], success_rate=0.0
+SPS: 82
+global_step=4115, episodic_return=[0.41742617], success_rate=0.0
+global_step=4315, episodic_return=[1.8829287], success_rate=0.0
+global_step=4515, episodic_return=[2.5385098], success_rate=0.0
+global_step=4715, episodic_return=[1.3391995], success_rate=0.0
+global_step=4915, episodic_return=[0.7840341], success_rate=0.0
+global_step=5115, episodic_return=[0.88525105], success_rate=0.0
+global_step=5315, episodic_return=[5.6986656], success_rate=0.0
+global_step=5515, episodic_return=[1.3583641], success_rate=0.0
+global_step=5715, episodic_return=[1.4808017], success_rate=0.0
+global_step=5915, episodic_return=[0.90693617], success_rate=0.0
+global_step=6115, episodic_return=[1.0776464], success_rate=0.0
+SPS: 83
+global_step=6315, episodic_return=[2.0695496], success_rate=0.0
+global_step=6515, episodic_return=[3.8157997], success_rate=0.0
+global_step=6715, episodic_return=[1.0408294], success_rate=0.0
+global_step=6915, episodic_return=[1.1389259], success_rate=0.0
+global_step=7115, episodic_return=[4.1237435], success_rate=0.0
+global_step=7315, episodic_return=[1.2477543], success_rate=0.0
+global_step=7515, episodic_return=[4.750193], success_rate=0.0
+global_step=7715, episodic_return=[1.218789], success_rate=0.0
+global_step=7915, episodic_return=[2.130998], success_rate=0.0
+global_step=8115, episodic_return=[3.0017467], success_rate=0.0
+SPS: 84
+global_step=8315, episodic_return=[2.7387996], success_rate=0.0
+global_step=8515, episodic_return=[1.8190203], success_rate=0.0
+global_step=8715, episodic_return=[1.756702], success_rate=0.0
+global_step=8915, episodic_return=[2.2424123], success_rate=0.0
+global_step=9115, episodic_return=[4.251745], success_rate=0.0
+global_step=9315, episodic_return=[6.3087745], success_rate=0.0
+global_step=9515, episodic_return=[1.8098184], success_rate=0.0
+global_step=9715, episodic_return=[0.66126984], success_rate=0.0
+global_step=9915, episodic_return=[2.0723195], success_rate=0.0
+global_step=10115, episodic_return=[2.528797], success_rate=0.0
+SPS: 84
+global_step=10315, episodic_return=[2.8133237], success_rate=0.0
+global_step=10515, episodic_return=[2.3426163], success_rate=0.0
+global_step=10715, episodic_return=[0.9030955], success_rate=0.0
+global_step=10915, episodic_return=[3.6299055], success_rate=0.0
+global_step=11115, episodic_return=[3.494743], success_rate=0.0
+global_step=11315, episodic_return=[3.754351], success_rate=0.0
+global_step=11515, episodic_return=[2.5350435], success_rate=0.0
+global_step=11715, episodic_return=[2.8710074], success_rate=0.0
+global_step=11915, episodic_return=[4.2182784], success_rate=0.0
+global_step=12115, episodic_return=[5.263621], success_rate=0.0
+SPS: 85
+global_step=12315, episodic_return=[2.521933], success_rate=0.0
+global_step=12515, episodic_return=[1.1814345], success_rate=0.0
+global_step=12715, episodic_return=[5.9094534], success_rate=0.0
+global_step=12915, episodic_return=[2.373036], success_rate=0.0
+global_step=13115, episodic_return=[1.3179752], success_rate=0.0
+global_step=13315, episodic_return=[2.3613257], success_rate=0.0
+global_step=13515, episodic_return=[5.051751], success_rate=0.0
+global_step=13715, episodic_return=[2.8050427], success_rate=0.0
+global_step=13915, episodic_return=[3.8983493], success_rate=0.0
+global_step=14115, episodic_return=[2.675666], success_rate=0.0
+global_step=14315, episodic_return=[0.9849773], success_rate=0.0
+KL Divergence (0.0150010259822011) exceeded threshold (0.015). Early stopping.
+SPS: 85
+global_step=14515, episodic_return=[6.642529], success_rate=0.0
+global_step=14715, episodic_return=[3.0332007], success_rate=0.0
+global_step=14915, episodic_return=[4.9109645], success_rate=0.0
+global_step=15115, episodic_return=[4.211833], success_rate=0.0
+global_step=15315, episodic_return=[1.5901221], success_rate=0.0
+global_step=15515, episodic_return=[3.5008044], success_rate=0.0
+global_step=15715, episodic_return=[3.927121], success_rate=0.0
+global_step=15915, episodic_return=[2.783615], success_rate=0.0
+global_step=16115, episodic_return=[2.098871], success_rate=0.0
+global_step=16315, episodic_return=[2.0835707], success_rate=0.0
+KL Divergence (0.015034507028758526) exceeded threshold (0.015). Early stopping.
+SPS: 86
+global_step=16515, episodic_return=[1.3643569], success_rate=0.0
+global_step=16715, episodic_return=[3.1874616], success_rate=0.0
+global_step=16915, episodic_return=[2.548065], success_rate=0.0
+global_step=17115, episodic_return=[3.7371345], success_rate=0.0
+global_step=17315, episodic_return=[2.435947], success_rate=0.0
+global_step=17515, episodic_return=[3.726199], success_rate=0.0
+global_step=17715, episodic_return=[1.2327245], success_rate=0.0
+global_step=17915, episodic_return=[3.3390224], success_rate=0.0
+global_step=18115, episodic_return=[2.0520284], success_rate=0.0
+global_step=18315, episodic_return=[2.7568703], success_rate=0.0
+KL Divergence (0.015019888989627361) exceeded threshold (0.015). Early stopping.
+SPS: 87
+global_step=18515, episodic_return=[3.8286717], success_rate=0.0
+global_step=18715, episodic_return=[2.0750132], success_rate=0.0
+global_step=18915, episodic_return=[2.3965774], success_rate=0.0
+global_step=19115, episodic_return=[2.3578658], success_rate=0.0
+global_step=19315, episodic_return=[5.553454], success_rate=0.0
+global_step=19515, episodic_return=[1.8637984], success_rate=0.0
+global_step=19715, episodic_return=[1.8642166], success_rate=0.0
+global_step=19915, episodic_return=[6.2036667], success_rate=0.0
+global_step=20115, episodic_return=[2.7406535], success_rate=0.0
+global_step=20315, episodic_return=[2.677214], success_rate=0.0
+KL Divergence (0.015228604897856712) exceeded threshold (0.015). Early stopping.
+SPS: 88
+global_step=20515, episodic_return=[2.5374637], success_rate=0.0
+global_step=20715, episodic_return=[2.5707028], success_rate=0.0
+global_step=20915, episodic_return=[2.4826317], success_rate=0.0
+global_step=21115, episodic_return=[3.1575217], success_rate=0.0
+global_step=21315, episodic_return=[4.296787], success_rate=0.0
+global_step=21515, episodic_return=[5.0491576], success_rate=0.0
+global_step=21715, episodic_return=[1.830082], success_rate=0.0
+global_step=21915, episodic_return=[2.5305414], success_rate=0.0
+global_step=22115, episodic_return=[5.595468], success_rate=0.0
+global_step=22315, episodic_return=[2.223656], success_rate=0.0
+global_step=22515, episodic_return=[3.6568954], success_rate=0.0
+KL Divergence (0.015379044227302074) exceeded threshold (0.015). Early stopping.
+SPS: 88
+global_step=22715, episodic_return=[3.4697387], success_rate=0.0
+global_step=22915, episodic_return=[4.247951], success_rate=0.0
+global_step=23115, episodic_return=[3.013862], success_rate=0.0
+global_step=23315, episodic_return=[1.6448358], success_rate=0.0
+global_step=23515, episodic_return=[2.8342214], success_rate=0.0
+global_step=23715, episodic_return=[1.5911996], success_rate=0.0
+global_step=23915, episodic_return=[1.987286], success_rate=0.0
+global_step=24115, episodic_return=[1.7899338], success_rate=0.0
+global_step=24315, episodic_return=[3.7893713], success_rate=0.0
+global_step=24515, episodic_return=[3.623954], success_rate=0.0
+SPS: 88
+global_step=24715, episodic_return=[2.2445314], success_rate=0.0
+global_step=24915, episodic_return=[2.491264], success_rate=0.0
+global_step=25115, episodic_return=[5.8098416], success_rate=0.0
+global_step=25315, episodic_return=[4.812957], success_rate=0.0
+global_step=25515, episodic_return=[2.892241], success_rate=0.0
+global_step=25715, episodic_return=[1.9433459], success_rate=0.0
+global_step=25915, episodic_return=[4.1388783], success_rate=0.0
+global_step=26115, episodic_return=[1.7701336], success_rate=0.0
+global_step=26315, episodic_return=[3.2063868], success_rate=0.0
+global_step=26515, episodic_return=[5.560367], success_rate=0.0
+KL Divergence (0.01526055857539177) exceeded threshold (0.015). Early stopping.
+SPS: 88
+global_step=26715, episodic_return=[3.373067], success_rate=0.0
+global_step=26915, episodic_return=[4.5782585], success_rate=0.0
+global_step=27115, episodic_return=[1.5990679], success_rate=0.0
+global_step=27315, episodic_return=[1.6833966], success_rate=0.0
+global_step=27515, episodic_return=[2.8969388], success_rate=0.0
+global_step=27715, episodic_return=[2.4616563], success_rate=0.0
+global_step=27915, episodic_return=[2.0312853], success_rate=0.0
+global_step=28115, episodic_return=[3.284112], success_rate=0.0
+global_step=28315, episodic_return=[2.2806504], success_rate=0.0
+global_step=28515, episodic_return=[3.5490553], success_rate=0.0
+KL Divergence (0.015005824156105518) exceeded threshold (0.015). Early stopping.
+SPS: 88
+global_step=28715, episodic_return=[5.3675413], success_rate=0.0
+global_step=28915, episodic_return=[2.5766683], success_rate=0.0
+global_step=29115, episodic_return=[4.9030485], success_rate=0.0
+global_step=29315, episodic_return=[6.540123], success_rate=0.0
+global_step=29515, episodic_return=[2.0052304], success_rate=0.0
+global_step=29715, episodic_return=[3.071011], success_rate=0.0
+global_step=29915, episodic_return=[3.2904966], success_rate=0.0
+global_step=30115, episodic_return=[2.4191186], success_rate=0.0
+global_step=30315, episodic_return=[1.3348206], success_rate=0.0
+global_step=30515, episodic_return=[3.8996687], success_rate=0.0
+global_step=30715, episodic_return=[3.3926578], success_rate=0.0
+KL Divergence (0.015152531675994396) exceeded threshold (0.015). Early stopping.
+SPS: 88
+global_step=30915, episodic_return=[1.741725], success_rate=0.0
+global_step=31115, episodic_return=[3.7352319], success_rate=0.0
+global_step=31315, episodic_return=[3.653646], success_rate=0.0
+global_step=31515, episodic_return=[2.2148774], success_rate=0.0
+global_step=31715, episodic_return=[3.8059144], success_rate=0.0
+global_step=31915, episodic_return=[3.6927223], success_rate=0.0
+global_step=32115, episodic_return=[6.181388], success_rate=0.0
+global_step=32315, episodic_return=[3.0809188], success_rate=0.0
+global_step=32515, episodic_return=[2.4922943], success_rate=0.0
+global_step=32715, episodic_return=[6.105465], success_rate=0.0
+KL Divergence (0.01516660489141941) exceeded threshold (0.015). Early stopping.
+SPS: 89
+global_step=32915, episodic_return=[2.9255283], success_rate=0.0
+global_step=33115, episodic_return=[2.786576], success_rate=0.0
+global_step=33315, episodic_return=[3.1472232], success_rate=0.0
+global_step=33515, episodic_return=[4.8132753], success_rate=0.0
+global_step=33715, episodic_return=[1.7623172], success_rate=0.0
+global_step=33915, episodic_return=[2.4763372], success_rate=0.0
+global_step=34115, episodic_return=[3.179762], success_rate=0.0
+global_step=34315, episodic_return=[4.008842], success_rate=0.0
+global_step=34515, episodic_return=[2.7934465], success_rate=0.0
+global_step=34715, episodic_return=[2.1067216], success_rate=0.0
+KL Divergence (0.015375465154647827) exceeded threshold (0.015). Early stopping.
+SPS: 89
+global_step=34915, episodic_return=[7.23689], success_rate=0.0
+global_step=35115, episodic_return=[3.3849494], success_rate=0.0
+global_step=35315, episodic_return=[1.2537228], success_rate=0.0
+global_step=35515, episodic_return=[2.1334317], success_rate=0.0
+global_step=35715, episodic_return=[3.6879177], success_rate=0.0
+global_step=35915, episodic_return=[3.6612], success_rate=0.0
+global_step=36115, episodic_return=[4.385583], success_rate=0.0
+global_step=36315, episodic_return=[3.4169936], success_rate=0.0
+global_step=36515, episodic_return=[4.465905], success_rate=0.0
+global_step=36715, episodic_return=[7.158218], success_rate=0.0
+KL Divergence (0.015460521914064884) exceeded threshold (0.015). Early stopping.
+SPS: 89
+global_step=36915, episodic_return=[6.270703], success_rate=0.0
+global_step=37115, episodic_return=[3.1640975], success_rate=0.0
+global_step=37315, episodic_return=[1.432448], success_rate=0.0
+global_step=37515, episodic_return=[5.7404604], success_rate=0.0
+global_step=37715, episodic_return=[4.4327526], success_rate=0.0
+global_step=37915, episodic_return=[1.9496288], success_rate=0.0
+global_step=38115, episodic_return=[1.5224186], success_rate=0.0
+global_step=38315, episodic_return=[2.852414], success_rate=0.0
+global_step=38515, episodic_return=[7.372083], success_rate=0.0
+global_step=38715, episodic_return=[2.1855369], success_rate=0.0
+KL Divergence (0.015294366516172886) exceeded threshold (0.015). Early stopping.
+SPS: 88
+global_step=38915, episodic_return=[1.7353197], success_rate=0.0
+global_step=39115, episodic_return=[2.6565397], success_rate=0.0
+global_step=39315, episodic_return=[4.118687], success_rate=0.0
+global_step=39515, episodic_return=[2.3883154], success_rate=0.0
+global_step=39715, episodic_return=[3.1646826], success_rate=0.0
+global_step=39915, episodic_return=[4.288921], success_rate=0.0
+global_step=40115, episodic_return=[2.7428148], success_rate=0.0
+global_step=40315, episodic_return=[5.8084307], success_rate=0.0
+global_step=40515, episodic_return=[3.1422164], success_rate=0.0
+global_step=40715, episodic_return=[5.0927076], success_rate=0.0
+global_step=40915, episodic_return=[5.3405914], success_rate=0.0
+KL Divergence (0.01591653749346733) exceeded threshold (0.015). Early stopping.
+SPS: 88
+global_step=41115, episodic_return=[2.638987], success_rate=0.0
+global_step=41315, episodic_return=[3.7299137], success_rate=0.0
+global_step=41515, episodic_return=[6.503146], success_rate=0.0
+global_step=41715, episodic_return=[2.8717263], success_rate=0.0
+global_step=41915, episodic_return=[4.770917], success_rate=0.0
+global_step=42115, episodic_return=[2.6941226], success_rate=0.0
+global_step=42315, episodic_return=[4.2936254], success_rate=0.0
+global_step=42515, episodic_return=[4.1572485], success_rate=0.0
+global_step=42715, episodic_return=[2.8595705], success_rate=0.0
+global_step=42915, episodic_return=[2.750532], success_rate=0.0
+KL Divergence (0.015419552102684975) exceeded threshold (0.015). Early stopping.
+SPS: 88
+global_step=43115, episodic_return=[5.141788], success_rate=0.0
+global_step=43315, episodic_return=[2.3524256], success_rate=0.0
+global_step=43515, episodic_return=[3.5444627], success_rate=0.0
+global_step=43715, episodic_return=[4.8694105], success_rate=0.0
+global_step=43915, episodic_return=[2.7880695], success_rate=0.0
+global_step=44115, episodic_return=[2.5992227], success_rate=0.0
+global_step=44315, episodic_return=[4.297648], success_rate=0.0
+global_step=44515, episodic_return=[1.9438608], success_rate=0.0
+global_step=44715, episodic_return=[2.2408278], success_rate=0.0
+global_step=44915, episodic_return=[7.726411], success_rate=0.0
+SPS: 88
+global_step=45115, episodic_return=[5.9510236], success_rate=0.0
+global_step=45315, episodic_return=[1.7560494], success_rate=0.0
+global_step=45515, episodic_return=[1.7577925], success_rate=0.0
+global_step=45715, episodic_return=[3.0468597], success_rate=0.0
+global_step=45915, episodic_return=[4.6750474], success_rate=0.0
+global_step=46115, episodic_return=[2.219263], success_rate=0.0
+global_step=46315, episodic_return=[5.851606], success_rate=0.0
+global_step=46515, episodic_return=[4.4146466], success_rate=0.0
+global_step=46715, episodic_return=[7.394011], success_rate=0.0
+global_step=46915, episodic_return=[3.453737], success_rate=0.0
+KL Divergence (0.01546245627105236) exceeded threshold (0.015). Early stopping.
+SPS: 88
+global_step=47115, episodic_return=[6.6668077], success_rate=0.0
+global_step=47315, episodic_return=[4.0129457], success_rate=0.0
+global_step=47515, episodic_return=[2.5440657], success_rate=0.0
+global_step=47715, episodic_return=[2.6446266], success_rate=0.0
+global_step=47915, episodic_return=[1.8756909], success_rate=0.0
+global_step=48115, episodic_return=[2.507012], success_rate=0.0
+global_step=48315, episodic_return=[2.446111], success_rate=0.0
+global_step=48515, episodic_return=[1.9806578], success_rate=0.0
+global_step=48715, episodic_return=[4.4393234], success_rate=0.0
+global_step=48915, episodic_return=[1.9457525], success_rate=0.0
+global_step=49115, episodic_return=[4.6328936], success_rate=0.0
+KL Divergence (0.015359543263912201) exceeded threshold (0.015). Early stopping.
+SPS: 88
+global_step=49315, episodic_return=[4.100226], success_rate=0.0
+global_step=49515, episodic_return=[4.7192893], success_rate=0.0
+global_step=49715, episodic_return=[2.1896574], success_rate=0.0
+global_step=49915, episodic_return=[1.7955935], success_rate=0.0
+global_step=50115, episodic_return=[3.447996], success_rate=0.0
+global_step=50315, episodic_return=[1.0638423], success_rate=0.0
+global_step=50515, episodic_return=[1.9192442], success_rate=0.0
+global_step=50715, episodic_return=[2.748412], success_rate=0.0
+global_step=50915, episodic_return=[7.2270412], success_rate=0.0
+global_step=51115, episodic_return=[4.181796], success_rate=0.0
+SPS: 88
+global_step=51315, episodic_return=[2.993101], success_rate=0.0
+global_step=51515, episodic_return=[4.385702], success_rate=0.0
+global_step=51715, episodic_return=[5.164023], success_rate=0.0
+global_step=51915, episodic_return=[2.6119108], success_rate=0.0
+global_step=52115, episodic_return=[6.9894996], success_rate=0.0
+global_step=52315, episodic_return=[2.5453975], success_rate=0.0
+global_step=52515, episodic_return=[4.4331145], success_rate=0.0
+global_step=52715, episodic_return=[4.7971373], success_rate=0.0
+global_step=52915, episodic_return=[1.866013], success_rate=0.0
+global_step=53115, episodic_return=[7.3384333], success_rate=0.0
+SPS: 88
+global_step=53315, episodic_return=[2.4299922], success_rate=0.0
+global_step=53515, episodic_return=[3.3821423], success_rate=0.0
+global_step=53715, episodic_return=[3.9609053], success_rate=0.0
+global_step=53915, episodic_return=[4.7244864], success_rate=0.0
+global_step=54115, episodic_return=[1.2837232], success_rate=0.0
+global_step=54315, episodic_return=[3.4565275], success_rate=0.0
+global_step=54515, episodic_return=[3.3581176], success_rate=0.0
+global_step=54715, episodic_return=[4.9445667], success_rate=0.0
+global_step=54915, episodic_return=[5.0744343], success_rate=0.0
+global_step=55115, episodic_return=[1.9055545], success_rate=0.0
+SPS: 88
+global_step=55315, episodic_return=[1.152658], success_rate=0.0
+global_step=55515, episodic_return=[3.9411738], success_rate=0.0
+global_step=55715, episodic_return=[2.5674615], success_rate=0.0
+global_step=55915, episodic_return=[3.3546064], success_rate=0.0
+global_step=56115, episodic_return=[2.1261137], success_rate=0.0
+global_step=56315, episodic_return=[2.1766365], success_rate=0.0
+global_step=56515, episodic_return=[4.141529], success_rate=0.0
+global_step=56715, episodic_return=[2.6594446], success_rate=0.0
+global_step=56915, episodic_return=[5.847582], success_rate=0.0
+global_step=57115, episodic_return=[6.20411], success_rate=0.0
+global_step=57315, episodic_return=[6.3087745], success_rate=0.0
+KL Divergence (0.015399373136460781) exceeded threshold (0.015). Early stopping.
+SPS: 88
+global_step=57515, episodic_return=[3.1368902], success_rate=0.0
+global_step=57715, episodic_return=[1.4943204], success_rate=0.0
+global_step=57915, episodic_return=[3.4950824], success_rate=0.0
+global_step=58115, episodic_return=[5.4185195], success_rate=0.0
+global_step=58315, episodic_return=[2.8006465], success_rate=0.0
+global_step=58515, episodic_return=[7.01643], success_rate=0.0
+global_step=58715, episodic_return=[6.5652475], success_rate=0.0
+global_step=58915, episodic_return=[4.8705473], success_rate=0.0
+global_step=59115, episodic_return=[1.9572117], success_rate=0.0
+global_step=59315, episodic_return=[3.625598], success_rate=0.0
+KL Divergence (0.01534862071275711) exceeded threshold (0.015). Early stopping.
+SPS: 88
+global_step=59515, episodic_return=[2.5891764], success_rate=0.0
+global_step=59715, episodic_return=[2.4048345], success_rate=0.0
+global_step=59915, episodic_return=[4.423663], success_rate=0.0
+global_step=60115, episodic_return=[2.71196], success_rate=0.0
+global_step=60315, episodic_return=[3.9559689], success_rate=0.0
+global_step=60515, episodic_return=[4.9167933], success_rate=0.0
+global_step=60715, episodic_return=[6.744827], success_rate=0.0
+global_step=60915, episodic_return=[5.8332], success_rate=0.0
+global_step=61115, episodic_return=[1.8860996], success_rate=0.0
+global_step=61315, episodic_return=[2.4347005], success_rate=0.0
+KL Divergence (0.015431677922606468) exceeded threshold (0.015). Early stopping.
+SPS: 89
+global_step=61515, episodic_return=[7.562323], success_rate=0.0
+global_step=61715, episodic_return=[5.2599854], success_rate=0.0
+global_step=61915, episodic_return=[3.164359], success_rate=0.0
+global_step=62115, episodic_return=[1.7379901], success_rate=0.0
+global_step=62315, episodic_return=[2.1564207], success_rate=0.0
+global_step=62515, episodic_return=[2.1694708], success_rate=0.0
+global_step=62715, episodic_return=[5.0553527], success_rate=0.0
+global_step=62915, episodic_return=[2.314549], success_rate=0.0
+global_step=63115, episodic_return=[1.2163589], success_rate=0.0
+global_step=63315, episodic_return=[4.034343], success_rate=0.0
+KL Divergence (0.016180163249373436) exceeded threshold (0.015). Early stopping.
+SPS: 89
+global_step=63515, episodic_return=[2.2134297], success_rate=0.0
+global_step=63715, episodic_return=[3.8536613], success_rate=0.0
+global_step=63915, episodic_return=[2.1601164], success_rate=0.0
+global_step=64115, episodic_return=[2.9229941], success_rate=0.0
+global_step=64315, episodic_return=[2.800264], success_rate=0.0
+global_step=64515, episodic_return=[3.671331], success_rate=0.0
+global_step=64715, episodic_return=[1.3930223], success_rate=0.0
+global_step=64915, episodic_return=[1.5506427], success_rate=0.0
+global_step=65115, episodic_return=[3.2466736], success_rate=0.0
+global_step=65315, episodic_return=[2.1301706], success_rate=0.0
+global_step=65515, episodic_return=[5.850876], success_rate=0.0
+KL Divergence (0.015279700048267841) exceeded threshold (0.015). Early stopping.
+SPS: 89
+global_step=65715, episodic_return=[3.1457908], success_rate=0.0
+global_step=65915, episodic_return=[6.951418], success_rate=0.0
+global_step=66115, episodic_return=[3.333235], success_rate=0.0
+global_step=66315, episodic_return=[4.0609827], success_rate=0.0
+global_step=66515, episodic_return=[2.1716585], success_rate=0.0
+global_step=66715, episodic_return=[8.429185], success_rate=0.0
+global_step=66915, episodic_return=[2.989006], success_rate=0.0
+global_step=67115, episodic_return=[3.4182267], success_rate=0.0
+global_step=67315, episodic_return=[2.3866906], success_rate=0.0
+global_step=67515, episodic_return=[5.601977], success_rate=0.0
+KL Divergence (0.016565147787332535) exceeded threshold (0.015). Early stopping.
+SPS: 89
+global_step=67715, episodic_return=[3.7374234], success_rate=0.0
+global_step=67915, episodic_return=[7.36438], success_rate=0.0
+global_step=68115, episodic_return=[1.7816526], success_rate=0.0
+global_step=68315, episodic_return=[4.891329], success_rate=0.0
+global_step=68515, episodic_return=[5.677163], success_rate=0.0
+global_step=68715, episodic_return=[2.4804118], success_rate=0.0
+global_step=68915, episodic_return=[5.179711], success_rate=0.0
+global_step=69115, episodic_return=[3.6607711], success_rate=0.0
+global_step=69315, episodic_return=[2.3425257], success_rate=0.0
+global_step=69515, episodic_return=[6.7387466], success_rate=0.0
+KL Divergence (0.015138447284698486) exceeded threshold (0.015). Early stopping.
+SPS: 89
+global_step=69715, episodic_return=[2.7484813], success_rate=0.0
+global_step=69915, episodic_return=[2.8768754], success_rate=0.0
+global_step=70115, episodic_return=[3.7309935], success_rate=0.0
+global_step=70315, episodic_return=[4.4641013], success_rate=0.0
+global_step=70515, episodic_return=[5.559302], success_rate=0.0
+global_step=70715, episodic_return=[4.381192], success_rate=0.0
+global_step=70915, episodic_return=[4.8765874], success_rate=0.0
+global_step=71115, episodic_return=[4.163234], success_rate=0.0
+global_step=71315, episodic_return=[2.6198227], success_rate=0.0
+global_step=71515, episodic_return=[6.455965], success_rate=0.0
+KL Divergence (0.015423770062625408) exceeded threshold (0.015). Early stopping.
+SPS: 89
+global_step=71715, episodic_return=[1.6092741], success_rate=0.0
+global_step=71915, episodic_return=[4.0384517], success_rate=0.0
+global_step=72115, episodic_return=[2.2829983], success_rate=0.0
+global_step=72315, episodic_return=[5.027443], success_rate=0.0
+global_step=72515, episodic_return=[6.9523745], success_rate=0.0
+global_step=72715, episodic_return=[6.9618554], success_rate=0.0
+global_step=72915, episodic_return=[2.0817792], success_rate=0.0
+global_step=73115, episodic_return=[3.974182], success_rate=0.0
+global_step=73315, episodic_return=[3.6413155], success_rate=0.0
+global_step=73515, episodic_return=[5.1216516], success_rate=0.0
+global_step=73715, episodic_return=[3.0900917], success_rate=0.0
+KL Divergence (0.0157463401556015) exceeded threshold (0.015). Early stopping.
+SPS: 89
+global_step=73915, episodic_return=[2.7665982], success_rate=0.0
+global_step=74115, episodic_return=[4.7441964], success_rate=0.0
+global_step=74315, episodic_return=[7.189843], success_rate=0.0
+global_step=74515, episodic_return=[2.1489723], success_rate=0.0
+global_step=74715, episodic_return=[2.9014757], success_rate=0.0
+global_step=74915, episodic_return=[2.3206494], success_rate=0.0
+global_step=75115, episodic_return=[3.3182821], success_rate=0.0
+global_step=75315, episodic_return=[2.7551782], success_rate=0.0
+global_step=75515, episodic_return=[2.9274845], success_rate=0.0
+global_step=75715, episodic_return=[5.277729], success_rate=0.0
+KL Divergence (0.01540142111480236) exceeded threshold (0.015). Early stopping.
+SPS: 89
+global_step=75915, episodic_return=[5.0556116], success_rate=0.0
+global_step=76115, episodic_return=[1.5398794], success_rate=0.0
+global_step=76315, episodic_return=[4.8916535], success_rate=0.0
+global_step=76515, episodic_return=[3.406707], success_rate=0.0
+global_step=76715, episodic_return=[2.5667953], success_rate=0.0
+global_step=76915, episodic_return=[1.8251452], success_rate=0.0
+global_step=77115, episodic_return=[3.1510043], success_rate=0.0
+global_step=77315, episodic_return=[2.5263731], success_rate=0.0
+global_step=77515, episodic_return=[5.026581], success_rate=0.0
+global_step=77715, episodic_return=[2.7371526], success_rate=0.0
+SPS: 89
+global_step=77915, episodic_return=[1.9928021], success_rate=0.0
+global_step=78115, episodic_return=[2.658346], success_rate=0.0
+global_step=78315, episodic_return=[5.3330135], success_rate=0.0
+global_step=78515, episodic_return=[5.964086], success_rate=0.0
+global_step=78715, episodic_return=[1.4940349], success_rate=0.0
+global_step=78915, episodic_return=[5.601605], success_rate=0.0
+global_step=79115, episodic_return=[1.7229849], success_rate=0.0
+global_step=79315, episodic_return=[2.1787841], success_rate=0.0
+global_step=79515, episodic_return=[3.018575], success_rate=0.0
+global_step=79715, episodic_return=[4.6358333], success_rate=0.0
+SPS: 89
+global_step=79915, episodic_return=[3.9173076], success_rate=0.0
+global_step=80115, episodic_return=[1.356883], success_rate=0.0
+global_step=80315, episodic_return=[1.939051], success_rate=0.0
+global_step=80515, episodic_return=[2.8044488], success_rate=0.0
+global_step=80715, episodic_return=[2.1555674], success_rate=0.0
+global_step=80915, episodic_return=[3.5186493], success_rate=0.0
+global_step=81115, episodic_return=[2.3003445], success_rate=0.0
+global_step=81315, episodic_return=[7.3789635], success_rate=0.0
+global_step=81515, episodic_return=[5.228127], success_rate=0.0
+global_step=81715, episodic_return=[5.7580256], success_rate=0.0
+global_step=81915, episodic_return=[3.119019], success_rate=0.0
+KL Divergence (0.015005329623818398) exceeded threshold (0.015). Early stopping.
+SPS: 89
+global_step=82115, episodic_return=[3.0670907], success_rate=0.0
+global_step=82315, episodic_return=[2.7929485], success_rate=0.0
+global_step=82515, episodic_return=[3.9240189], success_rate=0.0
+global_step=82715, episodic_return=[1.5678631], success_rate=0.0
+global_step=82915, episodic_return=[2.9573076], success_rate=0.0
+global_step=83115, episodic_return=[3.5318747], success_rate=0.0
+global_step=83315, episodic_return=[4.022122], success_rate=0.0
+global_step=83515, episodic_return=[5.475416], success_rate=0.0
+global_step=83715, episodic_return=[5.7246556], success_rate=0.0
+global_step=83915, episodic_return=[2.4307008], success_rate=0.0
+KL Divergence (0.015218116343021393) exceeded threshold (0.015). Early stopping.
+SPS: 89
+global_step=84115, episodic_return=[6.5205503], success_rate=0.0
+global_step=84315, episodic_return=[5.5920067], success_rate=0.0
+global_step=84515, episodic_return=[3.7048857], success_rate=0.0
+global_step=84715, episodic_return=[3.0918262], success_rate=0.0
+global_step=84915, episodic_return=[2.217976], success_rate=0.0
+global_step=85115, episodic_return=[4.2972217], success_rate=0.0
+global_step=85315, episodic_return=[4.5421906], success_rate=0.0
+global_step=85515, episodic_return=[2.0946581], success_rate=0.0
+global_step=85715, episodic_return=[2.4263825], success_rate=0.0
+global_step=85915, episodic_return=[4.911541], success_rate=0.0
+SPS: 89
+global_step=86115, episodic_return=[4.3943434], success_rate=0.0
+global_step=86315, episodic_return=[5.21304], success_rate=0.0
+global_step=86515, episodic_return=[7.182192], success_rate=0.0
+global_step=86715, episodic_return=[3.6097414], success_rate=0.0
+global_step=86915, episodic_return=[5.0837727], success_rate=0.0
+global_step=87115, episodic_return=[2.5848255], success_rate=0.0
+global_step=87315, episodic_return=[2.525505], success_rate=0.0
+global_step=87515, episodic_return=[3.1732767], success_rate=0.0
+global_step=87715, episodic_return=[5.1259694], success_rate=0.0
+global_step=87915, episodic_return=[5.985512], success_rate=0.0
+KL Divergence (0.01538845058530569) exceeded threshold (0.015). Early stopping.
+SPS: 89
+global_step=88115, episodic_return=[2.2577715], success_rate=0.0
+global_step=88315, episodic_return=[2.3691566], success_rate=0.0
+global_step=88515, episodic_return=[4.3560987], success_rate=0.0
+global_step=88715, episodic_return=[2.4601214], success_rate=0.0
+global_step=88915, episodic_return=[5.797334], success_rate=0.0
+global_step=89115, episodic_return=[1.9602952], success_rate=0.0
+global_step=89315, episodic_return=[3.421225], success_rate=0.0
+global_step=89515, episodic_return=[6.4659214], success_rate=0.0
+global_step=89715, episodic_return=[7.0300837], success_rate=0.0
+global_step=89915, episodic_return=[2.6723914], success_rate=0.0
+SPS: 90
+global_step=90115, episodic_return=[4.82095], success_rate=0.0
+global_step=90315, episodic_return=[6.985307], success_rate=0.0
+global_step=90515, episodic_return=[4.212175], success_rate=0.0
+global_step=90715, episodic_return=[3.0593607], success_rate=0.0
+global_step=90915, episodic_return=[4.3406982], success_rate=0.0
+global_step=91115, episodic_return=[3.2969368], success_rate=0.0
+global_step=91315, episodic_return=[2.1660798], success_rate=0.0
+global_step=91515, episodic_return=[1.9699788], success_rate=0.0
+global_step=91715, episodic_return=[2.7969887], success_rate=0.0
+global_step=91915, episodic_return=[1.9015276], success_rate=0.0
+global_step=92115, episodic_return=[4.0281754], success_rate=0.0
+KL Divergence (0.015227596275508404) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=92315, episodic_return=[5.900185], success_rate=0.0
+global_step=92515, episodic_return=[7.217821], success_rate=0.0
+global_step=92715, episodic_return=[1.852336], success_rate=0.0
+global_step=92915, episodic_return=[1.7566661], success_rate=0.0
+global_step=93115, episodic_return=[2.9043798], success_rate=0.0
+global_step=93315, episodic_return=[2.8488574], success_rate=0.0
+global_step=93515, episodic_return=[7.034513], success_rate=0.0
+global_step=93715, episodic_return=[4.963848], success_rate=0.0
+global_step=93915, episodic_return=[3.0494323], success_rate=0.0
+global_step=94115, episodic_return=[3.7572436], success_rate=0.0
+KL Divergence (0.015011396259069443) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=94315, episodic_return=[5.4647703], success_rate=0.0
+global_step=94515, episodic_return=[1.342106], success_rate=0.0
+global_step=94715, episodic_return=[1.5890037], success_rate=0.0
+global_step=94915, episodic_return=[5.428884], success_rate=0.0
+global_step=95115, episodic_return=[3.5138893], success_rate=0.0
+global_step=95315, episodic_return=[4.214168], success_rate=0.0
+global_step=95515, episodic_return=[1.952392], success_rate=0.0
+global_step=95715, episodic_return=[2.4513962], success_rate=0.0
+global_step=95915, episodic_return=[3.105704], success_rate=0.0
+global_step=96115, episodic_return=[1.7841797], success_rate=0.0
+KL Divergence (0.015044535510241985) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=96315, episodic_return=[4.2852287], success_rate=0.0
+global_step=96515, episodic_return=[2.7751093], success_rate=0.0
+global_step=96715, episodic_return=[2.1576781], success_rate=0.0
+global_step=96915, episodic_return=[2.5912611], success_rate=0.0
+global_step=97115, episodic_return=[7.2729836], success_rate=0.0
+global_step=97315, episodic_return=[1.6414367], success_rate=0.0
+global_step=97515, episodic_return=[3.6523438], success_rate=0.0
+global_step=97715, episodic_return=[2.0255768], success_rate=0.0
+global_step=97915, episodic_return=[1.9395624], success_rate=0.0
+global_step=98115, episodic_return=[5.514245], success_rate=0.0
+KL Divergence (0.015270045027136803) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=98315, episodic_return=[2.3833628], success_rate=0.0
+global_step=98515, episodic_return=[1.4001992], success_rate=0.0
+global_step=98715, episodic_return=[1.89963], success_rate=0.0
+global_step=98915, episodic_return=[6.3071785], success_rate=0.0
+global_step=99115, episodic_return=[7.3142953], success_rate=0.0
+global_step=99315, episodic_return=[1.9526514], success_rate=0.0
+global_step=99515, episodic_return=[7.2211766], success_rate=0.0
+global_step=99715, episodic_return=[1.7171569], success_rate=0.0
+global_step=99915, episodic_return=[2.228037], success_rate=0.0
+global_step=100115, episodic_return=[4.799812], success_rate=0.0
+global_step=100315, episodic_return=[2.3021705], success_rate=0.0
+SPS: 90
+global_step=100515, episodic_return=[4.998034], success_rate=0.0
+global_step=100715, episodic_return=[6.3607316], success_rate=0.0
+global_step=100915, episodic_return=[2.4841359], success_rate=0.0
+global_step=101115, episodic_return=[4.629864], success_rate=0.0
+global_step=101315, episodic_return=[4.0553503], success_rate=0.0
+global_step=101515, episodic_return=[6.4440866], success_rate=0.0
+global_step=101715, episodic_return=[3.3660536], success_rate=0.0
+global_step=101915, episodic_return=[1.6363958], success_rate=0.0
+global_step=102115, episodic_return=[5.5803], success_rate=0.0
+global_step=102315, episodic_return=[4.2735224], success_rate=0.0
+KL Divergence (0.015057414770126343) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=102515, episodic_return=[5.8168707], success_rate=0.0
+global_step=102715, episodic_return=[5.5689135], success_rate=0.0
+global_step=102915, episodic_return=[1.830362], success_rate=0.0
+global_step=103115, episodic_return=[3.2175176], success_rate=0.0
+global_step=103315, episodic_return=[2.9327278], success_rate=0.0
+global_step=103515, episodic_return=[2.606327], success_rate=0.0
+global_step=103715, episodic_return=[5.0653014], success_rate=0.0
+global_step=103915, episodic_return=[6.81751], success_rate=0.0
+global_step=104115, episodic_return=[5.1878037], success_rate=0.0
+global_step=104315, episodic_return=[2.162113], success_rate=0.0
+KL Divergence (0.01536272931843996) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=104515, episodic_return=[3.3563485], success_rate=0.0
+global_step=104715, episodic_return=[3.89121], success_rate=0.0
+global_step=104915, episodic_return=[1.2686523], success_rate=0.0
+global_step=105115, episodic_return=[1.7088927], success_rate=0.0
+global_step=105315, episodic_return=[2.9396355], success_rate=0.0
+global_step=105515, episodic_return=[2.9836428], success_rate=0.0
+global_step=105715, episodic_return=[6.007232], success_rate=0.0
+global_step=105915, episodic_return=[2.202719], success_rate=0.0
+global_step=106115, episodic_return=[2.2372482], success_rate=0.0
+global_step=106315, episodic_return=[3.262093], success_rate=0.0
+KL Divergence (0.015145954675972462) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=106515, episodic_return=[3.287743], success_rate=0.0
+global_step=106715, episodic_return=[4.1599035], success_rate=0.0
+global_step=106915, episodic_return=[1.7583147], success_rate=0.0
+global_step=107115, episodic_return=[2.8534863], success_rate=0.0
+global_step=107315, episodic_return=[4.4902797], success_rate=0.0
+global_step=107515, episodic_return=[3.0135612], success_rate=0.0
+global_step=107715, episodic_return=[2.0119102], success_rate=0.0
+global_step=107915, episodic_return=[4.225991], success_rate=0.0
+global_step=108115, episodic_return=[1.6845148], success_rate=0.0
+global_step=108315, episodic_return=[5.72204], success_rate=0.0
+global_step=108515, episodic_return=[5.9108253], success_rate=0.0
+KL Divergence (0.015154717490077019) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=108715, episodic_return=[3.3824139], success_rate=0.0
+global_step=108915, episodic_return=[4.063381], success_rate=0.0
+global_step=109115, episodic_return=[1.6604893], success_rate=0.0
+global_step=109315, episodic_return=[3.1667604], success_rate=0.0
+global_step=109515, episodic_return=[4.9047575], success_rate=0.0
+global_step=109715, episodic_return=[5.8799753], success_rate=0.0
+global_step=109915, episodic_return=[7.341314], success_rate=0.0
+global_step=110115, episodic_return=[3.1343205], success_rate=0.0
+global_step=110315, episodic_return=[5.7924542], success_rate=0.0
+global_step=110515, episodic_return=[7.1926756], success_rate=0.0
+KL Divergence (0.015330614522099495) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=110715, episodic_return=[4.5098286], success_rate=0.0
+global_step=110915, episodic_return=[3.0935411], success_rate=0.0
+global_step=111115, episodic_return=[4.400995], success_rate=0.0
+global_step=111315, episodic_return=[1.5892012], success_rate=0.0
+global_step=111515, episodic_return=[3.3000636], success_rate=0.0
+global_step=111715, episodic_return=[3.8549972], success_rate=0.0
+global_step=111915, episodic_return=[4.291746], success_rate=0.0
+global_step=112115, episodic_return=[6.9786897], success_rate=0.0
+global_step=112315, episodic_return=[2.385163], success_rate=0.0
+global_step=112515, episodic_return=[5.6229076], success_rate=0.0
+KL Divergence (0.015007332898676395) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=112715, episodic_return=[2.7575085], success_rate=0.0
+global_step=112915, episodic_return=[1.7098674], success_rate=0.0
+global_step=113115, episodic_return=[4.4507003], success_rate=0.0
+global_step=113315, episodic_return=[3.71318], success_rate=0.0
+global_step=113515, episodic_return=[7.2280574], success_rate=0.0
+global_step=113715, episodic_return=[4.2414], success_rate=0.0
+global_step=113915, episodic_return=[6.5786185], success_rate=0.0
+global_step=114115, episodic_return=[1.8255051], success_rate=0.0
+global_step=114315, episodic_return=[5.5431604], success_rate=0.0
+global_step=114515, episodic_return=[4.5347185], success_rate=0.0
+KL Divergence (0.016133563593029976) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=114715, episodic_return=[3.9562979], success_rate=0.0
+global_step=114915, episodic_return=[2.5673645], success_rate=0.0
+global_step=115115, episodic_return=[1.6370976], success_rate=0.0
+global_step=115315, episodic_return=[4.4481974], success_rate=0.0
+global_step=115515, episodic_return=[2.1461763], success_rate=0.0
+global_step=115715, episodic_return=[6.7291303], success_rate=0.0
+global_step=115915, episodic_return=[1.849281], success_rate=0.0
+global_step=116115, episodic_return=[1.70058], success_rate=0.0
+global_step=116315, episodic_return=[5.3494186], success_rate=0.0
+global_step=116515, episodic_return=[8.468364], success_rate=0.0
+global_step=116715, episodic_return=[2.1766784], success_rate=0.0
+SPS: 90
+global_step=116915, episodic_return=[1.5607184], success_rate=0.0
+global_step=117115, episodic_return=[7.3585906], success_rate=0.0
+global_step=117315, episodic_return=[4.3055344], success_rate=0.0
+global_step=117515, episodic_return=[9.07953], success_rate=0.0
+global_step=117715, episodic_return=[3.689476], success_rate=0.0
+global_step=117915, episodic_return=[2.456954], success_rate=0.0
+global_step=118115, episodic_return=[3.1427479], success_rate=0.0
+global_step=118315, episodic_return=[3.6709826], success_rate=0.0
+global_step=118515, episodic_return=[2.7496045], success_rate=0.0
+global_step=118715, episodic_return=[4.2778535], success_rate=0.0
+KL Divergence (0.015428755432367325) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=118915, episodic_return=[1.2589896], success_rate=0.0
+global_step=119115, episodic_return=[5.8639393], success_rate=0.0
+global_step=119315, episodic_return=[5.738083], success_rate=0.0
+global_step=119515, episodic_return=[2.0216436], success_rate=0.0
+global_step=119715, episodic_return=[4.2732406], success_rate=0.0
+global_step=119915, episodic_return=[1.7446735], success_rate=0.0
+global_step=120115, episodic_return=[2.6983836], success_rate=0.0
+global_step=120315, episodic_return=[2.7739074], success_rate=0.0
+global_step=120515, episodic_return=[2.612383], success_rate=0.0
+global_step=120715, episodic_return=[3.1498315], success_rate=0.0
+SPS: 90
+global_step=120915, episodic_return=[5.309115], success_rate=0.0
+global_step=121115, episodic_return=[2.4982383], success_rate=0.0
+global_step=121315, episodic_return=[3.5716398], success_rate=0.0
+global_step=121515, episodic_return=[4.3006234], success_rate=0.0
+global_step=121715, episodic_return=[3.9229107], success_rate=0.0
+global_step=121915, episodic_return=[3.4085922], success_rate=0.0
+global_step=122115, episodic_return=[2.4318926], success_rate=0.0
+global_step=122315, episodic_return=[2.125855], success_rate=0.0
+global_step=122515, episodic_return=[2.791481], success_rate=0.0
+global_step=122715, episodic_return=[5.9077444], success_rate=0.0
+SPS: 90
+global_step=122915, episodic_return=[3.583985], success_rate=0.0
+global_step=123115, episodic_return=[2.0690982], success_rate=0.0
+global_step=123315, episodic_return=[3.4323218], success_rate=0.0
+global_step=123515, episodic_return=[3.38556], success_rate=0.0
+global_step=123715, episodic_return=[2.0926862], success_rate=0.0
+global_step=123915, episodic_return=[2.0918424], success_rate=0.0
+global_step=124115, episodic_return=[2.0679011], success_rate=0.0
+global_step=124315, episodic_return=[3.054472], success_rate=0.0
+global_step=124515, episodic_return=[6.4562154], success_rate=0.0
+global_step=124715, episodic_return=[2.2842977], success_rate=0.0
+global_step=124915, episodic_return=[3.7972362], success_rate=0.0
+KL Divergence (0.015041125938296318) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=125115, episodic_return=[5.8616743], success_rate=0.0
+global_step=125315, episodic_return=[8.724992], success_rate=0.0
+global_step=125515, episodic_return=[7.4454737], success_rate=0.0
+global_step=125715, episodic_return=[1.7189889], success_rate=0.0
+global_step=125915, episodic_return=[2.5938487], success_rate=0.0
+global_step=126115, episodic_return=[6.7975154], success_rate=0.0
+global_step=126315, episodic_return=[4.56127], success_rate=0.0
+global_step=126515, episodic_return=[5.7244043], success_rate=0.0
+global_step=126715, episodic_return=[8.325458], success_rate=0.0
+global_step=126915, episodic_return=[4.3681083], success_rate=0.0
+SPS: 90
+global_step=127115, episodic_return=[8.883844], success_rate=0.0
+global_step=127315, episodic_return=[3.0451233], success_rate=0.0
+global_step=127515, episodic_return=[2.339257], success_rate=0.0
+global_step=127715, episodic_return=[5.0013], success_rate=0.0
+global_step=127915, episodic_return=[6.428435], success_rate=0.0
+global_step=128115, episodic_return=[2.1822844], success_rate=0.0
+global_step=128315, episodic_return=[1.3486078], success_rate=0.0
+global_step=128515, episodic_return=[1.547856], success_rate=0.0
+global_step=128715, episodic_return=[6.1757298], success_rate=0.0
+global_step=128915, episodic_return=[2.587335], success_rate=0.0
+SPS: 90
+global_step=129115, episodic_return=[5.713648], success_rate=0.0
+global_step=129315, episodic_return=[2.8263438], success_rate=0.0
+global_step=129515, episodic_return=[8.262433], success_rate=0.0
+global_step=129715, episodic_return=[4.7556906], success_rate=0.0
+global_step=129915, episodic_return=[2.4274302], success_rate=0.0
+global_step=130115, episodic_return=[4.249279], success_rate=0.0
+global_step=130315, episodic_return=[2.05205], success_rate=0.0
+global_step=130515, episodic_return=[1.5810033], success_rate=0.0
+global_step=130715, episodic_return=[2.946169], success_rate=0.0
+global_step=130915, episodic_return=[3.0031388], success_rate=0.0
+KL Divergence (0.01555401086807251) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=131115, episodic_return=[6.4438534], success_rate=0.0
+global_step=131315, episodic_return=[3.197535], success_rate=0.0
+global_step=131515, episodic_return=[2.865035], success_rate=0.0
+global_step=131715, episodic_return=[1.5181962], success_rate=0.0
+global_step=131915, episodic_return=[2.7404962], success_rate=0.0
+global_step=132115, episodic_return=[6.7146707], success_rate=0.0
+global_step=132315, episodic_return=[5.3024993], success_rate=0.0
+global_step=132515, episodic_return=[2.3989859], success_rate=0.0
+global_step=132715, episodic_return=[5.476819], success_rate=0.0
+global_step=132915, episodic_return=[3.6603217], success_rate=0.0
+global_step=133115, episodic_return=[6.691344], success_rate=0.0
+SPS: 90
+global_step=133315, episodic_return=[2.2549245], success_rate=0.0
+global_step=133515, episodic_return=[3.1876266], success_rate=0.0
+global_step=133715, episodic_return=[3.4045818], success_rate=0.0
+global_step=133915, episodic_return=[1.8216531], success_rate=0.0
+global_step=134115, episodic_return=[1.6588748], success_rate=0.0
+global_step=134315, episodic_return=[5.5612187], success_rate=0.0
+global_step=134515, episodic_return=[2.653266], success_rate=0.0
+global_step=134715, episodic_return=[4.2574453], success_rate=0.0
+global_step=134915, episodic_return=[2.519541], success_rate=0.0
+global_step=135115, episodic_return=[2.9856098], success_rate=0.0
+KL Divergence (0.015101911500096321) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=135315, episodic_return=[3.561387], success_rate=0.0
+global_step=135515, episodic_return=[6.2403584], success_rate=0.0
+global_step=135715, episodic_return=[1.5607922], success_rate=0.0
+global_step=135915, episodic_return=[7.15927], success_rate=0.0
+global_step=136115, episodic_return=[2.355641], success_rate=0.0
+global_step=136315, episodic_return=[7.425879], success_rate=0.0
+global_step=136515, episodic_return=[5.513304], success_rate=0.0
+global_step=136715, episodic_return=[4.145133], success_rate=0.0
+global_step=136915, episodic_return=[7.988963], success_rate=0.0
+global_step=137115, episodic_return=[5.0650263], success_rate=0.0
+SPS: 90
+global_step=137315, episodic_return=[2.9469311], success_rate=0.0
+global_step=137515, episodic_return=[4.4327335], success_rate=0.0
+global_step=137715, episodic_return=[3.3414924], success_rate=0.0
+global_step=137915, episodic_return=[3.1798193], success_rate=0.0
+global_step=138115, episodic_return=[2.2611961], success_rate=0.0
+global_step=138315, episodic_return=[7.6010327], success_rate=0.0
+global_step=138515, episodic_return=[2.9843125], success_rate=0.0
+global_step=138715, episodic_return=[6.148163], success_rate=0.0
+global_step=138915, episodic_return=[4.7412734], success_rate=0.0
+global_step=139115, episodic_return=[8.381648], success_rate=0.0
+SPS: 90
+global_step=139315, episodic_return=[2.3366177], success_rate=0.0
+global_step=139515, episodic_return=[1.634035], success_rate=0.0
+global_step=139715, episodic_return=[6.1985865], success_rate=0.0
+global_step=139915, episodic_return=[3.1893668], success_rate=0.0
+global_step=140115, episodic_return=[4.899358], success_rate=0.0
+global_step=140315, episodic_return=[4.6282883], success_rate=0.0
+global_step=140515, episodic_return=[2.922889], success_rate=0.0
+global_step=140715, episodic_return=[2.5539074], success_rate=0.0
+global_step=140915, episodic_return=[2.0817552], success_rate=0.0
+global_step=141115, episodic_return=[4.260956], success_rate=0.0
+KL Divergence (0.015330632217228413) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=141315, episodic_return=[2.2546768], success_rate=0.0
+global_step=141515, episodic_return=[5.9732566], success_rate=0.0
+global_step=141715, episodic_return=[2.3315108], success_rate=0.0
+global_step=141915, episodic_return=[4.068216], success_rate=0.0
+global_step=142115, episodic_return=[5.101795], success_rate=0.0
+global_step=142315, episodic_return=[8.644092], success_rate=0.0
+global_step=142515, episodic_return=[5.981859], success_rate=0.0
+global_step=142715, episodic_return=[2.3852131], success_rate=0.0
+global_step=142915, episodic_return=[5.9283195], success_rate=0.0
+global_step=143115, episodic_return=[2.5358891], success_rate=0.0
+global_step=143315, episodic_return=[7.7557573], success_rate=0.0
+KL Divergence (0.015085563063621521) exceeded threshold (0.015). Early stopping.
+SPS: 90
+global_step=143515, episodic_return=[1.5671413], success_rate=0.0
+global_step=143715, episodic_return=[8.116744], success_rate=0.0
+global_step=143915, episodic_return=[2.603915], success_rate=0.0
+global_step=144115, episodic_return=[2.0971615], success_rate=0.0
+global_step=144315, episodic_return=[6.753453], success_rate=0.0
+global_step=144515, episodic_return=[2.9234395], success_rate=0.0
+global_step=144715, episodic_return=[6.3966374], success_rate=0.0
+global_step=144915, episodic_return=[2.0680656], success_rate=0.0
+global_step=145115, episodic_return=[5.4043818], success_rate=0.0
+global_step=145315, episodic_return=[2.8087792], success_rate=0.0
+SPS: 90
+global_step=145515, episodic_return=[2.4811633], success_rate=0.0
+global_step=145715, episodic_return=[2.7728965], success_rate=0.0
+global_step=145915, episodic_return=[4.1875744], success_rate=0.0
+global_step=146115, episodic_return=[5.1921597], success_rate=0.0
+global_step=146315, episodic_return=[5.281664], success_rate=0.0
+global_step=146515, episodic_return=[3.128327], success_rate=0.0
+global_step=146715, episodic_return=[6.2201605], success_rate=0.0
+global_step=146915, episodic_return=[4.415222], success_rate=0.0
+global_step=147115, episodic_return=[4.0914187], success_rate=0.0
+global_step=147315, episodic_return=[2.6397412], success_rate=0.0
+SPS: 91
+global_step=147515, episodic_return=[5.2660823], success_rate=0.0
+global_step=147715, episodic_return=[5.465435], success_rate=0.0
+global_step=147915, episodic_return=[4.275613], success_rate=0.0
+global_step=148115, episodic_return=[4.848055], success_rate=0.0
+global_step=148315, episodic_return=[2.9650607], success_rate=0.0
+global_step=148515, episodic_return=[4.2822337], success_rate=0.0
+global_step=148715, episodic_return=[2.2531638], success_rate=0.0
+global_step=148915, episodic_return=[2.1293104], success_rate=0.0
+global_step=149115, episodic_return=[3.5187204], success_rate=0.0
+global_step=149315, episodic_return=[4.4832015], success_rate=0.0
+SPS: 91
+global_step=149515, episodic_return=[5.017946], success_rate=0.0
+global_step=149715, episodic_return=[4.32618], success_rate=0.0
+global_step=149915, episodic_return=[4.8949986], success_rate=0.0
+global_step=150115, episodic_return=[6.332816], success_rate=0.0
+global_step=150315, episodic_return=[2.7666981], success_rate=0.0
+global_step=150515, episodic_return=[6.3769703], success_rate=0.0
+global_step=150715, episodic_return=[4.378139], success_rate=0.0
+global_step=150915, episodic_return=[3.2973065], success_rate=0.0
+global_step=151115, episodic_return=[2.99733], success_rate=0.0
+global_step=151315, episodic_return=[3.952986], success_rate=0.0
+global_step=151515, episodic_return=[2.336051], success_rate=0.0
+SPS: 91
+global_step=151715, episodic_return=[3.3881671], success_rate=0.0
+global_step=151915, episodic_return=[2.1735387], success_rate=0.0
+global_step=152115, episodic_return=[5.1944532], success_rate=0.0
+global_step=152315, episodic_return=[3.1081586], success_rate=0.0
+global_step=152515, episodic_return=[4.698018], success_rate=0.0
+global_step=152715, episodic_return=[2.6687582], success_rate=0.0
+global_step=152915, episodic_return=[2.6972132], success_rate=0.0
+global_step=153115, episodic_return=[4.137373], success_rate=0.0
+global_step=153315, episodic_return=[4.425534], success_rate=0.0
+global_step=153515, episodic_return=[2.7113388], success_rate=0.0
+KL Divergence (0.015035172924399376) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=153715, episodic_return=[4.304384], success_rate=0.0
+global_step=153915, episodic_return=[1.4357915], success_rate=0.0
+global_step=154115, episodic_return=[3.9060524], success_rate=0.0
+global_step=154315, episodic_return=[6.5063033], success_rate=0.0
+global_step=154515, episodic_return=[6.785468], success_rate=0.0
+global_step=154715, episodic_return=[2.8839977], success_rate=0.0
+global_step=154915, episodic_return=[3.2012384], success_rate=0.0
+global_step=155115, episodic_return=[6.2484775], success_rate=0.0
+global_step=155315, episodic_return=[4.056053], success_rate=0.0
+global_step=155515, episodic_return=[4.882474], success_rate=0.0
+SPS: 91
+global_step=155715, episodic_return=[2.2319589], success_rate=0.0
+global_step=155915, episodic_return=[2.6647546], success_rate=0.0
+global_step=156115, episodic_return=[8.89888], success_rate=0.0
+global_step=156315, episodic_return=[8.324748], success_rate=0.0
+global_step=156515, episodic_return=[8.003717], success_rate=0.0
+global_step=156715, episodic_return=[2.5517714], success_rate=0.0
+global_step=156915, episodic_return=[4.1486397], success_rate=0.0
+global_step=157115, episodic_return=[6.2510934], success_rate=0.0
+global_step=157315, episodic_return=[7.55666], success_rate=0.0
+global_step=157515, episodic_return=[7.1677094], success_rate=0.0
+SPS: 91
+global_step=157715, episodic_return=[6.450124], success_rate=0.0
+global_step=157915, episodic_return=[5.2604127], success_rate=0.0
+global_step=158115, episodic_return=[4.767441], success_rate=0.0
+global_step=158315, episodic_return=[1.804529], success_rate=0.0
+global_step=158515, episodic_return=[3.7048092], success_rate=0.0
+global_step=158715, episodic_return=[1.8230847], success_rate=0.0
+global_step=158915, episodic_return=[3.193657], success_rate=0.0
+global_step=159115, episodic_return=[3.3657982], success_rate=0.0
+global_step=159315, episodic_return=[5.5597296], success_rate=0.0
+global_step=159515, episodic_return=[2.7571974], success_rate=0.0
+global_step=159715, episodic_return=[3.314774], success_rate=0.0
+SPS: 91
+global_step=159915, episodic_return=[3.209481], success_rate=0.0
+global_step=160115, episodic_return=[6.566195], success_rate=0.0
+global_step=160315, episodic_return=[4.3817525], success_rate=0.0
+global_step=160515, episodic_return=[6.8514886], success_rate=0.0
+global_step=160715, episodic_return=[9.230808], success_rate=0.0
+global_step=160915, episodic_return=[4.3243513], success_rate=0.0
+global_step=161115, episodic_return=[1.7601509], success_rate=0.0
+global_step=161315, episodic_return=[3.4687502], success_rate=0.0
+global_step=161515, episodic_return=[7.312033], success_rate=0.0
+global_step=161715, episodic_return=[5.284395], success_rate=0.0
+SPS: 91
+global_step=161915, episodic_return=[2.0059774], success_rate=0.0
+global_step=162115, episodic_return=[8.660961], success_rate=0.0
+global_step=162315, episodic_return=[2.8027136], success_rate=0.0
+global_step=162515, episodic_return=[2.400733], success_rate=0.0
+global_step=162715, episodic_return=[2.382869], success_rate=0.0
+global_step=162915, episodic_return=[4.3426924], success_rate=0.0
+global_step=163115, episodic_return=[2.601328], success_rate=0.0
+global_step=163315, episodic_return=[3.878108], success_rate=0.0
+global_step=163515, episodic_return=[7.56711], success_rate=0.0
+global_step=163715, episodic_return=[2.7782896], success_rate=0.0
+SPS: 91
+global_step=163915, episodic_return=[4.7631707], success_rate=0.0
+global_step=164115, episodic_return=[3.4547422], success_rate=0.0
+global_step=164315, episodic_return=[4.915618], success_rate=0.0
+global_step=164515, episodic_return=[4.642663], success_rate=0.0
+global_step=164715, episodic_return=[2.4689686], success_rate=0.0
+global_step=164915, episodic_return=[2.1535733], success_rate=0.0
+global_step=165115, episodic_return=[2.1390483], success_rate=0.0
+global_step=165315, episodic_return=[3.6053543], success_rate=0.0
+global_step=165515, episodic_return=[7.4263453], success_rate=0.0
+global_step=165715, episodic_return=[1.9781312], success_rate=0.0
+KL Divergence (0.015016156248748302) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=165915, episodic_return=[2.1173444], success_rate=0.0
+global_step=166115, episodic_return=[7.415051], success_rate=0.0
+global_step=166315, episodic_return=[5.33811], success_rate=0.0
+global_step=166515, episodic_return=[4.1620626], success_rate=0.0
+global_step=166715, episodic_return=[2.962271], success_rate=0.0
+global_step=166915, episodic_return=[2.5938983], success_rate=0.0
+global_step=167115, episodic_return=[7.7579637], success_rate=0.0
+global_step=167315, episodic_return=[2.05668], success_rate=0.0
+global_step=167515, episodic_return=[3.0858502], success_rate=0.0
+global_step=167715, episodic_return=[6.214876], success_rate=0.0
+global_step=167915, episodic_return=[5.538239], success_rate=0.0
+KL Divergence (0.015550022944808006) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=168115, episodic_return=[4.8348093], success_rate=0.0
+global_step=168315, episodic_return=[4.0428443], success_rate=0.0
+global_step=168515, episodic_return=[3.6015103], success_rate=0.0
+global_step=168715, episodic_return=[3.1212184], success_rate=0.0
+global_step=168915, episodic_return=[4.1413326], success_rate=0.0
+global_step=169115, episodic_return=[2.1807866], success_rate=0.0
+global_step=169315, episodic_return=[2.1201239], success_rate=0.0
+global_step=169515, episodic_return=[3.977421], success_rate=0.0
+global_step=169715, episodic_return=[2.6821349], success_rate=0.0
+global_step=169915, episodic_return=[7.338554], success_rate=0.0
+KL Divergence (0.01528819277882576) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=170115, episodic_return=[2.4413478], success_rate=0.0
+global_step=170315, episodic_return=[6.172106], success_rate=0.0
+global_step=170515, episodic_return=[8.790778], success_rate=0.0
+global_step=170715, episodic_return=[2.7775934], success_rate=0.0
+global_step=170915, episodic_return=[3.8396068], success_rate=0.0
+global_step=171115, episodic_return=[3.7720957], success_rate=0.0
+global_step=171315, episodic_return=[4.7158475], success_rate=0.0
+global_step=171515, episodic_return=[3.726209], success_rate=0.0
+global_step=171715, episodic_return=[3.7056313], success_rate=0.0
+global_step=171915, episodic_return=[4.049738], success_rate=0.0
+KL Divergence (0.015194760635495186) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=172115, episodic_return=[1.8250788], success_rate=0.0
+global_step=172315, episodic_return=[8.764223], success_rate=0.0
+global_step=172515, episodic_return=[6.265617], success_rate=0.0
+global_step=172715, episodic_return=[9.203639], success_rate=0.0
+global_step=172915, episodic_return=[2.0049787], success_rate=0.0
+global_step=173115, episodic_return=[4.1582627], success_rate=0.0
+global_step=173315, episodic_return=[8.16508], success_rate=0.0
+global_step=173515, episodic_return=[7.6002336], success_rate=0.0
+global_step=173715, episodic_return=[2.472934], success_rate=0.0
+global_step=173915, episodic_return=[3.7268934], success_rate=0.0
+SPS: 91
+global_step=174115, episodic_return=[5.6429906], success_rate=0.0
+global_step=174315, episodic_return=[5.159832], success_rate=0.0
+global_step=174515, episodic_return=[2.079335], success_rate=0.0
+global_step=174715, episodic_return=[3.213909], success_rate=0.0
+global_step=174915, episodic_return=[5.474235], success_rate=0.0
+global_step=175115, episodic_return=[7.6755595], success_rate=0.0
+global_step=175315, episodic_return=[9.375659], success_rate=0.0
+global_step=175515, episodic_return=[5.8449564], success_rate=0.0
+global_step=175715, episodic_return=[2.1939118], success_rate=0.0
+global_step=175915, episodic_return=[10.086401], success_rate=0.0
+global_step=176115, episodic_return=[3.204971], success_rate=0.0
+KL Divergence (0.015331866219639778) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=176315, episodic_return=[2.2212677], success_rate=0.0
+global_step=176515, episodic_return=[4.5199704], success_rate=0.0
+global_step=176715, episodic_return=[3.8314204], success_rate=0.0
+global_step=176915, episodic_return=[10.269682], success_rate=0.0
+global_step=177115, episodic_return=[6.0751634], success_rate=0.0
+global_step=177315, episodic_return=[4.292002], success_rate=0.0
+global_step=177515, episodic_return=[7.947859], success_rate=0.0
+global_step=177715, episodic_return=[2.2001514], success_rate=0.0
+global_step=177915, episodic_return=[6.353719], success_rate=0.0
+global_step=178115, episodic_return=[3.360902], success_rate=0.0
+SPS: 91
+global_step=178315, episodic_return=[6.59877], success_rate=0.0
+global_step=178515, episodic_return=[2.27832], success_rate=0.0
+global_step=178715, episodic_return=[3.639024], success_rate=0.0
+global_step=178915, episodic_return=[3.1285684], success_rate=0.0
+global_step=179115, episodic_return=[4.270824], success_rate=0.0
+global_step=179315, episodic_return=[5.6312327], success_rate=0.0
+global_step=179515, episodic_return=[2.663872], success_rate=0.0
+global_step=179715, episodic_return=[3.1430643], success_rate=0.0
+global_step=179915, episodic_return=[3.874873], success_rate=0.0
+global_step=180115, episodic_return=[9.10615], success_rate=0.0
+KL Divergence (0.015009851194918156) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=180315, episodic_return=[7.679214], success_rate=0.0
+global_step=180515, episodic_return=[3.3883166], success_rate=0.0
+global_step=180715, episodic_return=[7.933888], success_rate=0.0
+global_step=180915, episodic_return=[5.103382], success_rate=0.0
+global_step=181115, episodic_return=[3.4582782], success_rate=0.0
+global_step=181315, episodic_return=[3.9006708], success_rate=0.0
+global_step=181515, episodic_return=[2.8955696], success_rate=0.0
+global_step=181715, episodic_return=[3.6765199], success_rate=0.0
+global_step=181915, episodic_return=[2.484739], success_rate=0.0
+global_step=182115, episodic_return=[2.5776222], success_rate=0.0
+SPS: 91
+global_step=182315, episodic_return=[2.7675035], success_rate=0.0
+global_step=182515, episodic_return=[6.2663007], success_rate=0.0
+global_step=182715, episodic_return=[2.6707156], success_rate=0.0
+global_step=182915, episodic_return=[4.0580425], success_rate=0.0
+global_step=183115, episodic_return=[7.778097], success_rate=0.0
+global_step=183315, episodic_return=[4.4084916], success_rate=0.0
+global_step=183515, episodic_return=[6.963206], success_rate=0.0
+global_step=183715, episodic_return=[5.828056], success_rate=0.0
+global_step=183915, episodic_return=[7.594912], success_rate=0.0
+global_step=184115, episodic_return=[2.5249138], success_rate=0.0
+global_step=184315, episodic_return=[4.219312], success_rate=0.0
+KL Divergence (0.015326796099543571) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=184515, episodic_return=[6.7932906], success_rate=0.0
+global_step=184715, episodic_return=[1.7338183], success_rate=0.0
+global_step=184915, episodic_return=[2.9957933], success_rate=0.0
+global_step=185115, episodic_return=[3.2513], success_rate=0.0
+global_step=185315, episodic_return=[3.6941533], success_rate=0.0
+global_step=185515, episodic_return=[4.631365], success_rate=0.0
+global_step=185715, episodic_return=[3.5495477], success_rate=0.0
+global_step=185915, episodic_return=[5.338463], success_rate=0.0
+global_step=186115, episodic_return=[3.5107958], success_rate=0.0
+global_step=186315, episodic_return=[3.9886315], success_rate=0.0
+SPS: 91
+global_step=186515, episodic_return=[3.4382236], success_rate=0.0
+global_step=186715, episodic_return=[5.7488894], success_rate=0.0
+global_step=186915, episodic_return=[3.4197404], success_rate=0.0
+global_step=187115, episodic_return=[2.6235855], success_rate=0.0
+global_step=187315, episodic_return=[4.4611077], success_rate=0.0
+global_step=187515, episodic_return=[5.8912573], success_rate=0.0
+global_step=187715, episodic_return=[4.3791633], success_rate=0.0
+global_step=187915, episodic_return=[3.6930656], success_rate=0.0
+global_step=188115, episodic_return=[5.164717], success_rate=0.0
+global_step=188315, episodic_return=[6.9506154], success_rate=0.0
+KL Divergence (0.015008125454187393) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=188515, episodic_return=[6.2759824], success_rate=0.0
+global_step=188715, episodic_return=[4.879982], success_rate=0.0
+global_step=188915, episodic_return=[1.7459601], success_rate=0.0
+global_step=189115, episodic_return=[3.6602943], success_rate=0.0
+global_step=189315, episodic_return=[5.783048], success_rate=0.0
+global_step=189515, episodic_return=[2.8124886], success_rate=0.0
+global_step=189715, episodic_return=[2.1454246], success_rate=0.0
+global_step=189915, episodic_return=[3.308874], success_rate=0.0
+global_step=190115, episodic_return=[3.8514566], success_rate=0.0
+global_step=190315, episodic_return=[3.5205073], success_rate=0.0
+SPS: 91
+global_step=190515, episodic_return=[6.81324], success_rate=0.0
+global_step=190715, episodic_return=[6.8322864], success_rate=0.0
+global_step=190915, episodic_return=[3.8490932], success_rate=0.0
+global_step=191115, episodic_return=[6.6391273], success_rate=0.0
+global_step=191315, episodic_return=[8.085548], success_rate=0.0
+global_step=191515, episodic_return=[2.5341566], success_rate=0.0
+global_step=191715, episodic_return=[2.9531002], success_rate=0.0
+global_step=191915, episodic_return=[3.230728], success_rate=0.0
+global_step=192115, episodic_return=[5.923631], success_rate=0.0
+global_step=192315, episodic_return=[3.3672643], success_rate=0.0
+SPS: 91
+global_step=192515, episodic_return=[4.8547773], success_rate=0.0
+global_step=192715, episodic_return=[3.8112383], success_rate=0.0
+global_step=192915, episodic_return=[3.3448293], success_rate=0.0
+global_step=193115, episodic_return=[2.7439342], success_rate=0.0
+global_step=193315, episodic_return=[4.233191], success_rate=0.0
+global_step=193515, episodic_return=[4.0504317], success_rate=0.0
+global_step=193715, episodic_return=[4.445343], success_rate=0.0
+global_step=193915, episodic_return=[2.2317517], success_rate=0.0
+global_step=194115, episodic_return=[4.255275], success_rate=0.0
+global_step=194315, episodic_return=[3.3679783], success_rate=0.0
+global_step=194515, episodic_return=[4.0744777], success_rate=0.0
+KL Divergence (0.015124515630304813) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=194715, episodic_return=[4.7103357], success_rate=0.0
+global_step=194915, episodic_return=[8.405919], success_rate=0.0
+global_step=195115, episodic_return=[5.9570074], success_rate=0.0
+global_step=195315, episodic_return=[2.6072955], success_rate=0.0
+global_step=195515, episodic_return=[3.900039], success_rate=0.0
+global_step=195715, episodic_return=[2.9718146], success_rate=0.0
+global_step=195915, episodic_return=[2.7723787], success_rate=0.0
+global_step=196115, episodic_return=[6.029402], success_rate=0.0
+global_step=196315, episodic_return=[8.059242], success_rate=0.0
+global_step=196515, episodic_return=[5.4414215], success_rate=0.0
+SPS: 91
+global_step=196715, episodic_return=[7.2906675], success_rate=0.0
+global_step=196915, episodic_return=[5.9630995], success_rate=0.0
+global_step=197115, episodic_return=[7.332702], success_rate=0.0
+global_step=197315, episodic_return=[5.433199], success_rate=0.0
+global_step=197515, episodic_return=[3.5298066], success_rate=0.0
+global_step=197715, episodic_return=[3.540423], success_rate=0.0
+global_step=197915, episodic_return=[3.4887853], success_rate=0.0
+global_step=198115, episodic_return=[3.6676517], success_rate=0.0
+global_step=198315, episodic_return=[2.8297803], success_rate=0.0
+global_step=198515, episodic_return=[3.824809], success_rate=0.0
+KL Divergence (0.015261939726769924) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=198715, episodic_return=[6.0624614], success_rate=0.0
+global_step=198915, episodic_return=[3.988944], success_rate=0.0
+global_step=199115, episodic_return=[5.9400024], success_rate=0.0
+global_step=199315, episodic_return=[2.6278563], success_rate=0.0
+global_step=199515, episodic_return=[4.3849254], success_rate=0.0
+global_step=199715, episodic_return=[4.092468], success_rate=0.0
+global_step=199915, episodic_return=[5.265], success_rate=0.0
+global_step=200115, episodic_return=[2.5680528], success_rate=0.0
+global_step=200315, episodic_return=[5.8599973], success_rate=0.0
+global_step=200515, episodic_return=[2.3471107], success_rate=0.0
+SPS: 91
+global_step=200715, episodic_return=[6.5796776], success_rate=0.0
+global_step=200915, episodic_return=[3.3277893], success_rate=0.0
+global_step=201115, episodic_return=[3.3832808], success_rate=0.0
+global_step=201315, episodic_return=[3.249211], success_rate=0.0
+global_step=201515, episodic_return=[3.0586286], success_rate=0.0
+global_step=201715, episodic_return=[7.9768987], success_rate=0.0
+global_step=201915, episodic_return=[1.840222], success_rate=0.0
+global_step=202115, episodic_return=[4.752056], success_rate=0.0
+global_step=202315, episodic_return=[8.799181], success_rate=0.0
+global_step=202515, episodic_return=[1.8206329], success_rate=0.0
+global_step=202715, episodic_return=[1.7740096], success_rate=0.0
+KL Divergence (0.015085382387042046) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=202915, episodic_return=[3.3322482], success_rate=0.0
+global_step=203115, episodic_return=[3.0126781], success_rate=0.0
+global_step=203315, episodic_return=[2.1685796], success_rate=0.0
+global_step=203515, episodic_return=[1.32339], success_rate=0.0
+global_step=203715, episodic_return=[6.154437], success_rate=0.0
+global_step=203915, episodic_return=[2.7020552], success_rate=0.0
+global_step=204115, episodic_return=[7.0767365], success_rate=0.0
+global_step=204315, episodic_return=[4.0198116], success_rate=0.0
+global_step=204515, episodic_return=[9.37476], success_rate=0.0
+global_step=204715, episodic_return=[3.1519148], success_rate=0.0
+SPS: 91
+global_step=204915, episodic_return=[2.7118447], success_rate=0.0
+global_step=205115, episodic_return=[3.3038483], success_rate=0.0
+global_step=205315, episodic_return=[5.465885], success_rate=0.0
+global_step=205515, episodic_return=[2.3239195], success_rate=0.0
+global_step=205715, episodic_return=[4.8791747], success_rate=0.0
+global_step=205915, episodic_return=[2.6159098], success_rate=0.0
+global_step=206115, episodic_return=[4.1217427], success_rate=0.0
+global_step=206315, episodic_return=[1.9465718], success_rate=0.0
+global_step=206515, episodic_return=[2.9458423], success_rate=0.0
+global_step=206715, episodic_return=[4.4351296], success_rate=0.0
+KL Divergence (0.01506582461297512) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=206915, episodic_return=[4.2071104], success_rate=0.0
+global_step=207115, episodic_return=[6.337584], success_rate=0.0
+global_step=207315, episodic_return=[2.6758463], success_rate=0.0
+global_step=207515, episodic_return=[4.153263], success_rate=0.0
+global_step=207715, episodic_return=[8.392232], success_rate=0.0
+global_step=207915, episodic_return=[2.797196], success_rate=0.0
+global_step=208115, episodic_return=[4.516126], success_rate=0.0
+global_step=208315, episodic_return=[6.6591544], success_rate=0.0
+global_step=208515, episodic_return=[8.134775], success_rate=0.0
+global_step=208715, episodic_return=[3.6546218], success_rate=0.0
+SPS: 91
+global_step=208915, episodic_return=[2.9501343], success_rate=0.0
+global_step=209115, episodic_return=[6.967977], success_rate=0.0
+global_step=209315, episodic_return=[2.6895926], success_rate=0.0
+global_step=209515, episodic_return=[3.977331], success_rate=0.0
+global_step=209715, episodic_return=[2.0957003], success_rate=0.0
+global_step=209915, episodic_return=[4.3856297], success_rate=0.0
+global_step=210115, episodic_return=[3.478797], success_rate=0.0
+global_step=210315, episodic_return=[2.794083], success_rate=0.0
+global_step=210515, episodic_return=[8.974817], success_rate=0.0
+global_step=210715, episodic_return=[2.8033555], success_rate=0.0
+global_step=210915, episodic_return=[2.3541756], success_rate=0.0
+SPS: 91
+global_step=211115, episodic_return=[2.6313837], success_rate=0.0
+global_step=211315, episodic_return=[5.4884944], success_rate=0.0
+global_step=211515, episodic_return=[3.7039633], success_rate=0.0
+global_step=211715, episodic_return=[5.01929], success_rate=0.0
+global_step=211915, episodic_return=[3.4538593], success_rate=0.0
+global_step=212115, episodic_return=[4.185935], success_rate=0.0
+global_step=212315, episodic_return=[8.900855], success_rate=0.0
+global_step=212515, episodic_return=[5.090174], success_rate=0.0
+global_step=212715, episodic_return=[4.446468], success_rate=0.0
+global_step=212915, episodic_return=[5.3254666], success_rate=0.0
+KL Divergence (0.015009989961981773) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=213115, episodic_return=[4.3643746], success_rate=0.0
+global_step=213315, episodic_return=[8.208772], success_rate=0.0
+global_step=213515, episodic_return=[2.7252295], success_rate=0.0
+global_step=213715, episodic_return=[5.2054787], success_rate=0.0
+global_step=213915, episodic_return=[8.834523], success_rate=0.0
+global_step=214115, episodic_return=[4.202963], success_rate=0.0
+global_step=214315, episodic_return=[8.347884], success_rate=0.0
+global_step=214515, episodic_return=[4.932621], success_rate=0.0
+global_step=214715, episodic_return=[6.799015], success_rate=0.0
+global_step=214915, episodic_return=[3.842957], success_rate=0.0
+KL Divergence (0.015382159501314163) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=215115, episodic_return=[8.917445], success_rate=0.0
+global_step=215315, episodic_return=[2.7970567], success_rate=0.0
+global_step=215515, episodic_return=[2.4360366], success_rate=0.0
+global_step=215715, episodic_return=[6.797999], success_rate=0.0
+global_step=215915, episodic_return=[4.0903335], success_rate=0.0
+global_step=216115, episodic_return=[4.5503173], success_rate=0.0
+global_step=216315, episodic_return=[5.669603], success_rate=0.0
+global_step=216515, episodic_return=[4.32201], success_rate=0.0
+global_step=216715, episodic_return=[3.3064358], success_rate=0.0
+global_step=216915, episodic_return=[2.7497554], success_rate=0.0
+SPS: 91
+global_step=217115, episodic_return=[1.6505758], success_rate=0.0
+global_step=217315, episodic_return=[4.415387], success_rate=0.0
+global_step=217515, episodic_return=[3.3285472], success_rate=0.0
+global_step=217715, episodic_return=[2.8995535], success_rate=0.0
+global_step=217915, episodic_return=[9.557261], success_rate=0.0
+global_step=218115, episodic_return=[2.0848908], success_rate=0.0
+global_step=218315, episodic_return=[3.526395], success_rate=0.0
+global_step=218515, episodic_return=[7.2516656], success_rate=0.0
+global_step=218715, episodic_return=[5.0360417], success_rate=0.0
+global_step=218915, episodic_return=[2.6823971], success_rate=0.0
+global_step=219115, episodic_return=[6.9921536], success_rate=0.0
+SPS: 91
+global_step=219315, episodic_return=[7.26917], success_rate=0.0
+global_step=219515, episodic_return=[4.988967], success_rate=0.0
+global_step=219715, episodic_return=[3.1057854], success_rate=0.0
+global_step=219915, episodic_return=[6.077281], success_rate=0.0
+global_step=220115, episodic_return=[9.374271], success_rate=0.0
+global_step=220315, episodic_return=[2.343501], success_rate=0.0
+global_step=220515, episodic_return=[2.7350843], success_rate=0.0
+global_step=220715, episodic_return=[2.631969], success_rate=0.0
+global_step=220915, episodic_return=[3.4468188], success_rate=0.0
+global_step=221115, episodic_return=[6.374799], success_rate=0.0
+KL Divergence (0.015025487169623375) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=221315, episodic_return=[2.2483194], success_rate=0.0
+global_step=221515, episodic_return=[6.783175], success_rate=0.0
+global_step=221715, episodic_return=[2.621081], success_rate=0.0
+global_step=221915, episodic_return=[4.937233], success_rate=0.0
+global_step=222115, episodic_return=[5.1170125], success_rate=0.0
+global_step=222315, episodic_return=[7.04016], success_rate=0.0
+global_step=222515, episodic_return=[6.428336], success_rate=0.0
+global_step=222715, episodic_return=[6.206861], success_rate=0.0
+global_step=222915, episodic_return=[5.681161], success_rate=0.0
+global_step=223115, episodic_return=[5.2693663], success_rate=0.0
+SPS: 91
+global_step=223315, episodic_return=[8.575843], success_rate=0.0
+global_step=223515, episodic_return=[4.372897], success_rate=0.0
+global_step=223715, episodic_return=[5.3108697], success_rate=0.0
+global_step=223915, episodic_return=[6.8037953], success_rate=0.0
+global_step=224115, episodic_return=[2.2043316], success_rate=0.0
+global_step=224315, episodic_return=[5.7868257], success_rate=0.0
+global_step=224515, episodic_return=[7.0234294], success_rate=0.0
+global_step=224715, episodic_return=[5.822345], success_rate=0.0
+global_step=224915, episodic_return=[3.261084], success_rate=0.0
+global_step=225115, episodic_return=[6.4318914], success_rate=0.0
+KL Divergence (0.01551896147429943) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=225315, episodic_return=[6.2110443], success_rate=0.0
+global_step=225515, episodic_return=[6.0648255], success_rate=0.0
+global_step=225715, episodic_return=[2.539765], success_rate=0.0
+global_step=225915, episodic_return=[4.1342845], success_rate=0.0
+global_step=226115, episodic_return=[2.4540956], success_rate=0.0
+global_step=226315, episodic_return=[2.6741474], success_rate=0.0
+global_step=226515, episodic_return=[3.6317809], success_rate=0.0
+global_step=226715, episodic_return=[2.992094], success_rate=0.0
+global_step=226915, episodic_return=[5.6555123], success_rate=0.0
+global_step=227115, episodic_return=[6.7704916], success_rate=0.0
+global_step=227315, episodic_return=[3.2407796], success_rate=0.0
+SPS: 91
+global_step=227515, episodic_return=[6.5765715], success_rate=0.0
+global_step=227715, episodic_return=[2.407741], success_rate=0.0
+global_step=227915, episodic_return=[4.1721864], success_rate=0.0
+global_step=228115, episodic_return=[7.853452], success_rate=0.0
+global_step=228315, episodic_return=[6.051351], success_rate=0.0
+global_step=228515, episodic_return=[2.93628], success_rate=0.0
+global_step=228715, episodic_return=[2.8255947], success_rate=0.0
+global_step=228915, episodic_return=[2.9382617], success_rate=0.0
+global_step=229115, episodic_return=[2.8700604], success_rate=0.0
+global_step=229315, episodic_return=[4.1503415], success_rate=0.0
+SPS: 91
+global_step=229515, episodic_return=[8.6052885], success_rate=0.0
+global_step=229715, episodic_return=[5.1518016], success_rate=0.0
+global_step=229915, episodic_return=[2.691551], success_rate=0.0
+global_step=230115, episodic_return=[2.5990942], success_rate=0.0
+global_step=230315, episodic_return=[6.2688622], success_rate=0.0
+global_step=230515, episodic_return=[4.3682475], success_rate=0.0
+global_step=230715, episodic_return=[4.187348], success_rate=0.0
+global_step=230915, episodic_return=[2.7315035], success_rate=0.0
+global_step=231115, episodic_return=[4.6183352], success_rate=0.0
+global_step=231315, episodic_return=[6.178352], success_rate=0.0
+SPS: 91
+global_step=231515, episodic_return=[5.137721], success_rate=0.0
+global_step=231715, episodic_return=[3.574825], success_rate=0.0
+global_step=231915, episodic_return=[3.1431684], success_rate=0.0
+global_step=232115, episodic_return=[3.668076], success_rate=0.0
+global_step=232315, episodic_return=[4.633442], success_rate=0.0
+global_step=232515, episodic_return=[6.5564523], success_rate=0.0
+global_step=232715, episodic_return=[3.9012375], success_rate=0.0
+global_step=232915, episodic_return=[4.134197], success_rate=0.0
+global_step=233115, episodic_return=[8.54676], success_rate=0.0
+global_step=233315, episodic_return=[4.2907157], success_rate=0.0
+SPS: 91
+global_step=233515, episodic_return=[7.6112347], success_rate=0.0
+global_step=233715, episodic_return=[2.1575847], success_rate=0.0
+global_step=233915, episodic_return=[6.6237316], success_rate=0.0
+global_step=234115, episodic_return=[7.2067327], success_rate=0.0
+global_step=234315, episodic_return=[3.2781692], success_rate=0.0
+global_step=234515, episodic_return=[2.837359], success_rate=0.0
+global_step=234715, episodic_return=[2.5388875], success_rate=0.0
+global_step=234915, episodic_return=[8.231654], success_rate=0.0
+global_step=235115, episodic_return=[6.6044335], success_rate=0.0
+global_step=235315, episodic_return=[6.150778], success_rate=0.0
+global_step=235515, episodic_return=[6.319977], success_rate=0.0
+SPS: 91
+global_step=235715, episodic_return=[2.9550583], success_rate=0.0
+global_step=235915, episodic_return=[5.693114], success_rate=0.0
+global_step=236115, episodic_return=[2.3780284], success_rate=0.0
+global_step=236315, episodic_return=[6.509014], success_rate=0.0
+global_step=236515, episodic_return=[4.0507364], success_rate=0.0
+global_step=236715, episodic_return=[6.3361473], success_rate=0.0
+global_step=236915, episodic_return=[5.475332], success_rate=0.0
+global_step=237115, episodic_return=[6.789867], success_rate=0.0
+global_step=237315, episodic_return=[4.1406665], success_rate=0.0
+global_step=237515, episodic_return=[1.950223], success_rate=0.0
+KL Divergence (0.01503492146730423) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=237715, episodic_return=[3.3652842], success_rate=0.0
+global_step=237915, episodic_return=[5.685125], success_rate=0.0
+global_step=238115, episodic_return=[10.359349], success_rate=0.0
+global_step=238315, episodic_return=[5.652053], success_rate=0.0
+global_step=238515, episodic_return=[7.012935], success_rate=0.0
+global_step=238715, episodic_return=[8.262785], success_rate=0.0
+global_step=238915, episodic_return=[6.4629], success_rate=0.0
+global_step=239115, episodic_return=[3.7142591], success_rate=0.0
+global_step=239315, episodic_return=[2.4773412], success_rate=0.0
+global_step=239515, episodic_return=[4.4919314], success_rate=0.0
+KL Divergence (0.015195337124168873) exceeded threshold (0.015). Early stopping.
+SPS: 91
+global_step=239715, episodic_return=[2.5001776], success_rate=0.0
+global_step=239915, episodic_return=[3.0154474], success_rate=0.0
+global_step=240115, episodic_return=[8.892956], success_rate=0.0
+global_step=240315, episodic_return=[4.0578356], success_rate=0.0
+global_step=240515, episodic_return=[7.627565], success_rate=0.0
+global_step=240715, episodic_return=[2.1034796], success_rate=0.0
+global_step=240915, episodic_return=[8.275112], success_rate=0.0
+global_step=241115, episodic_return=[2.6940682], success_rate=0.0
+global_step=241315, episodic_return=[3.909348], success_rate=0.0
+global_step=241515, episodic_return=[2.7980907], success_rate=0.0
+SPS: 91
+global_step=241715, episodic_return=[7.122272], success_rate=0.0
+global_step=241915, episodic_return=[5.1546755], success_rate=0.0
+global_step=242115, episodic_return=[8.866839], success_rate=0.0
+global_step=242315, episodic_return=[4.4460206], success_rate=0.0
+global_step=242515, episodic_return=[5.7100987], success_rate=0.0
+global_step=242715, episodic_return=[2.4631822], success_rate=0.0
+global_step=242915, episodic_return=[2.9445758], success_rate=0.0
+global_step=243115, episodic_return=[3.3885868], success_rate=0.0
+global_step=243315, episodic_return=[4.934043], success_rate=0.0
+global_step=243515, episodic_return=[3.3775373], success_rate=0.0
+SPS: 92
+global_step=243715, episodic_return=[7.7871995], success_rate=0.0
+global_step=243915, episodic_return=[7.1695447], success_rate=0.0
+global_step=244115, episodic_return=[4.723685], success_rate=0.0
+global_step=244315, episodic_return=[9.200984], success_rate=0.0
+global_step=244515, episodic_return=[4.213101], success_rate=0.0
+global_step=244715, episodic_return=[4.104405], success_rate=0.0
+global_step=244915, episodic_return=[5.2203236], success_rate=0.0
+global_step=245115, episodic_return=[2.8397872], success_rate=0.0
+global_step=245315, episodic_return=[4.953433], success_rate=0.0
+global_step=245515, episodic_return=[5.8722796], success_rate=0.0
+global_step=245715, episodic_return=[5.2437725], success_rate=0.0
+SPS: 92
+global_step=245915, episodic_return=[3.9984646], success_rate=0.0
+global_step=246115, episodic_return=[2.8765557], success_rate=0.0
+global_step=246315, episodic_return=[3.649964], success_rate=0.0
+global_step=246515, episodic_return=[3.3373704], success_rate=0.0
+global_step=246715, episodic_return=[6.394606], success_rate=0.0
+global_step=246915, episodic_return=[6.118425], success_rate=0.0
+global_step=247115, episodic_return=[1.4999555], success_rate=0.0
+global_step=247315, episodic_return=[2.011404], success_rate=0.0
+global_step=247515, episodic_return=[6.6773133], success_rate=0.0
+global_step=247715, episodic_return=[3.232562], success_rate=0.0
+SPS: 92
+global_step=247915, episodic_return=[9.960721], success_rate=0.0
+global_step=248115, episodic_return=[8.96011], success_rate=0.0
+global_step=248315, episodic_return=[9.246524], success_rate=0.0
+global_step=248515, episodic_return=[6.1149077], success_rate=0.0
+global_step=248715, episodic_return=[3.0784924], success_rate=0.0
+global_step=248915, episodic_return=[2.3389099], success_rate=0.0
+global_step=249115, episodic_return=[3.820881], success_rate=0.0
+global_step=249315, episodic_return=[6.5829244], success_rate=0.0
+global_step=249515, episodic_return=[6.5848074], success_rate=0.0
+global_step=249715, episodic_return=[3.4130518], success_rate=0.0
+SPS: 92
+global_step=249915, episodic_return=[3.9998143], success_rate=0.0
+global_step=250115, episodic_return=[8.007559], success_rate=0.0
+global_step=250315, episodic_return=[8.932614], success_rate=0.0
+global_step=250515, episodic_return=[4.503413], success_rate=0.0
+global_step=250715, episodic_return=[7.018032], success_rate=0.0
+global_step=250915, episodic_return=[4.57407], success_rate=0.0
+global_step=251115, episodic_return=[2.3776424], success_rate=0.0
+global_step=251315, episodic_return=[3.762891], success_rate=0.0
+global_step=251515, episodic_return=[1.9309638], success_rate=0.0
+global_step=251715, episodic_return=[3.85465], success_rate=0.0
+KL Divergence (0.015339948236942291) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=251915, episodic_return=[4.277718], success_rate=0.0
+global_step=252115, episodic_return=[1.6680102], success_rate=0.0
+global_step=252315, episodic_return=[8.881563], success_rate=0.0
+global_step=252515, episodic_return=[2.5321996], success_rate=0.0
+global_step=252715, episodic_return=[2.545126], success_rate=0.0
+global_step=252915, episodic_return=[5.239997], success_rate=0.0
+global_step=253115, episodic_return=[3.3203695], success_rate=0.0
+global_step=253315, episodic_return=[4.1650214], success_rate=0.0
+global_step=253515, episodic_return=[2.7255433], success_rate=0.0
+global_step=253715, episodic_return=[2.0253873], success_rate=0.0
+global_step=253915, episodic_return=[8.738122], success_rate=0.0
+KL Divergence (0.015285062603652477) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=254115, episodic_return=[2.961479], success_rate=0.0
+global_step=254315, episodic_return=[3.5869234], success_rate=0.0
+global_step=254515, episodic_return=[3.805928], success_rate=0.0
+global_step=254715, episodic_return=[4.888457], success_rate=0.0
+global_step=254915, episodic_return=[2.6980777], success_rate=0.0
+global_step=255115, episodic_return=[1.9527515], success_rate=0.0
+global_step=255315, episodic_return=[2.5820363], success_rate=0.0
+global_step=255515, episodic_return=[2.1790676], success_rate=0.0
+global_step=255715, episodic_return=[6.446485], success_rate=0.0
+global_step=255915, episodic_return=[7.626048], success_rate=0.0
+KL Divergence (0.01545216329395771) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=256115, episodic_return=[4.734994], success_rate=0.0
+global_step=256315, episodic_return=[3.084051], success_rate=0.0
+global_step=256515, episodic_return=[3.0431998], success_rate=0.0
+global_step=256715, episodic_return=[1.6257485], success_rate=0.0
+global_step=256915, episodic_return=[3.5281868], success_rate=0.0
+global_step=257115, episodic_return=[7.5868354], success_rate=0.0
+global_step=257315, episodic_return=[5.2529616], success_rate=0.0
+global_step=257515, episodic_return=[2.4583564], success_rate=0.0
+global_step=257715, episodic_return=[2.3724973], success_rate=0.0
+global_step=257915, episodic_return=[6.60873], success_rate=0.0
+SPS: 92
+global_step=258115, episodic_return=[3.7277572], success_rate=0.0
+global_step=258315, episodic_return=[8.473369], success_rate=0.0
+global_step=258515, episodic_return=[6.757444], success_rate=0.0
+global_step=258715, episodic_return=[2.6863205], success_rate=0.0
+global_step=258915, episodic_return=[5.2551713], success_rate=0.0
+global_step=259115, episodic_return=[2.9141116], success_rate=0.0
+global_step=259315, episodic_return=[3.9200392], success_rate=0.0
+global_step=259515, episodic_return=[3.5786142], success_rate=0.0
+global_step=259715, episodic_return=[7.7516284], success_rate=0.0
+global_step=259915, episodic_return=[5.587261], success_rate=0.0
+SPS: 92
+global_step=260115, episodic_return=[5.8550463], success_rate=0.0
+global_step=260315, episodic_return=[6.1215453], success_rate=0.0
+global_step=260515, episodic_return=[4.227944], success_rate=0.0
+global_step=260715, episodic_return=[7.2704334], success_rate=0.0
+global_step=260915, episodic_return=[3.4466372], success_rate=0.0
+global_step=261115, episodic_return=[8.902279], success_rate=0.0
+global_step=261315, episodic_return=[4.7118516], success_rate=0.0
+global_step=261515, episodic_return=[4.3756804], success_rate=0.0
+global_step=261715, episodic_return=[7.0578036], success_rate=0.0
+global_step=261915, episodic_return=[3.8919852], success_rate=0.0
+global_step=262115, episodic_return=[3.3908653], success_rate=0.0
+SPS: 92
+global_step=262315, episodic_return=[3.1599174], success_rate=0.0
+global_step=262515, episodic_return=[3.369008], success_rate=0.0
+global_step=262715, episodic_return=[2.651627], success_rate=0.0
+global_step=262915, episodic_return=[5.0488915], success_rate=0.0
+global_step=263115, episodic_return=[2.2736616], success_rate=0.0
+global_step=263315, episodic_return=[4.642623], success_rate=0.0
+global_step=263515, episodic_return=[2.8361535], success_rate=0.0
+global_step=263715, episodic_return=[2.6633532], success_rate=0.0
+global_step=263915, episodic_return=[2.8563974], success_rate=0.0
+global_step=264115, episodic_return=[2.5115967], success_rate=0.0
+SPS: 92
+global_step=264315, episodic_return=[4.465754], success_rate=0.0
+global_step=264515, episodic_return=[4.176803], success_rate=0.0
+global_step=264715, episodic_return=[8.728997], success_rate=0.0
+global_step=264915, episodic_return=[4.8649015], success_rate=0.0
+global_step=265115, episodic_return=[1.747099], success_rate=0.0
+global_step=265315, episodic_return=[10.046028], success_rate=0.0
+global_step=265515, episodic_return=[5.0511813], success_rate=0.0
+global_step=265715, episodic_return=[10.302369], success_rate=0.0
+global_step=265915, episodic_return=[3.9927676], success_rate=0.0
+global_step=266115, episodic_return=[3.3878775], success_rate=0.0
+SPS: 92
+global_step=266315, episodic_return=[8.622525], success_rate=0.0
+global_step=266515, episodic_return=[2.7248583], success_rate=0.0
+global_step=266715, episodic_return=[2.2892056], success_rate=0.0
+global_step=266915, episodic_return=[2.604241], success_rate=0.0
+global_step=267115, episodic_return=[5.289855], success_rate=0.0
+global_step=267315, episodic_return=[6.152047], success_rate=0.0
+global_step=267515, episodic_return=[4.600318], success_rate=0.0
+global_step=267715, episodic_return=[1.8684157], success_rate=0.0
+global_step=267915, episodic_return=[1.9865903], success_rate=0.0
+global_step=268115, episodic_return=[4.7466335], success_rate=0.0
+KL Divergence (0.015489832498133183) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=268315, episodic_return=[2.5412314], success_rate=0.0
+global_step=268515, episodic_return=[4.9327607], success_rate=0.0
+global_step=268715, episodic_return=[1.7687795], success_rate=0.0
+global_step=268915, episodic_return=[1.9321477], success_rate=0.0
+global_step=269115, episodic_return=[8.703725], success_rate=0.0
+global_step=269315, episodic_return=[4.298624], success_rate=0.0
+global_step=269515, episodic_return=[4.638624], success_rate=0.0
+global_step=269715, episodic_return=[2.044011], success_rate=0.0
+global_step=269915, episodic_return=[2.4857678], success_rate=0.0
+global_step=270115, episodic_return=[3.0877671], success_rate=0.0
+global_step=270315, episodic_return=[6.7755556], success_rate=0.0
+SPS: 92
+global_step=270515, episodic_return=[2.1383736], success_rate=0.0
+global_step=270715, episodic_return=[5.7748227], success_rate=0.0
+global_step=270915, episodic_return=[4.90246], success_rate=0.0
+global_step=271115, episodic_return=[3.023585], success_rate=0.0
+global_step=271315, episodic_return=[4.010094], success_rate=0.0
+global_step=271515, episodic_return=[8.971012], success_rate=0.0
+global_step=271715, episodic_return=[5.372972], success_rate=0.0
+global_step=271915, episodic_return=[1.7684717], success_rate=0.0
+global_step=272115, episodic_return=[2.9977632], success_rate=0.0
+global_step=272315, episodic_return=[3.4101315], success_rate=0.0
+SPS: 92
+global_step=272515, episodic_return=[9.734288], success_rate=0.0
+global_step=272715, episodic_return=[5.2259083], success_rate=0.0
+global_step=272915, episodic_return=[3.892948], success_rate=0.0
+global_step=273115, episodic_return=[3.93097], success_rate=0.0
+global_step=273315, episodic_return=[2.7676966], success_rate=0.0
+global_step=273515, episodic_return=[5.145545], success_rate=0.0
+global_step=273715, episodic_return=[3.1214418], success_rate=0.0
+global_step=273915, episodic_return=[5.9686985], success_rate=0.0
+global_step=274115, episodic_return=[3.3817458], success_rate=0.0
+global_step=274315, episodic_return=[6.350701], success_rate=0.0
+KL Divergence (0.015010104514658451) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=274515, episodic_return=[7.693808], success_rate=0.0
+global_step=274715, episodic_return=[3.9951413], success_rate=0.0
+global_step=274915, episodic_return=[9.337518], success_rate=0.0
+global_step=275115, episodic_return=[8.358571], success_rate=0.0
+global_step=275315, episodic_return=[3.423802], success_rate=0.0
+global_step=275515, episodic_return=[6.62207], success_rate=0.0
+global_step=275715, episodic_return=[4.5097275], success_rate=0.0
+global_step=275915, episodic_return=[1.6211071], success_rate=0.0
+global_step=276115, episodic_return=[3.2164037], success_rate=0.0
+global_step=276315, episodic_return=[2.5730057], success_rate=0.0
+SPS: 92
+global_step=276515, episodic_return=[2.8163698], success_rate=0.0
+global_step=276715, episodic_return=[8.915462], success_rate=0.0
+global_step=276915, episodic_return=[3.039456], success_rate=0.0
+global_step=277115, episodic_return=[3.3380477], success_rate=0.0
+global_step=277315, episodic_return=[9.211885], success_rate=0.0
+global_step=277515, episodic_return=[4.5621367], success_rate=0.0
+global_step=277715, episodic_return=[5.8067975], success_rate=0.0
+global_step=277915, episodic_return=[7.0467796], success_rate=0.0
+global_step=278115, episodic_return=[3.2348275], success_rate=0.0
+global_step=278315, episodic_return=[7.723912], success_rate=0.0
+global_step=278515, episodic_return=[1.6282036], success_rate=0.0
+SPS: 92
+global_step=278715, episodic_return=[4.064187], success_rate=0.0
+global_step=278915, episodic_return=[2.3900175], success_rate=0.0
+global_step=279115, episodic_return=[2.5427556], success_rate=0.0
+global_step=279315, episodic_return=[4.1064053], success_rate=0.0
+global_step=279515, episodic_return=[3.2056406], success_rate=0.0
+global_step=279715, episodic_return=[4.625044], success_rate=0.0
+global_step=279915, episodic_return=[2.5320318], success_rate=0.0
+global_step=280115, episodic_return=[5.1720257], success_rate=0.0
+global_step=280315, episodic_return=[7.850368], success_rate=0.0
+global_step=280515, episodic_return=[2.5894518], success_rate=0.0
+SPS: 92
+global_step=280715, episodic_return=[4.383136], success_rate=0.0
+global_step=280915, episodic_return=[3.9358666], success_rate=0.0
+global_step=281115, episodic_return=[1.4511868], success_rate=0.0
+global_step=281315, episodic_return=[2.616404], success_rate=0.0
+global_step=281515, episodic_return=[5.088289], success_rate=0.0
+global_step=281715, episodic_return=[5.5560145], success_rate=0.0
+global_step=281915, episodic_return=[3.5802326], success_rate=0.0
+global_step=282115, episodic_return=[2.417272], success_rate=0.0
+global_step=282315, episodic_return=[5.128978], success_rate=0.0
+global_step=282515, episodic_return=[1.9394015], success_rate=0.0
+SPS: 92
+global_step=282715, episodic_return=[1.7101197], success_rate=0.0
+global_step=282915, episodic_return=[1.8507646], success_rate=0.0
+global_step=283115, episodic_return=[6.130828], success_rate=0.0
+global_step=283315, episodic_return=[4.367304], success_rate=0.0
+global_step=283515, episodic_return=[1.7389835], success_rate=0.0
+global_step=283715, episodic_return=[3.2365062], success_rate=0.0
+global_step=283915, episodic_return=[4.1852117], success_rate=0.0
+global_step=284115, episodic_return=[5.818296], success_rate=0.0
+global_step=284315, episodic_return=[4.6648035], success_rate=0.0
+global_step=284515, episodic_return=[4.4851713], success_rate=0.0
+SPS: 92
+global_step=284715, episodic_return=[9.051507], success_rate=0.0
+global_step=284915, episodic_return=[2.6967094], success_rate=0.0
+global_step=285115, episodic_return=[1.7705299], success_rate=0.0
+global_step=285315, episodic_return=[4.4136434], success_rate=0.0
+global_step=285515, episodic_return=[2.578453], success_rate=0.0
+global_step=285715, episodic_return=[4.896983], success_rate=0.0
+global_step=285915, episodic_return=[4.4934645], success_rate=0.0
+global_step=286115, episodic_return=[3.800716], success_rate=0.0
+global_step=286315, episodic_return=[10.355041], success_rate=0.0
+global_step=286515, episodic_return=[2.0317953], success_rate=0.0
+global_step=286715, episodic_return=[2.9149008], success_rate=0.0
+SPS: 92
+global_step=286915, episodic_return=[5.401844], success_rate=0.0
+global_step=287115, episodic_return=[7.3979726], success_rate=0.0
+global_step=287315, episodic_return=[2.5434165], success_rate=0.0
+global_step=287515, episodic_return=[2.7043304], success_rate=0.0
+global_step=287715, episodic_return=[3.512532], success_rate=0.0
+global_step=287915, episodic_return=[3.5824418], success_rate=0.0
+global_step=288115, episodic_return=[5.6329846], success_rate=0.0
+global_step=288315, episodic_return=[2.4783828], success_rate=0.0
+global_step=288515, episodic_return=[2.465201], success_rate=0.0
+global_step=288715, episodic_return=[5.5402174], success_rate=0.0
+SPS: 92
+global_step=288915, episodic_return=[2.3615146], success_rate=0.0
+global_step=289115, episodic_return=[2.5509746], success_rate=0.0
+global_step=289315, episodic_return=[4.5945883], success_rate=0.0
+global_step=289515, episodic_return=[2.0002587], success_rate=0.0
+global_step=289715, episodic_return=[6.1907043], success_rate=0.0
+global_step=289915, episodic_return=[6.246126], success_rate=0.0
+global_step=290115, episodic_return=[5.970531], success_rate=0.0
+global_step=290315, episodic_return=[3.2335703], success_rate=0.0
+global_step=290515, episodic_return=[4.4500084], success_rate=0.0
+global_step=290715, episodic_return=[1.857304], success_rate=0.0
+SPS: 92
+global_step=290915, episodic_return=[3.6765199], success_rate=0.0
+global_step=291115, episodic_return=[8.637456], success_rate=0.0
+global_step=291315, episodic_return=[3.467678], success_rate=0.0
+global_step=291515, episodic_return=[1.8148185], success_rate=0.0
+global_step=291715, episodic_return=[6.5174785], success_rate=0.0
+global_step=291915, episodic_return=[2.2802591], success_rate=0.0
+global_step=292115, episodic_return=[10.096662], success_rate=0.0
+global_step=292315, episodic_return=[5.6903048], success_rate=0.0
+global_step=292515, episodic_return=[5.6482625], success_rate=0.0
+global_step=292715, episodic_return=[7.274447], success_rate=0.0
+SPS: 92
+global_step=292915, episodic_return=[2.543216], success_rate=0.0
+global_step=293115, episodic_return=[5.667964], success_rate=0.0
+global_step=293315, episodic_return=[9.09986], success_rate=0.0
+global_step=293515, episodic_return=[9.57637], success_rate=0.0
+global_step=293715, episodic_return=[2.7391515], success_rate=0.0
+global_step=293915, episodic_return=[2.8379648], success_rate=0.0
+global_step=294115, episodic_return=[4.003176], success_rate=0.0
+global_step=294315, episodic_return=[5.9021106], success_rate=0.0
+global_step=294515, episodic_return=[4.8049955], success_rate=0.0
+global_step=294715, episodic_return=[5.171528], success_rate=0.0
+SPS: 92
+global_step=294915, episodic_return=[4.2698], success_rate=0.0
+global_step=295115, episodic_return=[2.8266978], success_rate=0.0
+global_step=295315, episodic_return=[2.2334225], success_rate=0.0
+global_step=295515, episodic_return=[6.1684175], success_rate=0.0
+global_step=295715, episodic_return=[7.2041225], success_rate=0.0
+global_step=295915, episodic_return=[4.449874], success_rate=0.0
+global_step=296115, episodic_return=[2.6524289], success_rate=0.0
+global_step=296315, episodic_return=[6.170195], success_rate=0.0
+global_step=296515, episodic_return=[2.4238663], success_rate=0.0
+global_step=296715, episodic_return=[7.1750383], success_rate=0.0
+global_step=296915, episodic_return=[2.7164905], success_rate=0.0
+KL Divergence (0.015055803582072258) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=297115, episodic_return=[3.760056], success_rate=0.0
+global_step=297315, episodic_return=[8.152264], success_rate=0.0
+global_step=297515, episodic_return=[2.3674912], success_rate=0.0
+global_step=297715, episodic_return=[5.662226], success_rate=0.0
+global_step=297915, episodic_return=[9.692396], success_rate=0.0
+global_step=298115, episodic_return=[3.8255663], success_rate=0.0
+global_step=298315, episodic_return=[1.9710126], success_rate=0.0
+global_step=298515, episodic_return=[2.9554796], success_rate=0.0
+global_step=298715, episodic_return=[5.5120664], success_rate=0.0
+global_step=298915, episodic_return=[2.5473135], success_rate=0.0
+SPS: 92
+global_step=299115, episodic_return=[8.202085], success_rate=0.0
+global_step=299315, episodic_return=[2.5515237], success_rate=0.0
+global_step=299515, episodic_return=[2.2584705], success_rate=0.0
+global_step=299715, episodic_return=[7.3021493], success_rate=0.0
+global_step=299915, episodic_return=[2.541519], success_rate=0.0
+global_step=300115, episodic_return=[8.759663], success_rate=0.0
+global_step=300315, episodic_return=[8.161181], success_rate=0.0
+global_step=300515, episodic_return=[4.934476], success_rate=0.0
+global_step=300715, episodic_return=[2.1992753], success_rate=0.0
+global_step=300915, episodic_return=[3.2642047], success_rate=0.0
+SPS: 92
+global_step=301115, episodic_return=[3.4440787], success_rate=0.0
+global_step=301315, episodic_return=[2.371648], success_rate=0.0
+global_step=301515, episodic_return=[6.3869877], success_rate=0.0
+global_step=301715, episodic_return=[3.5541787], success_rate=0.0
+global_step=301915, episodic_return=[6.0696564], success_rate=0.0
+global_step=302115, episodic_return=[3.4314754], success_rate=0.0
+global_step=302315, episodic_return=[4.9541078], success_rate=0.0
+global_step=302515, episodic_return=[3.262631], success_rate=0.0
+global_step=302715, episodic_return=[1.7613262], success_rate=0.0
+global_step=302915, episodic_return=[7.007703], success_rate=0.0
+SPS: 92
+global_step=303115, episodic_return=[6.0554852], success_rate=0.0
+global_step=303315, episodic_return=[10.064242], success_rate=0.0
+global_step=303515, episodic_return=[4.358773], success_rate=0.0
+global_step=303715, episodic_return=[4.181502], success_rate=0.0
+global_step=303915, episodic_return=[3.4437423], success_rate=0.0
+global_step=304115, episodic_return=[2.5888982], success_rate=0.0
+global_step=304315, episodic_return=[4.3705335], success_rate=0.0
+global_step=304515, episodic_return=[5.7693543], success_rate=0.0
+global_step=304715, episodic_return=[7.189425], success_rate=0.0
+global_step=304915, episodic_return=[4.6430244], success_rate=0.0
+global_step=305115, episodic_return=[3.7464993], success_rate=0.0
+KL Divergence (0.015156903304159641) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=305315, episodic_return=[6.877798], success_rate=0.0
+global_step=305515, episodic_return=[5.3143325], success_rate=0.0
+global_step=305715, episodic_return=[3.1385062], success_rate=0.0
+global_step=305915, episodic_return=[8.834767], success_rate=0.0
+global_step=306115, episodic_return=[6.328916], success_rate=0.0
+global_step=306315, episodic_return=[3.2082434], success_rate=0.0
+global_step=306515, episodic_return=[3.2351902], success_rate=0.0
+global_step=306715, episodic_return=[6.8368044], success_rate=0.0
+global_step=306915, episodic_return=[7.057042], success_rate=0.0
+global_step=307115, episodic_return=[4.5428166], success_rate=0.0
+SPS: 92
+global_step=307315, episodic_return=[1.5474132], success_rate=0.0
+global_step=307515, episodic_return=[6.5012865], success_rate=0.0
+global_step=307715, episodic_return=[1.4818914], success_rate=0.0
+global_step=307915, episodic_return=[2.7998555], success_rate=0.0
+global_step=308115, episodic_return=[8.722498], success_rate=0.0
+global_step=308315, episodic_return=[2.7052455], success_rate=0.0
+global_step=308515, episodic_return=[1.8529147], success_rate=0.0
+global_step=308715, episodic_return=[7.183977], success_rate=0.0
+global_step=308915, episodic_return=[4.36428], success_rate=0.0
+global_step=309115, episodic_return=[3.4696374], success_rate=0.0
+KL Divergence (0.015062099322676659) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=309315, episodic_return=[4.535518], success_rate=0.0
+global_step=309515, episodic_return=[2.092071], success_rate=0.0
+global_step=309715, episodic_return=[4.0129395], success_rate=0.0
+global_step=309915, episodic_return=[5.883753], success_rate=0.0
+global_step=310115, episodic_return=[4.54621], success_rate=0.0
+global_step=310315, episodic_return=[3.855757], success_rate=0.0
+global_step=310515, episodic_return=[5.2079306], success_rate=0.0
+global_step=310715, episodic_return=[8.947966], success_rate=0.0
+global_step=310915, episodic_return=[7.330892], success_rate=0.0
+global_step=311115, episodic_return=[2.0763326], success_rate=0.0
+SPS: 92
+global_step=311315, episodic_return=[10.425657], success_rate=0.0
+global_step=311515, episodic_return=[2.6464837], success_rate=0.0
+global_step=311715, episodic_return=[1.9698204], success_rate=0.0
+global_step=311915, episodic_return=[2.5728137], success_rate=0.0
+global_step=312115, episodic_return=[7.2750487], success_rate=0.0
+global_step=312315, episodic_return=[9.180881], success_rate=0.0
+global_step=312515, episodic_return=[4.9519286], success_rate=0.0
+global_step=312715, episodic_return=[2.705862], success_rate=0.0
+global_step=312915, episodic_return=[1.4607593], success_rate=0.0
+global_step=313115, episodic_return=[5.4051228], success_rate=0.0
+global_step=313315, episodic_return=[2.3780434], success_rate=0.0
+SPS: 92
+global_step=313515, episodic_return=[5.846412], success_rate=0.0
+global_step=313715, episodic_return=[4.589624], success_rate=0.0
+global_step=313915, episodic_return=[6.5596337], success_rate=0.0
+global_step=314115, episodic_return=[2.3649015], success_rate=0.0
+global_step=314315, episodic_return=[7.933836], success_rate=0.0
+global_step=314515, episodic_return=[6.471051], success_rate=0.0
+global_step=314715, episodic_return=[7.764532], success_rate=0.0
+global_step=314915, episodic_return=[2.0242333], success_rate=0.0
+global_step=315115, episodic_return=[5.240245], success_rate=0.0
+global_step=315315, episodic_return=[9.632891], success_rate=0.0
+SPS: 92
+global_step=315515, episodic_return=[7.9812274], success_rate=0.0
+global_step=315715, episodic_return=[5.811905], success_rate=0.0
+global_step=315915, episodic_return=[1.9144132], success_rate=0.0
+global_step=316115, episodic_return=[3.471977], success_rate=0.0
+global_step=316315, episodic_return=[6.976207], success_rate=0.0
+global_step=316515, episodic_return=[3.0914602], success_rate=0.0
+global_step=316715, episodic_return=[7.1743703], success_rate=0.0
+global_step=316915, episodic_return=[2.9015503], success_rate=0.0
+global_step=317115, episodic_return=[4.4924884], success_rate=0.0
+global_step=317315, episodic_return=[6.897059], success_rate=0.0
+SPS: 92
+global_step=317515, episodic_return=[2.992885], success_rate=0.0
+global_step=317715, episodic_return=[3.3790956], success_rate=0.0
+global_step=317915, episodic_return=[3.188687], success_rate=0.0
+global_step=318115, episodic_return=[1.6917787], success_rate=0.0
+global_step=318315, episodic_return=[9.314238], success_rate=0.0
+global_step=318515, episodic_return=[4.7671328], success_rate=0.0
+global_step=318715, episodic_return=[4.089767], success_rate=0.0
+global_step=318915, episodic_return=[3.0234275], success_rate=0.0
+global_step=319115, episodic_return=[2.7675438], success_rate=0.0
+global_step=319315, episodic_return=[4.3743935], success_rate=0.0
+KL Divergence (0.015087071806192398) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=319515, episodic_return=[3.4918745], success_rate=0.0
+global_step=319715, episodic_return=[3.1438653], success_rate=0.0
+global_step=319915, episodic_return=[2.5076709], success_rate=0.0
+global_step=320115, episodic_return=[5.7893815], success_rate=0.0
+global_step=320315, episodic_return=[5.819166], success_rate=0.0
+global_step=320515, episodic_return=[2.515844], success_rate=0.0
+global_step=320715, episodic_return=[4.3639746], success_rate=0.0
+global_step=320915, episodic_return=[4.4918833], success_rate=0.0
+global_step=321115, episodic_return=[5.4963098], success_rate=0.0
+global_step=321315, episodic_return=[3.3458822], success_rate=0.0
+global_step=321515, episodic_return=[3.0097992], success_rate=0.0
+SPS: 92
+global_step=321715, episodic_return=[2.1956792], success_rate=0.0
+global_step=321915, episodic_return=[3.9698777], success_rate=0.0
+global_step=322115, episodic_return=[2.567979], success_rate=0.0
+global_step=322315, episodic_return=[2.4044034], success_rate=0.0
+global_step=322515, episodic_return=[5.358451], success_rate=0.0
+global_step=322715, episodic_return=[3.10137], success_rate=0.0
+global_step=322915, episodic_return=[2.3907979], success_rate=0.0
+global_step=323115, episodic_return=[8.596999], success_rate=0.0
+global_step=323315, episodic_return=[4.5077395], success_rate=0.0
+global_step=323515, episodic_return=[2.3613958], success_rate=0.0
+KL Divergence (0.015232613310217857) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=323715, episodic_return=[4.335499], success_rate=0.0
+global_step=323915, episodic_return=[3.4443352], success_rate=0.0
+global_step=324115, episodic_return=[3.7692451], success_rate=0.0
+global_step=324315, episodic_return=[3.0107467], success_rate=0.0
+global_step=324515, episodic_return=[2.2943208], success_rate=0.0
+global_step=324715, episodic_return=[4.7563343], success_rate=0.0
+global_step=324915, episodic_return=[2.5780373], success_rate=0.0
+global_step=325115, episodic_return=[2.268121], success_rate=0.0
+global_step=325315, episodic_return=[3.7092972], success_rate=0.0
+global_step=325515, episodic_return=[8.184954], success_rate=0.0
+KL Divergence (0.015016414225101471) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=325715, episodic_return=[2.0297856], success_rate=0.0
+global_step=325915, episodic_return=[2.615356], success_rate=0.0
+global_step=326115, episodic_return=[6.4445267], success_rate=0.0
+global_step=326315, episodic_return=[5.4718156], success_rate=0.0
+global_step=326515, episodic_return=[5.9694796], success_rate=0.0
+global_step=326715, episodic_return=[3.0966394], success_rate=0.0
+global_step=326915, episodic_return=[6.731907], success_rate=0.0
+global_step=327115, episodic_return=[4.442942], success_rate=0.0
+global_step=327315, episodic_return=[4.4757104], success_rate=0.0
+global_step=327515, episodic_return=[2.7342799], success_rate=0.0
+SPS: 92
+global_step=327715, episodic_return=[4.2119846], success_rate=0.0
+global_step=327915, episodic_return=[4.1502576], success_rate=0.0
+global_step=328115, episodic_return=[2.1201541], success_rate=0.0
+global_step=328315, episodic_return=[4.623235], success_rate=0.0
+global_step=328515, episodic_return=[5.9922695], success_rate=0.0
+global_step=328715, episodic_return=[3.0104322], success_rate=0.0
+global_step=328915, episodic_return=[2.1515782], success_rate=0.0
+global_step=329115, episodic_return=[2.7394805], success_rate=0.0
+global_step=329315, episodic_return=[3.5853055], success_rate=0.0
+global_step=329515, episodic_return=[7.5304837], success_rate=0.0
+global_step=329715, episodic_return=[3.6835804], success_rate=0.0
+KL Divergence (0.015912063419818878) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=329915, episodic_return=[2.3730779], success_rate=0.0
+global_step=330115, episodic_return=[3.404089], success_rate=0.0
+global_step=330315, episodic_return=[9.745529], success_rate=0.0
+global_step=330515, episodic_return=[7.5600753], success_rate=0.0
+global_step=330715, episodic_return=[4.168456], success_rate=0.0
+global_step=330915, episodic_return=[4.457261], success_rate=0.0
+global_step=331115, episodic_return=[3.2571497], success_rate=0.0
+global_step=331315, episodic_return=[5.304152], success_rate=0.0
+global_step=331515, episodic_return=[1.5471146], success_rate=0.0
+global_step=331715, episodic_return=[5.525578], success_rate=0.0
+SPS: 92
+global_step=331915, episodic_return=[3.4390142], success_rate=0.0
+global_step=332115, episodic_return=[6.511297], success_rate=0.0
+global_step=332315, episodic_return=[6.6721077], success_rate=0.0
+global_step=332515, episodic_return=[5.0147696], success_rate=0.0
+global_step=332715, episodic_return=[4.315217], success_rate=0.0
+global_step=332915, episodic_return=[2.8302162], success_rate=0.0
+global_step=333115, episodic_return=[3.8566532], success_rate=0.0
+global_step=333315, episodic_return=[3.5093126], success_rate=0.0
+global_step=333515, episodic_return=[4.5505695], success_rate=0.0
+global_step=333715, episodic_return=[10.416573], success_rate=0.0
+SPS: 92
+global_step=333915, episodic_return=[3.1575077], success_rate=0.0
+global_step=334115, episodic_return=[3.757498], success_rate=0.0
+global_step=334315, episodic_return=[4.922595], success_rate=0.0
+global_step=334515, episodic_return=[9.465709], success_rate=0.0
+global_step=334715, episodic_return=[4.1950016], success_rate=0.0
+global_step=334915, episodic_return=[4.965197], success_rate=0.0
+global_step=335115, episodic_return=[3.1191604], success_rate=0.0
+global_step=335315, episodic_return=[2.6209986], success_rate=0.0
+global_step=335515, episodic_return=[6.098202], success_rate=0.0
+global_step=335715, episodic_return=[6.7273088], success_rate=0.0
+SPS: 92
+global_step=335915, episodic_return=[1.7402238], success_rate=0.0
+global_step=336115, episodic_return=[4.6453457], success_rate=0.0
+global_step=336315, episodic_return=[4.8092046], success_rate=0.0
+global_step=336515, episodic_return=[7.2214336], success_rate=0.0
+global_step=336715, episodic_return=[6.2944465], success_rate=0.0
+global_step=336915, episodic_return=[6.4114637], success_rate=0.0
+global_step=337115, episodic_return=[7.6978254], success_rate=0.0
+global_step=337315, episodic_return=[3.7691114], success_rate=0.0
+global_step=337515, episodic_return=[3.5672631], success_rate=0.0
+global_step=337715, episodic_return=[2.385378], success_rate=0.0
+global_step=337915, episodic_return=[4.565149], success_rate=0.0
+KL Divergence (0.01582229882478714) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=338115, episodic_return=[2.0935745], success_rate=0.0
+global_step=338315, episodic_return=[3.6944578], success_rate=0.0
+global_step=338515, episodic_return=[8.1132145], success_rate=0.0
+global_step=338715, episodic_return=[9.36267], success_rate=0.0
+global_step=338915, episodic_return=[4.937037], success_rate=0.0
+global_step=339115, episodic_return=[2.6873589], success_rate=0.0
+global_step=339315, episodic_return=[6.556551], success_rate=0.0
+global_step=339515, episodic_return=[7.1213145], success_rate=0.0
+global_step=339715, episodic_return=[8.045713], success_rate=0.0
+global_step=339915, episodic_return=[5.772693], success_rate=0.0
+SPS: 92
+global_step=340115, episodic_return=[7.890627], success_rate=0.0
+global_step=340315, episodic_return=[7.816386], success_rate=0.0
+global_step=340515, episodic_return=[7.1005664], success_rate=0.0
+global_step=340715, episodic_return=[9.450518], success_rate=0.0
+global_step=340915, episodic_return=[3.6970727], success_rate=0.0
+global_step=341115, episodic_return=[1.8919331], success_rate=0.0
+global_step=341315, episodic_return=[2.8062854], success_rate=0.0
+global_step=341515, episodic_return=[2.4390879], success_rate=0.0
+global_step=341715, episodic_return=[6.657422], success_rate=0.0
+global_step=341915, episodic_return=[7.8344245], success_rate=0.0
+SPS: 92
+global_step=342115, episodic_return=[5.276577], success_rate=0.0
+global_step=342315, episodic_return=[9.416143], success_rate=0.0
+global_step=342515, episodic_return=[5.5219927], success_rate=0.0
+global_step=342715, episodic_return=[4.243223], success_rate=0.0
+global_step=342915, episodic_return=[6.725082], success_rate=0.0
+global_step=343115, episodic_return=[4.9000506], success_rate=0.0
+global_step=343315, episodic_return=[3.9845357], success_rate=0.0
+global_step=343515, episodic_return=[2.0187201], success_rate=0.0
+global_step=343715, episodic_return=[8.6530075], success_rate=0.0
+global_step=343915, episodic_return=[1.9861664], success_rate=0.0
+SPS: 92
+global_step=344115, episodic_return=[8.32533], success_rate=0.0
+global_step=344315, episodic_return=[2.6604757], success_rate=0.0
+global_step=344515, episodic_return=[2.670614], success_rate=0.0
+global_step=344715, episodic_return=[2.4263065], success_rate=0.0
+global_step=344915, episodic_return=[2.438271], success_rate=0.0
+global_step=345115, episodic_return=[2.2313504], success_rate=0.0
+global_step=345315, episodic_return=[8.401767], success_rate=0.0
+global_step=345515, episodic_return=[2.3643746], success_rate=0.0
+global_step=345715, episodic_return=[2.0338218], success_rate=0.0
+global_step=345915, episodic_return=[3.9513419], success_rate=0.0
+SPS: 92
+global_step=346115, episodic_return=[3.234882], success_rate=0.0
+global_step=346315, episodic_return=[4.8496127], success_rate=0.0
+global_step=346515, episodic_return=[4.230803], success_rate=0.0
+global_step=346715, episodic_return=[4.158449], success_rate=0.0
+global_step=346915, episodic_return=[5.8957696], success_rate=0.0
+global_step=347115, episodic_return=[2.9156637], success_rate=0.0
+global_step=347315, episodic_return=[3.878914], success_rate=0.0
+global_step=347515, episodic_return=[6.6027102], success_rate=0.0
+global_step=347715, episodic_return=[2.1987073], success_rate=0.0
+global_step=347915, episodic_return=[3.2610002], success_rate=0.0
+global_step=348115, episodic_return=[8.645899], success_rate=0.0
+SPS: 92
+global_step=348315, episodic_return=[7.6470723], success_rate=0.0
+global_step=348515, episodic_return=[3.0900393], success_rate=0.0
+global_step=348715, episodic_return=[8.720745], success_rate=0.0
+global_step=348915, episodic_return=[4.429739], success_rate=0.0
+global_step=349115, episodic_return=[4.2464705], success_rate=0.0
+global_step=349315, episodic_return=[3.6974158], success_rate=0.0
+global_step=349515, episodic_return=[2.8559713], success_rate=0.0
+global_step=349715, episodic_return=[4.111487], success_rate=0.0
+global_step=349915, episodic_return=[7.90519], success_rate=0.0
+global_step=350115, episodic_return=[3.4568644], success_rate=0.0
+SPS: 92
+global_step=350315, episodic_return=[1.8258065], success_rate=0.0
+global_step=350515, episodic_return=[2.1255467], success_rate=0.0
+global_step=350715, episodic_return=[3.0976834], success_rate=0.0
+global_step=350915, episodic_return=[6.0999126], success_rate=0.0
+global_step=351115, episodic_return=[9.017997], success_rate=0.0
+global_step=351315, episodic_return=[3.3621366], success_rate=0.0
+global_step=351515, episodic_return=[4.159874], success_rate=0.0
+global_step=351715, episodic_return=[2.1781623], success_rate=0.0
+global_step=351915, episodic_return=[5.389296], success_rate=0.0
+global_step=352115, episodic_return=[2.7998235], success_rate=0.0
+SPS: 92
+global_step=352315, episodic_return=[3.790957], success_rate=0.0
+global_step=352515, episodic_return=[4.22257], success_rate=0.0
+global_step=352715, episodic_return=[8.358307], success_rate=0.0
+global_step=352915, episodic_return=[3.1144264], success_rate=0.0
+global_step=353115, episodic_return=[3.3458033], success_rate=0.0
+global_step=353315, episodic_return=[7.6251373], success_rate=0.0
+global_step=353515, episodic_return=[3.3172896], success_rate=0.0
+global_step=353715, episodic_return=[5.192431], success_rate=0.0
+global_step=353915, episodic_return=[4.0269637], success_rate=0.0
+global_step=354115, episodic_return=[4.178363], success_rate=0.0
+SPS: 92
+global_step=354315, episodic_return=[4.7118993], success_rate=0.0
+global_step=354515, episodic_return=[5.263846], success_rate=0.0
+global_step=354715, episodic_return=[2.7622993], success_rate=0.0
+global_step=354915, episodic_return=[2.5427659], success_rate=0.0
+global_step=355115, episodic_return=[2.2279284], success_rate=0.0
+global_step=355315, episodic_return=[3.524054], success_rate=0.0
+global_step=355515, episodic_return=[6.310861], success_rate=0.0
+global_step=355715, episodic_return=[2.557364], success_rate=0.0
+global_step=355915, episodic_return=[1.8508404], success_rate=0.0
+global_step=356115, episodic_return=[3.1240559], success_rate=0.0
+global_step=356315, episodic_return=[6.554278], success_rate=0.0
+SPS: 92
+global_step=356515, episodic_return=[6.227492], success_rate=0.0
+global_step=356715, episodic_return=[5.8952265], success_rate=0.0
+global_step=356915, episodic_return=[2.6392994], success_rate=0.0
+global_step=357115, episodic_return=[3.2178874], success_rate=0.0
+global_step=357315, episodic_return=[5.10105], success_rate=0.0
+global_step=357515, episodic_return=[5.954766], success_rate=0.0
+global_step=357715, episodic_return=[4.777853], success_rate=0.0
+global_step=357915, episodic_return=[2.4573576], success_rate=0.0
+global_step=358115, episodic_return=[3.419833], success_rate=0.0
+global_step=358315, episodic_return=[2.3917289], success_rate=0.0
+SPS: 92
+global_step=358515, episodic_return=[3.6224933], success_rate=0.0
+global_step=358715, episodic_return=[1.927057], success_rate=0.0
+global_step=358915, episodic_return=[8.356605], success_rate=0.0
+global_step=359115, episodic_return=[2.3140764], success_rate=0.0
+global_step=359315, episodic_return=[3.4692545], success_rate=0.0
+global_step=359515, episodic_return=[7.7630734], success_rate=0.0
+global_step=359715, episodic_return=[3.938995], success_rate=0.0
+global_step=359915, episodic_return=[3.3240376], success_rate=0.0
+global_step=360115, episodic_return=[5.4188037], success_rate=0.0
+global_step=360315, episodic_return=[4.3995113], success_rate=0.0
+SPS: 92
+global_step=360515, episodic_return=[2.6018033], success_rate=0.0
+global_step=360715, episodic_return=[3.7040842], success_rate=0.0
+global_step=360915, episodic_return=[2.7066462], success_rate=0.0
+global_step=361115, episodic_return=[3.164235], success_rate=0.0
+global_step=361315, episodic_return=[2.8046577], success_rate=0.0
+global_step=361515, episodic_return=[3.6055372], success_rate=0.0
+global_step=361715, episodic_return=[6.606547], success_rate=0.0
+global_step=361915, episodic_return=[3.234597], success_rate=0.0
+global_step=362115, episodic_return=[3.9770024], success_rate=0.0
+global_step=362315, episodic_return=[1.949193], success_rate=0.0
+KL Divergence (0.01513741910457611) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=362515, episodic_return=[10.187893], success_rate=0.0
+global_step=362715, episodic_return=[7.038605], success_rate=0.0
+global_step=362915, episodic_return=[3.14994], success_rate=0.0
+global_step=363115, episodic_return=[5.5734043], success_rate=0.0
+global_step=363315, episodic_return=[6.6942253], success_rate=0.0
+global_step=363515, episodic_return=[2.4780183], success_rate=0.0
+global_step=363715, episodic_return=[3.1182494], success_rate=0.0
+global_step=363915, episodic_return=[5.23844], success_rate=0.0
+global_step=364115, episodic_return=[10.3220825], success_rate=0.0
+global_step=364315, episodic_return=[3.4763315], success_rate=0.0
+global_step=364515, episodic_return=[6.260274], success_rate=0.0
+SPS: 92
+global_step=364715, episodic_return=[4.3129535], success_rate=0.0
+global_step=364915, episodic_return=[3.4035938], success_rate=0.0
+global_step=365115, episodic_return=[3.607387], success_rate=0.0
+global_step=365315, episodic_return=[3.2439194], success_rate=0.0
+global_step=365515, episodic_return=[2.5357566], success_rate=0.0
+global_step=365715, episodic_return=[2.7462223], success_rate=0.0
+global_step=365915, episodic_return=[1.6363933], success_rate=0.0
+global_step=366115, episodic_return=[6.253378], success_rate=0.0
+global_step=366315, episodic_return=[2.7840736], success_rate=0.0
+global_step=366515, episodic_return=[2.8230028], success_rate=0.0
+SPS: 92
+global_step=366715, episodic_return=[8.908497], success_rate=0.0
+global_step=366915, episodic_return=[1.9455072], success_rate=0.0
+global_step=367115, episodic_return=[5.7703533], success_rate=0.0
+global_step=367315, episodic_return=[2.9737606], success_rate=0.0
+global_step=367515, episodic_return=[3.2766616], success_rate=0.0
+global_step=367715, episodic_return=[3.1093786], success_rate=0.0
+global_step=367915, episodic_return=[5.061269], success_rate=0.0
+global_step=368115, episodic_return=[4.457161], success_rate=0.0
+global_step=368315, episodic_return=[6.046503], success_rate=0.0
+global_step=368515, episodic_return=[4.0221543], success_rate=0.0
+SPS: 92
+global_step=368715, episodic_return=[5.572744], success_rate=0.0
+global_step=368915, episodic_return=[1.4994041], success_rate=0.0
+global_step=369115, episodic_return=[8.681935], success_rate=0.0
+global_step=369315, episodic_return=[2.7074974], success_rate=0.0
+global_step=369515, episodic_return=[6.972201], success_rate=0.0
+global_step=369715, episodic_return=[2.7081509], success_rate=0.0
+global_step=369915, episodic_return=[9.6629715], success_rate=0.0
+global_step=370115, episodic_return=[4.3112183], success_rate=0.0
+global_step=370315, episodic_return=[2.8863795], success_rate=0.0
+global_step=370515, episodic_return=[1.9547507], success_rate=0.0
+SPS: 92
+global_step=370715, episodic_return=[2.784836], success_rate=0.0
+global_step=370915, episodic_return=[2.1525075], success_rate=0.0
+global_step=371115, episodic_return=[4.9659486], success_rate=0.0
+global_step=371315, episodic_return=[2.7468886], success_rate=0.0
+global_step=371515, episodic_return=[6.6120973], success_rate=0.0
+global_step=371715, episodic_return=[3.1318603], success_rate=0.0
+global_step=371915, episodic_return=[3.3236163], success_rate=0.0
+global_step=372115, episodic_return=[2.7259538], success_rate=0.0
+global_step=372315, episodic_return=[4.3536034], success_rate=0.0
+global_step=372515, episodic_return=[6.372092], success_rate=0.0
+global_step=372715, episodic_return=[2.580988], success_rate=0.0
+SPS: 92
+global_step=372915, episodic_return=[7.0880003], success_rate=0.0
+global_step=373115, episodic_return=[2.9739103], success_rate=0.0
+global_step=373315, episodic_return=[2.4029696], success_rate=0.0
+global_step=373515, episodic_return=[3.1239638], success_rate=0.0
+global_step=373715, episodic_return=[2.5879622], success_rate=0.0
+global_step=373915, episodic_return=[7.4062247], success_rate=0.0
+global_step=374115, episodic_return=[8.06403], success_rate=0.0
+global_step=374315, episodic_return=[3.662893], success_rate=0.0
+global_step=374515, episodic_return=[2.9236076], success_rate=0.0
+global_step=374715, episodic_return=[4.690955], success_rate=0.0
+KL Divergence (0.015294513665139675) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=374915, episodic_return=[1.7513258], success_rate=0.0
+global_step=375115, episodic_return=[4.323801], success_rate=0.0
+global_step=375315, episodic_return=[2.6019704], success_rate=0.0
+global_step=375515, episodic_return=[6.4774356], success_rate=0.0
+global_step=375715, episodic_return=[2.9932954], success_rate=0.0
+global_step=375915, episodic_return=[2.7502959], success_rate=0.0
+global_step=376115, episodic_return=[9.081115], success_rate=0.0
+global_step=376315, episodic_return=[3.627446], success_rate=0.0
+global_step=376515, episodic_return=[4.2006907], success_rate=0.0
+global_step=376715, episodic_return=[1.5476054], success_rate=0.0
+SPS: 92
+global_step=376915, episodic_return=[2.7596474], success_rate=0.0
+global_step=377115, episodic_return=[2.647459], success_rate=0.0
+global_step=377315, episodic_return=[9.718178], success_rate=0.0
+global_step=377515, episodic_return=[2.9689996], success_rate=0.0
+global_step=377715, episodic_return=[4.943881], success_rate=0.0
+global_step=377915, episodic_return=[8.708477], success_rate=0.0
+global_step=378115, episodic_return=[7.280397], success_rate=0.0
+global_step=378315, episodic_return=[3.042897], success_rate=0.0
+global_step=378515, episodic_return=[6.3536043], success_rate=0.0
+global_step=378715, episodic_return=[2.3275387], success_rate=0.0
+SPS: 92
+global_step=378915, episodic_return=[2.5760992], success_rate=0.0
+global_step=379115, episodic_return=[2.8821516], success_rate=0.0
+global_step=379315, episodic_return=[5.0218544], success_rate=0.0
+global_step=379515, episodic_return=[4.0144434], success_rate=0.0
+global_step=379715, episodic_return=[2.1602907], success_rate=0.0
+global_step=379915, episodic_return=[5.3425093], success_rate=0.0
+global_step=380115, episodic_return=[7.5720453], success_rate=0.0
+global_step=380315, episodic_return=[3.5457268], success_rate=0.0
+global_step=380515, episodic_return=[4.5968466], success_rate=0.0
+global_step=380715, episodic_return=[3.936107], success_rate=0.0
+global_step=380915, episodic_return=[3.697534], success_rate=0.0
+SPS: 92
+global_step=381115, episodic_return=[3.2669427], success_rate=0.0
+global_step=381315, episodic_return=[4.1454487], success_rate=0.0
+global_step=381515, episodic_return=[7.929332], success_rate=0.0
+global_step=381715, episodic_return=[2.0929074], success_rate=0.0
+global_step=381915, episodic_return=[3.8749027], success_rate=0.0
+global_step=382115, episodic_return=[8.912257], success_rate=0.0
+global_step=382315, episodic_return=[7.3709307], success_rate=0.0
+global_step=382515, episodic_return=[9.907457], success_rate=0.0
+global_step=382715, episodic_return=[6.555474], success_rate=0.0
+global_step=382915, episodic_return=[6.9724154], success_rate=0.0
+SPS: 92
+global_step=383115, episodic_return=[4.2264156], success_rate=0.0
+global_step=383315, episodic_return=[5.247403], success_rate=0.0
+global_step=383515, episodic_return=[4.56446], success_rate=0.0
+global_step=383715, episodic_return=[5.2517824], success_rate=0.0
+global_step=383915, episodic_return=[3.197367], success_rate=0.0
+global_step=384115, episodic_return=[3.624552], success_rate=0.0
+global_step=384315, episodic_return=[5.1625543], success_rate=0.0
+global_step=384515, episodic_return=[2.3741765], success_rate=0.0
+global_step=384715, episodic_return=[5.086638], success_rate=0.0
+global_step=384915, episodic_return=[2.9852834], success_rate=0.0
+SPS: 92
+global_step=385115, episodic_return=[4.873016], success_rate=0.0
+global_step=385315, episodic_return=[5.6379027], success_rate=0.0
+global_step=385515, episodic_return=[8.0007925], success_rate=0.0
+global_step=385715, episodic_return=[5.875207], success_rate=0.0
+global_step=385915, episodic_return=[5.944106], success_rate=0.0
+global_step=386115, episodic_return=[2.959881], success_rate=0.0
+global_step=386315, episodic_return=[2.4799347], success_rate=0.0
+global_step=386515, episodic_return=[2.2268848], success_rate=0.0
+global_step=386715, episodic_return=[9.262663], success_rate=0.0
+global_step=386915, episodic_return=[4.5711737], success_rate=0.0
+SPS: 92
+global_step=387115, episodic_return=[3.5649633], success_rate=0.0
+global_step=387315, episodic_return=[5.086914], success_rate=0.0
+global_step=387515, episodic_return=[2.8548188], success_rate=0.0
+global_step=387715, episodic_return=[3.4029176], success_rate=0.0
+global_step=387915, episodic_return=[6.017144], success_rate=0.0
+global_step=388115, episodic_return=[8.265488], success_rate=0.0
+global_step=388315, episodic_return=[5.3023715], success_rate=0.0
+global_step=388515, episodic_return=[4.064235], success_rate=0.0
+global_step=388715, episodic_return=[1.9300061], success_rate=0.0
+global_step=388915, episodic_return=[5.5579886], success_rate=0.0
+global_step=389115, episodic_return=[5.892257], success_rate=0.0
+SPS: 92
+global_step=389315, episodic_return=[7.624839], success_rate=0.0
+global_step=389515, episodic_return=[2.4587927], success_rate=0.0
+global_step=389715, episodic_return=[2.0940058], success_rate=0.0
+global_step=389915, episodic_return=[3.0493522], success_rate=0.0
+global_step=390115, episodic_return=[3.9306393], success_rate=0.0
+global_step=390315, episodic_return=[3.7133017], success_rate=0.0
+global_step=390515, episodic_return=[3.8992386], success_rate=0.0
+global_step=390715, episodic_return=[2.6325033], success_rate=0.0
+global_step=390915, episodic_return=[6.381626], success_rate=0.0
+global_step=391115, episodic_return=[6.535417], success_rate=0.0
+SPS: 92
+global_step=391315, episodic_return=[4.4360957], success_rate=0.0
+global_step=391515, episodic_return=[2.592928], success_rate=0.0
+global_step=391715, episodic_return=[4.493602], success_rate=0.0
+global_step=391915, episodic_return=[8.041026], success_rate=0.0
+global_step=392115, episodic_return=[10.280698], success_rate=0.0
+global_step=392315, episodic_return=[5.788843], success_rate=0.0
+global_step=392515, episodic_return=[2.5033276], success_rate=0.0
+global_step=392715, episodic_return=[3.1364136], success_rate=0.0
+global_step=392915, episodic_return=[1.4891671], success_rate=0.0
+global_step=393115, episodic_return=[1.7836223], success_rate=0.0
+SPS: 92
+global_step=393315, episodic_return=[5.3783584], success_rate=0.0
+global_step=393515, episodic_return=[4.916094], success_rate=0.0
+global_step=393715, episodic_return=[6.7458043], success_rate=0.0
+global_step=393915, episodic_return=[5.993053], success_rate=0.0
+global_step=394115, episodic_return=[6.1255016], success_rate=0.0
+global_step=394315, episodic_return=[3.5608487], success_rate=0.0
+global_step=394515, episodic_return=[8.166149], success_rate=0.0
+global_step=394715, episodic_return=[7.7497725], success_rate=0.0
+global_step=394915, episodic_return=[2.4173055], success_rate=0.0
+global_step=395115, episodic_return=[2.2834034], success_rate=0.0
+SPS: 92
+global_step=395315, episodic_return=[3.99997], success_rate=0.0
+global_step=395515, episodic_return=[6.027155], success_rate=0.0
+global_step=395715, episodic_return=[4.7509108], success_rate=0.0
+global_step=395915, episodic_return=[2.6069043], success_rate=0.0
+global_step=396115, episodic_return=[1.9802135], success_rate=0.0
+global_step=396315, episodic_return=[2.1457624], success_rate=0.0
+global_step=396515, episodic_return=[2.4262996], success_rate=0.0
+global_step=396715, episodic_return=[2.466542], success_rate=0.0
+global_step=396915, episodic_return=[8.710555], success_rate=0.0
+global_step=397115, episodic_return=[2.567343], success_rate=0.0
+SPS: 92
+global_step=397315, episodic_return=[2.4644334], success_rate=0.0
+global_step=397515, episodic_return=[5.1366487], success_rate=0.0
+global_step=397715, episodic_return=[6.5317807], success_rate=0.0
+global_step=397915, episodic_return=[5.4655046], success_rate=0.0
+global_step=398115, episodic_return=[5.376326], success_rate=0.0
+global_step=398315, episodic_return=[9.978007], success_rate=0.0
+global_step=398515, episodic_return=[5.274453], success_rate=0.0
+global_step=398715, episodic_return=[3.6379771], success_rate=0.0
+global_step=398915, episodic_return=[5.907647], success_rate=0.0
+global_step=399115, episodic_return=[4.2481112], success_rate=0.0
+global_step=399315, episodic_return=[5.4980087], success_rate=0.0
+SPS: 92
+global_step=399515, episodic_return=[2.805813], success_rate=0.0
+global_step=399715, episodic_return=[6.756409], success_rate=0.0
+global_step=399915, episodic_return=[4.8324323], success_rate=0.0
+global_step=400115, episodic_return=[3.971074], success_rate=0.0
+global_step=400315, episodic_return=[9.235851], success_rate=0.0
+global_step=400515, episodic_return=[8.351986], success_rate=0.0
+global_step=400715, episodic_return=[6.092323], success_rate=0.0
+global_step=400915, episodic_return=[2.2924223], success_rate=0.0
+global_step=401115, episodic_return=[3.6022208], success_rate=0.0
+global_step=401315, episodic_return=[4.782998], success_rate=0.0
+SPS: 92
+global_step=401515, episodic_return=[3.2258081], success_rate=0.0
+global_step=401715, episodic_return=[9.577601], success_rate=0.0
+global_step=401915, episodic_return=[3.28119], success_rate=0.0
+global_step=402115, episodic_return=[3.398291], success_rate=0.0
+global_step=402315, episodic_return=[6.9571877], success_rate=0.0
+global_step=402515, episodic_return=[2.3612807], success_rate=0.0
+global_step=402715, episodic_return=[7.0629854], success_rate=0.0
+global_step=402915, episodic_return=[8.238816], success_rate=0.0
+global_step=403115, episodic_return=[3.0954263], success_rate=0.0
+global_step=403315, episodic_return=[1.7689973], success_rate=0.0
+SPS: 92
+global_step=403515, episodic_return=[2.4216242], success_rate=0.0
+global_step=403715, episodic_return=[3.6600156], success_rate=0.0
+global_step=403915, episodic_return=[9.645905], success_rate=0.0
+global_step=404115, episodic_return=[4.3995614], success_rate=0.0
+global_step=404315, episodic_return=[5.0738087], success_rate=0.0
+global_step=404515, episodic_return=[5.61536], success_rate=0.0
+global_step=404715, episodic_return=[3.799477], success_rate=0.0
+global_step=404915, episodic_return=[3.5709836], success_rate=0.0
+global_step=405115, episodic_return=[7.460001], success_rate=0.0
+global_step=405315, episodic_return=[8.592863], success_rate=0.0
+SPS: 92
+global_step=405515, episodic_return=[2.3491344], success_rate=0.0
+global_step=405715, episodic_return=[2.689697], success_rate=0.0
+global_step=405915, episodic_return=[4.948529], success_rate=0.0
+global_step=406115, episodic_return=[4.8395014], success_rate=0.0
+global_step=406315, episodic_return=[6.6626143], success_rate=0.0
+global_step=406515, episodic_return=[2.9234889], success_rate=0.0
+global_step=406715, episodic_return=[3.4859498], success_rate=0.0
+global_step=406915, episodic_return=[8.75799], success_rate=0.0
+global_step=407115, episodic_return=[2.3698108], success_rate=0.0
+global_step=407315, episodic_return=[9.707281], success_rate=0.0
+global_step=407515, episodic_return=[6.4893417], success_rate=0.0
+SPS: 92
+global_step=407715, episodic_return=[8.298342], success_rate=0.0
+global_step=407915, episodic_return=[2.964562], success_rate=0.0
+global_step=408115, episodic_return=[2.4808772], success_rate=0.0
+global_step=408315, episodic_return=[6.4842668], success_rate=0.0
+global_step=408515, episodic_return=[7.2815757], success_rate=0.0
+global_step=408715, episodic_return=[5.3236327], success_rate=0.0
+global_step=408915, episodic_return=[3.3233526], success_rate=0.0
+global_step=409115, episodic_return=[7.0997486], success_rate=0.0
+global_step=409315, episodic_return=[6.6100745], success_rate=0.0
+global_step=409515, episodic_return=[5.8639536], success_rate=0.0
+SPS: 92
+global_step=409715, episodic_return=[1.6958635], success_rate=0.0
+global_step=409915, episodic_return=[1.9012554], success_rate=0.0
+global_step=410115, episodic_return=[9.2901745], success_rate=0.0
+global_step=410315, episodic_return=[4.8856626], success_rate=0.0
+global_step=410515, episodic_return=[7.6503487], success_rate=0.0
+global_step=410715, episodic_return=[6.8608184], success_rate=0.0
+global_step=410915, episodic_return=[3.2072425], success_rate=0.0
+global_step=411115, episodic_return=[5.6658416], success_rate=0.0
+global_step=411315, episodic_return=[2.0808694], success_rate=0.0
+global_step=411515, episodic_return=[4.550172], success_rate=0.0
+SPS: 92
+global_step=411715, episodic_return=[7.6733565], success_rate=0.0
+global_step=411915, episodic_return=[2.7283938], success_rate=0.0
+global_step=412115, episodic_return=[4.1590524], success_rate=0.0
+global_step=412315, episodic_return=[1.6107556], success_rate=0.0
+global_step=412515, episodic_return=[3.8487332], success_rate=0.0
+global_step=412715, episodic_return=[3.6726604], success_rate=0.0
+global_step=412915, episodic_return=[5.9745812], success_rate=0.0
+global_step=413115, episodic_return=[3.562063], success_rate=0.0
+global_step=413315, episodic_return=[7.155315], success_rate=0.0
+global_step=413515, episodic_return=[3.261516], success_rate=0.0
+SPS: 92
+global_step=413715, episodic_return=[5.5421906], success_rate=0.0
+global_step=413915, episodic_return=[8.446768], success_rate=0.0
+global_step=414115, episodic_return=[3.1878178], success_rate=0.0
+global_step=414315, episodic_return=[6.532914], success_rate=0.0
+global_step=414515, episodic_return=[2.4846954], success_rate=0.0
+global_step=414715, episodic_return=[2.6970315], success_rate=0.0
+global_step=414915, episodic_return=[8.605176], success_rate=0.0
+global_step=415115, episodic_return=[2.6948674], success_rate=0.0
+global_step=415315, episodic_return=[6.322576], success_rate=0.0
+global_step=415515, episodic_return=[2.5901628], success_rate=0.0
+global_step=415715, episodic_return=[3.980406], success_rate=0.0
+SPS: 92
+global_step=415915, episodic_return=[3.3222544], success_rate=0.0
+global_step=416115, episodic_return=[5.0689855], success_rate=0.0
+global_step=416315, episodic_return=[2.5888534], success_rate=0.0
+global_step=416515, episodic_return=[5.277962], success_rate=0.0
+global_step=416715, episodic_return=[9.018408], success_rate=0.0
+global_step=416915, episodic_return=[2.4500637], success_rate=0.0
+global_step=417115, episodic_return=[3.431764], success_rate=0.0
+global_step=417315, episodic_return=[3.0151556], success_rate=0.0
+global_step=417515, episodic_return=[4.257315], success_rate=0.0
+global_step=417715, episodic_return=[6.6451116], success_rate=0.0
+KL Divergence (0.015275852754712105) exceeded threshold (0.015). Early stopping.
+SPS: 92
+global_step=417915, episodic_return=[2.9529955], success_rate=0.0
+global_step=418115, episodic_return=[2.1548483], success_rate=0.0
+global_step=418315, episodic_return=[4.4474516], success_rate=0.0
+global_step=418515, episodic_return=[3.2436116], success_rate=0.0
+global_step=418715, episodic_return=[3.7656128], success_rate=0.0
+global_step=418915, episodic_return=[2.3655396], success_rate=0.0
+global_step=419115, episodic_return=[3.1099932], success_rate=0.0
+global_step=419315, episodic_return=[9.824677], success_rate=0.0
+global_step=419515, episodic_return=[8.974685], success_rate=0.0
+global_step=419715, episodic_return=[3.9207444], success_rate=0.0
+SPS: 92
+global_step=419915, episodic_return=[4.95836], success_rate=0.0
+global_step=420115, episodic_return=[4.0471225], success_rate=0.0
+global_step=420315, episodic_return=[2.9266493], success_rate=0.0
+global_step=420515, episodic_return=[3.6409552], success_rate=0.0
+global_step=420715, episodic_return=[5.950617], success_rate=0.0
+global_step=420915, episodic_return=[9.378651], success_rate=0.0
+global_step=421115, episodic_return=[4.7789416], success_rate=0.0
+global_step=421315, episodic_return=[2.2272356], success_rate=0.0
+global_step=421515, episodic_return=[7.322187], success_rate=0.0
+global_step=421715, episodic_return=[7.0794296], success_rate=0.0
+SPS: 92
+global_step=421915, episodic_return=[4.115483], success_rate=0.0
+global_step=422115, episodic_return=[2.0780962], success_rate=0.0
+global_step=422315, episodic_return=[5.966455], success_rate=0.0
+global_step=422515, episodic_return=[7.054473], success_rate=0.0
+global_step=422715, episodic_return=[3.13995], success_rate=0.0
+global_step=422915, episodic_return=[2.4308627], success_rate=0.0
+global_step=423115, episodic_return=[7.215734], success_rate=0.0
+global_step=423315, episodic_return=[2.6839366], success_rate=0.0
+global_step=423515, episodic_return=[5.5987253], success_rate=0.0
+global_step=423715, episodic_return=[4.5981674], success_rate=0.0
+global_step=423915, episodic_return=[2.9241385], success_rate=0.0
+SPS: 92
+global_step=424115, episodic_return=[2.8502164], success_rate=0.0
+global_step=424315, episodic_return=[3.8163671], success_rate=0.0
+global_step=424515, episodic_return=[4.1953545], success_rate=0.0
+global_step=424715, episodic_return=[3.181581], success_rate=0.0
+global_step=424915, episodic_return=[2.6272843], success_rate=0.0
+global_step=425115, episodic_return=[1.958617], success_rate=0.0
+global_step=425315, episodic_return=[1.5921292], success_rate=0.0
+global_step=425515, episodic_return=[3.4272535], success_rate=0.0
+global_step=425715, episodic_return=[3.2842615], success_rate=0.0
+global_step=425915, episodic_return=[8.730128], success_rate=0.0
+SPS: 92
+global_step=426115, episodic_return=[6.59021], success_rate=0.0
+global_step=426315, episodic_return=[3.0242932], success_rate=0.0
+global_step=426515, episodic_return=[8.553845], success_rate=0.0
+global_step=426715, episodic_return=[2.8163304], success_rate=0.0
+global_step=426915, episodic_return=[10.4564705], success_rate=0.0
+global_step=427115, episodic_return=[4.269446], success_rate=0.0
+global_step=427315, episodic_return=[3.60221], success_rate=0.0
+global_step=427515, episodic_return=[4.026412], success_rate=0.0
+global_step=427715, episodic_return=[9.916454], success_rate=0.0
+global_step=427915, episodic_return=[2.0151215], success_rate=0.0
+SPS: 92
+global_step=428115, episodic_return=[5.6647024], success_rate=0.0
+global_step=428315, episodic_return=[2.6465707], success_rate=0.0
+global_step=428515, episodic_return=[2.2927468], success_rate=0.0
+global_step=428715, episodic_return=[2.2046585], success_rate=0.0
+global_step=428915, episodic_return=[5.5477257], success_rate=0.0
+global_step=429115, episodic_return=[5.014319], success_rate=0.0
+global_step=429315, episodic_return=[8.124754], success_rate=0.0
+global_step=429515, episodic_return=[2.9196808], success_rate=0.0
+global_step=429715, episodic_return=[6.489873], success_rate=0.0
+global_step=429915, episodic_return=[6.2285957], success_rate=0.0
+SPS: 92
+global_step=430115, episodic_return=[3.9970376], success_rate=0.0
+global_step=430315, episodic_return=[5.400599], success_rate=0.0
+global_step=430515, episodic_return=[6.8574615], success_rate=0.0
+global_step=430715, episodic_return=[2.8781426], success_rate=0.0
+global_step=430915, episodic_return=[2.1564267], success_rate=0.0
+global_step=431115, episodic_return=[5.710913], success_rate=0.0
+global_step=431315, episodic_return=[6.7388096], success_rate=0.0
+global_step=431515, episodic_return=[2.7399678], success_rate=0.0
+global_step=431715, episodic_return=[2.2014685], success_rate=0.0
+global_step=431915, episodic_return=[7.034818], success_rate=0.0
+global_step=432115, episodic_return=[3.7022238], success_rate=0.0
+SPS: 92
+global_step=432315, episodic_return=[6.942089], success_rate=0.0
+global_step=432515, episodic_return=[5.073523], success_rate=0.0
+global_step=432715, episodic_return=[3.9079435], success_rate=0.0
+global_step=432915, episodic_return=[2.4714558], success_rate=0.0
+global_step=433115, episodic_return=[5.042229], success_rate=0.0
+global_step=433315, episodic_return=[5.318977], success_rate=0.0
+global_step=433515, episodic_return=[2.9268498], success_rate=0.0
+global_step=433715, episodic_return=[1.5987872], success_rate=0.0
+global_step=433915, episodic_return=[10.354114], success_rate=0.0
+global_step=434115, episodic_return=[2.0465147], success_rate=0.0
+SPS: 92
+global_step=434315, episodic_return=[2.7610672], success_rate=0.0
+global_step=434515, episodic_return=[4.868741], success_rate=0.0
+global_step=434715, episodic_return=[11.597851], success_rate=0.0
+global_step=434915, episodic_return=[2.633259], success_rate=0.0
+global_step=435115, episodic_return=[4.6016173], success_rate=0.0
+global_step=435315, episodic_return=[2.6047807], success_rate=0.0
+global_step=435515, episodic_return=[6.22518], success_rate=0.0
+global_step=435715, episodic_return=[1.7617829], success_rate=0.0
+global_step=435915, episodic_return=[4.843161], success_rate=0.0
+global_step=436115, episodic_return=[3.2378972], success_rate=0.0
+SPS: 92
+global_step=436315, episodic_return=[5.928662], success_rate=0.0
+global_step=436515, episodic_return=[3.392685], success_rate=0.0
+global_step=436715, episodic_return=[6.19096], success_rate=0.0
+global_step=436915, episodic_return=[8.191581], success_rate=0.0
+global_step=437115, episodic_return=[1.9943506], success_rate=0.0
+global_step=437315, episodic_return=[6.6637483], success_rate=0.0
+global_step=437515, episodic_return=[7.0123916], success_rate=0.0
+global_step=437715, episodic_return=[2.8318572], success_rate=0.0
+global_step=437915, episodic_return=[4.0838184], success_rate=0.0
+global_step=438115, episodic_return=[2.6814566], success_rate=0.0
+SPS: 92
+global_step=438315, episodic_return=[2.933832], success_rate=0.0
+global_step=438515, episodic_return=[10.727556], success_rate=0.0
+global_step=438715, episodic_return=[2.7119036], success_rate=0.0
+global_step=438915, episodic_return=[3.960286], success_rate=0.0
+global_step=439115, episodic_return=[1.6001413], success_rate=0.0
+global_step=439315, episodic_return=[9.902801], success_rate=0.0
+global_step=439515, episodic_return=[2.9223356], success_rate=0.0
+global_step=439715, episodic_return=[1.9424822], success_rate=0.0
+global_step=439915, episodic_return=[4.9925714], success_rate=0.0
+global_step=440115, episodic_return=[2.7160912], success_rate=0.0
+global_step=440315, episodic_return=[3.336522], success_rate=0.0
+SPS: 92
+global_step=440515, episodic_return=[3.4340358], success_rate=0.0
+global_step=440715, episodic_return=[1.9346732], success_rate=0.0
+global_step=440915, episodic_return=[2.3163795], success_rate=0.0
+global_step=441115, episodic_return=[2.7138643], success_rate=0.0
+global_step=441315, episodic_return=[8.338187], success_rate=0.0
+global_step=441515, episodic_return=[3.7436137], success_rate=0.0
+global_step=441715, episodic_return=[4.0260205], success_rate=0.0
+global_step=441915, episodic_return=[2.522362], success_rate=0.0
+global_step=442115, episodic_return=[3.7131736], success_rate=0.0
+global_step=442315, episodic_return=[2.3724904], success_rate=0.0
+SPS: 92
+global_step=442515, episodic_return=[6.086584], success_rate=0.0
+global_step=442715, episodic_return=[7.2024856], success_rate=0.0
+global_step=442915, episodic_return=[2.1619415], success_rate=0.0
+global_step=443115, episodic_return=[2.0629723], success_rate=0.0
+global_step=443315, episodic_return=[3.4266965], success_rate=0.0
+global_step=443515, episodic_return=[9.773236], success_rate=0.0
+global_step=443715, episodic_return=[5.079079], success_rate=0.0
+global_step=443915, episodic_return=[6.690672], success_rate=0.0
+global_step=444115, episodic_return=[3.7680485], success_rate=0.0
+global_step=444315, episodic_return=[2.555288], success_rate=0.0
+SPS: 92
+global_step=444515, episodic_return=[0.90285945], success_rate=0.0
+global_step=444715, episodic_return=[9.206716], success_rate=0.0
+global_step=444915, episodic_return=[5.1904573], success_rate=0.0
+global_step=445115, episodic_return=[6.1898484], success_rate=0.0
+global_step=445315, episodic_return=[5.2235665], success_rate=0.0
+global_step=445515, episodic_return=[2.0466454], success_rate=0.0
+global_step=445715, episodic_return=[2.51526], success_rate=0.0
+global_step=445915, episodic_return=[6.418845], success_rate=0.0
+global_step=446115, episodic_return=[2.4333591], success_rate=0.0
+global_step=446315, episodic_return=[4.011191], success_rate=0.0
+SPS: 92
+global_step=446515, episodic_return=[2.0358493], success_rate=0.0
+global_step=446715, episodic_return=[1.2765502], success_rate=0.0
+global_step=446915, episodic_return=[3.6036785], success_rate=0.0
+global_step=447115, episodic_return=[4.7620277], success_rate=0.0
+global_step=447315, episodic_return=[2.309407], success_rate=0.0
+global_step=447515, episodic_return=[2.5364609], success_rate=0.0
+global_step=447715, episodic_return=[9.552074], success_rate=0.0
+global_step=447915, episodic_return=[1.7820286], success_rate=0.0
+global_step=448115, episodic_return=[4.6064262], success_rate=0.0
+global_step=448315, episodic_return=[10.227058], success_rate=0.0
+SPS: 92
+global_step=448515, episodic_return=[4.2405233], success_rate=0.0
+global_step=448715, episodic_return=[6.212429], success_rate=0.0
+global_step=448915, episodic_return=[2.5618124], success_rate=0.0
+global_step=449115, episodic_return=[2.7806165], success_rate=0.0
+global_step=449315, episodic_return=[1.9652623], success_rate=0.0
+global_step=449515, episodic_return=[3.0640566], success_rate=0.0
+global_step=449715, episodic_return=[2.2590215], success_rate=0.0
+global_step=449915, episodic_return=[7.2899365], success_rate=0.0
+global_step=450115, episodic_return=[4.970663], success_rate=0.0
+global_step=450315, episodic_return=[6.1082153], success_rate=0.0
+global_step=450515, episodic_return=[3.2194138], success_rate=0.0
+SPS: 92
+global_step=450715, episodic_return=[6.493817], success_rate=0.0
+global_step=450915, episodic_return=[2.7206311], success_rate=0.0
+global_step=451115, episodic_return=[6.3601785], success_rate=0.0
+global_step=451315, episodic_return=[6.1347528], success_rate=0.0
+global_step=451515, episodic_return=[10.512318], success_rate=0.0
+global_step=451715, episodic_return=[7.420932], success_rate=0.0
+global_step=451915, episodic_return=[9.958899], success_rate=0.0
+global_step=452115, episodic_return=[3.0059938], success_rate=0.0
+global_step=452315, episodic_return=[5.3550925], success_rate=0.0
+global_step=452515, episodic_return=[2.1297112], success_rate=0.0
+SPS: 92
+global_step=452715, episodic_return=[6.654718], success_rate=0.0
+global_step=452915, episodic_return=[4.5167513], success_rate=0.0
+global_step=453115, episodic_return=[4.6205764], success_rate=0.0
+global_step=453315, episodic_return=[10.35791], success_rate=0.0
+global_step=453515, episodic_return=[5.1060266], success_rate=0.0
+global_step=453715, episodic_return=[4.07198], success_rate=0.0
+global_step=453915, episodic_return=[4.3825603], success_rate=0.0
+global_step=454115, episodic_return=[4.3196745], success_rate=0.0
+global_step=454315, episodic_return=[3.9199243], success_rate=0.0
+global_step=454515, episodic_return=[9.547697], success_rate=0.0
+SPS: 92
+global_step=454715, episodic_return=[4.7214923], success_rate=0.0
+global_step=454915, episodic_return=[3.8001485], success_rate=0.0
+global_step=455115, episodic_return=[2.7124872], success_rate=0.0
+global_step=455315, episodic_return=[3.3847828], success_rate=0.0
+global_step=455515, episodic_return=[6.255892], success_rate=0.0
+global_step=455715, episodic_return=[8.191887], success_rate=0.0
+global_step=455915, episodic_return=[8.235403], success_rate=0.0
+global_step=456115, episodic_return=[4.9931226], success_rate=0.0
+global_step=456315, episodic_return=[4.572532], success_rate=0.0
+global_step=456515, episodic_return=[1.8800207], success_rate=0.0
+SPS: 92
+global_step=456715, episodic_return=[4.1775675], success_rate=0.0
+global_step=456915, episodic_return=[2.7331898], success_rate=0.0
+global_step=457115, episodic_return=[6.1847167], success_rate=0.0
+global_step=457315, episodic_return=[5.0961385], success_rate=0.0
+global_step=457515, episodic_return=[6.4201546], success_rate=0.0
+global_step=457715, episodic_return=[2.8224561], success_rate=0.0
+global_step=457915, episodic_return=[3.0640512], success_rate=0.0
+global_step=458115, episodic_return=[2.482991], success_rate=0.0
+global_step=458315, episodic_return=[5.5968523], success_rate=0.0
+global_step=458515, episodic_return=[3.0451858], success_rate=0.0
+global_step=458715, episodic_return=[7.225834], success_rate=0.0
+SPS: 92
+global_step=458915, episodic_return=[5.7778587], success_rate=0.0
+global_step=459115, episodic_return=[6.8193426], success_rate=0.0
+global_step=459315, episodic_return=[6.602006], success_rate=0.0
+global_step=459515, episodic_return=[4.402197], success_rate=0.0
+global_step=459715, episodic_return=[2.5490432], success_rate=0.0
+global_step=459915, episodic_return=[6.3296423], success_rate=0.0
+global_step=460115, episodic_return=[2.7662697], success_rate=0.0
+global_step=460315, episodic_return=[3.3333387], success_rate=0.0
+global_step=460515, episodic_return=[5.1860423], success_rate=0.0
+global_step=460715, episodic_return=[3.3603482], success_rate=0.0
+SPS: 92
+global_step=460915, episodic_return=[3.6205199], success_rate=0.0
+global_step=461115, episodic_return=[8.690944], success_rate=0.0
+global_step=461315, episodic_return=[10.139853], success_rate=0.0
+global_step=461515, episodic_return=[4.40161], success_rate=0.0
+global_step=461715, episodic_return=[3.98491], success_rate=0.0
+global_step=461915, episodic_return=[5.7086983], success_rate=0.0
+global_step=462115, episodic_return=[2.4030747], success_rate=0.0
+global_step=462315, episodic_return=[5.902668], success_rate=0.0
+global_step=462515, episodic_return=[3.027399], success_rate=0.0
+global_step=462715, episodic_return=[3.8272877], success_rate=0.0
+SPS: 92
+global_step=462915, episodic_return=[3.4552572], success_rate=0.0
+global_step=463115, episodic_return=[3.132356], success_rate=0.0
+global_step=463315, episodic_return=[2.4905367], success_rate=0.0
+global_step=463515, episodic_return=[5.5783186], success_rate=0.0
+global_step=463715, episodic_return=[2.8991048], success_rate=0.0
+global_step=463915, episodic_return=[3.185433], success_rate=0.0
+global_step=464115, episodic_return=[3.6589646], success_rate=0.0
+global_step=464315, episodic_return=[6.7394423], success_rate=0.0
+global_step=464515, episodic_return=[2.9102316], success_rate=0.0
+global_step=464715, episodic_return=[1.2962468], success_rate=0.0
+SPS: 92
+global_step=464915, episodic_return=[4.6011386], success_rate=0.0
+global_step=465115, episodic_return=[2.9405265], success_rate=0.0
+global_step=465315, episodic_return=[2.360784], success_rate=0.0
+global_step=465515, episodic_return=[2.117764], success_rate=0.0
+global_step=465715, episodic_return=[1.9317261], success_rate=0.0
+global_step=465915, episodic_return=[3.8946261], success_rate=0.0
+global_step=466115, episodic_return=[4.1509438], success_rate=0.0
+global_step=466315, episodic_return=[2.9454682], success_rate=0.0
+global_step=466515, episodic_return=[2.9923546], success_rate=0.0
+global_step=466715, episodic_return=[4.940201], success_rate=0.0
+global_step=466915, episodic_return=[1.9425917], success_rate=0.0
+SPS: 92
+global_step=467115, episodic_return=[4.210859], success_rate=0.0
+global_step=467315, episodic_return=[4.2313623], success_rate=0.0
+global_step=467515, episodic_return=[3.4300206], success_rate=0.0
+global_step=467715, episodic_return=[5.572375], success_rate=0.0
+global_step=467915, episodic_return=[5.94139], success_rate=0.0
+global_step=468115, episodic_return=[3.5184126], success_rate=0.0
+global_step=468315, episodic_return=[2.5014825], success_rate=0.0
+global_step=468515, episodic_return=[2.9424372], success_rate=0.0
+global_step=468715, episodic_return=[8.240171], success_rate=0.0
+global_step=468915, episodic_return=[2.603533], success_rate=0.0
+SPS: 92
+global_step=469115, episodic_return=[2.0816398], success_rate=0.0
+global_step=469315, episodic_return=[9.636226], success_rate=0.0
+global_step=469515, episodic_return=[3.902796], success_rate=0.0
+global_step=469715, episodic_return=[3.8699481], success_rate=0.0
+global_step=469915, episodic_return=[8.303734], success_rate=0.0
+global_step=470115, episodic_return=[2.0484266], success_rate=0.0
+global_step=470315, episodic_return=[9.208893], success_rate=0.0
+global_step=470515, episodic_return=[4.0898023], success_rate=0.0
+global_step=470715, episodic_return=[2.4203873], success_rate=0.0
+global_step=470915, episodic_return=[3.933558], success_rate=0.0
+SPS: 92
+global_step=471115, episodic_return=[7.1656084], success_rate=0.0
+global_step=471315, episodic_return=[2.0731616], success_rate=0.0
+global_step=471515, episodic_return=[5.070663], success_rate=0.0
+global_step=471715, episodic_return=[11.023556], success_rate=0.0
+global_step=471915, episodic_return=[9.223837], success_rate=0.0
+global_step=472115, episodic_return=[3.8475547], success_rate=0.0
+global_step=472315, episodic_return=[4.92092], success_rate=0.0
+global_step=472515, episodic_return=[3.6781304], success_rate=0.0
+global_step=472715, episodic_return=[2.4728532], success_rate=0.0
+global_step=472915, episodic_return=[9.293164], success_rate=0.0
+SPS: 92
+global_step=473115, episodic_return=[2.5160134], success_rate=0.0
+global_step=473315, episodic_return=[3.2754428], success_rate=0.0
+global_step=473515, episodic_return=[1.9416169], success_rate=0.0
+global_step=473715, episodic_return=[5.373616], success_rate=0.0
+global_step=473915, episodic_return=[5.6487865], success_rate=0.0
+global_step=474115, episodic_return=[4.780396], success_rate=0.0
+global_step=474315, episodic_return=[4.6496925], success_rate=0.0
+global_step=474515, episodic_return=[1.7932513], success_rate=0.0
+global_step=474715, episodic_return=[1.8151069], success_rate=0.0
+global_step=474915, episodic_return=[1.9396796], success_rate=0.0
+global_step=475115, episodic_return=[3.1176522], success_rate=0.0
+SPS: 92
+global_step=475315, episodic_return=[1.5630442], success_rate=0.0
+global_step=475515, episodic_return=[5.8898597], success_rate=0.0
+global_step=475715, episodic_return=[9.827894], success_rate=0.0
+global_step=475915, episodic_return=[4.028432], success_rate=0.0
+global_step=476115, episodic_return=[6.8817816], success_rate=0.0
+global_step=476315, episodic_return=[2.6305664], success_rate=0.0
+global_step=476515, episodic_return=[3.9698408], success_rate=0.0
+global_step=476715, episodic_return=[2.2784185], success_rate=0.0
+global_step=476915, episodic_return=[6.024976], success_rate=0.0
+global_step=477115, episodic_return=[7.945188], success_rate=0.0
+SPS: 92
+global_step=477315, episodic_return=[6.393598], success_rate=0.0
+global_step=477515, episodic_return=[5.2154984], success_rate=0.0
+global_step=477715, episodic_return=[8.262916], success_rate=0.0
+global_step=477915, episodic_return=[2.980892], success_rate=0.0
+global_step=478115, episodic_return=[2.3720589], success_rate=0.0
+global_step=478315, episodic_return=[1.842415], success_rate=0.0
+global_step=478515, episodic_return=[5.283992], success_rate=0.0
+global_step=478715, episodic_return=[6.3364253], success_rate=0.0
+global_step=478915, episodic_return=[2.360687], success_rate=0.0
+global_step=479115, episodic_return=[5.1832733], success_rate=0.0
+SPS: 92
+global_step=479315, episodic_return=[4.9101777], success_rate=0.0
+global_step=479515, episodic_return=[7.1969814], success_rate=0.0
+global_step=479715, episodic_return=[5.401366], success_rate=0.0
+global_step=479915, episodic_return=[6.0450683], success_rate=0.0
+global_step=480115, episodic_return=[3.4024606], success_rate=0.0
+global_step=480315, episodic_return=[10.03174], success_rate=0.0
+global_step=480515, episodic_return=[2.710741], success_rate=0.0
+global_step=480715, episodic_return=[1.8208396], success_rate=0.0
+global_step=480915, episodic_return=[3.9054286], success_rate=0.0
+global_step=481115, episodic_return=[4.138385], success_rate=0.0
+SPS: 92
+global_step=481315, episodic_return=[2.9148216], success_rate=0.0
+global_step=481515, episodic_return=[4.8273335], success_rate=0.0
+global_step=481715, episodic_return=[3.131853], success_rate=0.0
+global_step=481915, episodic_return=[10.038209], success_rate=0.0
+global_step=482115, episodic_return=[5.2125053], success_rate=0.0
+global_step=482315, episodic_return=[1.7327778], success_rate=0.0
+global_step=482515, episodic_return=[2.1433265], success_rate=0.0
+global_step=482715, episodic_return=[8.275676], success_rate=0.0
+global_step=482915, episodic_return=[4.3169565], success_rate=0.0
+global_step=483115, episodic_return=[4.363279], success_rate=0.0
+global_step=483315, episodic_return=[6.492997], success_rate=0.0
+Traceback (most recent call last):
+  File "ppo_continuous_action.py", line 342, in <module>
+    old_approx_kl = (-logratio).mean()
+KeyboardInterrupt

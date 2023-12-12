@@ -1,0 +1,3121 @@
+/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/spaces/box.py:130: UserWarning: [33mWARN: Box bound precision lowered by casting to float32
+  gym.logger.warn(f"Box bound precision lowered by casting to {self.dtype}")
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=400, episodic_return=[67.748184], success_rate=0.77
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=800, episodic_return=[99.64532], success_rate=0.92
+global_step=1200, episodic_return=[23.110903], success_rate=0.38
+global_step=1600, episodic_return=[31.897833], success_rate=0.49
+global_step=2000, episodic_return=[56.319798], success_rate=0.6
+SPS: 70
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=2400, episodic_return=[78.01677], success_rate=0.87
+global_step=2800, episodic_return=[-0.5890862], success_rate=0.32
+global_step=3200, episodic_return=[59.482292], success_rate=0.66
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=3600, episodic_return=[90.90158], success_rate=0.9
+global_step=4000, episodic_return=[39.840332], success_rate=0.65
+SPS: 71
+global_step=4400, episodic_return=[34.793266], success_rate=0.51
+global_step=4800, episodic_return=[66.70524], success_rate=0.72
+global_step=5200, episodic_return=[18.755999], success_rate=0.38
+global_step=5536, episodic_return=[43.265385], success_rate=0.52
+global_step=5936, episodic_return=[11.745889], success_rate=0.42
+SPS: 73
+global_step=6336, episodic_return=[-35.711613], success_rate=0.02
+global_step=6736, episodic_return=[74.5957], success_rate=0.69
+global_step=7136, episodic_return=[51.96232], success_rate=0.53
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=7536, episodic_return=[96.48972], success_rate=0.92
+global_step=7936, episodic_return=[79.931145], success_rate=0.72
+SPS: 76
+global_step=8336, episodic_return=[73.87983], success_rate=0.74
+global_step=8736, episodic_return=[27.259403], success_rate=0.31
+global_step=9136, episodic_return=[45.408684], success_rate=0.45
+global_step=9536, episodic_return=[71.404724], success_rate=0.69
+global_step=9635, episodic_return=[-4.7403293], success_rate=0.06
+global_step=10035, episodic_return=[65.001396], success_rate=0.67
+SPS: 76
+global_step=10435, episodic_return=[36.189854], success_rate=0.48
+global_step=10835, episodic_return=[36.16442], success_rate=0.44
+global_step=11235, episodic_return=[60.98353], success_rate=0.63
+global_step=11635, episodic_return=[93.56085], success_rate=0.79
+global_step=12035, episodic_return=[28.29017], success_rate=0.38
+SPS: 77
+global_step=12435, episodic_return=[53.740566], success_rate=0.6
+global_step=12835, episodic_return=[-4.7492957], success_rate=0.3
+global_step=13108, episodic_return=[51.605053], success_rate=0.55
+global_step=13508, episodic_return=[18.312922], success_rate=0.08
+global_step=13908, episodic_return=[42.823826], success_rate=0.49
+global_step=14308, episodic_return=[-6.353717], success_rate=0.15
+SPS: 78
+global_step=14708, episodic_return=[78.820526], success_rate=0.82
+global_step=14856, episodic_return=[66.40487], success_rate=0.64
+global_step=15256, episodic_return=[-3.4061203], success_rate=0.3
+global_step=15656, episodic_return=[17.523579], success_rate=0.35
+global_step=16056, episodic_return=[40.655266], success_rate=0.35
+SPS: 78
+global_step=16456, episodic_return=[-44.29041], success_rate=0.0
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=16856, episodic_return=[80.42854], success_rate=0.84
+global_step=17256, episodic_return=[58.665874], success_rate=0.72
+global_step=17656, episodic_return=[39.466175], success_rate=0.52
+global_step=18056, episodic_return=[-37.08968], success_rate=0.0
+SPS: 78
+global_step=18456, episodic_return=[50.753593], success_rate=0.48
+global_step=18856, episodic_return=[-29.457079], success_rate=0.0
+global_step=19256, episodic_return=[64.55193], success_rate=0.67
+global_step=19656, episodic_return=[68.04647], success_rate=0.57
+global_step=20056, episodic_return=[3.4573965], success_rate=0.21
+global_step=20456, episodic_return=[-27.64418], success_rate=0.06
+SPS: 78
+global_step=20856, episodic_return=[64.494255], success_rate=0.74
+global_step=20953, episodic_return=[-13.41398], success_rate=0.0
+global_step=21353, episodic_return=[52.604855], success_rate=0.54
+global_step=21753, episodic_return=[-0.964614], success_rate=0.29
+global_step=22153, episodic_return=[-5.8386], success_rate=0.16
+SPS: 78
+global_step=22553, episodic_return=[14.03623], success_rate=0.3
+global_step=22953, episodic_return=[-45.141304], success_rate=0.0
+global_step=23353, episodic_return=[9.626177], success_rate=0.11
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=23753, episodic_return=[94.22545], success_rate=0.88
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=24153, episodic_return=[86.123085], success_rate=0.84
+global_step=24553, episodic_return=[37.51828], success_rate=0.46
+SPS: 78
+global_step=24953, episodic_return=[55.58952], success_rate=0.59
+global_step=25353, episodic_return=[37.488964], success_rate=0.55
+global_step=25753, episodic_return=[39.142624], success_rate=0.5
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=26153, episodic_return=[74.41591], success_rate=0.86
+global_step=26553, episodic_return=[9.948151], success_rate=0.26
+SPS: 78
+global_step=26953, episodic_return=[-21.749361], success_rate=0.13
+global_step=27353, episodic_return=[42.433537], success_rate=0.67
+global_step=27447, episodic_return=[60.374207], success_rate=0.52
+global_step=27847, episodic_return=[56.599697], success_rate=0.65
+global_step=28247, episodic_return=[28.597212], success_rate=0.61
+global_step=28409, episodic_return=[-24.608494], success_rate=0.0
+SPS: 78
+global_step=28809, episodic_return=[-1.9729477], success_rate=0.34
+global_step=29209, episodic_return=[-41.84427], success_rate=0.0
+global_step=29322, episodic_return=[56.935345], success_rate=0.55
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=29722, episodic_return=[73.42114], success_rate=0.92
+global_step=29824, episodic_return=[-8.385744], success_rate=0.01
+global_step=30224, episodic_return=[3.9389467], success_rate=0.36
+global_step=30323, episodic_return=[38.456486], success_rate=0.37
+SPS: 78
+global_step=30723, episodic_return=[27.896114], success_rate=0.56
+global_step=30826, episodic_return=[32.893612], success_rate=0.36
+global_step=31226, episodic_return=[56.544567], success_rate=0.69
+global_step=31626, episodic_return=[11.48473], success_rate=0.42
+global_step=32026, episodic_return=[12.5138035], success_rate=0.38
+global_step=32426, episodic_return=[83.154434], success_rate=0.78
+global_step=32668, episodic_return=[37.749126], success_rate=0.5
+SPS: 78
+global_step=33068, episodic_return=[-0.5291753], success_rate=0.26
+global_step=33468, episodic_return=[-38.904507], success_rate=0.01
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=33640, episodic_return=[117.74031], success_rate=1.0
+global_step=34040, episodic_return=[-20.414515], success_rate=0.19
+global_step=34440, episodic_return=[14.599616], success_rate=0.33
+SPS: 79
+global_step=34840, episodic_return=[42.702927], success_rate=0.57
+global_step=35240, episodic_return=[-39.63403], success_rate=0.03
+global_step=35640, episodic_return=[1.1554621], success_rate=0.26
+global_step=36040, episodic_return=[-35.735485], success_rate=0.0
+global_step=36440, episodic_return=[-10.932953], success_rate=0.23
+global_step=36840, episodic_return=[-41.8007], success_rate=0.0
+SPS: 79
+global_step=37240, episodic_return=[72.32832], success_rate=0.69
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=37640, episodic_return=[93.128426], success_rate=0.95
+global_step=38040, episodic_return=[46.55417], success_rate=0.59
+global_step=38440, episodic_return=[60.493355], success_rate=0.54
+global_step=38840, episodic_return=[35.84732], success_rate=0.49
+SPS: 79
+global_step=39240, episodic_return=[24.533857], success_rate=0.45
+global_step=39640, episodic_return=[47.490833], success_rate=0.53
+global_step=39813, episodic_return=[4.6338053], success_rate=0.16
+global_step=40213, episodic_return=[14.429716], success_rate=0.34
+global_step=40613, episodic_return=[28.208675], success_rate=0.46
+SPS: 79
+global_step=41013, episodic_return=[35.13204], success_rate=0.47
+global_step=41413, episodic_return=[-24.437204], success_rate=0.14
+global_step=41813, episodic_return=[-25.544058], success_rate=0.09
+global_step=42213, episodic_return=[-34.02125], success_rate=0.0
+global_step=42613, episodic_return=[85.373276], success_rate=0.8
+SPS: 79
+global_step=43013, episodic_return=[-44.212215], success_rate=0.0
+global_step=43413, episodic_return=[59.825867], success_rate=0.7
+global_step=43813, episodic_return=[-44.892525], success_rate=0.0
+global_step=44213, episodic_return=[-1.8110424], success_rate=0.29
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=44613, episodic_return=[104.92198], success_rate=0.99
+global_step=45013, episodic_return=[-11.069632], success_rate=0.12
+SPS: 79
+global_step=45413, episodic_return=[-12.468602], success_rate=0.1
+global_step=45813, episodic_return=[-25.29229], success_rate=0.03
+global_step=46213, episodic_return=[-17.439728], success_rate=0.07
+global_step=46613, episodic_return=[-19.69306], success_rate=0.1
+global_step=47013, episodic_return=[32.844193], success_rate=0.37
+SPS: 80
+global_step=47413, episodic_return=[21.773916], success_rate=0.3
+global_step=47813, episodic_return=[41.545685], success_rate=0.52
+global_step=48213, episodic_return=[-4.763184], success_rate=0.21
+global_step=48613, episodic_return=[57.13398], success_rate=0.46
+global_step=49013, episodic_return=[55.53824], success_rate=0.51
+SPS: 80
+global_step=49413, episodic_return=[18.543674], success_rate=0.31
+global_step=49813, episodic_return=[51.836533], success_rate=0.57
+global_step=50213, episodic_return=[-16.165314], success_rate=0.0
+global_step=50613, episodic_return=[-7.8688087], success_rate=0.1
+global_step=51013, episodic_return=[-1.1760707], success_rate=0.14
+SPS: 80
+global_step=51413, episodic_return=[83.959595], success_rate=0.71
+global_step=51813, episodic_return=[17.265368], success_rate=0.36
+global_step=52213, episodic_return=[36.111927], success_rate=0.44
+global_step=52613, episodic_return=[-26.471832], success_rate=0.0
+global_step=53013, episodic_return=[-40.20857], success_rate=0.0
+SPS: 80
+global_step=53413, episodic_return=[29.453768], success_rate=0.32
+global_step=53813, episodic_return=[92.57859], success_rate=0.7
+global_step=54213, episodic_return=[35.079777], success_rate=0.33
+global_step=54613, episodic_return=[32.502552], success_rate=0.24
+global_step=55013, episodic_return=[36.958447], success_rate=0.42
+SPS: 81
+global_step=55413, episodic_return=[10.50885], success_rate=0.14
+global_step=55813, episodic_return=[50.468994], success_rate=0.4
+global_step=56213, episodic_return=[36.243473], success_rate=0.38
+global_step=56613, episodic_return=[68.20298], success_rate=0.62
+global_step=57013, episodic_return=[27.619513], success_rate=0.33
+SPS: 81
+global_step=57413, episodic_return=[-22.42285], success_rate=0.0
+global_step=57813, episodic_return=[-2.591555], success_rate=0.12
+global_step=58213, episodic_return=[79.22973], success_rate=0.57
+global_step=58613, episodic_return=[37.884754], success_rate=0.43
+global_step=59013, episodic_return=[11.353895], success_rate=0.23
+SPS: 81
+global_step=59413, episodic_return=[9.098116], success_rate=0.2
+global_step=59813, episodic_return=[14.006997], success_rate=0.16
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=60213, episodic_return=[106.75552], success_rate=0.9
+global_step=60613, episodic_return=[42.41082], success_rate=0.35
+global_step=61013, episodic_return=[48.78586], success_rate=0.41
+global_step=61413, episodic_return=[87.60919], success_rate=0.81
+SPS: 81
+global_step=61813, episodic_return=[49.04139], success_rate=0.49
+global_step=62213, episodic_return=[35.091526], success_rate=0.37
+global_step=62613, episodic_return=[26.141314], success_rate=0.26
+global_step=63013, episodic_return=[41.226265], success_rate=0.44
+global_step=63413, episodic_return=[28.615313], success_rate=0.38
+SPS: 81
+global_step=63813, episodic_return=[-22.562716], success_rate=0.07
+global_step=64213, episodic_return=[63.53675], success_rate=0.58
+global_step=64613, episodic_return=[31.746025], success_rate=0.35
+global_step=65013, episodic_return=[-29.826517], success_rate=0.01
+global_step=65413, episodic_return=[96.09985], success_rate=0.76
+SPS: 81
+global_step=65813, episodic_return=[103.0341], success_rate=0.87
+global_step=66213, episodic_return=[-20.503263], success_rate=0.0
+global_step=66613, episodic_return=[28.540771], success_rate=0.37
+global_step=67013, episodic_return=[51.455933], success_rate=0.5
+global_step=67413, episodic_return=[-19.19123], success_rate=0.06
+SPS: 82
+global_step=67813, episodic_return=[94.82287], success_rate=0.78
+global_step=68213, episodic_return=[42.32321], success_rate=0.35
+global_step=68613, episodic_return=[78.169205], success_rate=0.7
+global_step=69013, episodic_return=[52.26592], success_rate=0.49
+global_step=69413, episodic_return=[83.10884], success_rate=0.77
+SPS: 82
+global_step=69813, episodic_return=[26.185978], success_rate=0.23
+global_step=70213, episodic_return=[20.095055], success_rate=0.3
+global_step=70613, episodic_return=[-1.87791], success_rate=0.15
+global_step=71013, episodic_return=[40.191635], success_rate=0.43
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=71413, episodic_return=[111.83249], success_rate=0.9
+SPS: 82
+global_step=71813, episodic_return=[3.0929737], success_rate=0.19
+global_step=72213, episodic_return=[96.2901], success_rate=0.83
+global_step=72613, episodic_return=[12.739621], success_rate=0.25
+global_step=73013, episodic_return=[79.569695], success_rate=0.69
+global_step=73413, episodic_return=[76.038284], success_rate=0.71
+SPS: 82
+global_step=73813, episodic_return=[-14.757297], success_rate=0.0
+global_step=74213, episodic_return=[5.215971], success_rate=0.14
+global_step=74613, episodic_return=[11.820962], success_rate=0.18
+global_step=75013, episodic_return=[23.560465], success_rate=0.18
+global_step=75413, episodic_return=[32.541073], success_rate=0.27
+SPS: 82
+global_step=75813, episodic_return=[62.119633], success_rate=0.52
+global_step=75833, episodic_return=[0.02706459], success_rate=0.0
+global_step=76233, episodic_return=[43.726345], success_rate=0.42
+global_step=76633, episodic_return=[80.519196], success_rate=0.58
+global_step=77033, episodic_return=[62.556572], success_rate=0.52
+global_step=77433, episodic_return=[90.882416], success_rate=0.73
+SPS: 82
+global_step=77833, episodic_return=[41.336536], success_rate=0.33
+global_step=78233, episodic_return=[56.800537], success_rate=0.55
+global_step=78633, episodic_return=[73.847336], success_rate=0.66
+global_step=79033, episodic_return=[83.77459], success_rate=0.67
+global_step=79433, episodic_return=[33.171333], success_rate=0.4
+global_step=79833, episodic_return=[71.442635], success_rate=0.69
+SPS: 82
+global_step=80233, episodic_return=[32.299095], success_rate=0.29
+global_step=80633, episodic_return=[42.981026], success_rate=0.38
+global_step=81033, episodic_return=[102.77868], success_rate=0.86
+global_step=81433, episodic_return=[70.38878], success_rate=0.56
+global_step=81833, episodic_return=[72.92688], success_rate=0.65
+SPS: 83
+global_step=82233, episodic_return=[6.149167], success_rate=0.24
+global_step=82633, episodic_return=[83.12136], success_rate=0.76
+global_step=83033, episodic_return=[18.152191], success_rate=0.24
+global_step=83057, episodic_return=[0.0338349], success_rate=0.0
+global_step=83457, episodic_return=[41.456284], success_rate=0.38
+global_step=83857, episodic_return=[88.7009], success_rate=0.79
+SPS: 83
+global_step=84257, episodic_return=[12.881254], success_rate=0.33
+global_step=84657, episodic_return=[-4.627349], success_rate=0.14
+global_step=85057, episodic_return=[7.2801733], success_rate=0.21
+global_step=85457, episodic_return=[3.9662008], success_rate=0.22
+global_step=85857, episodic_return=[-4.4982195], success_rate=0.15
+SPS: 83
+global_step=86257, episodic_return=[8.770942], success_rate=0.25
+global_step=86657, episodic_return=[30.91919], success_rate=0.43
+global_step=87057, episodic_return=[7.378544], success_rate=0.33
+global_step=87457, episodic_return=[49.47048], success_rate=0.57
+global_step=87857, episodic_return=[7.405114], success_rate=0.23
+SPS: 83
+global_step=88257, episodic_return=[-0.7518795], success_rate=0.21
+global_step=88657, episodic_return=[12.5834675], success_rate=0.29
+global_step=89057, episodic_return=[17.657827], success_rate=0.5
+global_step=89244, episodic_return=[-22.53807], success_rate=0.04
+global_step=89644, episodic_return=[44.202915], success_rate=0.57
+global_step=90044, episodic_return=[51.755985], success_rate=0.76
+SPS: 83
+global_step=90444, episodic_return=[36.731678], success_rate=0.49
+global_step=90844, episodic_return=[-18.423492], success_rate=0.1
+global_step=91244, episodic_return=[64.124435], success_rate=0.64
+global_step=91644, episodic_return=[34.512386], success_rate=0.37
+global_step=92044, episodic_return=[-19.706985], success_rate=0.12
+SPS: 83
+global_step=92444, episodic_return=[-22.289776], success_rate=0.03
+global_step=92844, episodic_return=[43.14561], success_rate=0.58
+global_step=93244, episodic_return=[76.69482], success_rate=0.68
+global_step=93644, episodic_return=[59.28131], success_rate=0.64
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=94044, episodic_return=[97.77628], success_rate=0.97
+global_step=94169, episodic_return=[61.063507], success_rate=0.6
+SPS: 83
+global_step=94569, episodic_return=[43.378128], success_rate=0.59
+global_step=94969, episodic_return=[4.2686863], success_rate=0.25
+global_step=95369, episodic_return=[23.613358], success_rate=0.41
+global_step=95769, episodic_return=[26.013342], success_rate=0.33
+global_step=96024, episodic_return=[6.8578343], success_rate=0.21
+global_step=96146, episodic_return=[-14.842812], success_rate=0.0
+SPS: 83
+global_step=96546, episodic_return=[31.09792], success_rate=0.43
+global_step=96946, episodic_return=[31.40522], success_rate=0.46
+global_step=97346, episodic_return=[24.90894], success_rate=0.4
+global_step=97746, episodic_return=[86.107315], success_rate=0.86
+global_step=98146, episodic_return=[25.569975], success_rate=0.48
+SPS: 83
+global_step=98546, episodic_return=[83.48667], success_rate=0.85
+global_step=98946, episodic_return=[74.92153], success_rate=0.77
+global_step=99346, episodic_return=[-14.996983], success_rate=0.27
+global_step=99746, episodic_return=[16.593904], success_rate=0.3
+global_step=99922, episodic_return=[0.6036788], success_rate=0.13
+global_step=100322, episodic_return=[74.61033], success_rate=0.8
+SPS: 83
+global_step=100722, episodic_return=[36.083855], success_rate=0.41
+global_step=101122, episodic_return=[-20.49837], success_rate=0.04
+global_step=101522, episodic_return=[-28.093925], success_rate=0.0
+global_step=101922, episodic_return=[87.66767], success_rate=0.74
+global_step=102322, episodic_return=[18.291021], success_rate=0.33
+global_step=102343, episodic_return=[-0.04652062], success_rate=0.0
+SPS: 83
+global_step=102743, episodic_return=[11.342362], success_rate=0.35
+global_step=103143, episodic_return=[16.463306], success_rate=0.35
+global_step=103543, episodic_return=[45.68651], success_rate=0.52
+global_step=103943, episodic_return=[-29.773722], success_rate=0.0
+global_step=104343, episodic_return=[-28.154875], success_rate=0.0
+SPS: 83
+global_step=104743, episodic_return=[13.3884735], success_rate=0.28
+global_step=105143, episodic_return=[-19.650967], success_rate=0.0
+global_step=105543, episodic_return=[-11.206692], success_rate=0.11
+global_step=105943, episodic_return=[29.24039], success_rate=0.35
+global_step=106343, episodic_return=[45.0793], success_rate=0.51
+SPS: 83
+global_step=106743, episodic_return=[20.35682], success_rate=0.22
+global_step=107143, episodic_return=[90.46135], success_rate=0.79
+global_step=107543, episodic_return=[63.439346], success_rate=0.63
+global_step=107943, episodic_return=[19.838127], success_rate=0.3
+global_step=108343, episodic_return=[19.237734], success_rate=0.27
+SPS: 83
+global_step=108743, episodic_return=[65.47133], success_rate=0.61
+global_step=109143, episodic_return=[32.432526], success_rate=0.19
+global_step=109543, episodic_return=[51.07909], success_rate=0.48
+global_step=109943, episodic_return=[23.927618], success_rate=0.27
+global_step=110343, episodic_return=[44.020523], success_rate=0.43
+SPS: 83
+global_step=110743, episodic_return=[61.69072], success_rate=0.45
+global_step=111143, episodic_return=[27.824242], success_rate=0.31
+global_step=111543, episodic_return=[24.260818], success_rate=0.25
+global_step=111943, episodic_return=[65.91862], success_rate=0.53
+global_step=112343, episodic_return=[73.428085], success_rate=0.66
+SPS: 84
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=112743, episodic_return=[124.085304], success_rate=0.97
+global_step=113143, episodic_return=[46.772057], success_rate=0.41
+global_step=113543, episodic_return=[42.143784], success_rate=0.3
+global_step=113943, episodic_return=[45.366463], success_rate=0.42
+global_step=114343, episodic_return=[46.903194], success_rate=0.36
+SPS: 84
+global_step=114743, episodic_return=[58.520832], success_rate=0.45
+global_step=115143, episodic_return=[47.544662], success_rate=0.42
+global_step=115543, episodic_return=[-25.325008], success_rate=0.0
+global_step=115943, episodic_return=[28.172394], success_rate=0.3
+global_step=116343, episodic_return=[36.118195], success_rate=0.37
+SPS: 84
+global_step=116743, episodic_return=[47.64162], success_rate=0.39
+global_step=117143, episodic_return=[33.03037], success_rate=0.31
+global_step=117543, episodic_return=[65.84985], success_rate=0.59
+global_step=117943, episodic_return=[64.211006], success_rate=0.66
+global_step=118343, episodic_return=[58.85768], success_rate=0.48
+global_step=118743, episodic_return=[73.223], success_rate=0.62
+SPS: 84
+global_step=119143, episodic_return=[-9.132458], success_rate=0.02
+global_step=119543, episodic_return=[37.381588], success_rate=0.29
+global_step=119943, episodic_return=[54.59672], success_rate=0.47
+global_step=120343, episodic_return=[51.651417], success_rate=0.44
+global_step=120743, episodic_return=[31.778996], success_rate=0.3
+SPS: 84
+global_step=121143, episodic_return=[82.347435], success_rate=0.68
+global_step=121543, episodic_return=[35.061966], success_rate=0.33
+global_step=121943, episodic_return=[15.836173], success_rate=0.15
+global_step=122343, episodic_return=[45.28025], success_rate=0.4
+global_step=122743, episodic_return=[54.046898], success_rate=0.44
+SPS: 84
+global_step=123143, episodic_return=[38.08542], success_rate=0.39
+global_step=123543, episodic_return=[-17.180943], success_rate=0.0
+global_step=123943, episodic_return=[33.97468], success_rate=0.3
+global_step=124343, episodic_return=[18.482327], success_rate=0.25
+global_step=124743, episodic_return=[71.37819], success_rate=0.7
+SPS: 84
+global_step=125143, episodic_return=[64.029976], success_rate=0.61
+global_step=125543, episodic_return=[6.524862], success_rate=0.18
+global_step=125943, episodic_return=[28.5898], success_rate=0.3
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=126343, episodic_return=[113.08373], success_rate=0.9
+global_step=126743, episodic_return=[63.56052], success_rate=0.54
+SPS: 84
+global_step=127143, episodic_return=[40.18947], success_rate=0.37
+global_step=127543, episodic_return=[13.113918], success_rate=0.23
+global_step=127943, episodic_return=[34.818134], success_rate=0.28
+global_step=128343, episodic_return=[71.05264], success_rate=0.7
+global_step=128743, episodic_return=[91.30428], success_rate=0.76
+SPS: 84
+global_step=129143, episodic_return=[26.644123], success_rate=0.35
+global_step=129543, episodic_return=[65.698845], success_rate=0.6
+global_step=129943, episodic_return=[45.93022], success_rate=0.49
+global_step=130343, episodic_return=[-25.585892], success_rate=0.05
+global_step=130743, episodic_return=[65.218445], success_rate=0.61
+SPS: 84
+global_step=131143, episodic_return=[51.5774], success_rate=0.53
+global_step=131543, episodic_return=[6.1508203], success_rate=0.2
+global_step=131943, episodic_return=[37.948425], success_rate=0.42
+global_step=132343, episodic_return=[39.456306], success_rate=0.39
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=132743, episodic_return=[113.47487], success_rate=0.94
+SPS: 84
+global_step=133143, episodic_return=[70.65571], success_rate=0.72
+global_step=133543, episodic_return=[38.227325], success_rate=0.41
+global_step=133943, episodic_return=[25.667376], success_rate=0.32
+global_step=134343, episodic_return=[16.866396], success_rate=0.25
+global_step=134743, episodic_return=[8.582939], success_rate=0.25
+global_step=135143, episodic_return=[-20.001158], success_rate=0.0
+SPS: 84
+global_step=135543, episodic_return=[57.986134], success_rate=0.53
+global_step=135943, episodic_return=[-15.371577], success_rate=0.0
+global_step=136343, episodic_return=[16.122206], success_rate=0.23
+global_step=136743, episodic_return=[-18.900925], success_rate=0.0
+global_step=137143, episodic_return=[-18.126265], success_rate=0.0
+SPS: 84
+global_step=137543, episodic_return=[-25.068235], success_rate=0.0
+global_step=137943, episodic_return=[57.8907], success_rate=0.61
+global_step=138343, episodic_return=[45.783295], success_rate=0.47
+global_step=138743, episodic_return=[12.485529], success_rate=0.13
+global_step=139143, episodic_return=[19.26354], success_rate=0.32
+SPS: 84
+global_step=139543, episodic_return=[40.697403], success_rate=0.48
+global_step=139943, episodic_return=[-1.5378797], success_rate=0.17
+global_step=140343, episodic_return=[31.985968], success_rate=0.32
+global_step=140743, episodic_return=[14.79784], success_rate=0.23
+global_step=141143, episodic_return=[98.466354], success_rate=0.85
+SPS: 84
+global_step=141543, episodic_return=[67.3083], success_rate=0.67
+global_step=141943, episodic_return=[63.489838], success_rate=0.71
+global_step=142343, episodic_return=[-35.603107], success_rate=0.03
+global_step=142743, episodic_return=[15.802647], success_rate=0.3
+global_step=143143, episodic_return=[31.725328], success_rate=0.4
+SPS: 84
+global_step=143543, episodic_return=[-10.952692], success_rate=0.12
+global_step=143916, episodic_return=[-23.890085], success_rate=0.0
+global_step=144316, episodic_return=[46.788994], success_rate=0.55
+global_step=144716, episodic_return=[40.164284], success_rate=0.41
+global_step=145116, episodic_return=[36.24664], success_rate=0.37
+SPS: 84
+global_step=145516, episodic_return=[61.265755], success_rate=0.55
+global_step=145916, episodic_return=[-20.317772], success_rate=0.0
+global_step=146316, episodic_return=[-25.244152], success_rate=0.0
+global_step=146716, episodic_return=[38.255604], success_rate=0.45
+global_step=147116, episodic_return=[75.35148], success_rate=0.58
+SPS: 84
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=147516, episodic_return=[120.87071], success_rate=0.98
+global_step=147916, episodic_return=[4.00122], success_rate=0.17
+global_step=148316, episodic_return=[52.65403], success_rate=0.58
+global_step=148716, episodic_return=[18.4522], success_rate=0.28
+global_step=149116, episodic_return=[64.86181], success_rate=0.59
+SPS: 85
+global_step=149516, episodic_return=[20.1864], success_rate=0.3
+global_step=149916, episodic_return=[42.76692], success_rate=0.46
+global_step=150316, episodic_return=[34.378426], success_rate=0.41
+global_step=150716, episodic_return=[49.067356], success_rate=0.43
+global_step=151116, episodic_return=[12.810483], success_rate=0.2
+global_step=151516, episodic_return=[32.4578], success_rate=0.28
+SPS: 85
+global_step=151916, episodic_return=[-12.607973], success_rate=0.0
+global_step=152316, episodic_return=[54.211414], success_rate=0.47
+global_step=152716, episodic_return=[74.70952], success_rate=0.54
+global_step=153116, episodic_return=[72.821884], success_rate=0.63
+global_step=153516, episodic_return=[-9.043392], success_rate=0.03
+SPS: 85
+global_step=153916, episodic_return=[56.088474], success_rate=0.44
+global_step=154316, episodic_return=[1.3716464], success_rate=0.01
+global_step=154716, episodic_return=[42.231403], success_rate=0.37
+global_step=155116, episodic_return=[68.34517], success_rate=0.54
+global_step=155516, episodic_return=[76.02062], success_rate=0.6
+SPS: 85
+global_step=155916, episodic_return=[43.145264], success_rate=0.38
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=156316, episodic_return=[114.901665], success_rate=0.9
+global_step=156716, episodic_return=[100.166664], success_rate=0.79
+global_step=157116, episodic_return=[63.485474], success_rate=0.47
+global_step=157516, episodic_return=[40.137318], success_rate=0.27
+SPS: 85
+global_step=157916, episodic_return=[73.57237], success_rate=0.66
+global_step=158316, episodic_return=[49.859596], success_rate=0.44
+global_step=158716, episodic_return=[30.208004], success_rate=0.27
+global_step=159116, episodic_return=[30.1228], success_rate=0.24
+global_step=159516, episodic_return=[17.619783], success_rate=0.22
+SPS: 85
+global_step=159916, episodic_return=[49.996677], success_rate=0.4
+global_step=160316, episodic_return=[59.36784], success_rate=0.43
+global_step=160716, episodic_return=[48.550037], success_rate=0.41
+global_step=161116, episodic_return=[68.34912], success_rate=0.59
+global_step=161516, episodic_return=[70.94774], success_rate=0.54
+SPS: 85
+global_step=161916, episodic_return=[25.952906], success_rate=0.25
+global_step=162316, episodic_return=[30.416605], success_rate=0.23
+global_step=162716, episodic_return=[98.04409], success_rate=0.81
+global_step=163116, episodic_return=[25.731045], success_rate=0.21
+global_step=163516, episodic_return=[30.877281], success_rate=0.31
+SPS: 85
+global_step=163916, episodic_return=[-3.5315027], success_rate=0.0
+global_step=164316, episodic_return=[-4.145122], success_rate=0.02
+global_step=164716, episodic_return=[108.07233], success_rate=0.89
+global_step=165116, episodic_return=[31.198263], success_rate=0.34
+global_step=165516, episodic_return=[86.31737], success_rate=0.67
+SPS: 85
+global_step=165916, episodic_return=[55.54533], success_rate=0.38
+global_step=166316, episodic_return=[25.747221], success_rate=0.16
+global_step=166716, episodic_return=[75.196495], success_rate=0.6
+global_step=167116, episodic_return=[15.551446], success_rate=0.17
+global_step=167516, episodic_return=[-12.694438], success_rate=0.0
+global_step=167916, episodic_return=[-2.4452865], success_rate=0.0
+SPS: 85
+global_step=168316, episodic_return=[70.53501], success_rate=0.59
+global_step=168716, episodic_return=[51.860535], success_rate=0.47
+global_step=169116, episodic_return=[66.95309], success_rate=0.55
+global_step=169516, episodic_return=[9.096765], success_rate=0.15
+global_step=169916, episodic_return=[32.972683], success_rate=0.28
+SPS: 85
+global_step=170316, episodic_return=[47.053055], success_rate=0.4
+global_step=170716, episodic_return=[25.873474], success_rate=0.25
+global_step=171116, episodic_return=[37.03908], success_rate=0.33
+global_step=171516, episodic_return=[67.7165], success_rate=0.53
+global_step=171916, episodic_return=[21.716362], success_rate=0.23
+SPS: 85
+global_step=172316, episodic_return=[39.113926], success_rate=0.32
+global_step=172716, episodic_return=[24.071049], success_rate=0.24
+global_step=173116, episodic_return=[41.719807], success_rate=0.37
+global_step=173516, episodic_return=[14.684693], success_rate=0.1
+global_step=173916, episodic_return=[22.06882], success_rate=0.28
+SPS: 85
+global_step=174316, episodic_return=[77.7872], success_rate=0.56
+global_step=174716, episodic_return=[43.953846], success_rate=0.34
+global_step=175116, episodic_return=[86.08588], success_rate=0.74
+global_step=175516, episodic_return=[-11.289972], success_rate=0.0
+global_step=175916, episodic_return=[72.090706], success_rate=0.58
+SPS: 85
+global_step=176316, episodic_return=[38.89808], success_rate=0.35
+global_step=176716, episodic_return=[-15.49833], success_rate=0.0
+global_step=177116, episodic_return=[-12.321825], success_rate=0.01
+global_step=177516, episodic_return=[-15.256809], success_rate=0.0
+global_step=177916, episodic_return=[35.26931], success_rate=0.34
+SPS: 86
+global_step=178316, episodic_return=[44.11527], success_rate=0.37
+global_step=178716, episodic_return=[67.185295], success_rate=0.54
+global_step=179116, episodic_return=[44.18689], success_rate=0.36
+global_step=179516, episodic_return=[15.500109], success_rate=0.14
+global_step=179916, episodic_return=[41.049385], success_rate=0.35
+SPS: 86
+global_step=180316, episodic_return=[8.091705], success_rate=0.08
+global_step=180716, episodic_return=[80.57984], success_rate=0.63
+global_step=181116, episodic_return=[65.329056], success_rate=0.55
+global_step=181516, episodic_return=[69.6854], success_rate=0.59
+global_step=181916, episodic_return=[39.000977], success_rate=0.3
+SPS: 86
+global_step=182316, episodic_return=[39.241123], success_rate=0.4
+global_step=182716, episodic_return=[8.647888], success_rate=0.13
+global_step=183116, episodic_return=[31.966335], success_rate=0.27
+global_step=183516, episodic_return=[2.7651184], success_rate=0.06
+global_step=183916, episodic_return=[63.958775], success_rate=0.53
+global_step=184316, episodic_return=[20.862255], success_rate=0.18
+SPS: 86
+global_step=184716, episodic_return=[96.93153], success_rate=0.74
+global_step=185116, episodic_return=[104.79998], success_rate=0.85
+global_step=185516, episodic_return=[63.98763], success_rate=0.48
+global_step=185916, episodic_return=[69.180466], success_rate=0.57
+global_step=186316, episodic_return=[88.29315], success_rate=0.73
+SPS: 86
+global_step=186716, episodic_return=[51.74144], success_rate=0.41
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=187116, episodic_return=[116.66919], success_rate=0.97
+global_step=187516, episodic_return=[56.17588], success_rate=0.5
+global_step=187916, episodic_return=[15.347476], success_rate=0.2
+global_step=188316, episodic_return=[46.87663], success_rate=0.38
+SPS: 86
+global_step=188716, episodic_return=[-8.684216], success_rate=0.0
+global_step=189116, episodic_return=[61.17539], success_rate=0.58
+global_step=189516, episodic_return=[56.05552], success_rate=0.53
+global_step=189916, episodic_return=[10.321404], success_rate=0.1
+global_step=190316, episodic_return=[59.39271], success_rate=0.59
+SPS: 86
+global_step=190716, episodic_return=[24.450827], success_rate=0.32
+global_step=191116, episodic_return=[-5.586539], success_rate=0.0
+global_step=191516, episodic_return=[19.350525], success_rate=0.24
+global_step=191916, episodic_return=[18.552017], success_rate=0.22
+global_step=192316, episodic_return=[-7.2306767], success_rate=0.07
+SPS: 86
+global_step=192716, episodic_return=[46.620453], success_rate=0.43
+global_step=193116, episodic_return=[-3.6667404], success_rate=0.14
+global_step=193516, episodic_return=[17.421572], success_rate=0.19
+global_step=193916, episodic_return=[86.08067], success_rate=0.75
+global_step=194316, episodic_return=[78.4657], success_rate=0.7
+SPS: 86
+global_step=194716, episodic_return=[-1.1094635], success_rate=0.09
+global_step=195116, episodic_return=[-19.57988], success_rate=0.0
+global_step=195516, episodic_return=[21.978022], success_rate=0.32
+global_step=195916, episodic_return=[84.07994], success_rate=0.8
+global_step=196316, episodic_return=[21.106537], success_rate=0.28
+SPS: 86
+global_step=196716, episodic_return=[61.024982], success_rate=0.62
+global_step=197116, episodic_return=[37.416294], success_rate=0.33
+global_step=197516, episodic_return=[14.805197], success_rate=0.19
+global_step=197916, episodic_return=[79.256714], success_rate=0.68
+global_step=198316, episodic_return=[48.752937], success_rate=0.53
+SPS: 86
+global_step=198716, episodic_return=[16.035019], success_rate=0.21
+global_step=199116, episodic_return=[-4.3623953], success_rate=0.07
+global_step=199516, episodic_return=[12.777901], success_rate=0.2
+global_step=199916, episodic_return=[7.423522], success_rate=0.18
+global_step=200316, episodic_return=[9.435041], success_rate=0.2
+SPS: 86
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=200716, episodic_return=[106.9833], success_rate=0.93
+global_step=201116, episodic_return=[71.28383], success_rate=0.68
+global_step=201516, episodic_return=[58.31562], success_rate=0.61
+global_step=201916, episodic_return=[70.97867], success_rate=0.75
+global_step=202316, episodic_return=[60.28083], success_rate=0.59
+global_step=202716, episodic_return=[65.90027], success_rate=0.6
+SPS: 86
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=203116, episodic_return=[106.29979], success_rate=0.99
+global_step=203516, episodic_return=[6.348343], success_rate=0.25
+global_step=203916, episodic_return=[82.064064], success_rate=0.73
+global_step=204316, episodic_return=[41.4054], success_rate=0.49
+global_step=204716, episodic_return=[50.611908], success_rate=0.56
+SPS: 86
+global_step=205116, episodic_return=[67.53883], success_rate=0.72
+global_step=205516, episodic_return=[77.31764], success_rate=0.77
+global_step=205916, episodic_return=[28.606508], success_rate=0.29
+global_step=206316, episodic_return=[30.984505], success_rate=0.41
+global_step=206716, episodic_return=[58.113728], success_rate=0.56
+SPS: 86
+global_step=207116, episodic_return=[17.821857], success_rate=0.23
+global_step=207516, episodic_return=[55.97798], success_rate=0.56
+global_step=207916, episodic_return=[14.806579], success_rate=0.25
+global_step=208316, episodic_return=[8.790181], success_rate=0.26
+global_step=208716, episodic_return=[54.24512], success_rate=0.53
+SPS: 86
+global_step=209116, episodic_return=[-7.8447943], success_rate=0.18
+global_step=209516, episodic_return=[64.75266], success_rate=0.62
+global_step=209916, episodic_return=[27.120008], success_rate=0.38
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=210316, episodic_return=[103.75659], success_rate=0.95
+global_step=210716, episodic_return=[14.8153], success_rate=0.23
+SPS: 86
+global_step=211116, episodic_return=[24.484283], success_rate=0.26
+global_step=211516, episodic_return=[27.721891], success_rate=0.36
+global_step=211916, episodic_return=[55.23521], success_rate=0.54
+global_step=212316, episodic_return=[6.6262803], success_rate=0.16
+global_step=212716, episodic_return=[-16.778769], success_rate=0.0
+SPS: 86
+global_step=213116, episodic_return=[-14.527919], success_rate=0.0
+global_step=213516, episodic_return=[60.664097], success_rate=0.67
+global_step=213916, episodic_return=[79.84266], success_rate=0.78
+global_step=214316, episodic_return=[36.829372], success_rate=0.41
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=214716, episodic_return=[96.64354], success_rate=0.9
+SPS: 86
+global_step=215116, episodic_return=[40.30626], success_rate=0.41
+global_step=215516, episodic_return=[35.243874], success_rate=0.45
+global_step=215916, episodic_return=[45.73581], success_rate=0.51
+global_step=216316, episodic_return=[-26.69661], success_rate=0.0
+global_step=216716, episodic_return=[36.333603], success_rate=0.4
+SPS: 86
+global_step=217116, episodic_return=[79.24016], success_rate=0.77
+global_step=217516, episodic_return=[17.002365], success_rate=0.31
+global_step=217916, episodic_return=[68.80194], success_rate=0.63
+global_step=218316, episodic_return=[32.372917], success_rate=0.35
+global_step=218716, episodic_return=[58.80895], success_rate=0.58
+global_step=219116, episodic_return=[7.680329], success_rate=0.27
+SPS: 86
+global_step=219516, episodic_return=[34.20087], success_rate=0.46
+global_step=219916, episodic_return=[55.44632], success_rate=0.61
+global_step=220316, episodic_return=[18.410177], success_rate=0.36
+global_step=220716, episodic_return=[40.132954], success_rate=0.47
+global_step=221116, episodic_return=[40.39528], success_rate=0.47
+SPS: 86
+global_step=221516, episodic_return=[-22.47893], success_rate=0.01
+global_step=221916, episodic_return=[14.0201235], success_rate=0.29
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=222316, episodic_return=[99.542], success_rate=0.98
+global_step=222716, episodic_return=[71.91443], success_rate=0.69
+global_step=223116, episodic_return=[43.851353], success_rate=0.53
+SPS: 86
+global_step=223516, episodic_return=[43.721806], success_rate=0.52
+global_step=223916, episodic_return=[9.30531], success_rate=0.29
+global_step=224316, episodic_return=[27.213314], success_rate=0.43
+global_step=224716, episodic_return=[25.465622], success_rate=0.42
+global_step=225116, episodic_return=[-15.856603], success_rate=0.0
+SPS: 86
+global_step=225516, episodic_return=[73.89882], success_rate=0.73
+global_step=225916, episodic_return=[-1.9309658], success_rate=0.19
+global_step=226316, episodic_return=[81.18394], success_rate=0.76
+global_step=226716, episodic_return=[-23.943048], success_rate=0.0
+global_step=227116, episodic_return=[2.6033294], success_rate=0.25
+SPS: 86
+global_step=227516, episodic_return=[77.72032], success_rate=0.74
+global_step=227916, episodic_return=[11.389978], success_rate=0.2
+global_step=228316, episodic_return=[57.892323], success_rate=0.69
+global_step=228716, episodic_return=[23.059937], success_rate=0.35
+global_step=229116, episodic_return=[-18.288105], success_rate=0.0
+SPS: 86
+global_step=229516, episodic_return=[-29.214237], success_rate=0.01
+global_step=229916, episodic_return=[1.9822253], success_rate=0.15
+global_step=230316, episodic_return=[37.314606], success_rate=0.5
+global_step=230716, episodic_return=[42.299698], success_rate=0.44
+global_step=231116, episodic_return=[57.5661], success_rate=0.65
+SPS: 86
+global_step=231516, episodic_return=[0.21463138], success_rate=0.12
+global_step=231916, episodic_return=[60.087936], success_rate=0.62
+global_step=232316, episodic_return=[7.69059], success_rate=0.26
+global_step=232716, episodic_return=[31.717918], success_rate=0.35
+global_step=233116, episodic_return=[57.405506], success_rate=0.5
+SPS: 86
+global_step=233516, episodic_return=[42.767025], success_rate=0.5
+global_step=233916, episodic_return=[-26.916481], success_rate=0.0
+global_step=234316, episodic_return=[-13.459546], success_rate=0.04
+global_step=234716, episodic_return=[30.409239], success_rate=0.37
+global_step=235116, episodic_return=[37.49412], success_rate=0.48
+global_step=235516, episodic_return=[30.704935], success_rate=0.37
+SPS: 86
+global_step=235916, episodic_return=[55.066303], success_rate=0.54
+global_step=236316, episodic_return=[-0.19701228], success_rate=0.16
+global_step=236716, episodic_return=[24.982061], success_rate=0.45
+global_step=237116, episodic_return=[38.85341], success_rate=0.45
+global_step=237516, episodic_return=[50.687874], success_rate=0.6
+SPS: 86
+global_step=237916, episodic_return=[10.736494], success_rate=0.2
+global_step=238316, episodic_return=[3.0009158], success_rate=0.16
+global_step=238716, episodic_return=[5.9354997], success_rate=0.2
+global_step=239116, episodic_return=[33.164246], success_rate=0.39
+global_step=239516, episodic_return=[55.20098], success_rate=0.59
+SPS: 86
+global_step=239916, episodic_return=[-17.301819], success_rate=0.04
+global_step=240316, episodic_return=[-17.676012], success_rate=0.04
+global_step=240716, episodic_return=[-10.377372], success_rate=0.11
+global_step=241116, episodic_return=[-12.281993], success_rate=0.0
+global_step=241516, episodic_return=[47.8711], success_rate=0.53
+SPS: 86
+global_step=241916, episodic_return=[50.615177], success_rate=0.51
+global_step=242316, episodic_return=[56.384903], success_rate=0.58
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=242531, episodic_return=[117.25899], success_rate=1.0
+global_step=242931, episodic_return=[-17.305777], success_rate=0.0
+global_step=243331, episodic_return=[57.48116], success_rate=0.51
+SPS: 86
+global_step=243731, episodic_return=[16.44071], success_rate=0.26
+global_step=244131, episodic_return=[30.755287], success_rate=0.37
+global_step=244531, episodic_return=[45.56065], success_rate=0.5
+global_step=244931, episodic_return=[-11.012228], success_rate=0.12
+global_step=245331, episodic_return=[-14.179171], success_rate=0.13
+global_step=245731, episodic_return=[-2.6350994], success_rate=0.16
+SPS: 86
+global_step=246131, episodic_return=[58.08738], success_rate=0.66
+global_step=246531, episodic_return=[8.024827], success_rate=0.19
+global_step=246931, episodic_return=[20.255085], success_rate=0.29
+global_step=247331, episodic_return=[-25.412382], success_rate=0.0
+global_step=247731, episodic_return=[11.729458], success_rate=0.29
+SPS: 86
+global_step=248131, episodic_return=[91.107834], success_rate=0.87
+global_step=248531, episodic_return=[-4.554459], success_rate=0.08
+global_step=248931, episodic_return=[15.145646], success_rate=0.32
+global_step=249331, episodic_return=[60.283203], success_rate=0.61
+global_step=249731, episodic_return=[26.337736], success_rate=0.43
+SPS: 86
+global_step=250131, episodic_return=[29.000067], success_rate=0.41
+global_step=250531, episodic_return=[69.96011], success_rate=0.72
+global_step=250931, episodic_return=[-17.315676], success_rate=0.0
+global_step=251331, episodic_return=[16.915392], success_rate=0.34
+global_step=251731, episodic_return=[49.553486], success_rate=0.57
+SPS: 86
+global_step=252131, episodic_return=[32.94862], success_rate=0.45
+global_step=252531, episodic_return=[26.851456], success_rate=0.34
+global_step=252931, episodic_return=[-28.1878], success_rate=0.02
+global_step=253331, episodic_return=[27.02722], success_rate=0.34
+global_step=253731, episodic_return=[36.717644], success_rate=0.46
+SPS: 86
+global_step=254131, episodic_return=[45.28975], success_rate=0.52
+global_step=254531, episodic_return=[80.0855], success_rate=0.77
+global_step=254931, episodic_return=[57.206413], success_rate=0.57
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=255219, episodic_return=[116.3395], success_rate=1.0
+global_step=255619, episodic_return=[57.34662], success_rate=0.61
+SPS: 86
+global_step=256019, episodic_return=[33.216076], success_rate=0.4
+global_step=256419, episodic_return=[-15.247707], success_rate=0.02
+global_step=256819, episodic_return=[35.21595], success_rate=0.39
+global_step=257219, episodic_return=[-0.7503913], success_rate=0.13
+global_step=257619, episodic_return=[23.59996], success_rate=0.4
+global_step=258019, episodic_return=[-28.431122], success_rate=0.03
+SPS: 86
+global_step=258419, episodic_return=[20.022598], success_rate=0.38
+global_step=258819, episodic_return=[66.13038], success_rate=0.62
+global_step=259219, episodic_return=[43.0337], success_rate=0.46
+global_step=259619, episodic_return=[8.863856], success_rate=0.21
+global_step=260019, episodic_return=[0.72867817], success_rate=0.22
+SPS: 86
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=260419, episodic_return=[98.94024], success_rate=0.96
+global_step=260819, episodic_return=[58.395794], success_rate=0.64
+global_step=261219, episodic_return=[15.727286], success_rate=0.34
+global_step=261619, episodic_return=[-7.0814195], success_rate=0.16
+global_step=262019, episodic_return=[61.003693], success_rate=0.7
+SPS: 86
+global_step=262419, episodic_return=[13.410828], success_rate=0.28
+global_step=262819, episodic_return=[30.393877], success_rate=0.43
+global_step=263219, episodic_return=[25.476326], success_rate=0.34
+global_step=263619, episodic_return=[53.413414], success_rate=0.66
+global_step=264019, episodic_return=[0.03952713], success_rate=0.21
+SPS: 86
+global_step=264419, episodic_return=[89.24661], success_rate=0.88
+global_step=264819, episodic_return=[21.493626], success_rate=0.42
+global_step=265219, episodic_return=[43.2909], success_rate=0.59
+global_step=265619, episodic_return=[44.724865], success_rate=0.52
+global_step=266019, episodic_return=[-4.1007757], success_rate=0.2
+SPS: 86
+global_step=266419, episodic_return=[-3.950164], success_rate=0.13
+global_step=266819, episodic_return=[9.936548], success_rate=0.25
+global_step=267219, episodic_return=[-30.511105], success_rate=0.0
+global_step=267619, episodic_return=[-12.233582], success_rate=0.06
+global_step=268019, episodic_return=[27.730314], success_rate=0.42
+SPS: 86
+global_step=268419, episodic_return=[11.817406], success_rate=0.23
+global_step=268819, episodic_return=[17.466114], success_rate=0.33
+global_step=269219, episodic_return=[-12.515646], success_rate=0.04
+global_step=269619, episodic_return=[51.376923], success_rate=0.56
+global_step=270019, episodic_return=[2.6902978], success_rate=0.2
+SPS: 86
+global_step=270419, episodic_return=[25.919851], success_rate=0.33
+global_step=270819, episodic_return=[-16.721178], success_rate=0.05
+global_step=271219, episodic_return=[30.577755], success_rate=0.38
+global_step=271619, episodic_return=[3.2715712], success_rate=0.16
+global_step=272019, episodic_return=[-22.56488], success_rate=0.0
+SPS: 86
+global_step=272419, episodic_return=[-15.240533], success_rate=0.11
+global_step=272819, episodic_return=[51.783226], success_rate=0.6
+global_step=273219, episodic_return=[92.53231], success_rate=0.82
+global_step=273619, episodic_return=[-6.8843293], success_rate=0.18
+global_step=274019, episodic_return=[73.13151], success_rate=0.69
+global_step=274419, episodic_return=[54.000835], success_rate=0.58
+SPS: 86
+global_step=274819, episodic_return=[-15.730427], success_rate=0.04
+global_step=275219, episodic_return=[-20.5416], success_rate=0.0
+global_step=275619, episodic_return=[10.204108], success_rate=0.23
+global_step=276019, episodic_return=[38.273327], success_rate=0.41
+global_step=276419, episodic_return=[16.39422], success_rate=0.32
+SPS: 86
+global_step=276819, episodic_return=[84.75241], success_rate=0.8
+global_step=277219, episodic_return=[6.856115], success_rate=0.27
+global_step=277619, episodic_return=[-25.562105], success_rate=0.0
+global_step=278019, episodic_return=[17.024143], success_rate=0.27
+global_step=278419, episodic_return=[65.888466], success_rate=0.69
+SPS: 86
+global_step=278819, episodic_return=[61.457573], success_rate=0.59
+global_step=279219, episodic_return=[33.44669], success_rate=0.36
+global_step=279619, episodic_return=[49.279167], success_rate=0.62
+global_step=280019, episodic_return=[-9.921696], success_rate=0.11
+global_step=280419, episodic_return=[46.787926], success_rate=0.51
+SPS: 86
+global_step=280819, episodic_return=[74.69409], success_rate=0.76
+global_step=281219, episodic_return=[55.63271], success_rate=0.57
+global_step=281619, episodic_return=[31.103268], success_rate=0.46
+global_step=282019, episodic_return=[61.19058], success_rate=0.59
+global_step=282419, episodic_return=[2.2342768], success_rate=0.18
+SPS: 86
+global_step=282819, episodic_return=[24.558167], success_rate=0.35
+global_step=283219, episodic_return=[3.7618365], success_rate=0.18
+global_step=283619, episodic_return=[79.58715], success_rate=0.74
+global_step=284019, episodic_return=[39.399986], success_rate=0.49
+global_step=284419, episodic_return=[56.81693], success_rate=0.56
+SPS: 86
+global_step=284819, episodic_return=[82.507515], success_rate=0.75
+global_step=285219, episodic_return=[20.54714], success_rate=0.3
+global_step=285619, episodic_return=[-10.554446], success_rate=0.11
+global_step=286019, episodic_return=[45.97743], success_rate=0.6
+global_step=286419, episodic_return=[68.413025], success_rate=0.64
+SPS: 86
+global_step=286819, episodic_return=[7.4087877], success_rate=0.25
+global_step=287219, episodic_return=[72.8384], success_rate=0.76
+global_step=287619, episodic_return=[24.555569], success_rate=0.32
+global_step=288019, episodic_return=[-3.4968512], success_rate=0.11
+global_step=288419, episodic_return=[43.61361], success_rate=0.41
+SPS: 86
+global_step=288819, episodic_return=[-16.599121], success_rate=0.0
+global_step=289219, episodic_return=[4.629987], success_rate=0.3
+global_step=289619, episodic_return=[32.986103], success_rate=0.39
+global_step=290019, episodic_return=[-8.59853], success_rate=0.12
+global_step=290419, episodic_return=[-35.61809], success_rate=0.0
+SPS: 86
+global_step=290819, episodic_return=[14.977515], success_rate=0.32
+global_step=291219, episodic_return=[-22.57133], success_rate=0.02
+global_step=291619, episodic_return=[0.85270834], success_rate=0.2
+global_step=292019, episodic_return=[-8.787127], success_rate=0.09
+global_step=292419, episodic_return=[7.9715047], success_rate=0.27
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=292738, episodic_return=[108.055534], success_rate=1.0
+SPS: 86
+global_step=293138, episodic_return=[5.4459224], success_rate=0.25
+global_step=293538, episodic_return=[52.71755], success_rate=0.57
+global_step=293938, episodic_return=[31.62436], success_rate=0.42
+global_step=294338, episodic_return=[17.475122], success_rate=0.35
+global_step=294738, episodic_return=[52.76144], success_rate=0.59
+SPS: 86
+global_step=295138, episodic_return=[32.72274], success_rate=0.38
+global_step=295538, episodic_return=[5.931911], success_rate=0.19
+global_step=295938, episodic_return=[12.923879], success_rate=0.31
+global_step=296338, episodic_return=[-4.8568883], success_rate=0.13
+global_step=296738, episodic_return=[1.003047], success_rate=0.14
+SPS: 86
+global_step=297138, episodic_return=[57.9446], success_rate=0.63
+global_step=297538, episodic_return=[95.85704], success_rate=0.88
+global_step=297938, episodic_return=[-18.336142], success_rate=0.0
+global_step=298338, episodic_return=[28.645626], success_rate=0.32
+global_step=298738, episodic_return=[31.506706], success_rate=0.4
+SPS: 86
+global_step=299138, episodic_return=[16.608356], success_rate=0.32
+global_step=299538, episodic_return=[91.99558], success_rate=0.87
+global_step=299938, episodic_return=[-5.083592], success_rate=0.15
+global_step=300338, episodic_return=[34.31608], success_rate=0.34
+global_step=300738, episodic_return=[33.86449], success_rate=0.39
+SPS: 86
+global_step=301138, episodic_return=[-0.61934716], success_rate=0.16
+global_step=301538, episodic_return=[38.17365], success_rate=0.45
+global_step=301938, episodic_return=[72.693695], success_rate=0.68
+global_step=302338, episodic_return=[15.6682415], success_rate=0.25
+global_step=302738, episodic_return=[-15.168865], success_rate=0.05
+SPS: 86
+global_step=303138, episodic_return=[73.43036], success_rate=0.7
+global_step=303538, episodic_return=[23.03584], success_rate=0.26
+global_step=303938, episodic_return=[2.994638], success_rate=0.2
+global_step=304338, episodic_return=[50.69977], success_rate=0.51
+global_step=304738, episodic_return=[46.87884], success_rate=0.48
+global_step=305138, episodic_return=[34.458225], success_rate=0.39
+SPS: 86
+global_step=305538, episodic_return=[33.003014], success_rate=0.36
+global_step=305938, episodic_return=[8.318698], success_rate=0.16
+global_step=306338, episodic_return=[48.25159], success_rate=0.46
+global_step=306738, episodic_return=[55.290707], success_rate=0.5
+global_step=307138, episodic_return=[-20.707443], success_rate=0.0
+SPS: 86
+global_step=307538, episodic_return=[82.13187], success_rate=0.7
+global_step=307938, episodic_return=[40.670654], success_rate=0.46
+global_step=308338, episodic_return=[5.093379], success_rate=0.2
+global_step=308738, episodic_return=[30.398008], success_rate=0.38
+global_step=309138, episodic_return=[26.204363], success_rate=0.34
+SPS: 86
+global_step=309538, episodic_return=[33.646908], success_rate=0.38
+global_step=309938, episodic_return=[44.368774], success_rate=0.49
+global_step=310338, episodic_return=[4.17998], success_rate=0.19
+global_step=310738, episodic_return=[51.154213], success_rate=0.6
+global_step=311138, episodic_return=[94.72971], success_rate=0.88
+SPS: 86
+global_step=311538, episodic_return=[24.055803], success_rate=0.3
+global_step=311938, episodic_return=[-1.936111], success_rate=0.2
+global_step=312338, episodic_return=[32.196003], success_rate=0.46
+global_step=312738, episodic_return=[4.556188], success_rate=0.18
+global_step=313138, episodic_return=[-4.5923777], success_rate=0.11
+SPS: 86
+global_step=313538, episodic_return=[3.9540896], success_rate=0.15
+global_step=313938, episodic_return=[13.4054165], success_rate=0.17
+global_step=314338, episodic_return=[-18.6812], success_rate=0.0
+global_step=314738, episodic_return=[82.79934], success_rate=0.67
+global_step=315138, episodic_return=[22.452404], success_rate=0.35
+SPS: 86
+global_step=315538, episodic_return=[65.70672], success_rate=0.53
+global_step=315938, episodic_return=[29.314701], success_rate=0.37
+global_step=316338, episodic_return=[-8.621539], success_rate=0.07
+global_step=316738, episodic_return=[47.960075], success_rate=0.49
+global_step=317138, episodic_return=[39.500988], success_rate=0.39
+SPS: 86
+global_step=317538, episodic_return=[16.93513], success_rate=0.25
+global_step=317938, episodic_return=[23.823776], success_rate=0.33
+global_step=318338, episodic_return=[24.84016], success_rate=0.3
+global_step=318738, episodic_return=[-11.003861], success_rate=0.06
+global_step=319138, episodic_return=[-4.1342983], success_rate=0.07
+SPS: 86
+global_step=319538, episodic_return=[43.04387], success_rate=0.5
+global_step=319938, episodic_return=[-26.821363], success_rate=0.0
+global_step=320338, episodic_return=[24.676235], success_rate=0.34
+global_step=320738, episodic_return=[3.772799], success_rate=0.18
+global_step=321138, episodic_return=[6.7257724], success_rate=0.2
+SPS: 86
+global_step=321538, episodic_return=[23.226055], success_rate=0.29
+global_step=321938, episodic_return=[8.047921], success_rate=0.23
+global_step=322338, episodic_return=[19.286463], success_rate=0.29
+global_step=322738, episodic_return=[14.524198], success_rate=0.2
+global_step=323138, episodic_return=[63.589455], success_rate=0.57
+global_step=323538, episodic_return=[-1.059308], success_rate=0.03
+SPS: 86
+global_step=323938, episodic_return=[-8.451291], success_rate=0.07
+global_step=324338, episodic_return=[34.664616], success_rate=0.29
+global_step=324738, episodic_return=[35.604836], success_rate=0.36
+global_step=325138, episodic_return=[53.5304], success_rate=0.47
+global_step=325538, episodic_return=[47.379707], success_rate=0.52
+SPS: 86
+global_step=325938, episodic_return=[22.247763], success_rate=0.25
+global_step=326338, episodic_return=[93.72295], success_rate=0.79
+global_step=326738, episodic_return=[59.16294], success_rate=0.57
+global_step=327138, episodic_return=[21.982609], success_rate=0.33
+global_step=327538, episodic_return=[47.84488], success_rate=0.45
+SPS: 86
+global_step=327938, episodic_return=[-4.416735], success_rate=0.08
+global_step=328338, episodic_return=[-19.59332], success_rate=0.0
+global_step=328738, episodic_return=[53.993225], success_rate=0.6
+global_step=329138, episodic_return=[-0.4260836], success_rate=0.18
+global_step=329538, episodic_return=[-12.658846], success_rate=0.07
+SPS: 86
+global_step=329938, episodic_return=[18.735676], success_rate=0.25
+global_step=330338, episodic_return=[86.46216], success_rate=0.76
+global_step=330738, episodic_return=[19.276018], success_rate=0.21
+global_step=331138, episodic_return=[37.807297], success_rate=0.29
+global_step=331538, episodic_return=[-1.3724234], success_rate=0.07
+SPS: 86
+global_step=331938, episodic_return=[76.84683], success_rate=0.65
+global_step=332338, episodic_return=[32.307346], success_rate=0.45
+global_step=332738, episodic_return=[75.79354], success_rate=0.67
+global_step=333138, episodic_return=[17.054743], success_rate=0.26
+global_step=333538, episodic_return=[95.35539], success_rate=0.83
+SPS: 86
+global_step=333938, episodic_return=[55.440098], success_rate=0.5
+global_step=334338, episodic_return=[40.01928], success_rate=0.41
+global_step=334738, episodic_return=[37.93904], success_rate=0.32
+global_step=335138, episodic_return=[23.004036], success_rate=0.32
+global_step=335538, episodic_return=[-15.651545], success_rate=0.0
+SPS: 86
+global_step=335938, episodic_return=[22.902996], success_rate=0.27
+global_step=336338, episodic_return=[3.3538737], success_rate=0.17
+global_step=336738, episodic_return=[90.34826], success_rate=0.79
+global_step=337138, episodic_return=[26.835804], success_rate=0.34
+global_step=337538, episodic_return=[30.00717], success_rate=0.38
+SPS: 86
+global_step=337938, episodic_return=[-11.5929365], success_rate=0.0
+global_step=338338, episodic_return=[16.071415], success_rate=0.23
+global_step=338738, episodic_return=[10.716906], success_rate=0.21
+global_step=339138, episodic_return=[13.362107], success_rate=0.24
+global_step=339538, episodic_return=[8.985265], success_rate=0.17
+global_step=339938, episodic_return=[40.76054], success_rate=0.5
+SPS: 86
+global_step=340338, episodic_return=[-4.6948943], success_rate=0.14
+global_step=340738, episodic_return=[-1.737136], success_rate=0.18
+global_step=341138, episodic_return=[29.514256], success_rate=0.39
+global_step=341538, episodic_return=[11.032495], success_rate=0.18
+global_step=341938, episodic_return=[-9.114307], success_rate=0.06
+SPS: 86
+global_step=342338, episodic_return=[26.087349], success_rate=0.3
+global_step=342738, episodic_return=[49.936813], success_rate=0.46
+global_step=343138, episodic_return=[62.397717], success_rate=0.59
+global_step=343538, episodic_return=[10.8347025], success_rate=0.27
+global_step=343938, episodic_return=[2.13089], success_rate=0.14
+SPS: 86
+global_step=344284, episodic_return=[66.717896], success_rate=0.6
+global_step=344684, episodic_return=[-11.708035], success_rate=0.0
+global_step=345084, episodic_return=[-5.080755], success_rate=0.11
+global_step=345484, episodic_return=[8.831915], success_rate=0.17
+global_step=345884, episodic_return=[19.392025], success_rate=0.26
+SPS: 86
+global_step=346284, episodic_return=[67.44093], success_rate=0.69
+global_step=346684, episodic_return=[39.760162], success_rate=0.47
+global_step=347084, episodic_return=[23.324892], success_rate=0.37
+global_step=347484, episodic_return=[20.142954], success_rate=0.33
+global_step=347884, episodic_return=[64.81013], success_rate=0.63
+SPS: 86
+global_step=348284, episodic_return=[31.920498], success_rate=0.37
+global_step=348684, episodic_return=[3.6709065], success_rate=0.26
+global_step=349084, episodic_return=[41.84398], success_rate=0.49
+global_step=349484, episodic_return=[55.912758], success_rate=0.59
+global_step=349884, episodic_return=[47.927204], success_rate=0.58
+SPS: 86
+global_step=350284, episodic_return=[-22.020226], success_rate=0.0
+global_step=350684, episodic_return=[10.629931], success_rate=0.27
+global_step=351084, episodic_return=[-19.262512], success_rate=0.0
+global_step=351484, episodic_return=[76.829765], success_rate=0.8
+global_step=351884, episodic_return=[-26.080776], success_rate=0.0
+SPS: 86
+global_step=352284, episodic_return=[73.619576], success_rate=0.8
+global_step=352684, episodic_return=[71.54373], success_rate=0.81
+global_step=353084, episodic_return=[-8.248319], success_rate=0.18
+global_step=353484, episodic_return=[-16.73022], success_rate=0.14
+global_step=353884, episodic_return=[17.520445], success_rate=0.35
+global_step=354284, episodic_return=[43.325455], success_rate=0.58
+SPS: 86
+global_step=354684, episodic_return=[24.687384], success_rate=0.41
+global_step=355084, episodic_return=[11.749089], success_rate=0.34
+global_step=355484, episodic_return=[-9.673862], success_rate=0.15
+global_step=355884, episodic_return=[34.276752], success_rate=0.49
+global_step=356284, episodic_return=[27.151215], success_rate=0.49
+SPS: 86
+global_step=356684, episodic_return=[51.024323], success_rate=0.62
+global_step=357084, episodic_return=[-35.193325], success_rate=0.0
+global_step=357484, episodic_return=[-32.818462], success_rate=0.0
+global_step=357563, episodic_return=[0.6145897], success_rate=0.0
+global_step=357794, episodic_return=[87.73132], success_rate=0.76
+global_step=358162, episodic_return=[26.12553], success_rate=0.44
+SPS: 86
+global_step=358406, episodic_return=[-6.8123927], success_rate=0.03
+global_step=358633, episodic_return=[28.922386], success_rate=0.3
+global_step=358718, episodic_return=[0.13547492], success_rate=0.0
+global_step=358948, episodic_return=[39.123207], success_rate=0.39
+global_step=359348, episodic_return=[-26.954222], success_rate=0.0
+global_step=359748, episodic_return=[-26.621073], success_rate=0.0
+global_step=360148, episodic_return=[82.18762], success_rate=0.82
+SPS: 86
+global_step=360548, episodic_return=[-25.741558], success_rate=0.0
+global_step=360948, episodic_return=[30.282433], success_rate=0.39
+global_step=361348, episodic_return=[-10.665472], success_rate=0.12
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=361748, episodic_return=[95.74127], success_rate=0.95
+global_step=362148, episodic_return=[-16.50407], success_rate=0.0
+SPS: 86
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=362548, episodic_return=[101.931564], success_rate=0.96
+global_step=362636, episodic_return=[0.00208884], success_rate=0.0
+global_step=363036, episodic_return=[27.048746], success_rate=0.38
+global_step=363271, episodic_return=[-8.823274], success_rate=0.0
+global_step=363671, episodic_return=[31.882675], success_rate=0.47
+global_step=363756, episodic_return=[0.3211176], success_rate=0.0
+global_step=364114, episodic_return=[73.46675], success_rate=0.64
+global_step=364514, episodic_return=[-25.898497], success_rate=0.0
+SPS: 86
+global_step=364914, episodic_return=[-25.256193], success_rate=0.0
+global_step=365314, episodic_return=[22.798456], success_rate=0.35
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=365565, episodic_return=[122.35862], success_rate=1.0
+global_step=365965, episodic_return=[-7.1474767], success_rate=0.12
+global_step=366365, episodic_return=[16.509138], success_rate=0.3
+SPS: 86
+global_step=366765, episodic_return=[-11.960723], success_rate=0.09
+global_step=367165, episodic_return=[-17.233221], success_rate=0.03
+global_step=367565, episodic_return=[91.041], success_rate=0.86
+global_step=367965, episodic_return=[10.685727], success_rate=0.18
+global_step=368365, episodic_return=[86.68163], success_rate=0.78
+SPS: 87
+global_step=368765, episodic_return=[-15.050024], success_rate=0.06
+global_step=369165, episodic_return=[55.733246], success_rate=0.56
+global_step=369565, episodic_return=[26.134949], success_rate=0.37
+global_step=369965, episodic_return=[1.8549293], success_rate=0.16
+global_step=370365, episodic_return=[26.462122], success_rate=0.3
+SPS: 87
+global_step=370765, episodic_return=[20.073647], success_rate=0.31
+global_step=371165, episodic_return=[59.756817], success_rate=0.58
+global_step=371565, episodic_return=[90.39938], success_rate=0.77
+global_step=371796, episodic_return=[2.46081], success_rate=0.0
+global_step=372196, episodic_return=[37.58899], success_rate=0.35
+global_step=372423, episodic_return=[65.50931], success_rate=0.53
+SPS: 87
+global_step=372823, episodic_return=[-22.324215], success_rate=0.0
+global_step=373223, episodic_return=[30.063196], success_rate=0.28
+global_step=373623, episodic_return=[19.023615], success_rate=0.24
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=374010, episodic_return=[118.98531], success_rate=1.0
+global_step=374410, episodic_return=[79.61133], success_rate=0.74
+SPS: 87
+global_step=374810, episodic_return=[66.11077], success_rate=0.6
+global_step=375183, episodic_return=[40.101566], success_rate=0.36
+global_step=375401, episodic_return=[14.374043], success_rate=0.14
+global_step=375771, episodic_return=[-2.6599257], success_rate=0.0
+global_step=376171, episodic_return=[-3.4162433], success_rate=0.08
+global_step=376508, episodic_return=[56.94374], success_rate=0.45
+SPS: 87
+global_step=376908, episodic_return=[41.19003], success_rate=0.36
+global_step=377308, episodic_return=[19.703936], success_rate=0.25
+global_step=377708, episodic_return=[73.97323], success_rate=0.65
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=378104, episodic_return=[118.89202], success_rate=1.0
+global_step=378504, episodic_return=[-4.4434624], success_rate=0.0
+SPS: 87
+global_step=378904, episodic_return=[-9.366809], success_rate=0.11
+global_step=379304, episodic_return=[65.9206], success_rate=0.56
+global_step=379704, episodic_return=[54.93702], success_rate=0.49
+global_step=380104, episodic_return=[46.43655], success_rate=0.46
+global_step=380504, episodic_return=[33.744503], success_rate=0.31
+global_step=380904, episodic_return=[36.224045], success_rate=0.32
+SPS: 87
+global_step=381304, episodic_return=[-1.8659985], success_rate=0.0
+global_step=381704, episodic_return=[16.859009], success_rate=0.16
+global_step=382047, episodic_return=[19.585447], success_rate=0.17
+global_step=382447, episodic_return=[-3.5620155], success_rate=0.0
+global_step=382847, episodic_return=[47.940933], success_rate=0.41
+SPS: 87
+global_step=383247, episodic_return=[28.448744], success_rate=0.29
+global_step=383647, episodic_return=[-4.881078], success_rate=0.0
+global_step=384047, episodic_return=[25.648197], success_rate=0.22
+global_step=384447, episodic_return=[16.200222], success_rate=0.11
+global_step=384847, episodic_return=[36.46897], success_rate=0.35
+SPS: 87
+global_step=385247, episodic_return=[41.199364], success_rate=0.37
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=385647, episodic_return=[112.25332], success_rate=0.92
+global_step=386047, episodic_return=[27.935497], success_rate=0.3
+global_step=386447, episodic_return=[49.415367], success_rate=0.42
+global_step=386847, episodic_return=[3.465334], success_rate=0.12
+SPS: 87
+global_step=387247, episodic_return=[70.81512], success_rate=0.63
+global_step=387647, episodic_return=[34.6974], success_rate=0.32
+global_step=388047, episodic_return=[29.144188], success_rate=0.28
+global_step=388447, episodic_return=[37.614788], success_rate=0.35
+global_step=388674, episodic_return=[-4.12065], success_rate=0.0
+global_step=388882, episodic_return=[12.84016], success_rate=0.1
+SPS: 87
+global_step=389282, episodic_return=[-3.4691145], success_rate=0.02
+global_step=389682, episodic_return=[40.46418], success_rate=0.36
+global_step=390082, episodic_return=[-7.6687737], success_rate=0.0
+global_step=390482, episodic_return=[13.748071], success_rate=0.2
+global_step=390882, episodic_return=[41.812447], success_rate=0.39
+SPS: 87
+global_step=391282, episodic_return=[21.84929], success_rate=0.2
+global_step=391682, episodic_return=[-4.5422964], success_rate=0.0
+global_step=392082, episodic_return=[39.375717], success_rate=0.34
+global_step=392482, episodic_return=[1.462373], success_rate=0.06
+global_step=392882, episodic_return=[27.230423], success_rate=0.25
+SPS: 87
+global_step=393282, episodic_return=[74.53644], success_rate=0.65
+global_step=393682, episodic_return=[53.811684], success_rate=0.52
+global_step=394082, episodic_return=[83.81885], success_rate=0.68
+global_step=394482, episodic_return=[67.65747], success_rate=0.58
+global_step=394882, episodic_return=[33.68248], success_rate=0.29
+SPS: 87
+global_step=395282, episodic_return=[54.20929], success_rate=0.45
+global_step=395682, episodic_return=[46.350037], success_rate=0.47
+global_step=396082, episodic_return=[31.079847], success_rate=0.29
+global_step=396482, episodic_return=[2.62775], success_rate=0.07
+global_step=396882, episodic_return=[22.959202], success_rate=0.19
+global_step=397282, episodic_return=[93.342285], success_rate=0.75
+SPS: 87
+global_step=397682, episodic_return=[20.030605], success_rate=0.19
+global_step=398082, episodic_return=[47.289455], success_rate=0.42
+global_step=398482, episodic_return=[92.27689], success_rate=0.78
+global_step=398882, episodic_return=[41.217766], success_rate=0.38
+global_step=399282, episodic_return=[-14.43305], success_rate=0.0
+SPS: 87
+global_step=399682, episodic_return=[30.192142], success_rate=0.31
+global_step=400082, episodic_return=[65.70651], success_rate=0.59
+global_step=400411, episodic_return=[13.996629], success_rate=0.18
+global_step=400811, episodic_return=[29.682999], success_rate=0.3
+global_step=401211, episodic_return=[49.557846], success_rate=0.46
+SPS: 87
+global_step=401611, episodic_return=[93.093056], success_rate=0.84
+global_step=402011, episodic_return=[56.36121], success_rate=0.54
+global_step=402411, episodic_return=[24.864563], success_rate=0.3
+global_step=402811, episodic_return=[-6.7081347], success_rate=0.0
+global_step=403211, episodic_return=[82.74598], success_rate=0.73
+SPS: 87
+global_step=403611, episodic_return=[34.179287], success_rate=0.38
+global_step=404011, episodic_return=[33.48206], success_rate=0.41
+global_step=404411, episodic_return=[77.97513], success_rate=0.72
+global_step=404811, episodic_return=[-10.521258], success_rate=0.04
+global_step=405211, episodic_return=[42.707253], success_rate=0.39
+SPS: 87
+global_step=405611, episodic_return=[43.43949], success_rate=0.4
+global_step=406011, episodic_return=[-14.263657], success_rate=0.0
+global_step=406411, episodic_return=[18.32674], success_rate=0.26
+global_step=406811, episodic_return=[6.6184487], success_rate=0.19
+global_step=407211, episodic_return=[-10.649835], success_rate=0.0
+SPS: 87
+global_step=407611, episodic_return=[70.89722], success_rate=0.68
+global_step=408011, episodic_return=[41.2861], success_rate=0.45
+global_step=408411, episodic_return=[-21.457062], success_rate=0.0
+global_step=408811, episodic_return=[20.069187], success_rate=0.27
+global_step=409211, episodic_return=[58.745335], success_rate=0.56
+SPS: 87
+global_step=409611, episodic_return=[9.792754], success_rate=0.19
+global_step=410011, episodic_return=[72.25682], success_rate=0.59
+global_step=410411, episodic_return=[105.19198], success_rate=0.83
+global_step=410811, episodic_return=[16.939667], success_rate=0.21
+global_step=411211, episodic_return=[42.999287], success_rate=0.35
+global_step=411611, episodic_return=[48.95582], success_rate=0.44
+SPS: 87
+global_step=412011, episodic_return=[38.447506], success_rate=0.39
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=412380, episodic_return=[121.95812], success_rate=1.0
+global_step=412780, episodic_return=[103.34197], success_rate=0.83
+global_step=413180, episodic_return=[63.818745], success_rate=0.54
+global_step=413580, episodic_return=[37.89951], success_rate=0.33
+SPS: 87
+global_step=413980, episodic_return=[48.20318], success_rate=0.43
+global_step=414380, episodic_return=[-16.738163], success_rate=0.0
+global_step=414780, episodic_return=[58.245117], success_rate=0.58
+global_step=415180, episodic_return=[48.371277], success_rate=0.45
+global_step=415580, episodic_return=[35.52989], success_rate=0.37
+SPS: 87
+global_step=415980, episodic_return=[89.59718], success_rate=0.79
+global_step=416380, episodic_return=[42.57613], success_rate=0.48
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=416780, episodic_return=[102.704865], success_rate=0.9
+global_step=417180, episodic_return=[24.608196], success_rate=0.31
+global_step=417580, episodic_return=[42.650936], success_rate=0.45
+SPS: 87
+global_step=417980, episodic_return=[15.524904], success_rate=0.26
+global_step=418380, episodic_return=[38.172184], success_rate=0.34
+global_step=418780, episodic_return=[7.2826223], success_rate=0.2
+global_step=419180, episodic_return=[21.25344], success_rate=0.27
+global_step=419580, episodic_return=[99.49078], success_rate=0.88
+SPS: 88
+global_step=419980, episodic_return=[19.112335], success_rate=0.24
+global_step=420380, episodic_return=[-7.3190775], success_rate=0.0
+global_step=420780, episodic_return=[30.115824], success_rate=0.32
+global_step=421180, episodic_return=[86.967255], success_rate=0.67
+global_step=421580, episodic_return=[55.970093], success_rate=0.48
+SPS: 88
+global_step=421980, episodic_return=[23.283762], success_rate=0.23
+global_step=422380, episodic_return=[30.29919], success_rate=0.27
+global_step=422780, episodic_return=[71.19815], success_rate=0.66
+global_step=423180, episodic_return=[62.618874], success_rate=0.52
+global_step=423580, episodic_return=[74.605], success_rate=0.63
+SPS: 88
+global_step=423980, episodic_return=[-6.2971582], success_rate=0.0
+global_step=424380, episodic_return=[-4.367096], success_rate=0.0
+global_step=424780, episodic_return=[62.1619], success_rate=0.47
+global_step=425180, episodic_return=[84.103455], success_rate=0.68
+global_step=425580, episodic_return=[92.8348], success_rate=0.75
+global_step=425980, episodic_return=[-1.7787609], success_rate=0.01
+SPS: 88
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=426380, episodic_return=[108.04323], success_rate=0.98
+global_step=426780, episodic_return=[17.58006], success_rate=0.13
+global_step=427180, episodic_return=[91.36631], success_rate=0.77
+global_step=427580, episodic_return=[58.12587], success_rate=0.47
+global_step=427980, episodic_return=[72.187546], success_rate=0.59
+SPS: 88
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=428380, episodic_return=[117.35556], success_rate=0.98
+global_step=428780, episodic_return=[27.032335], success_rate=0.3
+global_step=429180, episodic_return=[56.585556], success_rate=0.49
+global_step=429580, episodic_return=[24.855093], success_rate=0.31
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=429980, episodic_return=[104.52425], success_rate=0.93
+SPS: 88
+global_step=430380, episodic_return=[-3.0837154], success_rate=0.0
+global_step=430780, episodic_return=[-11.088933], success_rate=0.0
+global_step=431180, episodic_return=[43.517654], success_rate=0.44
+global_step=431580, episodic_return=[-1.0701698], success_rate=0.0
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=431980, episodic_return=[108.236275], success_rate=0.91
+SPS: 88
+global_step=432380, episodic_return=[60.83598], success_rate=0.5
+global_step=432780, episodic_return=[74.54784], success_rate=0.57
+global_step=433180, episodic_return=[56.257275], success_rate=0.49
+global_step=433580, episodic_return=[30.032322], success_rate=0.22
+global_step=433980, episodic_return=[35.7339], success_rate=0.35
+SPS: 88
+global_step=434380, episodic_return=[60.106987], success_rate=0.49
+global_step=434780, episodic_return=[27.475191], success_rate=0.24
+global_step=435180, episodic_return=[-0.8737755], success_rate=0.0
+global_step=435580, episodic_return=[38.899044], success_rate=0.33
+global_step=435980, episodic_return=[14.559889], success_rate=0.16
+SPS: 88
+global_step=436380, episodic_return=[61.52761], success_rate=0.52
+global_step=436780, episodic_return=[2.9592404], success_rate=0.0
+global_step=437180, episodic_return=[27.840443], success_rate=0.19
+global_step=437580, episodic_return=[8.211431], success_rate=0.05
+global_step=437980, episodic_return=[-2.7372475], success_rate=0.0
+SPS: 88
+global_step=438380, episodic_return=[24.585691], success_rate=0.2
+global_step=438780, episodic_return=[66.67281], success_rate=0.53
+global_step=439180, episodic_return=[37.22562], success_rate=0.32
+global_step=439580, episodic_return=[40.184376], success_rate=0.27
+global_step=439980, episodic_return=[2.6562707], success_rate=0.0
+SPS: 88
+global_step=440380, episodic_return=[81.840706], success_rate=0.64
+global_step=440780, episodic_return=[1.3917142], success_rate=0.06
+global_step=441180, episodic_return=[28.492504], success_rate=0.26
+global_step=441580, episodic_return=[36.51329], success_rate=0.28
+global_step=441980, episodic_return=[59.89103], success_rate=0.49
+SPS: 88
+global_step=442380, episodic_return=[52.74361], success_rate=0.45
+global_step=442780, episodic_return=[61.901493], success_rate=0.48
+global_step=443180, episodic_return=[33.98808], success_rate=0.26
+global_step=443580, episodic_return=[42.109997], success_rate=0.33
+global_step=443980, episodic_return=[113.88134], success_rate=0.87
+global_step=444380, episodic_return=[60.67234], success_rate=0.47
+SPS: 88
+global_step=444780, episodic_return=[28.626816], success_rate=0.27
+global_step=445180, episodic_return=[-5.8221245], success_rate=0.0
+global_step=445580, episodic_return=[3.252601], success_rate=0.06
+global_step=445980, episodic_return=[61.735973], success_rate=0.53
+global_step=446380, episodic_return=[47.34921], success_rate=0.39
+SPS: 88
+global_step=446780, episodic_return=[85.97337], success_rate=0.69
+global_step=447180, episodic_return=[7.5900307], success_rate=0.08
+global_step=447580, episodic_return=[50.489803], success_rate=0.49
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=447980, episodic_return=[122.07743], success_rate=0.99
+global_step=448380, episodic_return=[24.728619], success_rate=0.27
+SPS: 88
+global_step=448780, episodic_return=[51.396053], success_rate=0.46
+global_step=449180, episodic_return=[35.025146], success_rate=0.33
+global_step=449580, episodic_return=[26.523745], success_rate=0.3
+global_step=449980, episodic_return=[83.57086], success_rate=0.77
+global_step=450380, episodic_return=[24.546907], success_rate=0.29
+SPS: 88
+global_step=450780, episodic_return=[83.2105], success_rate=0.7
+global_step=451180, episodic_return=[61.619698], success_rate=0.54
+global_step=451580, episodic_return=[69.442505], success_rate=0.55
+global_step=451980, episodic_return=[24.14543], success_rate=0.31
+global_step=452380, episodic_return=[13.291445], success_rate=0.21
+SPS: 88
+global_step=452780, episodic_return=[17.295141], success_rate=0.19
+global_step=453180, episodic_return=[34.113796], success_rate=0.4
+global_step=453580, episodic_return=[16.565643], success_rate=0.22
+global_step=453980, episodic_return=[36.99123], success_rate=0.31
+global_step=454380, episodic_return=[81.28841], success_rate=0.71
+SPS: 88
+global_step=454780, episodic_return=[64.68423], success_rate=0.61
+global_step=455180, episodic_return=[29.43355], success_rate=0.33
+global_step=455580, episodic_return=[42.59336], success_rate=0.46
+global_step=455980, episodic_return=[-22.984762], success_rate=0.0
+global_step=456380, episodic_return=[-4.204146], success_rate=0.11
+global_step=456565, episodic_return=[72.61535], success_rate=0.66
+SPS: 88
+global_step=456760, episodic_return=[-7.625252], success_rate=0.07
+global_step=457160, episodic_return=[4.184996], success_rate=0.22
+global_step=457560, episodic_return=[-22.192715], success_rate=0.0
+global_step=457960, episodic_return=[49.356155], success_rate=0.56
+global_step=458360, episodic_return=[5.0760894], success_rate=0.17
+SPS: 88
+global_step=458760, episodic_return=[-14.686837], success_rate=0.03
+global_step=459160, episodic_return=[1.645862], success_rate=0.15
+global_step=459560, episodic_return=[16.215979], success_rate=0.25
+global_step=459960, episodic_return=[16.409632], success_rate=0.25
+global_step=460360, episodic_return=[21.54635], success_rate=0.27
+global_step=460760, episodic_return=[15.355695], success_rate=0.22
+SPS: 88
+global_step=461160, episodic_return=[5.4000626], success_rate=0.18
+global_step=461560, episodic_return=[95.086266], success_rate=0.87
+global_step=461960, episodic_return=[44.888596], success_rate=0.48
+global_step=462360, episodic_return=[-5.5992985], success_rate=0.09
+global_step=462760, episodic_return=[21.005226], success_rate=0.32
+SPS: 88
+global_step=463160, episodic_return=[38.516903], success_rate=0.5
+global_step=463560, episodic_return=[11.513078], success_rate=0.25
+global_step=463960, episodic_return=[-3.6529963], success_rate=0.1
+global_step=464360, episodic_return=[13.862284], success_rate=0.25
+global_step=464551, episodic_return=[32.98547], success_rate=0.36
+SPS: 88
+global_step=464951, episodic_return=[29.285566], success_rate=0.39
+global_step=465351, episodic_return=[43.389145], success_rate=0.57
+global_step=465743, episodic_return=[-30.909338], success_rate=0.0
+global_step=465933, episodic_return=[-18.22578], success_rate=0.0
+global_step=466331, episodic_return=[59.276474], success_rate=0.65
+global_step=466524, episodic_return=[-12.838699], success_rate=0.03
+global_step=466924, episodic_return=[19.663303], success_rate=0.36
+SPS: 88
+global_step=467121, episodic_return=[5.058165], success_rate=0.16
+global_step=467327, episodic_return=[60.4063], success_rate=0.6
+global_step=467727, episodic_return=[-19.600773], success_rate=0.0
+global_step=468127, episodic_return=[42.389233], success_rate=0.52
+global_step=468509, episodic_return=[77.469154], success_rate=0.76
+global_step=468901, episodic_return=[-24.792767], success_rate=0.0
+SPS: 88
+global_step=469105, episodic_return=[-19.068748], success_rate=0.0
+global_step=469505, episodic_return=[6.6044106], success_rate=0.26
+global_step=469905, episodic_return=[-35.91171], success_rate=0.01
+global_step=470305, episodic_return=[4.9993525], success_rate=0.23
+global_step=470705, episodic_return=[17.907444], success_rate=0.35
+SPS: 88
+global_step=471105, episodic_return=[40.010834], success_rate=0.51
+global_step=471505, episodic_return=[15.419688], success_rate=0.39
+global_step=471905, episodic_return=[-26.583145], success_rate=0.1
+global_step=472114, episodic_return=[41.673668], success_rate=0.44
+global_step=472304, episodic_return=[28.98064], success_rate=0.35
+global_step=472704, episodic_return=[72.08613], success_rate=0.81
+global_step=472896, episodic_return=[68.83635], success_rate=0.67
+SPS: 88
+global_step=473096, episodic_return=[19.073992], success_rate=0.28
+global_step=473306, episodic_return=[20.999306], success_rate=0.26
+global_step=473706, episodic_return=[15.438202], success_rate=0.35
+global_step=474100, episodic_return=[21.114874], success_rate=0.36
+global_step=474307, episodic_return=[-13.769161], success_rate=0.03
+global_step=474707, episodic_return=[68.67079], success_rate=0.75
+global_step=475107, episodic_return=[20.838474], success_rate=0.31
+SPS: 88
+global_step=475507, episodic_return=[35.39669], success_rate=0.47
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=475907, episodic_return=[99.50605], success_rate=0.98
+global_step=476307, episodic_return=[-38.21454], success_rate=0.0
+global_step=476707, episodic_return=[-25.079828], success_rate=0.0
+global_step=477107, episodic_return=[-34.5653], success_rate=0.0
+SPS: 88
+global_step=477507, episodic_return=[-1.5183283], success_rate=0.23
+global_step=477907, episodic_return=[-24.856262], success_rate=0.0
+global_step=478307, episodic_return=[-23.175663], success_rate=0.0
+global_step=478707, episodic_return=[56.149914], success_rate=0.65
+global_step=479107, episodic_return=[45.570984], success_rate=0.57
+SPS: 88
+global_step=479316, episodic_return=[-2.3363934], success_rate=0.11
+global_step=479716, episodic_return=[64.0118], success_rate=0.63
+global_step=479930, episodic_return=[-18.819479], success_rate=0.0
+global_step=480330, episodic_return=[70.070435], success_rate=0.71
+global_step=480730, episodic_return=[68.595474], success_rate=0.7
+global_step=481130, episodic_return=[6.90949], success_rate=0.2
+SPS: 88
+global_step=481530, episodic_return=[71.19694], success_rate=0.67
+global_step=481930, episodic_return=[-19.090431], success_rate=0.0
+global_step=482330, episodic_return=[85.554924], success_rate=0.8
+global_step=482563, episodic_return=[-16.787552], success_rate=0.0
+global_step=482963, episodic_return=[7.1626177], success_rate=0.25
+SPS: 88
+global_step=483363, episodic_return=[8.219033], success_rate=0.28
+global_step=483763, episodic_return=[-8.900032], success_rate=0.17
+global_step=484163, episodic_return=[-7.641291], success_rate=0.13
+global_step=484563, episodic_return=[16.153942], success_rate=0.35
+global_step=484963, episodic_return=[74.990326], success_rate=0.77
+global_step=485363, episodic_return=[48.42355], success_rate=0.57
+SPS: 88
+global_step=485670, episodic_return=[-5.696245], success_rate=0.07
+global_step=485876, episodic_return=[1.4062572], success_rate=0.14
+global_step=486181, episodic_return=[49.300545], success_rate=0.5
+global_step=486581, episodic_return=[11.292977], success_rate=0.29
+global_step=486981, episodic_return=[66.80677], success_rate=0.73
+global_step=487381, episodic_return=[-12.473285], success_rate=0.11
+SPS: 88
+global_step=487781, episodic_return=[-2.915542], success_rate=0.16
+global_step=488181, episodic_return=[-27.450146], success_rate=0.0
+global_step=488581, episodic_return=[-3.4522238], success_rate=0.14
+global_step=488981, episodic_return=[-25.95379], success_rate=0.01
+global_step=489381, episodic_return=[77.54096], success_rate=0.74
+SPS: 88
+global_step=489781, episodic_return=[35.722332], success_rate=0.43
+global_step=490181, episodic_return=[-2.29141], success_rate=0.2
+global_step=490581, episodic_return=[-8.667537], success_rate=0.13
+global_step=490981, episodic_return=[25.844069], success_rate=0.39
+global_step=491274, episodic_return=[-10.022185], success_rate=0.0
+SPS: 88
+global_step=491674, episodic_return=[2.8957546], success_rate=0.2
+global_step=492074, episodic_return=[-19.58373], success_rate=0.0
+global_step=492474, episodic_return=[92.88087], success_rate=0.85
+global_step=492874, episodic_return=[-16.44669], success_rate=0.0
+global_step=493274, episodic_return=[9.499666], success_rate=0.24
+SPS: 88
+global_step=493674, episodic_return=[82.187485], success_rate=0.76
+global_step=494074, episodic_return=[-20.608295], success_rate=0.0
+global_step=494474, episodic_return=[-19.663603], success_rate=0.0
+global_step=494874, episodic_return=[-17.874018], success_rate=0.0
+global_step=495274, episodic_return=[25.808147], success_rate=0.35
+SPS: 88
+global_step=495674, episodic_return=[38.57632], success_rate=0.44
+global_step=496074, episodic_return=[22.127083], success_rate=0.31
+global_step=496474, episodic_return=[9.779651], success_rate=0.23
+global_step=496874, episodic_return=[6.8827567], success_rate=0.21
+global_step=497274, episodic_return=[-22.5817], success_rate=0.0
+SPS: 88
+global_step=497674, episodic_return=[-13.450126], success_rate=0.06
+global_step=498074, episodic_return=[36.293495], success_rate=0.38
+global_step=498474, episodic_return=[27.318546], success_rate=0.35
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=498812, episodic_return=[116.07997], success_rate=1.0
+global_step=499212, episodic_return=[91.96126], success_rate=0.88
+global_step=499612, episodic_return=[30.24611], success_rate=0.36
+SPS: 88
+global_step=500012, episodic_return=[-8.372613], success_rate=0.09
+global_step=500412, episodic_return=[-3.1411173], success_rate=0.11
+global_step=500812, episodic_return=[47.279316], success_rate=0.51
+global_step=501212, episodic_return=[11.258276], success_rate=0.2
+global_step=501612, episodic_return=[41.77089], success_rate=0.45
+SPS: 88
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=501914, episodic_return=[116.49659], success_rate=1.0
+global_step=502314, episodic_return=[-0.7743539], success_rate=0.17
+global_step=502714, episodic_return=[-19.589943], success_rate=0.0
+global_step=503114, episodic_return=[76.387764], success_rate=0.76
+global_step=503514, episodic_return=[41.83579], success_rate=0.46
+SPS: 88
+global_step=503914, episodic_return=[56.81248], success_rate=0.61
+global_step=504314, episodic_return=[9.931479], success_rate=0.19
+global_step=504714, episodic_return=[32.79377], success_rate=0.4
+global_step=505114, episodic_return=[21.128864], success_rate=0.3
+global_step=505514, episodic_return=[53.926205], success_rate=0.53
+SPS: 88
+global_step=505914, episodic_return=[94.06816], success_rate=0.89
+global_step=506314, episodic_return=[8.979707], success_rate=0.2
+global_step=506714, episodic_return=[36.10783], success_rate=0.39
+global_step=507114, episodic_return=[50.89252], success_rate=0.5
+global_step=507514, episodic_return=[8.6032095], success_rate=0.19
+SPS: 88
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=507914, episodic_return=[110.41657], success_rate=0.98
+global_step=508314, episodic_return=[25.779684], success_rate=0.35
+global_step=508714, episodic_return=[15.219583], success_rate=0.24
+global_step=509114, episodic_return=[72.46093], success_rate=0.66
+global_step=509514, episodic_return=[28.058992], success_rate=0.39
+global_step=509914, episodic_return=[-13.68913], success_rate=0.0
+SPS: 88
+global_step=510314, episodic_return=[16.85428], success_rate=0.23
+global_step=510714, episodic_return=[33.707264], success_rate=0.43
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=511114, episodic_return=[98.53407], success_rate=0.9
+global_step=511514, episodic_return=[33.288902], success_rate=0.38
+global_step=511914, episodic_return=[37.531433], success_rate=0.44
+SPS: 88
+global_step=512314, episodic_return=[15.85106], success_rate=0.33
+global_step=512714, episodic_return=[50.7144], success_rate=0.55
+global_step=513114, episodic_return=[-27.411798], success_rate=0.0
+global_step=513514, episodic_return=[56.497627], success_rate=0.61
+global_step=513914, episodic_return=[16.284315], success_rate=0.3
+SPS: 88
+global_step=514314, episodic_return=[26.672499], success_rate=0.36
+global_step=514683, episodic_return=[-13.522172], success_rate=0.07
+global_step=515083, episodic_return=[8.806696], success_rate=0.18
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=515483, episodic_return=[105.210884], success_rate=0.96
+global_step=515883, episodic_return=[18.464434], success_rate=0.3
+global_step=516074, episodic_return=[-7.607263], success_rate=0.05
+SPS: 88
+global_step=516456, episodic_return=[9.64633], success_rate=0.28
+global_step=516752, episodic_return=[-11.550254], success_rate=0.0
+global_step=517074, episodic_return=[49.65747], success_rate=0.46
+global_step=517474, episodic_return=[83.85995], success_rate=0.77
+global_step=517874, episodic_return=[32.929024], success_rate=0.43
+SPS: 88
+global_step=518274, episodic_return=[81.28521], success_rate=0.79
+global_step=518674, episodic_return=[73.12988], success_rate=0.73
+global_step=519074, episodic_return=[-22.399565], success_rate=0.0
+global_step=519474, episodic_return=[32.43147], success_rate=0.43
+global_step=519874, episodic_return=[-3.3821561], success_rate=0.15
+global_step=520066, episodic_return=[4.1187367], success_rate=0.13
+SPS: 88
+global_step=520451, episodic_return=[-6.8562927], success_rate=0.12
+global_step=520654, episodic_return=[-16.903801], success_rate=0.0
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=521006, episodic_return=[112.378845], success_rate=1.0
+global_step=521200, episodic_return=[20.501139], success_rate=0.26
+global_step=521600, episodic_return=[69.45238], success_rate=0.71
+global_step=522000, episodic_return=[17.166605], success_rate=0.35
+SPS: 88
+global_step=522400, episodic_return=[23.709213], success_rate=0.35
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=522782, episodic_return=[101.95132], success_rate=0.93
+global_step=523182, episodic_return=[59.412952], success_rate=0.62
+global_step=523582, episodic_return=[66.22665], success_rate=0.69
+global_step=523982, episodic_return=[2.45648], success_rate=0.16
+SPS: 88
+global_step=524382, episodic_return=[33.213306], success_rate=0.45
+global_step=524782, episodic_return=[49.7806], success_rate=0.58
+global_step=525182, episodic_return=[-12.525942], success_rate=0.09
+global_step=525582, episodic_return=[-25.476116], success_rate=0.0
+global_step=525982, episodic_return=[42.97332], success_rate=0.52
+SPS: 88
+global_step=526382, episodic_return=[-2.5272877], success_rate=0.17
+global_step=526782, episodic_return=[73.997696], success_rate=0.75
+global_step=527182, episodic_return=[16.64874], success_rate=0.33
+global_step=527582, episodic_return=[14.138778], success_rate=0.27
+global_step=527982, episodic_return=[52.276104], success_rate=0.59
+global_step=528382, episodic_return=[-11.661359], success_rate=0.09
+SPS: 88
+global_step=528782, episodic_return=[47.706474], success_rate=0.5
+global_step=529182, episodic_return=[88.34149], success_rate=0.82
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=529507, episodic_return=[113.1353], success_rate=1.0
+global_step=529907, episodic_return=[59.30677], success_rate=0.61
+global_step=530307, episodic_return=[82.42543], success_rate=0.83
+SPS: 88
+global_step=530707, episodic_return=[66.27945], success_rate=0.69
+global_step=531107, episodic_return=[92.07009], success_rate=0.86
+global_step=531507, episodic_return=[71.382324], success_rate=0.74
+global_step=531697, episodic_return=[-9.455249], success_rate=0.03
+global_step=532097, episodic_return=[75.1033], success_rate=0.74
+SPS: 88
+global_step=532497, episodic_return=[71.54015], success_rate=0.76
+global_step=532897, episodic_return=[-29.482964], success_rate=0.0
+global_step=533289, episodic_return=[76.11882], success_rate=0.79
+global_step=533689, episodic_return=[44.54903], success_rate=0.54
+global_step=534089, episodic_return=[69.72384], success_rate=0.74
+global_step=534489, episodic_return=[-26.404764], success_rate=0.0
+SPS: 88
+global_step=534889, episodic_return=[44.345455], success_rate=0.52
+global_step=535289, episodic_return=[-7.3817368], success_rate=0.16
+global_step=535689, episodic_return=[12.248117], success_rate=0.2
+global_step=536089, episodic_return=[-3.5877926], success_rate=0.18
+global_step=536489, episodic_return=[-6.8833513], success_rate=0.15
+SPS: 88
+global_step=536889, episodic_return=[74.37497], success_rate=0.74
+global_step=537289, episodic_return=[-0.8238079], success_rate=0.17
+global_step=537689, episodic_return=[-9.883392], success_rate=0.12
+global_step=538089, episodic_return=[15.74416], success_rate=0.26
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=538489, episodic_return=[99.53068], success_rate=0.95
+SPS: 88
+global_step=538889, episodic_return=[-26.827135], success_rate=0.0
+global_step=539289, episodic_return=[-17.643175], success_rate=0.0
+global_step=539689, episodic_return=[77.412315], success_rate=0.79
+global_step=540089, episodic_return=[56.03597], success_rate=0.63
+global_step=540489, episodic_return=[63.211967], success_rate=0.68
+SPS: 88
+global_step=540889, episodic_return=[14.643704], success_rate=0.29
+global_step=541289, episodic_return=[-21.370247], success_rate=0.0
+global_step=541689, episodic_return=[4.2640276], success_rate=0.24
+global_step=542089, episodic_return=[-20.571444], success_rate=0.0
+global_step=542489, episodic_return=[-17.26429], success_rate=0.0
+SPS: 88
+global_step=542885, episodic_return=[-16.01158], success_rate=0.09
+global_step=543285, episodic_return=[-21.572048], success_rate=0.03
+global_step=543685, episodic_return=[58.3215], success_rate=0.67
+global_step=544085, episodic_return=[20.489542], success_rate=0.35
+global_step=544485, episodic_return=[-29.366362], success_rate=0.0
+SPS: 88
+global_step=544885, episodic_return=[40.59712], success_rate=0.49
+global_step=545285, episodic_return=[-14.496317], success_rate=0.08
+global_step=545682, episodic_return=[47.403202], success_rate=0.59
+global_step=546082, episodic_return=[1.9231572], success_rate=0.22
+global_step=546482, episodic_return=[88.62813], success_rate=0.85
+SPS: 88
+global_step=546882, episodic_return=[-29.682795], success_rate=0.0
+global_step=547282, episodic_return=[32.73221], success_rate=0.45
+global_step=547477, episodic_return=[52.274254], success_rate=0.49
+global_step=547680, episodic_return=[-17.49936], success_rate=0.0
+global_step=548080, episodic_return=[84.513084], success_rate=0.83
+global_step=548480, episodic_return=[59.9134], success_rate=0.67
+global_step=548684, episodic_return=[10.171258], success_rate=0.16
+SPS: 88
+global_step=548886, episodic_return=[53.12213], success_rate=0.51
+global_step=549095, episodic_return=[-12.417987], success_rate=0.0
+global_step=549300, episodic_return=[-14.756599], success_rate=0.0
+global_step=549700, episodic_return=[-26.054296], success_rate=0.0
+global_step=549899, episodic_return=[-16.80343], success_rate=0.0
+global_step=550285, episodic_return=[37.83587], success_rate=0.47
+global_step=550489, episodic_return=[78.43967], success_rate=0.7
+global_step=550889, episodic_return=[42.260765], success_rate=0.53
+SPS: 88
+global_step=551097, episodic_return=[-15.06833], success_rate=0.0
+global_step=551297, episodic_return=[69.27712], success_rate=0.64
+global_step=551696, episodic_return=[58.345585], success_rate=0.66
+global_step=551900, episodic_return=[33.41788], success_rate=0.37
+global_step=552300, episodic_return=[32.563377], success_rate=0.45
+global_step=552700, episodic_return=[10.721561], success_rate=0.31
+SPS: 87
+global_step=553100, episodic_return=[-23.621847], success_rate=0.0
+global_step=553450, episodic_return=[9.159375], success_rate=0.16
+global_step=553850, episodic_return=[90.464066], success_rate=0.89
+global_step=554250, episodic_return=[-22.67971], success_rate=0.0
+global_step=554458, episodic_return=[42.558247], success_rate=0.44
+global_step=554858, episodic_return=[42.56336], success_rate=0.53
+SPS: 87
+global_step=555066, episodic_return=[-13.964815], success_rate=0.0
+global_step=555466, episodic_return=[64.7615], success_rate=0.62
+global_step=555866, episodic_return=[-17.62216], success_rate=0.0
+global_step=556266, episodic_return=[30.605976], success_rate=0.38
+global_step=556666, episodic_return=[0.42374182], success_rate=0.09
+SPS: 87
+global_step=557066, episodic_return=[23.960308], success_rate=0.33
+global_step=557466, episodic_return=[20.041756], success_rate=0.29
+global_step=557866, episodic_return=[47.580193], success_rate=0.52
+global_step=558266, episodic_return=[87.42945], success_rate=0.82
+global_step=558666, episodic_return=[36.336533], success_rate=0.42
+global_step=559066, episodic_return=[33.35165], success_rate=0.39
+SPS: 87
+global_step=559466, episodic_return=[-22.60239], success_rate=0.0
+global_step=559866, episodic_return=[-19.316347], success_rate=0.0
+global_step=560266, episodic_return=[95.30159], success_rate=0.89
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=560666, episodic_return=[95.543015], success_rate=0.92
+global_step=561066, episodic_return=[74.341835], success_rate=0.76
+SPS: 87
+global_step=561466, episodic_return=[78.90104], success_rate=0.73
+global_step=561866, episodic_return=[33.636833], success_rate=0.44
+global_step=562266, episodic_return=[9.32291], success_rate=0.24
+global_step=562666, episodic_return=[-9.704304], success_rate=0.1
+global_step=563066, episodic_return=[12.202524], success_rate=0.26
+SPS: 87
+global_step=563386, episodic_return=[15.867727], success_rate=0.2
+global_step=563786, episodic_return=[60.13482], success_rate=0.66
+global_step=564009, episodic_return=[56.867252], success_rate=0.54
+global_step=564378, episodic_return=[19.403534], success_rate=0.27
+global_step=564778, episodic_return=[12.88268], success_rate=0.23
+global_step=565178, episodic_return=[-13.1782675], success_rate=0.07
+SPS: 87
+global_step=565578, episodic_return=[-5.834031], success_rate=0.08
+global_step=565978, episodic_return=[29.396616], success_rate=0.35
+global_step=566378, episodic_return=[-22.36227], success_rate=0.0
+global_step=566778, episodic_return=[45.85195], success_rate=0.49
+global_step=567178, episodic_return=[15.322979], success_rate=0.28
+SPS: 87
+global_step=567578, episodic_return=[-21.96518], success_rate=0.0
+global_step=567978, episodic_return=[-1.7121917], success_rate=0.16
+global_step=568378, episodic_return=[39.905827], success_rate=0.42
+global_step=568778, episodic_return=[48.21289], success_rate=0.53
+global_step=569178, episodic_return=[47.261497], success_rate=0.51
+SPS: 87
+global_step=569578, episodic_return=[-2.6929433], success_rate=0.12
+global_step=569784, episodic_return=[-12.720318], success_rate=0.0
+global_step=570184, episodic_return=[57.914463], success_rate=0.55
+global_step=570584, episodic_return=[5.996474], success_rate=0.19
+global_step=570802, episodic_return=[69.43687], success_rate=0.64
+global_step=571202, episodic_return=[12.494718], success_rate=0.24
+SPS: 87
+global_step=571602, episodic_return=[76.07384], success_rate=0.75
+global_step=571810, episodic_return=[70.51021], success_rate=0.64
+global_step=572210, episodic_return=[100.29376], success_rate=0.89
+global_step=572610, episodic_return=[49.433636], success_rate=0.5
+global_step=572964, episodic_return=[21.997019], success_rate=0.23
+global_step=573364, episodic_return=[14.647498], success_rate=0.25
+SPS: 87
+global_step=573764, episodic_return=[98.764915], success_rate=0.88
+global_step=574164, episodic_return=[93.18221], success_rate=0.84
+global_step=574564, episodic_return=[-8.547963], success_rate=0.09
+global_step=574964, episodic_return=[61.890026], success_rate=0.61
+global_step=575364, episodic_return=[-1.0392938], success_rate=0.12
+SPS: 87
+global_step=575588, episodic_return=[-12.602828], success_rate=0.0
+global_step=575988, episodic_return=[56.313168], success_rate=0.58
+global_step=576388, episodic_return=[40.622948], success_rate=0.46
+global_step=576788, episodic_return=[15.792666], success_rate=0.26
+global_step=577188, episodic_return=[81.04858], success_rate=0.75
+SPS: 87
+global_step=577588, episodic_return=[-20.203783], success_rate=0.0
+global_step=577988, episodic_return=[0.87441856], success_rate=0.11
+global_step=578388, episodic_return=[40.721138], success_rate=0.39
+global_step=578788, episodic_return=[-16.669039], success_rate=0.0
+global_step=579188, episodic_return=[-15.607933], success_rate=0.0
+SPS: 87
+global_step=579588, episodic_return=[-13.625165], success_rate=0.0
+global_step=579988, episodic_return=[23.016275], success_rate=0.23
+global_step=580388, episodic_return=[-12.002143], success_rate=0.0
+global_step=580788, episodic_return=[34.78824], success_rate=0.34
+global_step=581188, episodic_return=[30.802664], success_rate=0.32
+global_step=581588, episodic_return=[60.824078], success_rate=0.53
+SPS: 87
+global_step=581988, episodic_return=[8.99452], success_rate=0.15
+global_step=582388, episodic_return=[-0.21508358], success_rate=0.08
+global_step=582788, episodic_return=[0.95715654], success_rate=0.06
+global_step=583188, episodic_return=[-7.3316374], success_rate=0.0
+global_step=583588, episodic_return=[-7.2445745], success_rate=0.02
+SPS: 87
+global_step=583988, episodic_return=[-9.897298], success_rate=0.0
+global_step=584388, episodic_return=[43.33517], success_rate=0.43
+global_step=584788, episodic_return=[-6.9664145], success_rate=0.0
+global_step=585188, episodic_return=[32.315117], success_rate=0.29
+global_step=585588, episodic_return=[-8.821079], success_rate=0.0
+SPS: 88
+global_step=585988, episodic_return=[9.21509], success_rate=0.15
+global_step=586388, episodic_return=[1.579919], success_rate=0.14
+global_step=586788, episodic_return=[9.45055], success_rate=0.2
+global_step=587188, episodic_return=[12.72018], success_rate=0.19
+global_step=587588, episodic_return=[19.80923], success_rate=0.23
+SPS: 88
+global_step=587988, episodic_return=[-4.9915056], success_rate=0.03
+global_step=588388, episodic_return=[18.451735], success_rate=0.22
+global_step=588788, episodic_return=[52.232056], success_rate=0.48
+global_step=589188, episodic_return=[87.08538], success_rate=0.72
+global_step=589588, episodic_return=[-8.364584], success_rate=0.01
+SPS: 88
+global_step=589988, episodic_return=[-7.477404], success_rate=0.0
+global_step=590388, episodic_return=[-8.648748], success_rate=0.01
+global_step=590788, episodic_return=[-3.101978], success_rate=0.05
+global_step=591188, episodic_return=[-11.4082365], success_rate=0.0
+global_step=591588, episodic_return=[-16.455135], success_rate=0.0
+SPS: 88
+global_step=591988, episodic_return=[-16.416092], success_rate=0.0
+global_step=592388, episodic_return=[69.10904], success_rate=0.6
+global_step=592788, episodic_return=[1.4455965], success_rate=0.07
+global_step=593188, episodic_return=[101.936844], success_rate=0.83
+global_step=593392, episodic_return=[6.0208945], success_rate=0.11
+global_step=593792, episodic_return=[29.67652], success_rate=0.28
+SPS: 88
+global_step=594192, episodic_return=[9.3282995], success_rate=0.15
+global_step=594592, episodic_return=[103.049126], success_rate=0.87
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=594992, episodic_return=[107.7634], success_rate=0.91
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=595392, episodic_return=[112.37541], success_rate=0.92
+global_step=595792, episodic_return=[94.25043], success_rate=0.79
+SPS: 88
+global_step=596192, episodic_return=[13.570044], success_rate=0.15
+global_step=596592, episodic_return=[44.414135], success_rate=0.42
+global_step=596992, episodic_return=[21.601433], success_rate=0.25
+global_step=597392, episodic_return=[64.643906], success_rate=0.58
+global_step=597792, episodic_return=[13.263957], success_rate=0.17
+SPS: 88
+global_step=598192, episodic_return=[66.03147], success_rate=0.62
+global_step=598592, episodic_return=[-11.326775], success_rate=0.0
+global_step=598992, episodic_return=[28.807837], success_rate=0.28
+global_step=599392, episodic_return=[54.908142], success_rate=0.5
+global_step=599792, episodic_return=[61.66138], success_rate=0.53
+SPS: 88
+global_step=600192, episodic_return=[-8.272773], success_rate=0.03
+global_step=600592, episodic_return=[58.034073], success_rate=0.58
+global_step=600992, episodic_return=[-6.909787], success_rate=0.03
+global_step=601392, episodic_return=[-8.106084], success_rate=0.03
+global_step=601792, episodic_return=[19.386374], success_rate=0.31
+SPS: 88
+global_step=602192, episodic_return=[-1.7759638], success_rate=0.1
+global_step=602592, episodic_return=[3.1590576], success_rate=0.09
+global_step=602992, episodic_return=[-4.160703], success_rate=0.05
+global_step=603392, episodic_return=[12.746709], success_rate=0.18
+global_step=603792, episodic_return=[18.987617], success_rate=0.24
+SPS: 88
+global_step=604192, episodic_return=[-15.539085], success_rate=0.0
+global_step=604592, episodic_return=[33.315056], success_rate=0.42
+global_step=604992, episodic_return=[32.222393], success_rate=0.32
+global_step=605392, episodic_return=[45.66023], success_rate=0.46
+global_step=605792, episodic_return=[-8.810567], success_rate=0.06
+global_step=606192, episodic_return=[46.169987], success_rate=0.53
+SPS: 87
+global_step=606592, episodic_return=[45.002087], success_rate=0.4
+global_step=606992, episodic_return=[54.87308], success_rate=0.49
+global_step=607392, episodic_return=[72.1999], success_rate=0.66
+global_step=607792, episodic_return=[76.71561], success_rate=0.67
+global_step=608192, episodic_return=[7.798537], success_rate=0.14
+SPS: 87
+global_step=608592, episodic_return=[27.139648], success_rate=0.32
+global_step=608992, episodic_return=[50.24007], success_rate=0.48
+global_step=609392, episodic_return=[23.550909], success_rate=0.28
+global_step=609792, episodic_return=[5.2025886], success_rate=0.12
+global_step=610192, episodic_return=[98.1812], success_rate=0.89
+SPS: 87
+global_step=610592, episodic_return=[67.3385], success_rate=0.6
+global_step=610992, episodic_return=[76.518265], success_rate=0.67
+global_step=611392, episodic_return=[58.6489], success_rate=0.48
+global_step=611792, episodic_return=[55.36777], success_rate=0.53
+global_step=612192, episodic_return=[-5.666241], success_rate=0.0
+SPS: 87
+global_step=612592, episodic_return=[-8.458542], success_rate=0.0
+global_step=612992, episodic_return=[31.607239], success_rate=0.35
+global_step=613343, episodic_return=[15.265379], success_rate=0.25
+global_step=613743, episodic_return=[2.97707], success_rate=0.09
+global_step=614143, episodic_return=[58.048], success_rate=0.57
+SPS: 87
+global_step=614543, episodic_return=[60.671906], success_rate=0.54
+global_step=614943, episodic_return=[-8.544209], success_rate=0.0
+global_step=615343, episodic_return=[6.1904297], success_rate=0.17
+global_step=615541, episodic_return=[59.660614], success_rate=0.54
+global_step=615941, episodic_return=[62.558075], success_rate=0.57
+global_step=616306, episodic_return=[-9.765934], success_rate=0.08
+SPS: 87
+global_step=616706, episodic_return=[77.59591], success_rate=0.72
+global_step=617106, episodic_return=[98.2788], success_rate=0.83
+global_step=617470, episodic_return=[21.133108], success_rate=0.32
+global_step=617662, episodic_return=[-10.858638], success_rate=0.0
+global_step=618016, episodic_return=[84.51747], success_rate=0.79
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=618340, episodic_return=[118.90443], success_rate=1.0
+SPS: 87
+global_step=618704, episodic_return=[41.419758], success_rate=0.47
+global_step=619104, episodic_return=[88.69695], success_rate=0.8
+global_step=619504, episodic_return=[31.077063], success_rate=0.31
+global_step=619904, episodic_return=[74.723885], success_rate=0.65
+global_step=620304, episodic_return=[34.010735], success_rate=0.31
+SPS: 87
+global_step=620704, episodic_return=[-18.511152], success_rate=0.0
+global_step=621082, episodic_return=[-11.6937065], success_rate=0.09
+global_step=621425, episodic_return=[67.7905], success_rate=0.64
+global_step=621768, episodic_return=[57.65426], success_rate=0.58
+global_step=622168, episodic_return=[-20.75416], success_rate=0.0
+global_step=622510, episodic_return=[96.88189], success_rate=0.87
+SPS: 87
+global_step=622910, episodic_return=[104.325806], success_rate=0.87
+global_step=623310, episodic_return=[88.09975], success_rate=0.75
+global_step=623710, episodic_return=[94.80401], success_rate=0.79
+global_step=624110, episodic_return=[26.928247], success_rate=0.31
+global_step=624510, episodic_return=[18.29054], success_rate=0.22
+SPS: 87
+global_step=624910, episodic_return=[22.972137], success_rate=0.3
+global_step=625310, episodic_return=[91.85151], success_rate=0.77
+global_step=625710, episodic_return=[90.8422], success_rate=0.82
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=625838, episodic_return=[129.53645], success_rate=1.0
+global_step=626238, episodic_return=[23.85493], success_rate=0.28
+global_step=626638, episodic_return=[54.855545], success_rate=0.47
+SPS: 87
+global_step=627038, episodic_return=[5.075841], success_rate=0.11
+global_step=627438, episodic_return=[11.34368], success_rate=0.15
+global_step=627838, episodic_return=[7.7752633], success_rate=0.1
+global_step=628238, episodic_return=[-9.269695], success_rate=0.02
+global_step=628638, episodic_return=[60.775967], success_rate=0.53
+SPS: 87
+global_step=629038, episodic_return=[92.3336], success_rate=0.75
+global_step=629438, episodic_return=[33.686523], success_rate=0.34
+global_step=629838, episodic_return=[38.421608], success_rate=0.36
+global_step=630238, episodic_return=[17.859877], success_rate=0.18
+global_step=630638, episodic_return=[34.85292], success_rate=0.33
+SPS: 87
+global_step=631038, episodic_return=[20.14674], success_rate=0.25
+global_step=631438, episodic_return=[9.22598], success_rate=0.17
+global_step=631838, episodic_return=[83.038666], success_rate=0.73
+global_step=632238, episodic_return=[79.296555], success_rate=0.67
+global_step=632638, episodic_return=[57.35687], success_rate=0.53
+SPS: 87
+global_step=633038, episodic_return=[17.68163], success_rate=0.21
+global_step=633438, episodic_return=[77.34625], success_rate=0.67
+global_step=633838, episodic_return=[-16.087059], success_rate=0.0
+global_step=634238, episodic_return=[68.80628], success_rate=0.61
+global_step=634638, episodic_return=[67.43607], success_rate=0.61
+global_step=634823, episodic_return=[55.749542], success_rate=0.51
+SPS: 87
+global_step=635223, episodic_return=[78.015854], success_rate=0.66
+global_step=635623, episodic_return=[-14.212699], success_rate=0.01
+global_step=636023, episodic_return=[-13.870455], success_rate=0.0
+global_step=636423, episodic_return=[24.413416], success_rate=0.27
+global_step=636766, episodic_return=[39.609093], success_rate=0.46
+SPS: 87
+global_step=637084, episodic_return=[64.94915], success_rate=0.64
+global_step=637430, episodic_return=[61.18681], success_rate=0.59
+global_step=637625, episodic_return=[-9.216623], success_rate=0.04
+global_step=637953, episodic_return=[83.52498], success_rate=0.78
+global_step=638353, episodic_return=[30.664234], success_rate=0.35
+global_step=638753, episodic_return=[54.49066], success_rate=0.57
+SPS: 87
+global_step=639074, episodic_return=[-1.5402232], success_rate=0.14
+global_step=639474, episodic_return=[63.75898], success_rate=0.64
+global_step=639874, episodic_return=[11.229058], success_rate=0.21
+global_step=640274, episodic_return=[75.66077], success_rate=0.7
+global_step=640633, episodic_return=[60.928516], success_rate=0.65
+SPS: 87
+global_step=641033, episodic_return=[69.092636], success_rate=0.69
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=641352, episodic_return=[118.35365], success_rate=1.0
+global_step=641730, episodic_return=[20.846819], success_rate=0.37
+global_step=642078, episodic_return=[69.106514], success_rate=0.7
+global_step=642478, episodic_return=[93.60275], success_rate=0.82
+global_step=642833, episodic_return=[84.1661], success_rate=0.78
+SPS: 87
+global_step=643233, episodic_return=[-3.132168], success_rate=0.11
+global_step=643633, episodic_return=[-11.701545], success_rate=0.0
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=644033, episodic_return=[112.31781], success_rate=0.95
+global_step=644433, episodic_return=[-10.930763], success_rate=0.1
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=644833, episodic_return=[104.2852], success_rate=0.97
+SPS: 87
+global_step=645233, episodic_return=[-3.174203], success_rate=0.19
+global_step=645633, episodic_return=[-9.63995], success_rate=0.0
+global_step=646033, episodic_return=[-5.18979], success_rate=0.11
+global_step=646433, episodic_return=[69.47956], success_rate=0.68
+global_step=646833, episodic_return=[43.581917], success_rate=0.47
+SPS: 87
+global_step=647233, episodic_return=[16.357382], success_rate=0.21
+global_step=647633, episodic_return=[78.971375], success_rate=0.69
+global_step=648033, episodic_return=[15.720706], success_rate=0.22
+global_step=648433, episodic_return=[-0.32793638], success_rate=0.08
+global_step=648833, episodic_return=[-5.1831226], success_rate=0.03
+SPS: 87
+global_step=649233, episodic_return=[-14.896205], success_rate=0.0
+global_step=649633, episodic_return=[49.43284], success_rate=0.52
+global_step=650033, episodic_return=[12.00346], success_rate=0.25
+global_step=650433, episodic_return=[46.77545], success_rate=0.44
+global_step=650833, episodic_return=[65.65295], success_rate=0.63
+global_step=651233, episodic_return=[76.956955], success_rate=0.71
+SPS: 87
+global_step=651633, episodic_return=[-12.724469], success_rate=0.07
+global_step=652033, episodic_return=[-16.287962], success_rate=0.0
+global_step=652433, episodic_return=[61.050938], success_rate=0.6
+global_step=652833, episodic_return=[19.755455], success_rate=0.28
+global_step=653233, episodic_return=[37.74707], success_rate=0.39
+SPS: 87
+global_step=653633, episodic_return=[3.7954788], success_rate=0.15
+global_step=654033, episodic_return=[11.872106], success_rate=0.23
+global_step=654433, episodic_return=[69.66717], success_rate=0.67
+global_step=654833, episodic_return=[-18.236027], success_rate=0.0
+global_step=655233, episodic_return=[78.38965], success_rate=0.76
+SPS: 87
+global_step=655633, episodic_return=[47.033714], success_rate=0.44
+global_step=656033, episodic_return=[12.500411], success_rate=0.16
+global_step=656433, episodic_return=[-9.210133], success_rate=0.0
+global_step=656833, episodic_return=[46.834206], success_rate=0.45
+global_step=657233, episodic_return=[78.034935], success_rate=0.7
+SPS: 87
+global_step=657633, episodic_return=[-14.438634], success_rate=0.0
+global_step=658033, episodic_return=[22.423933], success_rate=0.23
+global_step=658433, episodic_return=[-5.734347], success_rate=0.01
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=658833, episodic_return=[112.60497], success_rate=0.97
+global_step=659233, episodic_return=[37.665283], success_rate=0.35
+SPS: 87
+global_step=659633, episodic_return=[6.0162396], success_rate=0.1
+global_step=660033, episodic_return=[6.557906], success_rate=0.19
+global_step=660433, episodic_return=[-17.52303], success_rate=0.0
+global_step=660833, episodic_return=[62.001453], success_rate=0.53
+global_step=661233, episodic_return=[28.311626], success_rate=0.28
+SPS: 87
+global_step=661633, episodic_return=[20.509441], success_rate=0.22
+global_step=662033, episodic_return=[-23.00955], success_rate=0.0
+global_step=662433, episodic_return=[49.207355], success_rate=0.46
+global_step=662833, episodic_return=[43.133347], success_rate=0.39
+global_step=663233, episodic_return=[44.242004], success_rate=0.41
+SPS: 87
+global_step=663633, episodic_return=[-14.42828], success_rate=0.0
+global_step=664033, episodic_return=[-8.326845], success_rate=0.0
+global_step=664433, episodic_return=[-13.453174], success_rate=0.01
+global_step=664833, episodic_return=[52.843025], success_rate=0.5
+global_step=665233, episodic_return=[-16.16268], success_rate=0.0
+SPS: 87
+global_step=665633, episodic_return=[-20.603216], success_rate=0.0
+global_step=666033, episodic_return=[21.183767], success_rate=0.23
+global_step=666433, episodic_return=[-0.22522496], success_rate=0.06
+global_step=666833, episodic_return=[-3.035356], success_rate=0.02
+global_step=667233, episodic_return=[-3.4433434], success_rate=0.01
+global_step=667633, episodic_return=[59.10237], success_rate=0.52
+SPS: 87
+global_step=668033, episodic_return=[-18.452066], success_rate=0.0
+global_step=668433, episodic_return=[-12.445278], success_rate=0.0
+global_step=668833, episodic_return=[66.60491], success_rate=0.61
+global_step=669233, episodic_return=[-11.8722105], success_rate=0.0
+global_step=669633, episodic_return=[77.64105], success_rate=0.72
+SPS: 87
+global_step=670033, episodic_return=[-11.689939], success_rate=0.0
+global_step=670433, episodic_return=[51.18903], success_rate=0.39
+global_step=670833, episodic_return=[58.4995], success_rate=0.51
+global_step=671233, episodic_return=[80.35597], success_rate=0.7
+global_step=671633, episodic_return=[100.86185], success_rate=0.88
+SPS: 87
+global_step=672033, episodic_return=[18.878847], success_rate=0.19
+global_step=672433, episodic_return=[15.86427], success_rate=0.08
+global_step=672833, episodic_return=[75.00011], success_rate=0.6
+global_step=673233, episodic_return=[50.96396], success_rate=0.43
+global_step=673633, episodic_return=[25.340462], success_rate=0.16
+SPS: 87
+global_step=674033, episodic_return=[26.73239], success_rate=0.19
+global_step=674433, episodic_return=[1.788273], success_rate=0.0
+global_step=674833, episodic_return=[17.285702], success_rate=0.19
+global_step=675233, episodic_return=[60.28291], success_rate=0.46
+global_step=675633, episodic_return=[31.567942], success_rate=0.19
+SPS: 87
+global_step=676033, episodic_return=[56.26597], success_rate=0.49
+global_step=676433, episodic_return=[-2.4668658], success_rate=0.0
+global_step=676833, episodic_return=[-3.418529], success_rate=0.01
+global_step=677233, episodic_return=[12.473786], success_rate=0.1
+global_step=677633, episodic_return=[-0.951493], success_rate=0.0
+SPS: 86
+global_step=678033, episodic_return=[6.882163], success_rate=0.01
+global_step=678433, episodic_return=[3.6467743], success_rate=0.0
+global_step=678833, episodic_return=[-3.0004253], success_rate=0.0
+global_step=679233, episodic_return=[4.8130655], success_rate=0.03
+global_step=679633, episodic_return=[5.3777204], success_rate=0.0
+SPS: 86
+global_step=680033, episodic_return=[45.22788], success_rate=0.31
+global_step=680433, episodic_return=[-1.2365235], success_rate=0.0
+global_step=680833, episodic_return=[1.8734207], success_rate=0.0
+global_step=681233, episodic_return=[6.168084], success_rate=0.0
+global_step=681633, episodic_return=[27.120703], success_rate=0.18
+SPS: 86
+global_step=682033, episodic_return=[25.052284], success_rate=0.15
+global_step=682433, episodic_return=[5.4384623], success_rate=0.0
+global_step=682833, episodic_return=[2.0486305], success_rate=0.0
+global_step=683233, episodic_return=[5.01742], success_rate=0.0
+global_step=683633, episodic_return=[69.70605], success_rate=0.51
+SPS: 86
+global_step=684033, episodic_return=[4.643741], success_rate=0.0
+global_step=684433, episodic_return=[21.197508], success_rate=0.1
+global_step=684833, episodic_return=[10.09758], success_rate=0.03
+global_step=685233, episodic_return=[5.6895657], success_rate=0.0
+global_step=685633, episodic_return=[2.961673], success_rate=0.0
+global_step=686033, episodic_return=[10.582171], success_rate=0.05
+SPS: 86
+global_step=686433, episodic_return=[0.22248712], success_rate=0.0
+global_step=686833, episodic_return=[7.782502], success_rate=0.0
+global_step=687233, episodic_return=[7.112227], success_rate=0.0
+global_step=687633, episodic_return=[4.640227], success_rate=0.0
+global_step=688033, episodic_return=[31.09454], success_rate=0.16
+SPS: 86
+global_step=688433, episodic_return=[2.488432], success_rate=0.0
+global_step=688833, episodic_return=[11.621394], success_rate=0.02
+global_step=689233, episodic_return=[5.305415], success_rate=0.0
+global_step=689633, episodic_return=[54.02514], success_rate=0.37
+global_step=690033, episodic_return=[6.0227838], success_rate=0.0
+SPS: 86
+global_step=690433, episodic_return=[2.5983114], success_rate=0.0
+global_step=690833, episodic_return=[9.750779], success_rate=0.0
+global_step=691233, episodic_return=[28.096127], success_rate=0.15
+global_step=691633, episodic_return=[2.0432746], success_rate=0.0
+global_step=692033, episodic_return=[1.5375215], success_rate=0.0
+SPS: 86
+global_step=692433, episodic_return=[2.4833813], success_rate=0.0
+global_step=692833, episodic_return=[44.33234], success_rate=0.31
+global_step=693233, episodic_return=[-0.6854839], success_rate=0.0
+global_step=693633, episodic_return=[7.3455853], success_rate=0.0
+global_step=694033, episodic_return=[0.7276445], success_rate=0.0
+SPS: 86
+global_step=694433, episodic_return=[33.347187], success_rate=0.22
+global_step=694833, episodic_return=[23.7088], success_rate=0.19
+global_step=695233, episodic_return=[12.466722], success_rate=0.03
+global_step=695633, episodic_return=[1.469025], success_rate=0.0
+global_step=696033, episodic_return=[10.321126], success_rate=0.05
+SPS: 86
+global_step=696433, episodic_return=[3.1485245], success_rate=0.0
+global_step=696833, episodic_return=[22.554758], success_rate=0.16
+global_step=697233, episodic_return=[14.131581], success_rate=0.04
+global_step=697633, episodic_return=[20.498463], success_rate=0.16
+global_step=698033, episodic_return=[-1.842233], success_rate=0.0
+SPS: 86
+global_step=698433, episodic_return=[12.7202], success_rate=0.02
+global_step=698833, episodic_return=[71.93247], success_rate=0.52
+global_step=699233, episodic_return=[90.665344], success_rate=0.66
+global_step=699633, episodic_return=[40.401455], success_rate=0.26
+global_step=700033, episodic_return=[51.09665], success_rate=0.37
+SPS: 86
+global_step=700433, episodic_return=[2.2596126], success_rate=0.0
+global_step=700833, episodic_return=[8.147653], success_rate=0.0
+global_step=701233, episodic_return=[1.2512773], success_rate=0.0
+global_step=701633, episodic_return=[-0.14415373], success_rate=0.0
+global_step=702033, episodic_return=[1.3607149], success_rate=0.0
+global_step=702433, episodic_return=[51.94144], success_rate=0.33
+SPS: 86
+global_step=702833, episodic_return=[59.70351], success_rate=0.39
+global_step=703233, episodic_return=[74.07952], success_rate=0.51
+global_step=703633, episodic_return=[20.902388], success_rate=0.13
+global_step=704033, episodic_return=[2.380733], success_rate=0.0
+global_step=704433, episodic_return=[0.06141727], success_rate=0.0
+SPS: 86
+global_step=704833, episodic_return=[3.898726], success_rate=0.0
+global_step=705233, episodic_return=[13.458558], success_rate=0.08
+global_step=705633, episodic_return=[0.79383314], success_rate=0.0
+global_step=706033, episodic_return=[41.62912], success_rate=0.28
+global_step=706433, episodic_return=[11.311688], success_rate=0.12
+SPS: 86
+global_step=706833, episodic_return=[57.770035], success_rate=0.39
+global_step=707233, episodic_return=[65.99382], success_rate=0.48
+global_step=707633, episodic_return=[44.05592], success_rate=0.37
+global_step=708033, episodic_return=[5.970272], success_rate=0.0
+global_step=708433, episodic_return=[19.609505], success_rate=0.16
+SPS: 86
+global_step=708833, episodic_return=[14.87116], success_rate=0.13
+global_step=709233, episodic_return=[26.157074], success_rate=0.19
+global_step=709633, episodic_return=[37.832703], success_rate=0.27
+global_step=710033, episodic_return=[-2.2853897], success_rate=0.0
+global_step=710433, episodic_return=[45.68289], success_rate=0.31
+SPS: 86
+global_step=710833, episodic_return=[56.950657], success_rate=0.37
+global_step=711233, episodic_return=[13.179038], success_rate=0.1
+global_step=711633, episodic_return=[6.7447853], success_rate=0.02
+global_step=712033, episodic_return=[0.93460566], success_rate=0.0
+global_step=712433, episodic_return=[26.458889], success_rate=0.16
+SPS: 86
+global_step=712833, episodic_return=[-5.3115516], success_rate=0.0
+global_step=713233, episodic_return=[47.62194], success_rate=0.37
+global_step=713633, episodic_return=[4.8712535], success_rate=0.07
+global_step=714033, episodic_return=[32.85178], success_rate=0.26
+global_step=714433, episodic_return=[109.93087], success_rate=0.84
+SPS: 86
+global_step=714833, episodic_return=[31.335304], success_rate=0.29
+global_step=715233, episodic_return=[-4.991186], success_rate=0.0
+global_step=715633, episodic_return=[38.950275], success_rate=0.35
+global_step=716033, episodic_return=[-4.676402], success_rate=0.0
+global_step=716433, episodic_return=[106.56064], success_rate=0.8
+SPS: 86
+global_step=716833, episodic_return=[87.5932], success_rate=0.7
+global_step=717233, episodic_return=[-5.314827], success_rate=0.0
+global_step=717633, episodic_return=[63.302204], success_rate=0.49
+global_step=718033, episodic_return=[3.7180955], success_rate=0.0
+global_step=718433, episodic_return=[34.19559], success_rate=0.3
+global_step=718833, episodic_return=[37.72268], success_rate=0.27
+SPS: 86
+global_step=719233, episodic_return=[57.77828], success_rate=0.45
+global_step=719633, episodic_return=[36.98064], success_rate=0.28
+global_step=720033, episodic_return=[80.39858], success_rate=0.58
+global_step=720433, episodic_return=[22.13834], success_rate=0.17
+global_step=720833, episodic_return=[113.937485], success_rate=0.89
+SPS: 86
+global_step=721233, episodic_return=[3.596284], success_rate=0.1
+global_step=721633, episodic_return=[44.025326], success_rate=0.35
+global_step=722033, episodic_return=[54.157272], success_rate=0.43
+global_step=722433, episodic_return=[86.85199], success_rate=0.71
+global_step=722833, episodic_return=[-4.441986], success_rate=0.04
+SPS: 86
+global_step=723233, episodic_return=[15.215686], success_rate=0.15
+global_step=723633, episodic_return=[26.324245], success_rate=0.23
+global_step=724033, episodic_return=[21.60748], success_rate=0.2
+global_step=724433, episodic_return=[3.2692587], success_rate=0.13
+global_step=724833, episodic_return=[57.347942], success_rate=0.49
+SPS: 86
+global_step=725233, episodic_return=[28.365145], success_rate=0.26
+global_step=725633, episodic_return=[-15.867398], success_rate=0.0
+global_step=726033, episodic_return=[101.38186], success_rate=0.82
+global_step=726433, episodic_return=[32.928913], success_rate=0.35
+global_step=726833, episodic_return=[9.0801525], success_rate=0.15
+SPS: 86
+global_step=727233, episodic_return=[57.367985], success_rate=0.48
+global_step=727633, episodic_return=[-4.323536], success_rate=0.05
+global_step=728033, episodic_return=[7.5634694], success_rate=0.16
+global_step=728433, episodic_return=[52.11367], success_rate=0.45
+global_step=728833, episodic_return=[113.26187], success_rate=0.88
+SPS: 86
+global_step=729233, episodic_return=[56.727173], success_rate=0.49
+global_step=729633, episodic_return=[21.757057], success_rate=0.29
+global_step=730033, episodic_return=[27.235312], success_rate=0.26
+global_step=730433, episodic_return=[34.140987], success_rate=0.31
+global_step=730833, episodic_return=[72.17813], success_rate=0.6
+SPS: 86
+global_step=731233, episodic_return=[52.71947], success_rate=0.47
+global_step=731633, episodic_return=[81.14079], success_rate=0.72
+global_step=732033, episodic_return=[12.516822], success_rate=0.2
+global_step=732433, episodic_return=[-12.246269], success_rate=0.02
+global_step=732833, episodic_return=[-14.283405], success_rate=0.03
+SPS: 86
+global_step=733233, episodic_return=[82.6438], success_rate=0.69
+global_step=733633, episodic_return=[16.4833], success_rate=0.2
+global_step=734033, episodic_return=[83.94991], success_rate=0.74
+global_step=734433, episodic_return=[63.860874], success_rate=0.55
+global_step=734833, episodic_return=[53.28187], success_rate=0.47
+SPS: 86
+global_step=735233, episodic_return=[65.7004], success_rate=0.57
+global_step=735633, episodic_return=[9.480489], success_rate=0.15
+global_step=736033, episodic_return=[13.315866], success_rate=0.19
+global_step=736433, episodic_return=[86.556335], success_rate=0.78
+global_step=736833, episodic_return=[74.87513], success_rate=0.62
+global_step=737233, episodic_return=[-8.981968], success_rate=0.04
+SPS: 86
+global_step=737633, episodic_return=[3.0056949], success_rate=0.23
+global_step=738033, episodic_return=[27.851622], success_rate=0.32
+global_step=738433, episodic_return=[35.909367], success_rate=0.34
+global_step=738833, episodic_return=[24.624195], success_rate=0.28
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=739233, episodic_return=[109.87221], success_rate=0.95
+SPS: 86
+global_step=739633, episodic_return=[35.971317], success_rate=0.3
+global_step=740033, episodic_return=[63.276287], success_rate=0.48
+global_step=740433, episodic_return=[76.03676], success_rate=0.61
+global_step=740833, episodic_return=[74.12971], success_rate=0.65
+global_step=741233, episodic_return=[17.922537], success_rate=0.24
+SPS: 86
+global_step=741633, episodic_return=[48.700382], success_rate=0.46
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=741942, episodic_return=[128.34435], success_rate=1.0
+global_step=742342, episodic_return=[10.39324], success_rate=0.19
+global_step=742742, episodic_return=[19.714483], success_rate=0.22
+global_step=743142, episodic_return=[65.51999], success_rate=0.54
+SPS: 86
+global_step=743542, episodic_return=[17.098154], success_rate=0.17
+global_step=743942, episodic_return=[78.7455], success_rate=0.69
+global_step=744342, episodic_return=[17.413042], success_rate=0.21
+global_step=744742, episodic_return=[-2.1945817], success_rate=0.04
+global_step=745142, episodic_return=[41.33897], success_rate=0.33
+SPS: 86
+global_step=745542, episodic_return=[-10.153179], success_rate=0.0
+global_step=745942, episodic_return=[-5.3288245], success_rate=0.0
+global_step=746342, episodic_return=[43.09958], success_rate=0.38
+global_step=746742, episodic_return=[0.32835594], success_rate=0.08
+global_step=747142, episodic_return=[17.187794], success_rate=0.12
+SPS: 86
+global_step=747542, episodic_return=[30.52771], success_rate=0.31
+global_step=747942, episodic_return=[74.72833], success_rate=0.62
+global_step=748342, episodic_return=[22.902891], success_rate=0.2
+global_step=748742, episodic_return=[12.133322], success_rate=0.12
+global_step=749142, episodic_return=[41.403206], success_rate=0.33
+global_step=749542, episodic_return=[71.07793], success_rate=0.58
+SPS: 86
+global_step=749942, episodic_return=[55.49461], success_rate=0.5
+global_step=750342, episodic_return=[54.502445], success_rate=0.5
+global_step=750742, episodic_return=[9.017588], success_rate=0.15
+global_step=751142, episodic_return=[27.942678], success_rate=0.26
+global_step=751542, episodic_return=[84.0936], success_rate=0.72
+SPS: 86
+global_step=751942, episodic_return=[6.7289014], success_rate=0.17
+global_step=752342, episodic_return=[65.52838], success_rate=0.61
+global_step=752742, episodic_return=[19.026793], success_rate=0.22
+global_step=753142, episodic_return=[11.59416], success_rate=0.13
+global_step=753542, episodic_return=[4.888203], success_rate=0.11
+SPS: 86
+global_step=753942, episodic_return=[0.71080285], success_rate=0.11
+global_step=754342, episodic_return=[9.181492], success_rate=0.15
+global_step=754742, episodic_return=[-10.307781], success_rate=0.08
+global_step=755142, episodic_return=[62.13426], success_rate=0.59
+global_step=755542, episodic_return=[41.146393], success_rate=0.44
+SPS: 86
+global_step=755942, episodic_return=[95.78065], success_rate=0.89
+global_step=756342, episodic_return=[5.1037583], success_rate=0.19
+global_step=756742, episodic_return=[96.60178], success_rate=0.85
+global_step=757142, episodic_return=[83.39608], success_rate=0.72
+global_step=757542, episodic_return=[79.83405], success_rate=0.71
+SPS: 86
+global_step=757942, episodic_return=[63.99736], success_rate=0.63
+global_step=758342, episodic_return=[1.413369], success_rate=0.16
+global_step=758742, episodic_return=[-2.523492], success_rate=0.11
+global_step=759142, episodic_return=[7.801346], success_rate=0.17
+global_step=759542, episodic_return=[24.33585], success_rate=0.36
+SPS: 86
+global_step=759942, episodic_return=[-16.91207], success_rate=0.04
+global_step=760342, episodic_return=[56.255383], success_rate=0.6
+global_step=760742, episodic_return=[4.090506], success_rate=0.18
+global_step=761142, episodic_return=[-21.889137], success_rate=0.0
+global_step=761542, episodic_return=[-21.481411], success_rate=0.0
+SPS: 86
+global_step=761942, episodic_return=[73.44608], success_rate=0.67
+global_step=762342, episodic_return=[-15.509868], success_rate=0.0
+global_step=762742, episodic_return=[36.631844], success_rate=0.43
+global_step=763142, episodic_return=[-15.113177], success_rate=0.0
+global_step=763542, episodic_return=[-15.153387], success_rate=0.0
+SPS: 86
+global_step=763942, episodic_return=[78.23964], success_rate=0.73
+global_step=764342, episodic_return=[-15.745987], success_rate=0.0
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=764742, episodic_return=[102.325356], success_rate=0.91
+global_step=765142, episodic_return=[-9.171906], success_rate=0.0
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=765542, episodic_return=[110.19028], success_rate=0.96
+global_step=765942, episodic_return=[-16.134909], success_rate=0.0
+SPS: 86
+global_step=766342, episodic_return=[-6.369495], success_rate=0.07
+global_step=766742, episodic_return=[-17.232382], success_rate=0.0
+global_step=767142, episodic_return=[42.386784], success_rate=0.44
+global_step=767542, episodic_return=[-20.724674], success_rate=0.0
+global_step=767942, episodic_return=[21.81577], success_rate=0.25
+SPS: 86
+global_step=768342, episodic_return=[71.52377], success_rate=0.65
+global_step=768742, episodic_return=[64.52774], success_rate=0.64
+global_step=769142, episodic_return=[-1.5781778], success_rate=0.14
+global_step=769542, episodic_return=[-15.719209], success_rate=0.0
+global_step=769942, episodic_return=[-20.007399], success_rate=0.0
+SPS: 86
+global_step=770342, episodic_return=[-18.817518], success_rate=0.0
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=770742, episodic_return=[97.71546], success_rate=0.9
+global_step=771142, episodic_return=[-19.591885], success_rate=0.0
+global_step=771542, episodic_return=[-17.07622], success_rate=0.0
+global_step=771942, episodic_return=[23.528069], success_rate=0.3
+SPS: 86
+global_step=772342, episodic_return=[75.265236], success_rate=0.71
+global_step=772742, episodic_return=[-13.711892], success_rate=0.0
+global_step=773142, episodic_return=[51.6121], success_rate=0.53
+global_step=773542, episodic_return=[-5.456818], success_rate=0.09
+global_step=773942, episodic_return=[39.783115], success_rate=0.42
+SPS: 86
+global_step=774342, episodic_return=[-17.763407], success_rate=0.0
+global_step=774742, episodic_return=[-17.338842], success_rate=0.0
+global_step=775142, episodic_return=[44.781673], success_rate=0.5
+global_step=775542, episodic_return=[8.674503], success_rate=0.22
+global_step=775942, episodic_return=[60.2076], success_rate=0.6
+SPS: 86
+global_step=776342, episodic_return=[24.94793], success_rate=0.28
+global_step=776742, episodic_return=[21.126106], success_rate=0.32
+global_step=777142, episodic_return=[95.37216], success_rate=0.86
+global_step=777542, episodic_return=[87.67239], success_rate=0.78
+model saved to runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26/Training from existing model. No observation transforms, lr annealing, and no value loss clipping.cleanrl_model
+global_step=777942, episodic_return=[96.763756], success_rate=0.91
+SPS: 86
+global_step=778342, episodic_return=[94.71289], success_rate=0.84
+global_step=778742, episodic_return=[35.78464], success_rate=0.38
+global_step=779142, episodic_return=[2.4387875], success_rate=0.14
+global_step=779542, episodic_return=[-14.7719965], success_rate=0.0
+global_step=779942, episodic_return=[-14.738354], success_rate=0.0
+SPS: 86
+global_step=780342, episodic_return=[71.22487], success_rate=0.65
+global_step=780742, episodic_return=[-8.5713415], success_rate=0.03
+global_step=781142, episodic_return=[40.411438], success_rate=0.41
+global_step=781542, episodic_return=[-12.829391], success_rate=0.0
+global_step=781942, episodic_return=[52.856865], success_rate=0.51
+SPS: 86
+global_step=782342, episodic_return=[77.79612], success_rate=0.72
+global_step=782742, episodic_return=[85.9551], success_rate=0.78
+global_step=783142, episodic_return=[53.59424], success_rate=0.53
+global_step=783542, episodic_return=[4.718384], success_rate=0.16
+global_step=783942, episodic_return=[3.2699795], success_rate=0.16
+global_step=784342, episodic_return=[32.339108], success_rate=0.35
+SPS: 86
+global_step=784742, episodic_return=[59.377247], success_rate=0.57
+global_step=785142, episodic_return=[15.433457], success_rate=0.24
+global_step=785542, episodic_return=[98.06292], success_rate=0.84
+global_step=785942, episodic_return=[63.316963], success_rate=0.55
+global_step=786342, episodic_return=[48.879692], success_rate=0.45
+SPS: 86
+global_step=786742, episodic_return=[68.003624], success_rate=0.61
+global_step=787142, episodic_return=[90.00783], success_rate=0.79
+global_step=787542, episodic_return=[80.0257], success_rate=0.71
+global_step=787942, episodic_return=[35.68639], success_rate=0.41
+global_step=788342, episodic_return=[26.550058], success_rate=0.31
+SPS: 86
+global_step=788742, episodic_return=[-12.35175], success_rate=0.01
+global_step=789142, episodic_return=[63.418766], success_rate=0.57
+global_step=789542, episodic_return=[47.008713], success_rate=0.46
+global_step=789942, episodic_return=[17.663486], success_rate=0.23
+global_step=790342, episodic_return=[64.65258], success_rate=0.54
+SPS: 86
+global_step=790742, episodic_return=[71.34987], success_rate=0.62
+global_step=791142, episodic_return=[69.181], success_rate=0.63
+global_step=791542, episodic_return=[-11.032892], success_rate=0.0
+global_step=791942, episodic_return=[11.158709], success_rate=0.17
+global_step=792342, episodic_return=[-9.7937155], success_rate=0.0
+SPS: 86
+global_step=792742, episodic_return=[7.2941747], success_rate=0.12
+global_step=793142, episodic_return=[-6.121412], success_rate=0.03
+global_step=793542, episodic_return=[78.72416], success_rate=0.63
+global_step=793942, episodic_return=[7.2065644], success_rate=0.14
+global_step=794342, episodic_return=[49.52074], success_rate=0.46
+SPS: 86
+global_step=794742, episodic_return=[70.908745], success_rate=0.59
+global_step=795142, episodic_return=[41.393932], success_rate=0.34
+global_step=795542, episodic_return=[39.23972], success_rate=0.32
+global_step=795942, episodic_return=[-3.6670802], success_rate=0.0
+global_step=796342, episodic_return=[-9.96784], success_rate=0.0
+SPS: 86
+global_step=796742, episodic_return=[4.67349], success_rate=0.07
+global_step=797142, episodic_return=[28.754154], success_rate=0.2
+global_step=797542, episodic_return=[0.15953285], success_rate=0.0
+global_step=797942, episodic_return=[54.104336], success_rate=0.43
+global_step=798342, episodic_return=[2.242775], success_rate=0.0
+SPS: 86
+global_step=798742, episodic_return=[2.0753105], success_rate=0.0
+global_step=799142, episodic_return=[-3.106522], success_rate=0.0
+global_step=799542, episodic_return=[-2.4515955], success_rate=0.0
+global_step=799942, episodic_return=[-3.9880972], success_rate=0.01
+global_step=800342, episodic_return=[15.699532], success_rate=0.14
+global_step=800742, episodic_return=[27.246801], success_rate=0.23
+SPS: 86
+global_step=801142, episodic_return=[8.912271], success_rate=0.05
+global_step=801542, episodic_return=[-1.0081558], success_rate=0.0
+global_step=801942, episodic_return=[-6.252582], success_rate=0.0
+global_step=802342, episodic_return=[41.249542], success_rate=0.3
+global_step=802742, episodic_return=[2.1417174], success_rate=0.0
+SPS: 86
+global_step=803142, episodic_return=[-0.2529528], success_rate=0.0
+global_step=803542, episodic_return=[41.69075], success_rate=0.35
+global_step=803942, episodic_return=[43.06137], success_rate=0.35
+global_step=804342, episodic_return=[72.17711], success_rate=0.58
+global_step=804742, episodic_return=[4.8311214], success_rate=0.08
+SPS: 86
+global_step=805142, episodic_return=[9.495271], success_rate=0.08
+global_step=805542, episodic_return=[-5.92787], success_rate=0.0
+global_step=805942, episodic_return=[-3.0792453], success_rate=0.0
+global_step=806342, episodic_return=[5.2539124], success_rate=0.0
+global_step=806742, episodic_return=[36.144127], success_rate=0.26
+SPS: 86
+global_step=807142, episodic_return=[32.193474], success_rate=0.25
+global_step=807542, episodic_return=[24.55478], success_rate=0.19
+global_step=807942, episodic_return=[32.591446], success_rate=0.29
+global_step=808342, episodic_return=[31.210537], success_rate=0.23
+global_step=808742, episodic_return=[34.23665], success_rate=0.3
+SPS: 86
+global_step=809142, episodic_return=[-1.3003336], success_rate=0.0
+global_step=809542, episodic_return=[-3.1239667], success_rate=0.0
+global_step=809942, episodic_return=[-2.3644228], success_rate=0.0
+global_step=810342, episodic_return=[-0.1440244], success_rate=0.0
+global_step=810742, episodic_return=[1.7200484], success_rate=0.0
+SPS: 86
+global_step=811142, episodic_return=[16.35975], success_rate=0.13
+global_step=811542, episodic_return=[17.582163], success_rate=0.1
+global_step=811942, episodic_return=[38.196426], success_rate=0.26
+global_step=812342, episodic_return=[-2.0536563], success_rate=0.0
+global_step=812742, episodic_return=[24.411297], success_rate=0.16
+SPS: 86
+global_step=813142, episodic_return=[40.743023], success_rate=0.29
+global_step=813542, episodic_return=[-6.1590395], success_rate=0.0
+global_step=813942, episodic_return=[-1.1915082], success_rate=0.0
+global_step=814342, episodic_return=[-0.8558965], success_rate=0.0
+global_step=814742, episodic_return=[-2.648789], success_rate=0.0
+SPS: 87
+global_step=815142, episodic_return=[-5.0248313], success_rate=0.0
+global_step=815542, episodic_return=[1.2311001], success_rate=0.0
+global_step=815942, episodic_return=[48.976727], success_rate=0.39
+global_step=816342, episodic_return=[37.228325], success_rate=0.29
+global_step=816742, episodic_return=[4.5262814], success_rate=0.0
+global_step=817142, episodic_return=[80.95062], success_rate=0.6
+SPS: 87
+global_step=817542, episodic_return=[86.50075], success_rate=0.64
+global_step=817942, episodic_return=[44.08046], success_rate=0.34
+global_step=818342, episodic_return=[-6.016753], success_rate=0.0
+global_step=818742, episodic_return=[12.3900385], success_rate=0.06
+global_step=819142, episodic_return=[2.4809148], success_rate=0.0
+SPS: 87
+global_step=819542, episodic_return=[49.656765], success_rate=0.36
+global_step=819942, episodic_return=[4.779603], success_rate=0.0
+global_step=820342, episodic_return=[5.4273157], success_rate=0.01
+global_step=820742, episodic_return=[5.279172], success_rate=0.0
+global_step=821142, episodic_return=[3.846916], success_rate=0.0
+SPS: 87
+global_step=821542, episodic_return=[8.112271], success_rate=0.01
+global_step=821942, episodic_return=[53.14309], success_rate=0.39
+global_step=822342, episodic_return=[-1.6919388], success_rate=0.0
+global_step=822742, episodic_return=[48.668262], success_rate=0.4
+global_step=823142, episodic_return=[-3.9197588], success_rate=0.0
+SPS: 87
+global_step=823542, episodic_return=[0.90548515], success_rate=0.02
+global_step=823942, episodic_return=[3.4215612], success_rate=0.01
+global_step=824342, episodic_return=[49.779755], success_rate=0.37
+global_step=824742, episodic_return=[36.79836], success_rate=0.27
+global_step=825142, episodic_return=[73.81001], success_rate=0.56
+SPS: 87
+global_step=825542, episodic_return=[-0.0738733], success_rate=0.0
+global_step=825942, episodic_return=[13.205385], success_rate=0.06
+global_step=826342, episodic_return=[-0.392201], success_rate=0.0
+global_step=826742, episodic_return=[-0.8260549], success_rate=0.0
+global_step=827142, episodic_return=[38.87725], success_rate=0.28
+SPS: 87
+global_step=827542, episodic_return=[3.9015114], success_rate=0.0
+global_step=827942, episodic_return=[1.8997853], success_rate=0.0
+global_step=828342, episodic_return=[20.332876], success_rate=0.1
+global_step=828742, episodic_return=[8.14852], success_rate=0.0
+global_step=829142, episodic_return=[2.0438664], success_rate=0.0
+SPS: 87
+global_step=829542, episodic_return=[16.384354], success_rate=0.1
+global_step=829942, episodic_return=[23.338099], success_rate=0.15
+global_step=830342, episodic_return=[7.9094386], success_rate=0.03
+global_step=830742, episodic_return=[44.260307], success_rate=0.31
+global_step=831142, episodic_return=[3.6446977], success_rate=0.0
+SPS: 87
+global_step=831542, episodic_return=[61.70126], success_rate=0.45
+global_step=831942, episodic_return=[27.77981], success_rate=0.21
+global_step=832342, episodic_return=[19.714043], success_rate=0.15
+global_step=832742, episodic_return=[14.747355], success_rate=0.17
+global_step=833142, episodic_return=[0.7660109], success_rate=0.0
+SPS: 87
+global_step=833542, episodic_return=[22.108807], success_rate=0.17
+global_step=833942, episodic_return=[3.9166832], success_rate=0.01
+global_step=834342, episodic_return=[28.897629], success_rate=0.2
+global_step=834742, episodic_return=[77.72339], success_rate=0.63
+global_step=835142, episodic_return=[-4.226867], success_rate=0.01
+global_step=835542, episodic_return=[-4.0964494], success_rate=0.0
+SPS: 87
+global_step=835942, episodic_return=[-6.9424634], success_rate=0.01
+global_step=836342, episodic_return=[61.482704], success_rate=0.52
+global_step=836742, episodic_return=[-11.361447], success_rate=0.0
+global_step=837142, episodic_return=[35.47878], success_rate=0.32
+global_step=837542, episodic_return=[58.668667], success_rate=0.48
+SPS: 87
+global_step=837942, episodic_return=[10.033219], success_rate=0.11
+global_step=838342, episodic_return=[-9.159392], success_rate=0.0
+global_step=838742, episodic_return=[5.099333], success_rate=0.08
+global_step=839142, episodic_return=[6.546778], success_rate=0.07
+global_step=839542, episodic_return=[0.20572017], success_rate=0.08
+SPS: 87
+global_step=839942, episodic_return=[14.87543], success_rate=0.17
+global_step=840342, episodic_return=[69.76478], success_rate=0.59
+global_step=840742, episodic_return=[38.226273], success_rate=0.34
+global_step=841142, episodic_return=[36.669807], success_rate=0.31
+global_step=841542, episodic_return=[39.30011], success_rate=0.37
+SPS: 87
+global_step=841942, episodic_return=[-5.8880043], success_rate=0.0
+global_step=842342, episodic_return=[-10.188755], success_rate=0.0
+global_step=842742, episodic_return=[31.979652], success_rate=0.31
+global_step=843142, episodic_return=[-12.886704], success_rate=0.0
+global_step=843542, episodic_return=[-12.833011], success_rate=0.0
+SPS: 87
+global_step=843942, episodic_return=[-7.2943354], success_rate=0.0
+global_step=844342, episodic_return=[1.5504508], success_rate=0.05
+global_step=844742, episodic_return=[26.226625], success_rate=0.25
+global_step=845142, episodic_return=[24.683928], success_rate=0.23
+global_step=845542, episodic_return=[4.329484], success_rate=0.1
+SPS: 87
+global_step=845942, episodic_return=[-12.041874], success_rate=0.0
+global_step=846342, episodic_return=[-8.606994], success_rate=0.0
+global_step=846742, episodic_return=[63.31455], success_rate=0.56
+global_step=847142, episodic_return=[0.5099768], success_rate=0.11
+global_step=847542, episodic_return=[-0.95082253], success_rate=0.08
+SPS: 87
+global_step=847942, episodic_return=[42.359463], success_rate=0.36
+global_step=848342, episodic_return=[70.32133], success_rate=0.58
+global_step=848742, episodic_return=[49.06381], success_rate=0.45
+global_step=849142, episodic_return=[63.935966], success_rate=0.57
+global_step=849542, episodic_return=[9.816881], success_rate=0.11
+SPS: 87
+global_step=849942, episodic_return=[56.76191], success_rate=0.52
+global_step=850342, episodic_return=[-3.3838556], success_rate=0.06
+global_step=850742, episodic_return=[79.13805], success_rate=0.7
+global_step=851142, episodic_return=[15.650343], success_rate=0.2
+global_step=851542, episodic_return=[-10.479209], success_rate=0.0
+global_step=851942, episodic_return=[-19.099415], success_rate=0.0
+SPS: 87
+global_step=852342, episodic_return=[7.061128], success_rate=0.12
+global_step=852742, episodic_return=[-8.480329], success_rate=0.0
+global_step=853142, episodic_return=[3.6528664], success_rate=0.1
+global_step=853542, episodic_return=[22.196703], success_rate=0.25
+global_step=853942, episodic_return=[8.639505], success_rate=0.15
+SPS: 87
+global_step=854342, episodic_return=[-15.421571], success_rate=0.02
+global_step=854742, episodic_return=[9.6968975], success_rate=0.18
+global_step=855142, episodic_return=[-6.651928], success_rate=0.0
+global_step=855542, episodic_return=[0.7598942], success_rate=0.11
+global_step=855942, episodic_return=[81.54616], success_rate=0.68
+SPS: 87
+global_step=856342, episodic_return=[36.940483], success_rate=0.36
+global_step=856742, episodic_return=[4.945951], success_rate=0.12
+global_step=857142, episodic_return=[40.71092], success_rate=0.4
+global_step=857542, episodic_return=[-1.4691744], success_rate=0.09
+global_step=857942, episodic_return=[12.1905575], success_rate=0.16
+SPS: 87
+global_step=858342, episodic_return=[2.8328843], success_rate=0.12
+global_step=858742, episodic_return=[-2.302407], success_rate=0.07
+global_step=859142, episodic_return=[-2.2572296], success_rate=0.08
+global_step=859542, episodic_return=[24.050907], success_rate=0.29
+global_step=859942, episodic_return=[31.414845], success_rate=0.34
+SPS: 87
+global_step=860342, episodic_return=[45.29091], success_rate=0.42
+global_step=860742, episodic_return=[15.310256], success_rate=0.2
+global_step=861142, episodic_return=[-13.200006], success_rate=0.0
+global_step=861542, episodic_return=[-6.5099206], success_rate=0.02
+global_step=861942, episodic_return=[-11.832026], success_rate=0.0
+SPS: 87
+global_step=862342, episodic_return=[4.9540796], success_rate=0.08
+global_step=862742, episodic_return=[31.131424], success_rate=0.27
+global_step=863142, episodic_return=[69.56744], success_rate=0.57
+global_step=863542, episodic_return=[-6.445266], success_rate=0.02
+global_step=863942, episodic_return=[1.634942], success_rate=0.08
+SPS: 87
+global_step=864342, episodic_return=[30.627356], success_rate=0.28
+global_step=864742, episodic_return=[49.73389], success_rate=0.42
+global_step=865142, episodic_return=[1.2458357], success_rate=0.07
+global_step=865542, episodic_return=[30.316458], success_rate=0.24
+global_step=865942, episodic_return=[3.6949735], success_rate=0.12
+SPS: 87
+global_step=866342, episodic_return=[38.969273], success_rate=0.34
+global_step=866742, episodic_return=[31.334375], success_rate=0.27
+global_step=867142, episodic_return=[11.612583], success_rate=0.16
+global_step=867542, episodic_return=[63.6574], success_rate=0.53
+global_step=867942, episodic_return=[-12.452178], success_rate=0.0
+global_step=868342, episodic_return=[7.729302], success_rate=0.13
+SPS: 87
+global_step=868742, episodic_return=[64.54931], success_rate=0.51
+global_step=869142, episodic_return=[6.948979], success_rate=0.07
+global_step=869542, episodic_return=[25.610775], success_rate=0.15
+global_step=869942, episodic_return=[-11.560302], success_rate=0.0
+global_step=870342, episodic_return=[-4.940124], success_rate=0.0
+SPS: 87
+global_step=870742, episodic_return=[-11.5033455], success_rate=0.0
+global_step=871142, episodic_return=[40.990078], success_rate=0.34
+global_step=871542, episodic_return=[32.01245], success_rate=0.29
+global_step=871942, episodic_return=[66.02718], success_rate=0.56
+global_step=872342, episodic_return=[39.290028], success_rate=0.37
+SPS: 87
+global_step=872742, episodic_return=[27.848652], success_rate=0.22
+global_step=873142, episodic_return=[6.7915254], success_rate=0.09
+global_step=873542, episodic_return=[19.514196], success_rate=0.17
+global_step=873942, episodic_return=[19.738941], success_rate=0.14
+global_step=874342, episodic_return=[83.39602], success_rate=0.66
+SPS: 87
+global_step=874742, episodic_return=[25.538092], success_rate=0.26
+global_step=875142, episodic_return=[44.764935], success_rate=0.35
+global_step=875542, episodic_return=[24.374496], success_rate=0.15
+global_step=875942, episodic_return=[23.842106], success_rate=0.18
+global_step=876342, episodic_return=[11.366336], success_rate=0.15
+SPS: 87
+global_step=876742, episodic_return=[39.261345], success_rate=0.31
+global_step=877142, episodic_return=[20.699066], success_rate=0.12
+global_step=877542, episodic_return=[9.148072], success_rate=0.04
+global_step=877942, episodic_return=[1.2022288], success_rate=0.0
+global_step=878342, episodic_return=[25.373968], success_rate=0.27
+SPS: 87
+global_step=878742, episodic_return=[20.58839], success_rate=0.15
+global_step=879142, episodic_return=[19.52912], success_rate=0.15
+global_step=879542, episodic_return=[65.84277], success_rate=0.54
+global_step=879942, episodic_return=[47.426105], success_rate=0.35
+global_step=880342, episodic_return=[10.905382], success_rate=0.11
+SPS: 87
+global_step=880742, episodic_return=[53.02149], success_rate=0.46
+global_step=881142, episodic_return=[14.571362], success_rate=0.16
+global_step=881542, episodic_return=[-12.084247], success_rate=0.0
+global_step=881942, episodic_return=[12.731364], success_rate=0.16
+global_step=882342, episodic_return=[47.265945], success_rate=0.42
+SPS: 87
+global_step=882742, episodic_return=[20.758255], success_rate=0.15
+global_step=883142, episodic_return=[7.1640043], success_rate=0.12
+global_step=883542, episodic_return=[-3.0942395], success_rate=0.0
+global_step=883942, episodic_return=[20.890062], success_rate=0.2
+global_step=884342, episodic_return=[-1.364222], success_rate=0.02
+SPS: 87
+global_step=884742, episodic_return=[11.981395], success_rate=0.13
+global_step=885142, episodic_return=[-22.037863], success_rate=0.0
+global_step=885542, episodic_return=[45.75236], success_rate=0.4
+global_step=885942, episodic_return=[29.657278], success_rate=0.25
+global_step=886342, episodic_return=[34.673523], success_rate=0.35
+global_step=886742, episodic_return=[55.77494], success_rate=0.47
+SPS: 87
+global_step=887142, episodic_return=[30.904268], success_rate=0.27
+global_step=887542, episodic_return=[27.936188], success_rate=0.26
+global_step=887942, episodic_return=[50.667416], success_rate=0.41
+global_step=888342, episodic_return=[41.165703], success_rate=0.4
+global_step=888742, episodic_return=[0.2965109], success_rate=0.03
+SPS: 87
+global_step=889142, episodic_return=[8.989664], success_rate=0.15
+global_step=889542, episodic_return=[17.349136], success_rate=0.19
+global_step=889942, episodic_return=[8.220976], success_rate=0.15
+global_step=890342, episodic_return=[17.426912], success_rate=0.18
+global_step=890742, episodic_return=[-4.107195], success_rate=0.0
+SPS: 87
+global_step=891142, episodic_return=[23.02731], success_rate=0.26
+global_step=891542, episodic_return=[46.59463], success_rate=0.45
+global_step=891942, episodic_return=[-14.778459], success_rate=0.0
+global_step=892342, episodic_return=[53.2969], success_rate=0.51
+global_step=892742, episodic_return=[46.229427], success_rate=0.42
+SPS: 87
+global_step=893142, episodic_return=[-2.05438], success_rate=0.09
+global_step=893542, episodic_return=[-6.31496], success_rate=0.06
+global_step=893942, episodic_return=[40.042553], success_rate=0.39
+global_step=894342, episodic_return=[34.673477], success_rate=0.37
+global_step=894742, episodic_return=[18.684147], success_rate=0.25
+SPS: 87
+global_step=895142, episodic_return=[1.2627305], success_rate=0.1
+global_step=895542, episodic_return=[-6.9922414], success_rate=0.08
+global_step=895942, episodic_return=[18.374367], success_rate=0.25
+global_step=896342, episodic_return=[9.535132], success_rate=0.16
+global_step=896742, episodic_return=[35.476013], success_rate=0.4
+SPS: 87
+global_step=897142, episodic_return=[54.526512], success_rate=0.49
+global_step=897542, episodic_return=[21.027315], success_rate=0.26
+global_step=897942, episodic_return=[51.89956], success_rate=0.49
+global_step=898342, episodic_return=[45.490864], success_rate=0.41
+global_step=898742, episodic_return=[-8.882585], success_rate=0.0
+SPS: 87
+global_step=899142, episodic_return=[33.515907], success_rate=0.29
+global_step=899542, episodic_return=[-4.458164], success_rate=0.07
+global_step=899942, episodic_return=[-4.8255544], success_rate=0.0
+global_step=900342, episodic_return=[48.488605], success_rate=0.43
+global_step=900742, episodic_return=[4.0449066], success_rate=0.12
+SPS: 87
+global_step=901142, episodic_return=[36.266266], success_rate=0.37
+global_step=901542, episodic_return=[15.115205], success_rate=0.18
+global_step=901942, episodic_return=[7.457772], success_rate=0.14
+global_step=902342, episodic_return=[16.710178], success_rate=0.22
+global_step=902742, episodic_return=[-1.0200038], success_rate=0.08
+global_step=903142, episodic_return=[17.23216], success_rate=0.22
+SPS: 87
+global_step=903542, episodic_return=[8.185423], success_rate=0.16
+global_step=903942, episodic_return=[34.06223], success_rate=0.31
+global_step=904342, episodic_return=[-9.717251], success_rate=0.05
+global_step=904742, episodic_return=[41.532516], success_rate=0.42
+global_step=905142, episodic_return=[11.058703], success_rate=0.2
+SPS: 87
+global_step=905542, episodic_return=[28.309689], success_rate=0.28
+global_step=905942, episodic_return=[54.429703], success_rate=0.49
+global_step=906342, episodic_return=[17.780863], success_rate=0.19
+global_step=906742, episodic_return=[-6.951553], success_rate=0.06
+global_step=907142, episodic_return=[6.2792554], success_rate=0.15
+SPS: 87
+global_step=907542, episodic_return=[-2.7338195], success_rate=0.04
+global_step=907942, episodic_return=[-0.51466656], success_rate=0.1
+global_step=908342, episodic_return=[-3.3737912], success_rate=0.07
+global_step=908742, episodic_return=[11.885628], success_rate=0.17
+global_step=909142, episodic_return=[-11.469686], success_rate=0.0
+SPS: 87
+global_step=909542, episodic_return=[4.458654], success_rate=0.16
+global_step=909942, episodic_return=[48.454174], success_rate=0.49
+global_step=910342, episodic_return=[70.382355], success_rate=0.62
+global_step=910742, episodic_return=[15.128171], success_rate=0.18
+global_step=911142, episodic_return=[22.708574], success_rate=0.29
+SPS: 87
+global_step=911542, episodic_return=[-4.723998], success_rate=0.05
+global_step=911942, episodic_return=[54.439945], success_rate=0.55
+global_step=912241, episodic_return=[-13.137853], success_rate=0.01
+global_step=912641, episodic_return=[20.21315], success_rate=0.3
+global_step=913041, episodic_return=[39.638527], success_rate=0.41
+SPS: 88
+global_step=913441, episodic_return=[-20.623154], success_rate=0.0
+global_step=913841, episodic_return=[-19.337744], success_rate=0.0
+global_step=914241, episodic_return=[15.029748], success_rate=0.32
+global_step=914641, episodic_return=[25.157618], success_rate=0.31
+global_step=915041, episodic_return=[-23.92827], success_rate=0.0
+global_step=915441, episodic_return=[-28.567719], success_rate=0.0
+SPS: 88
+global_step=915841, episodic_return=[20.464771], success_rate=0.23
+global_step=916241, episodic_return=[-17.38124], success_rate=0.0
+global_step=916641, episodic_return=[12.211451], success_rate=0.19
+global_step=917041, episodic_return=[0.19992335], success_rate=0.11
+global_step=917441, episodic_return=[-11.348644], success_rate=0.0
+SPS: 88
+global_step=917841, episodic_return=[-14.920234], success_rate=0.0
+global_step=918241, episodic_return=[-19.46115], success_rate=0.0
+global_step=918641, episodic_return=[23.812332], success_rate=0.28
+global_step=919041, episodic_return=[-4.7454677], success_rate=0.11
+global_step=919441, episodic_return=[75.85973], success_rate=0.67
+SPS: 88
+global_step=919841, episodic_return=[29.958656], success_rate=0.31
+global_step=920241, episodic_return=[10.668421], success_rate=0.15
+global_step=920641, episodic_return=[8.27798], success_rate=0.17
+global_step=921041, episodic_return=[-6.8753324], success_rate=0.0
+global_step=921441, episodic_return=[8.191966], success_rate=0.16
+SPS: 88
+global_step=921841, episodic_return=[8.562882], success_rate=0.2
+global_step=922241, episodic_return=[19.467787], success_rate=0.25
+global_step=922641, episodic_return=[-12.15897], success_rate=0.03
+global_step=923041, episodic_return=[20.981577], success_rate=0.23
+global_step=923441, episodic_return=[32.578053], success_rate=0.35
+SPS: 88
+global_step=923841, episodic_return=[9.823214], success_rate=0.22
+global_step=924241, episodic_return=[-12.93786], success_rate=0.04
+global_step=924641, episodic_return=[34.65411], success_rate=0.41
+global_step=925041, episodic_return=[12.375872], success_rate=0.22
+global_step=925441, episodic_return=[21.75619], success_rate=0.28
+SPS: 88
+global_step=925841, episodic_return=[21.294542], success_rate=0.29
+global_step=926241, episodic_return=[-12.761964], success_rate=0.0
+global_step=926529, episodic_return=[46.160973], success_rate=0.45
+global_step=926929, episodic_return=[83.62555], success_rate=0.77
+global_step=927329, episodic_return=[18.388876], success_rate=0.26
+global_step=927729, episodic_return=[-9.455089], success_rate=0.02
+SPS: 88
+global_step=928129, episodic_return=[24.087011], success_rate=0.29
+global_step=928529, episodic_return=[-13.323988], success_rate=0.08
+global_step=928929, episodic_return=[7.796667], success_rate=0.17
+global_step=929329, episodic_return=[11.05714], success_rate=0.21
+global_step=929729, episodic_return=[15.010113], success_rate=0.24
+SPS: 88
+global_step=930129, episodic_return=[-16.744762], success_rate=0.0
+global_step=930529, episodic_return=[50.46588], success_rate=0.55
+global_step=930929, episodic_return=[-22.703878], success_rate=0.0
+global_step=931329, episodic_return=[-24.452229], success_rate=0.0
+global_step=931729, episodic_return=[-10.086547], success_rate=0.0
+SPS: 88
+global_step=932129, episodic_return=[8.240053], success_rate=0.19
+global_step=932529, episodic_return=[4.2930136], success_rate=0.15
+global_step=932834, episodic_return=[5.058958], success_rate=0.15
+global_step=933234, episodic_return=[-16.105965], success_rate=0.02
+global_step=933634, episodic_return=[0.11623111], success_rate=0.08
+SPS: 88
+global_step=934034, episodic_return=[29.952217], success_rate=0.36
+global_step=934434, episodic_return=[7.204457], success_rate=0.2
+global_step=934834, episodic_return=[-21.76662], success_rate=0.0
+global_step=935234, episodic_return=[-20.924517], success_rate=0.0
+global_step=935634, episodic_return=[-2.9830189], success_rate=0.08
+SPS: 88
+global_step=936034, episodic_return=[9.254846], success_rate=0.16
+global_step=936434, episodic_return=[29.00088], success_rate=0.35
+global_step=936834, episodic_return=[30.692923], success_rate=0.33
+global_step=937234, episodic_return=[-21.022669], success_rate=0.0
+global_step=937634, episodic_return=[3.4086046], success_rate=0.14
+SPS: 88
+global_step=938034, episodic_return=[-10.094875], success_rate=0.02
+global_step=938434, episodic_return=[-10.518303], success_rate=0.0
+global_step=938834, episodic_return=[-12.750012], success_rate=0.09
+global_step=939234, episodic_return=[-16.073696], success_rate=0.0
+global_step=939634, episodic_return=[67.181015], success_rate=0.65
+SPS: 88
+global_step=940034, episodic_return=[-2.2825406], success_rate=0.13
+global_step=940434, episodic_return=[-3.8100555], success_rate=0.05
+global_step=940834, episodic_return=[42.62947], success_rate=0.42
+global_step=941234, episodic_return=[9.731389], success_rate=0.18
+global_step=941634, episodic_return=[-10.181629], success_rate=0.0
+global_step=942034, episodic_return=[46.65519], success_rate=0.47
+SPS: 88
+global_step=942434, episodic_return=[6.344253], success_rate=0.24
+global_step=942834, episodic_return=[37.760654], success_rate=0.39
+global_step=943234, episodic_return=[-12.095473], success_rate=0.0
+global_step=943634, episodic_return=[44.04059], success_rate=0.44
+global_step=944034, episodic_return=[17.691624], success_rate=0.26
+SPS: 88
+global_step=944434, episodic_return=[7.8647866], success_rate=0.13
+global_step=944834, episodic_return=[-18.7939], success_rate=0.01
+global_step=944984, episodic_return=[-1.692987], success_rate=0.06
+global_step=945384, episodic_return=[28.581608], success_rate=0.41
+global_step=945542, episodic_return=[-12.769419], success_rate=0.0
+global_step=945942, episodic_return=[-3.7248137], success_rate=0.09
+SPS: 88
+global_step=946342, episodic_return=[11.537919], success_rate=0.19
+global_step=946742, episodic_return=[52.323742], success_rate=0.53
+global_step=947142, episodic_return=[17.855076], success_rate=0.23
+global_step=947542, episodic_return=[-10.617397], success_rate=0.0
+global_step=947942, episodic_return=[-9.811663], success_rate=0.12
+global_step=948096, episodic_return=[13.368305], success_rate=0.19
+SPS: 88
+global_step=948496, episodic_return=[48.126007], success_rate=0.53
+global_step=948896, episodic_return=[-4.8156104], success_rate=0.09
+global_step=949204, episodic_return=[21.365463], success_rate=0.29
+global_step=949604, episodic_return=[20.00169], success_rate=0.26
+global_step=949920, episodic_return=[-16.84325], success_rate=0.0
+global_step=950073, episodic_return=[15.470458], success_rate=0.18
+global_step=950218, episodic_return=[21.74004], success_rate=0.23
+SPS: 88
+global_step=950531, episodic_return=[-19.405022], success_rate=0.0
+global_step=950931, episodic_return=[28.146072], success_rate=0.33
+global_step=951331, episodic_return=[-2.9513464], success_rate=0.11
+global_step=951731, episodic_return=[3.176458], success_rate=0.12
+global_step=952063, episodic_return=[-4.3956947], success_rate=0.13
+SPS: 88
+global_step=952398, episodic_return=[-25.466862], success_rate=0.0
+global_step=952798, episodic_return=[-2.8572786], success_rate=0.09
+global_step=953198, episodic_return=[-1.4048933], success_rate=0.09
+global_step=953598, episodic_return=[11.449761], success_rate=0.25
+global_step=953998, episodic_return=[-25.795996], success_rate=0.0
+SPS: 88
+global_step=954398, episodic_return=[27.1106], success_rate=0.3
+global_step=954798, episodic_return=[-15.349434], success_rate=0.0
+global_step=955198, episodic_return=[30.97685], success_rate=0.36
+global_step=955598, episodic_return=[7.474049], success_rate=0.16
+global_step=955998, episodic_return=[-12.963747], success_rate=0.0
+global_step=956398, episodic_return=[-6.9758916], success_rate=0.05
+SPS: 88
+global_step=956549, episodic_return=[7.215993], success_rate=0.13
+global_step=956949, episodic_return=[11.092298], success_rate=0.19
+global_step=957095, episodic_return=[-2.7102573], success_rate=0.05
+global_step=957495, episodic_return=[13.947303], success_rate=0.21
+global_step=957895, episodic_return=[54.82299], success_rate=0.54
+global_step=958295, episodic_return=[20.118967], success_rate=0.31
+SPS: 88
+global_step=958695, episodic_return=[14.712839], success_rate=0.21
+global_step=959095, episodic_return=[37.02855], success_rate=0.42
+global_step=959402, episodic_return=[-6.0476885], success_rate=0.09
+global_step=959802, episodic_return=[57.62053], success_rate=0.57
+global_step=960202, episodic_return=[38.12829], success_rate=0.4
+SPS: 88
+global_step=960602, episodic_return=[29.615648], success_rate=0.36
+global_step=961002, episodic_return=[-21.55972], success_rate=0.0
+global_step=961402, episodic_return=[-12.734072], success_rate=0.05
+global_step=961802, episodic_return=[32.38505], success_rate=0.36
+global_step=962202, episodic_return=[52.73487], success_rate=0.53
+SPS: 88
+global_step=962602, episodic_return=[-9.885181], success_rate=0.1
+global_step=963002, episodic_return=[79.637825], success_rate=0.71
+global_step=963402, episodic_return=[73.038704], success_rate=0.68
+global_step=963802, episodic_return=[-19.380684], success_rate=0.0
+global_step=964202, episodic_return=[31.141163], success_rate=0.36
+global_step=964602, episodic_return=[-18.91805], success_rate=0.0
+SPS: 88
+global_step=965002, episodic_return=[9.535618], success_rate=0.19
+global_step=965402, episodic_return=[19.166668], success_rate=0.3
+global_step=965802, episodic_return=[24.964434], success_rate=0.31
+global_step=966202, episodic_return=[-14.076686], success_rate=0.0
+global_step=966602, episodic_return=[3.8936744], success_rate=0.18
+SPS: 88
+global_step=967002, episodic_return=[-10.766391], success_rate=0.02
+global_step=967402, episodic_return=[22.737268], success_rate=0.31
+global_step=967802, episodic_return=[-10.138931], success_rate=0.07
+global_step=968202, episodic_return=[23.847841], success_rate=0.26
+global_step=968602, episodic_return=[-19.187473], success_rate=0.0
+SPS: 88
+global_step=969002, episodic_return=[48.88164], success_rate=0.48
+global_step=969402, episodic_return=[22.901066], success_rate=0.24
+global_step=969802, episodic_return=[9.34723], success_rate=0.18
+global_step=970202, episodic_return=[-16.688631], success_rate=0.0
+global_step=970602, episodic_return=[-11.106813], success_rate=0.0
+SPS: 88
+global_step=971002, episodic_return=[-3.0302896], success_rate=0.06
+global_step=971402, episodic_return=[50.41988], success_rate=0.49
+global_step=971802, episodic_return=[-1.8202096], success_rate=0.08
+global_step=972202, episodic_return=[23.745058], success_rate=0.24
+global_step=972602, episodic_return=[53.248043], success_rate=0.52
+SPS: 88
+global_step=973002, episodic_return=[-1.9027127], success_rate=0.07
+global_step=973402, episodic_return=[100.59951], success_rate=0.86
+global_step=973802, episodic_return=[65.86723], success_rate=0.58
+global_step=974202, episodic_return=[-5.144314], success_rate=0.03
+global_step=974602, episodic_return=[-15.870858], success_rate=0.0
+SPS: 88
+global_step=975002, episodic_return=[31.66632], success_rate=0.31
+global_step=975402, episodic_return=[-1.085115], success_rate=0.07
+global_step=975802, episodic_return=[9.019599], success_rate=0.13
+global_step=976202, episodic_return=[-10.594732], success_rate=0.0
+global_step=976602, episodic_return=[8.682777], success_rate=0.18
+SPS: 88
+global_step=977002, episodic_return=[37.69543], success_rate=0.36
+global_step=977402, episodic_return=[-7.3679137], success_rate=0.06
+global_step=977802, episodic_return=[8.34226], success_rate=0.18
+global_step=978202, episodic_return=[5.894043], success_rate=0.12
+global_step=978602, episodic_return=[-13.013271], success_rate=0.0
+SPS: 88
+global_step=979002, episodic_return=[27.726255], success_rate=0.27
+global_step=979402, episodic_return=[-4.6502814], success_rate=0.06
+global_step=979802, episodic_return=[7.8483047], success_rate=0.15
+global_step=980202, episodic_return=[5.156095], success_rate=0.13
+global_step=980602, episodic_return=[-6.5844707], success_rate=0.0
+SPS: 88
+global_step=981002, episodic_return=[16.79021], success_rate=0.21
+global_step=981402, episodic_return=[43.662266], success_rate=0.39
+global_step=981802, episodic_return=[30.849527], success_rate=0.36
+global_step=982202, episodic_return=[5.479998], success_rate=0.15
+global_step=982602, episodic_return=[30.985964], success_rate=0.31
+global_step=983002, episodic_return=[55.92115], success_rate=0.51
+SPS: 88
+global_step=983402, episodic_return=[6.458187], success_rate=0.15
+global_step=983802, episodic_return=[18.384962], success_rate=0.25
+global_step=984202, episodic_return=[5.3002224], success_rate=0.11
+global_step=984602, episodic_return=[-10.775322], success_rate=0.0
+global_step=985002, episodic_return=[15.515623], success_rate=0.2
+SPS: 88
+global_step=985402, episodic_return=[75.054115], success_rate=0.66
+global_step=985802, episodic_return=[21.229698], success_rate=0.22
+global_step=986202, episodic_return=[52.03095], success_rate=0.48
+global_step=986602, episodic_return=[0.5096764], success_rate=0.1
+global_step=987002, episodic_return=[-8.292624], success_rate=0.0
+SPS: 88
+global_step=987402, episodic_return=[57.31958], success_rate=0.52
+global_step=987802, episodic_return=[6.476421], success_rate=0.14
+global_step=988202, episodic_return=[8.391346], success_rate=0.12
+global_step=988602, episodic_return=[32.69194], success_rate=0.3
+global_step=989002, episodic_return=[9.616658], success_rate=0.16
+SPS: 88
+global_step=989402, episodic_return=[-5.8800106], success_rate=0.08
+global_step=989802, episodic_return=[46.98897], success_rate=0.45
+global_step=990202, episodic_return=[-12.1392], success_rate=0.0
+global_step=990602, episodic_return=[29.24958], success_rate=0.3
+global_step=991002, episodic_return=[5.0436287], success_rate=0.09
+SPS: 88
+global_step=991305, episodic_return=[73.29698], success_rate=0.65
+global_step=991705, episodic_return=[10.6568365], success_rate=0.15
+global_step=991982, episodic_return=[21.889032], success_rate=0.22
+global_step=992382, episodic_return=[14.133816], success_rate=0.19
+global_step=992680, episodic_return=[70.64203], success_rate=0.61
+global_step=993080, episodic_return=[58.799454], success_rate=0.54
+SPS: 88
+global_step=993480, episodic_return=[8.693235], success_rate=0.12
+global_step=993620, episodic_return=[38.200676], success_rate=0.34
+global_step=993917, episodic_return=[10.809324], success_rate=0.15
+global_step=994317, episodic_return=[62.88074], success_rate=0.54
+global_step=994717, episodic_return=[29.677189], success_rate=0.31
+global_step=995117, episodic_return=[41.392014], success_rate=0.39
+SPS: 88
+global_step=995517, episodic_return=[105.75894], success_rate=0.86
+global_step=995917, episodic_return=[45.427387], success_rate=0.43
+global_step=996317, episodic_return=[-13.784119], success_rate=0.0
+global_step=996717, episodic_return=[47.541367], success_rate=0.41
+global_step=997117, episodic_return=[-1.071763], success_rate=0.06
+SPS: 88
+global_step=997517, episodic_return=[-2.977505], success_rate=0.05
+global_step=997658, episodic_return=[-7.619764], success_rate=0.0
+global_step=998058, episodic_return=[-8.420109], success_rate=0.0
+global_step=998367, episodic_return=[11.1565485], success_rate=0.19
+global_step=998661, episodic_return=[12.496015], success_rate=0.17
+global_step=998946, episodic_return=[49.811424], success_rate=0.45
+global_step=999253, episodic_return=[8.137259], success_rate=0.15
+global_step=999397, episodic_return=[-7.597688], success_rate=0.0
+SPS: 88

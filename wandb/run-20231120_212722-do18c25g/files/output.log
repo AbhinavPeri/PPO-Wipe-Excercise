@@ -1,0 +1,3007 @@
+/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/spaces/box.py:130: UserWarning: [33mWARN: Box bound precision lowered by casting to float32
+  gym.logger.warn(f"Box bound precision lowered by casting to {self.dtype}")
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=249, episodic_return=[2.3227909], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=649, episodic_return=[1.7380744], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=1049, episodic_return=[1.1322452], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=1449, episodic_return=[2.347179], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=1787, episodic_return=[-9.826931], success_rate=0.0
+SPS: 101
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=2187, episodic_return=[-8.879368], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=2587, episodic_return=[1.3358444], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=2987, episodic_return=[2.0911613], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=3387, episodic_return=[5.90161], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=3787, episodic_return=[2.2021337], success_rate=0.0
+SPS: 105
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=4116, episodic_return=[3.8328238], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=4516, episodic_return=[2.0979881], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=4718, episodic_return=[1.3987056], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=5118, episodic_return=[1.8312292], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=5494, episodic_return=[3.2968423], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=5764, episodic_return=[0.7125454], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=5986, episodic_return=[1.9998553], success_rate=0.0
+SPS: 105
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=6386, episodic_return=[5.3792863], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=6786, episodic_return=[3.169533], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=7186, episodic_return=[2.0083058], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=7586, episodic_return=[9.57836], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=7986, episodic_return=[1.1266245], success_rate=0.0
+SPS: 106
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=8386, episodic_return=[3.413476], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=8786, episodic_return=[2.953098], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=8858, episodic_return=[0.21979532], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=9258, episodic_return=[9.769557], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=9658, episodic_return=[6.6901374], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=10058, episodic_return=[5.85985], success_rate=0.0
+SPS: 107
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=10458, episodic_return=[3.1191933], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=10858, episodic_return=[2.646371], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=11258, episodic_return=[2.7004266], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=11658, episodic_return=[4.714858], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=12058, episodic_return=[1.5567133], success_rate=0.0
+SPS: 108
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=12458, episodic_return=[2.5140002], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=12858, episodic_return=[16.24513], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=13258, episodic_return=[2.0641122], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=13607, episodic_return=[6.6503744], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=14007, episodic_return=[4.9447107], success_rate=0.0
+SPS: 108
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=14407, episodic_return=[7.8826303], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=14807, episodic_return=[2.775328], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=15207, episodic_return=[6.5551257], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=15607, episodic_return=[11.948976], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=16007, episodic_return=[13.509192], success_rate=0.0
+SPS: 109
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=16407, episodic_return=[3.8052888], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=16807, episodic_return=[2.3877509], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=17207, episodic_return=[17.713066], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=17607, episodic_return=[8.698381], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=18007, episodic_return=[4.521478], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=18407, episodic_return=[17.948818], success_rate=0.0
+SPS: 109
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=18807, episodic_return=[18.272879], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=19207, episodic_return=[13.254853], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=19607, episodic_return=[4.9282727], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=20007, episodic_return=[29.319166], success_rate=0.05
+global_step=20407, episodic_return=[15.60658], success_rate=0.0
+SPS: 109
+global_step=20807, episodic_return=[13.46151], success_rate=0.0
+global_step=21207, episodic_return=[16.494589], success_rate=0.0
+global_step=21607, episodic_return=[2.37134], success_rate=0.0
+global_step=22007, episodic_return=[-7.3269997], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=22407, episodic_return=[20.689026], success_rate=0.11
+SPS: 109
+global_step=22807, episodic_return=[12.324056], success_rate=0.0
+global_step=23207, episodic_return=[3.4456594], success_rate=0.0
+global_step=23607, episodic_return=[16.826052], success_rate=0.01
+global_step=24007, episodic_return=[7.098434], success_rate=0.0
+global_step=24407, episodic_return=[13.976167], success_rate=0.0
+SPS: 110
+global_step=24807, episodic_return=[16.006218], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=25207, episodic_return=[39.54674], success_rate=0.13
+global_step=25607, episodic_return=[12.037006], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=26007, episodic_return=[7.7318435], success_rate=0.13
+global_step=26407, episodic_return=[26.488178], success_rate=0.04
+SPS: 110
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=26807, episodic_return=[45.052094], success_rate=0.21
+global_step=27207, episodic_return=[25.87462], success_rate=0.04
+global_step=27607, episodic_return=[20.43613], success_rate=0.0
+global_step=28007, episodic_return=[32.625168], success_rate=0.07
+global_step=28407, episodic_return=[6.6190696], success_rate=0.0
+SPS: 110
+global_step=28807, episodic_return=[12.097899], success_rate=0.0
+global_step=29207, episodic_return=[32.51382], success_rate=0.14
+global_step=29607, episodic_return=[-2.876887], success_rate=0.0
+global_step=30007, episodic_return=[-4.2668366], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=30407, episodic_return=[43.970646], success_rate=0.25
+SPS: 109
+global_step=30807, episodic_return=[8.731296], success_rate=0.13
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=31207, episodic_return=[53.401405], success_rate=0.38
+global_step=31607, episodic_return=[9.816597], success_rate=0.0
+global_step=32007, episodic_return=[16.77304], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=32407, episodic_return=[70.03667], success_rate=0.48
+SPS: 109
+global_step=32807, episodic_return=[24.454077], success_rate=0.18
+global_step=33207, episodic_return=[9.579385], success_rate=0.0
+global_step=33607, episodic_return=[18.050493], success_rate=0.0
+global_step=34007, episodic_return=[1.1245822], success_rate=0.02
+global_step=34407, episodic_return=[43.229713], success_rate=0.25
+global_step=34807, episodic_return=[26.195087], success_rate=0.25
+SPS: 108
+global_step=35207, episodic_return=[31.152834], success_rate=0.18
+global_step=35607, episodic_return=[51.789646], success_rate=0.42
+global_step=36007, episodic_return=[0.5268595], success_rate=0.09
+global_step=36407, episodic_return=[-4.6838913], success_rate=0.0
+global_step=36807, episodic_return=[-7.646599], success_rate=0.0
+SPS: 107
+global_step=37207, episodic_return=[3.6549413], success_rate=0.0
+global_step=37607, episodic_return=[23.78323], success_rate=0.21
+global_step=38007, episodic_return=[51.19552], success_rate=0.4
+global_step=38407, episodic_return=[9.844782], success_rate=0.07
+global_step=38807, episodic_return=[-0.6208948], success_rate=0.0
+SPS: 106
+global_step=39207, episodic_return=[31.126194], success_rate=0.26
+global_step=39607, episodic_return=[34.519398], success_rate=0.15
+global_step=40007, episodic_return=[50.180443], success_rate=0.24
+global_step=40407, episodic_return=[1.736904], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=40807, episodic_return=[80.0007], success_rate=0.5
+SPS: 106
+global_step=41207, episodic_return=[-3.5267189], success_rate=0.0
+global_step=41607, episodic_return=[0.37983063], success_rate=0.12
+global_step=42007, episodic_return=[32.928535], success_rate=0.29
+global_step=42407, episodic_return=[75.010544], success_rate=0.47
+global_step=42807, episodic_return=[11.892948], success_rate=0.19
+SPS: 105
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=43207, episodic_return=[89.62671], success_rate=0.76
+global_step=43607, episodic_return=[43.435997], success_rate=0.47
+global_step=44007, episodic_return=[38.767452], success_rate=0.45
+global_step=44407, episodic_return=[-1.8522652], success_rate=0.06
+global_step=44807, episodic_return=[-8.286449], success_rate=0.1
+SPS: 105
+global_step=45207, episodic_return=[54.266693], success_rate=0.49
+global_step=45607, episodic_return=[-11.132503], success_rate=0.0
+global_step=46007, episodic_return=[23.217371], success_rate=0.25
+global_step=46407, episodic_return=[48.815742], success_rate=0.49
+global_step=46807, episodic_return=[18.68599], success_rate=0.21
+SPS: 104
+global_step=47207, episodic_return=[-7.7493863], success_rate=0.0
+global_step=47607, episodic_return=[84.17618], success_rate=0.55
+global_step=48007, episodic_return=[7.4342146], success_rate=0.06
+global_step=48407, episodic_return=[6.276836], success_rate=0.0
+global_step=48807, episodic_return=[30.98958], success_rate=0.24
+SPS: 104
+global_step=49207, episodic_return=[-7.601027], success_rate=0.0
+global_step=49607, episodic_return=[-18.306534], success_rate=0.0
+global_step=50007, episodic_return=[12.0972595], success_rate=0.13
+global_step=50407, episodic_return=[32.08922], success_rate=0.35
+global_step=50807, episodic_return=[49.08147], success_rate=0.33
+SPS: 104
+global_step=51207, episodic_return=[20.01144], success_rate=0.15
+global_step=51607, episodic_return=[57.232227], success_rate=0.36
+global_step=52007, episodic_return=[40.440784], success_rate=0.38
+global_step=52407, episodic_return=[9.515565], success_rate=0.07
+global_step=52807, episodic_return=[-12.278257], success_rate=0.02
+global_step=53207, episodic_return=[-3.4931836], success_rate=0.0
+SPS: 103
+global_step=53607, episodic_return=[31.72106], success_rate=0.17
+global_step=54007, episodic_return=[31.350286], success_rate=0.25
+global_step=54407, episodic_return=[47.39331], success_rate=0.29
+global_step=54807, episodic_return=[-3.6838756], success_rate=0.0
+global_step=55207, episodic_return=[-0.69747925], success_rate=0.0
+SPS: 103
+global_step=55607, episodic_return=[73.07152], success_rate=0.46
+global_step=56007, episodic_return=[36.378895], success_rate=0.26
+global_step=56407, episodic_return=[-0.33528054], success_rate=0.0
+global_step=56807, episodic_return=[34.04571], success_rate=0.22
+global_step=57207, episodic_return=[54.81131], success_rate=0.37
+SPS: 103
+global_step=57607, episodic_return=[82.67893], success_rate=0.5
+global_step=58007, episodic_return=[44.034016], success_rate=0.43
+global_step=58407, episodic_return=[17.473574], success_rate=0.21
+global_step=58807, episodic_return=[-2.684687], success_rate=0.0
+global_step=59207, episodic_return=[-7.3619685], success_rate=0.0
+SPS: 103
+global_step=59607, episodic_return=[-2.6750896], success_rate=0.0
+global_step=60007, episodic_return=[61.45136], success_rate=0.4
+global_step=60407, episodic_return=[24.228153], success_rate=0.18
+global_step=60807, episodic_return=[58.650784], success_rate=0.36
+global_step=61207, episodic_return=[39.031296], success_rate=0.26
+SPS: 103
+global_step=61607, episodic_return=[3.4168894], success_rate=0.07
+global_step=62007, episodic_return=[1.4812545], success_rate=0.06
+global_step=62407, episodic_return=[2.6992264], success_rate=0.0
+global_step=62807, episodic_return=[25.79703], success_rate=0.14
+global_step=63207, episodic_return=[-7.8715353], success_rate=0.0
+SPS: 103
+global_step=63607, episodic_return=[73.85801], success_rate=0.57
+global_step=64007, episodic_return=[38.506546], success_rate=0.32
+global_step=64407, episodic_return=[10.228918], success_rate=0.05
+global_step=64807, episodic_return=[2.724992], success_rate=0.1
+global_step=65207, episodic_return=[36.338417], success_rate=0.29
+SPS: 102
+global_step=65607, episodic_return=[59.45738], success_rate=0.4
+global_step=66007, episodic_return=[33.433994], success_rate=0.26
+global_step=66407, episodic_return=[33.053345], success_rate=0.36
+global_step=66807, episodic_return=[3.3907197], success_rate=0.07
+global_step=67207, episodic_return=[9.264743], success_rate=0.06
+SPS: 102
+global_step=67607, episodic_return=[64.08583], success_rate=0.52
+global_step=68007, episodic_return=[54.70577], success_rate=0.48
+global_step=68407, episodic_return=[68.255196], success_rate=0.56
+global_step=68807, episodic_return=[-6.799724], success_rate=0.0
+global_step=69207, episodic_return=[50.786163], success_rate=0.43
+global_step=69607, episodic_return=[17.624449], success_rate=0.19
+SPS: 102
+global_step=70007, episodic_return=[-26.092606], success_rate=0.0
+global_step=70407, episodic_return=[37.02485], success_rate=0.32
+global_step=70807, episodic_return=[9.328065], success_rate=0.26
+global_step=71207, episodic_return=[-20.490913], success_rate=0.0
+global_step=71607, episodic_return=[48.986435], success_rate=0.53
+SPS: 101
+global_step=72007, episodic_return=[35.46183], success_rate=0.37
+global_step=72407, episodic_return=[-12.596095], success_rate=0.0
+global_step=72807, episodic_return=[57.558075], success_rate=0.56
+global_step=73207, episodic_return=[0.8074628], success_rate=0.25
+global_step=73607, episodic_return=[-35.989494], success_rate=0.0
+SPS: 101
+global_step=74007, episodic_return=[19.951426], success_rate=0.2
+global_step=74407, episodic_return=[11.769722], success_rate=0.13
+global_step=74807, episodic_return=[36.81889], success_rate=0.38
+global_step=75207, episodic_return=[27.523077], success_rate=0.19
+global_step=75607, episodic_return=[13.648782], success_rate=0.22
+SPS: 100
+global_step=76007, episodic_return=[-12.372451], success_rate=0.0
+global_step=76407, episodic_return=[-14.116029], success_rate=0.0
+global_step=76807, episodic_return=[-22.302095], success_rate=0.0
+global_step=77207, episodic_return=[95.59879], success_rate=0.73
+global_step=77607, episodic_return=[3.0506494], success_rate=0.0
+SPS: 100
+global_step=78007, episodic_return=[-15.228363], success_rate=0.0
+global_step=78407, episodic_return=[-3.2363858], success_rate=0.0
+global_step=78807, episodic_return=[46.82647], success_rate=0.37
+global_step=79207, episodic_return=[61.82762], success_rate=0.4
+global_step=79607, episodic_return=[18.475222], success_rate=0.19
+SPS: 100
+global_step=80007, episodic_return=[0.6587329], success_rate=0.06
+global_step=80407, episodic_return=[66.13149], success_rate=0.34
+global_step=80807, episodic_return=[44.242508], success_rate=0.41
+global_step=81207, episodic_return=[57.513996], success_rate=0.32
+global_step=81607, episodic_return=[67.48982], success_rate=0.45
+SPS: 100
+global_step=82007, episodic_return=[20.415804], success_rate=0.11
+global_step=82407, episodic_return=[-4.41392], success_rate=0.0
+global_step=82807, episodic_return=[96.941475], success_rate=0.71
+global_step=83207, episodic_return=[54.399082], success_rate=0.28
+global_step=83607, episodic_return=[62.123226], success_rate=0.48
+SPS: 99
+global_step=84007, episodic_return=[-5.8614697], success_rate=0.0
+global_step=84407, episodic_return=[22.50402], success_rate=0.09
+global_step=84807, episodic_return=[14.573354], success_rate=0.02
+global_step=85207, episodic_return=[18.728086], success_rate=0.13
+global_step=85607, episodic_return=[18.24836], success_rate=0.13
+global_step=86007, episodic_return=[7.536834], success_rate=0.0
+SPS: 99
+global_step=86407, episodic_return=[62.912563], success_rate=0.35
+global_step=86807, episodic_return=[5.9111056], success_rate=0.0
+global_step=87207, episodic_return=[-3.6765583], success_rate=0.0
+global_step=87607, episodic_return=[26.327375], success_rate=0.18
+global_step=88007, episodic_return=[40.656796], success_rate=0.2
+SPS: 99
+global_step=88407, episodic_return=[7.512732], success_rate=0.0
+global_step=88807, episodic_return=[14.629284], success_rate=0.0
+global_step=89207, episodic_return=[28.871609], success_rate=0.16
+global_step=89607, episodic_return=[9.294466], success_rate=0.06
+global_step=90007, episodic_return=[-5.349184], success_rate=0.0
+SPS: 100
+global_step=90407, episodic_return=[49.97183], success_rate=0.23
+global_step=90807, episodic_return=[67.39353], success_rate=0.31
+global_step=91207, episodic_return=[45.815495], success_rate=0.28
+global_step=91607, episodic_return=[45.28047], success_rate=0.22
+global_step=92007, episodic_return=[31.50967], success_rate=0.16
+SPS: 100
+global_step=92407, episodic_return=[48.776413], success_rate=0.25
+global_step=92807, episodic_return=[6.8909707], success_rate=0.01
+global_step=93207, episodic_return=[26.860395], success_rate=0.2
+global_step=93607, episodic_return=[61.70612], success_rate=0.35
+global_step=94007, episodic_return=[66.7031], success_rate=0.36
+SPS: 100
+global_step=94407, episodic_return=[3.256061], success_rate=0.0
+global_step=94807, episodic_return=[37.93423], success_rate=0.21
+global_step=95207, episodic_return=[10.148672], success_rate=0.0
+global_step=95607, episodic_return=[4.835591], success_rate=0.02
+global_step=96007, episodic_return=[6.699548], success_rate=0.0
+SPS: 100
+global_step=96407, episodic_return=[22.85806], success_rate=0.12
+global_step=96807, episodic_return=[80.81536], success_rate=0.51
+global_step=97207, episodic_return=[39.467556], success_rate=0.18
+global_step=97607, episodic_return=[0.9839717], success_rate=0.0
+global_step=98007, episodic_return=[37.289345], success_rate=0.2
+SPS: 100
+global_step=98407, episodic_return=[69.88187], success_rate=0.35
+global_step=98807, episodic_return=[91.04074], success_rate=0.51
+global_step=99207, episodic_return=[0.21655452], success_rate=0.0
+global_step=99607, episodic_return=[52.498356], success_rate=0.34
+global_step=100007, episodic_return=[33.40935], success_rate=0.21
+SPS: 100
+global_step=100407, episodic_return=[38.525974], success_rate=0.22
+global_step=100807, episodic_return=[82.55645], success_rate=0.51
+global_step=101207, episodic_return=[23.731289], success_rate=0.09
+global_step=101607, episodic_return=[0.20903422], success_rate=0.0
+global_step=102007, episodic_return=[1.2838155], success_rate=0.0
+SPS: 100
+global_step=102407, episodic_return=[23.860735], success_rate=0.23
+global_step=102807, episodic_return=[-13.48623], success_rate=0.0
+global_step=103207, episodic_return=[62.81936], success_rate=0.4
+global_step=103607, episodic_return=[-5.5431185], success_rate=0.0
+global_step=104007, episodic_return=[0.6290292], success_rate=0.02
+global_step=104407, episodic_return=[17.848997], success_rate=0.09
+SPS: 100
+global_step=104807, episodic_return=[38.424168], success_rate=0.26
+global_step=105207, episodic_return=[-0.13006079], success_rate=0.03
+global_step=105607, episodic_return=[-1.1798126], success_rate=0.01
+global_step=106007, episodic_return=[65.66149], success_rate=0.42
+global_step=106407, episodic_return=[29.861244], success_rate=0.21
+SPS: 100
+global_step=106807, episodic_return=[1.5863812], success_rate=0.0
+global_step=107207, episodic_return=[40.422245], success_rate=0.26
+global_step=107607, episodic_return=[3.554651], success_rate=0.0
+global_step=108007, episodic_return=[-1.8982538], success_rate=0.0
+global_step=108407, episodic_return=[19.734772], success_rate=0.0
+SPS: 100
+global_step=108807, episodic_return=[53.789497], success_rate=0.21
+global_step=109207, episodic_return=[10.037968], success_rate=0.0
+global_step=109607, episodic_return=[98.902725], success_rate=0.64
+global_step=110007, episodic_return=[3.1307566], success_rate=0.0
+global_step=110407, episodic_return=[20.261381], success_rate=0.07
+SPS: 101
+global_step=110807, episodic_return=[39.57222], success_rate=0.25
+global_step=111207, episodic_return=[-4.747052], success_rate=0.0
+global_step=111607, episodic_return=[87.10794], success_rate=0.53
+global_step=112007, episodic_return=[-4.7253513], success_rate=0.0
+global_step=112407, episodic_return=[14.454257], success_rate=0.08
+SPS: 101
+global_step=112807, episodic_return=[14.014056], success_rate=0.07
+global_step=113207, episodic_return=[3.394686], success_rate=0.0
+global_step=113607, episodic_return=[8.241939], success_rate=0.0
+global_step=114007, episodic_return=[-8.628346], success_rate=0.0
+global_step=114407, episodic_return=[8.076763], success_rate=0.0
+SPS: 101
+global_step=114807, episodic_return=[5.807193], success_rate=0.0
+global_step=115207, episodic_return=[5.179522], success_rate=0.0
+global_step=115607, episodic_return=[38.86272], success_rate=0.23
+global_step=116007, episodic_return=[13.111263], success_rate=0.0
+global_step=116407, episodic_return=[111.33492], success_rate=0.66
+SPS: 101
+global_step=116807, episodic_return=[3.379417], success_rate=0.0
+global_step=117207, episodic_return=[9.322815], success_rate=0.0
+global_step=117607, episodic_return=[49.5018], success_rate=0.26
+global_step=118007, episodic_return=[38.754204], success_rate=0.21
+global_step=118407, episodic_return=[48.61986], success_rate=0.2
+SPS: 101
+global_step=118807, episodic_return=[11.034739], success_rate=0.0
+global_step=119207, episodic_return=[38.689686], success_rate=0.2
+global_step=119607, episodic_return=[-0.2588396], success_rate=0.0
+global_step=120007, episodic_return=[35.221233], success_rate=0.21
+global_step=120407, episodic_return=[3.5058374], success_rate=0.0
+global_step=120807, episodic_return=[33.6602], success_rate=0.19
+SPS: 101
+global_step=121207, episodic_return=[0.68957996], success_rate=0.0
+global_step=121607, episodic_return=[62.83135], success_rate=0.3
+global_step=122007, episodic_return=[-2.2053912], success_rate=0.0
+global_step=122407, episodic_return=[15.442521], success_rate=0.1
+global_step=122807, episodic_return=[32.803677], success_rate=0.19
+SPS: 101
+global_step=123207, episodic_return=[48.10641], success_rate=0.33
+global_step=123607, episodic_return=[6.0136194], success_rate=0.0
+global_step=124007, episodic_return=[7.539984], success_rate=0.0
+global_step=124407, episodic_return=[38.02745], success_rate=0.23
+global_step=124807, episodic_return=[7.7512255], success_rate=0.0
+SPS: 101
+global_step=125207, episodic_return=[20.458391], success_rate=0.04
+global_step=125607, episodic_return=[64.58166], success_rate=0.3
+global_step=126007, episodic_return=[34.629227], success_rate=0.21
+global_step=126407, episodic_return=[2.318248], success_rate=0.0
+global_step=126807, episodic_return=[82.563965], success_rate=0.48
+SPS: 101
+global_step=127207, episodic_return=[6.77386], success_rate=0.0
+global_step=127607, episodic_return=[-8.153604], success_rate=0.0
+global_step=128007, episodic_return=[2.3862627], success_rate=0.01
+global_step=128407, episodic_return=[10.179789], success_rate=0.0
+global_step=128807, episodic_return=[-3.589924], success_rate=0.02
+SPS: 102
+global_step=129207, episodic_return=[85.67981], success_rate=0.53
+global_step=129607, episodic_return=[2.5039892], success_rate=0.0
+global_step=130007, episodic_return=[24.812069], success_rate=0.09
+global_step=130407, episodic_return=[42.625324], success_rate=0.21
+global_step=130807, episodic_return=[8.479889], success_rate=0.06
+SPS: 102
+global_step=131207, episodic_return=[25.200851], success_rate=0.18
+global_step=131607, episodic_return=[28.869574], success_rate=0.16
+global_step=132007, episodic_return=[23.353298], success_rate=0.14
+global_step=132407, episodic_return=[49.56014], success_rate=0.3
+global_step=132807, episodic_return=[58.54126], success_rate=0.33
+SPS: 102
+global_step=133207, episodic_return=[10.78284], success_rate=0.0
+global_step=133607, episodic_return=[34.774124], success_rate=0.14
+global_step=134007, episodic_return=[38.560806], success_rate=0.14
+global_step=134407, episodic_return=[0.04814012], success_rate=0.0
+global_step=134807, episodic_return=[43.389023], success_rate=0.27
+SPS: 102
+global_step=135207, episodic_return=[36.61823], success_rate=0.26
+global_step=135607, episodic_return=[10.883209], success_rate=0.0
+global_step=136007, episodic_return=[0.8969878], success_rate=0.0
+global_step=136407, episodic_return=[8.406637], success_rate=0.04
+global_step=136807, episodic_return=[2.9880524], success_rate=0.0
+global_step=137207, episodic_return=[12.8425865], success_rate=0.09
+SPS: 102
+global_step=137607, episodic_return=[46.52085], success_rate=0.35
+global_step=138007, episodic_return=[1.1523781], success_rate=0.0
+global_step=138407, episodic_return=[53.89454], success_rate=0.33
+global_step=138807, episodic_return=[35.78372], success_rate=0.15
+global_step=139207, episodic_return=[47.093166], success_rate=0.34
+SPS: 102
+global_step=139607, episodic_return=[11.285074], success_rate=0.05
+global_step=140007, episodic_return=[43.606213], success_rate=0.27
+global_step=140407, episodic_return=[42.897205], success_rate=0.22
+global_step=140807, episodic_return=[0.08319943], success_rate=0.0
+global_step=141207, episodic_return=[5.6851845], success_rate=0.0
+SPS: 102
+global_step=141607, episodic_return=[28.578018], success_rate=0.2
+global_step=142007, episodic_return=[61.68373], success_rate=0.43
+global_step=142407, episodic_return=[30.268808], success_rate=0.32
+global_step=142807, episodic_return=[5.889096], success_rate=0.03
+global_step=143207, episodic_return=[0.8950972], success_rate=0.0
+SPS: 102
+global_step=143607, episodic_return=[66.394], success_rate=0.5
+global_step=144007, episodic_return=[-2.9154792], success_rate=0.0
+global_step=144407, episodic_return=[51.98756], success_rate=0.39
+global_step=144807, episodic_return=[-5.8975205], success_rate=0.0
+global_step=145207, episodic_return=[21.185919], success_rate=0.1
+SPS: 102
+global_step=145607, episodic_return=[53.90126], success_rate=0.35
+global_step=146007, episodic_return=[2.1170783], success_rate=0.0
+global_step=146407, episodic_return=[47.70556], success_rate=0.31
+global_step=146807, episodic_return=[48.037243], success_rate=0.32
+global_step=147207, episodic_return=[-1.3761357], success_rate=0.0
+SPS: 102
+global_step=147607, episodic_return=[26.796738], success_rate=0.16
+global_step=148007, episodic_return=[47.098293], success_rate=0.34
+global_step=148407, episodic_return=[3.53565], success_rate=0.0
+global_step=148807, episodic_return=[-4.4881854], success_rate=0.0
+global_step=149207, episodic_return=[-3.973419], success_rate=0.0
+SPS: 103
+global_step=149607, episodic_return=[-3.112549], success_rate=0.0
+global_step=150007, episodic_return=[15.016123], success_rate=0.14
+global_step=150407, episodic_return=[47.27308], success_rate=0.29
+global_step=150807, episodic_return=[44.857372], success_rate=0.28
+global_step=151207, episodic_return=[3.327123], success_rate=0.0
+SPS: 103
+global_step=151607, episodic_return=[13.596321], success_rate=0.15
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=152007, episodic_return=[115.09138], success_rate=0.78
+global_step=152407, episodic_return=[-14.494151], success_rate=0.0
+global_step=152807, episodic_return=[-2.9538913], success_rate=0.05
+global_step=153207, episodic_return=[29.798336], success_rate=0.19
+SPS: 103
+global_step=153607, episodic_return=[-10.813578], success_rate=0.0
+global_step=154007, episodic_return=[-9.133514], success_rate=0.0
+global_step=154407, episodic_return=[40.386253], success_rate=0.34
+global_step=154807, episodic_return=[-2.1093085], success_rate=0.0
+global_step=155207, episodic_return=[14.744093], success_rate=0.18
+global_step=155607, episodic_return=[46.077282], success_rate=0.26
+SPS: 103
+global_step=156007, episodic_return=[-2.086739], success_rate=0.0
+global_step=156407, episodic_return=[-9.706025], success_rate=0.0
+global_step=156807, episodic_return=[40.615032], success_rate=0.3
+global_step=157207, episodic_return=[11.497085], success_rate=0.02
+global_step=157607, episodic_return=[23.521526], success_rate=0.11
+SPS: 103
+global_step=158007, episodic_return=[-6.2621675], success_rate=0.0
+global_step=158407, episodic_return=[52.775265], success_rate=0.42
+global_step=158807, episodic_return=[61.116615], success_rate=0.36
+global_step=159207, episodic_return=[19.188637], success_rate=0.12
+global_step=159607, episodic_return=[18.385077], success_rate=0.05
+SPS: 103
+global_step=160007, episodic_return=[48.936047], success_rate=0.26
+global_step=160407, episodic_return=[42.843204], success_rate=0.33
+global_step=160807, episodic_return=[99.10239], success_rate=0.69
+global_step=161207, episodic_return=[50.1197], success_rate=0.37
+global_step=161607, episodic_return=[60.529232], success_rate=0.4
+SPS: 103
+global_step=162007, episodic_return=[49.304123], success_rate=0.32
+global_step=162407, episodic_return=[80.664604], success_rate=0.49
+global_step=162807, episodic_return=[55.17244], success_rate=0.36
+global_step=163207, episodic_return=[4.509288], success_rate=0.0
+global_step=163607, episodic_return=[21.65645], success_rate=0.19
+SPS: 103
+global_step=164007, episodic_return=[22.805908], success_rate=0.2
+global_step=164407, episodic_return=[6.0391655], success_rate=0.0
+global_step=164807, episodic_return=[-4.7993126], success_rate=0.0
+global_step=165207, episodic_return=[99.22407], success_rate=0.76
+global_step=165607, episodic_return=[12.007513], success_rate=0.15
+SPS: 103
+global_step=166007, episodic_return=[-12.470224], success_rate=0.0
+global_step=166407, episodic_return=[1.6520133], success_rate=0.09
+global_step=166807, episodic_return=[59.214817], success_rate=0.39
+global_step=167207, episodic_return=[-9.60685], success_rate=0.0
+global_step=167607, episodic_return=[86.22648], success_rate=0.63
+SPS: 103
+global_step=168007, episodic_return=[14.709988], success_rate=0.15
+global_step=168407, episodic_return=[39.11049], success_rate=0.32
+global_step=168807, episodic_return=[49.70311], success_rate=0.43
+global_step=169207, episodic_return=[42.307438], success_rate=0.33
+global_step=169607, episodic_return=[40.856045], success_rate=0.31
+SPS: 103
+global_step=170007, episodic_return=[16.897913], success_rate=0.1
+global_step=170407, episodic_return=[-4.2126927], success_rate=0.0
+global_step=170807, episodic_return=[3.514143], success_rate=0.0
+global_step=171207, episodic_return=[19.767965], success_rate=0.21
+global_step=171607, episodic_return=[32.634064], success_rate=0.22
+global_step=172007, episodic_return=[41.51025], success_rate=0.29
+SPS: 103
+global_step=172407, episodic_return=[24.687244], success_rate=0.2
+global_step=172807, episodic_return=[21.345716], success_rate=0.16
+global_step=172840, episodic_return=[-1.989612], success_rate=0.0
+global_step=173240, episodic_return=[33.210354], success_rate=0.25
+global_step=173640, episodic_return=[63.41376], success_rate=0.41
+global_step=174040, episodic_return=[34.762207], success_rate=0.31
+SPS: 103
+global_step=174440, episodic_return=[52.22356], success_rate=0.35
+global_step=174478, episodic_return=[-1.5803969], success_rate=0.0
+global_step=174521, episodic_return=[-0.5361098], success_rate=0.0
+global_step=174921, episodic_return=[36.402023], success_rate=0.32
+global_step=175321, episodic_return=[65.02762], success_rate=0.48
+global_step=175721, episodic_return=[47.25326], success_rate=0.39
+global_step=176121, episodic_return=[11.74514], success_rate=0.1
+SPS: 103
+global_step=176521, episodic_return=[-5.302322], success_rate=0.0
+global_step=176921, episodic_return=[-3.717197], success_rate=0.0
+global_step=177321, episodic_return=[41.045162], success_rate=0.33
+global_step=177721, episodic_return=[95.76427], success_rate=0.76
+global_step=178121, episodic_return=[-12.108129], success_rate=0.0
+SPS: 103
+global_step=178521, episodic_return=[10.58942], success_rate=0.13
+global_step=178921, episodic_return=[34.454414], success_rate=0.29
+global_step=179321, episodic_return=[2.835892], success_rate=0.07
+global_step=179721, episodic_return=[-1.0610265], success_rate=0.0
+global_step=179754, episodic_return=[-1.3580247], success_rate=0.0
+global_step=180154, episodic_return=[64.89454], success_rate=0.42
+SPS: 103
+global_step=180554, episodic_return=[-15.628372], success_rate=0.0
+global_step=180954, episodic_return=[108.21915], success_rate=0.76
+global_step=181354, episodic_return=[-11.769655], success_rate=0.0
+global_step=181754, episodic_return=[-9.659148], success_rate=0.0
+global_step=182154, episodic_return=[-13.398296], success_rate=0.0
+SPS: 103
+global_step=182554, episodic_return=[-4.029681], success_rate=0.03
+global_step=182954, episodic_return=[-10.624983], success_rate=0.06
+global_step=182991, episodic_return=[-0.6771337], success_rate=0.0
+global_step=183391, episodic_return=[62.093937], success_rate=0.43
+global_step=183791, episodic_return=[-12.217949], success_rate=0.0
+global_step=184191, episodic_return=[-3.0948436], success_rate=0.1
+global_step=184226, episodic_return=[0.04982275], success_rate=0.0
+SPS: 102
+global_step=184626, episodic_return=[48.72455], success_rate=0.46
+global_step=185026, episodic_return=[-14.941899], success_rate=0.0
+global_step=185426, episodic_return=[4.019882], success_rate=0.0
+global_step=185826, episodic_return=[96.113014], success_rate=0.76
+global_step=186226, episodic_return=[89.8239], success_rate=0.57
+SPS: 102
+global_step=186626, episodic_return=[2.5267363], success_rate=0.0
+global_step=187026, episodic_return=[-4.969157], success_rate=0.0
+global_step=187426, episodic_return=[9.483673], success_rate=0.14
+global_step=187826, episodic_return=[36.32112], success_rate=0.3
+global_step=188226, episodic_return=[-6.9370065], success_rate=0.0
+SPS: 102
+global_step=188626, episodic_return=[89.38474], success_rate=0.69
+global_step=189026, episodic_return=[31.002914], success_rate=0.3
+global_step=189064, episodic_return=[-0.47623065], success_rate=0.0
+global_step=189464, episodic_return=[68.11705], success_rate=0.43
+global_step=189864, episodic_return=[-6.5530396], success_rate=0.0
+global_step=190264, episodic_return=[-8.886753], success_rate=0.06
+SPS: 102
+global_step=190664, episodic_return=[83.042885], success_rate=0.6
+global_step=191064, episodic_return=[41.406467], success_rate=0.31
+global_step=191464, episodic_return=[-1.658022], success_rate=0.0
+global_step=191864, episodic_return=[37.41439], success_rate=0.35
+global_step=192264, episodic_return=[-4.252579], success_rate=0.0
+SPS: 102
+global_step=192664, episodic_return=[-8.406223], success_rate=0.0
+global_step=193064, episodic_return=[5.748187], success_rate=0.08
+global_step=193095, episodic_return=[-0.02510586], success_rate=0.0
+global_step=193495, episodic_return=[-1.3448983], success_rate=0.0
+global_step=193895, episodic_return=[-12.127367], success_rate=0.0
+global_step=194295, episodic_return=[27.4244], success_rate=0.23
+global_step=194328, episodic_return=[-1.2303451], success_rate=0.0
+SPS: 102
+global_step=194728, episodic_return=[1.5785636], success_rate=0.02
+global_step=195128, episodic_return=[-14.73299], success_rate=0.0
+global_step=195528, episodic_return=[25.732176], success_rate=0.19
+global_step=195928, episodic_return=[-2.697841], success_rate=0.0
+global_step=196328, episodic_return=[-6.8783736], success_rate=0.0
+SPS: 102
+global_step=196728, episodic_return=[12.581362], success_rate=0.11
+global_step=197128, episodic_return=[49.72386], success_rate=0.31
+global_step=197528, episodic_return=[34.610218], success_rate=0.1
+global_step=197928, episodic_return=[0.01884321], success_rate=0.0
+global_step=198328, episodic_return=[21.518597], success_rate=0.14
+SPS: 102
+global_step=198728, episodic_return=[65.09258], success_rate=0.4
+global_step=199128, episodic_return=[2.0778334], success_rate=0.0
+global_step=199528, episodic_return=[3.7166338], success_rate=0.0
+global_step=199928, episodic_return=[-0.13863729], success_rate=0.0
+global_step=200328, episodic_return=[32.516888], success_rate=0.15
+SPS: 103
+global_step=200728, episodic_return=[-4.7638307], success_rate=0.0
+global_step=201128, episodic_return=[21.134228], success_rate=0.11
+global_step=201528, episodic_return=[0.60316813], success_rate=0.0
+global_step=201928, episodic_return=[35.14465], success_rate=0.19
+global_step=202328, episodic_return=[25.113756], success_rate=0.16
+global_step=202728, episodic_return=[9.844393], success_rate=0.01
+SPS: 103
+global_step=203128, episodic_return=[15.587691], success_rate=0.06
+global_step=203528, episodic_return=[53.21881], success_rate=0.33
+global_step=203928, episodic_return=[67.41154], success_rate=0.44
+global_step=204328, episodic_return=[77.146965], success_rate=0.61
+global_step=204728, episodic_return=[69.13466], success_rate=0.42
+SPS: 103
+global_step=205128, episodic_return=[14.876845], success_rate=0.07
+global_step=205528, episodic_return=[7.650438], success_rate=0.0
+global_step=205928, episodic_return=[68.302444], success_rate=0.33
+global_step=206328, episodic_return=[-8.520246], success_rate=0.0
+global_step=206728, episodic_return=[4.812058], success_rate=0.0
+SPS: 103
+global_step=207128, episodic_return=[21.47258], success_rate=0.09
+global_step=207528, episodic_return=[64.31477], success_rate=0.39
+global_step=207928, episodic_return=[29.861008], success_rate=0.18
+global_step=208328, episodic_return=[6.473986], success_rate=0.05
+global_step=208728, episodic_return=[3.0526013], success_rate=0.0
+SPS: 103
+global_step=209128, episodic_return=[14.669261], success_rate=0.04
+global_step=209528, episodic_return=[83.79673], success_rate=0.57
+global_step=209928, episodic_return=[37.64359], success_rate=0.17
+global_step=210328, episodic_return=[8.889118], success_rate=0.0
+global_step=210728, episodic_return=[69.69495], success_rate=0.4
+SPS: 103
+global_step=211128, episodic_return=[11.09674], success_rate=0.02
+global_step=211528, episodic_return=[66.41749], success_rate=0.37
+global_step=211928, episodic_return=[28.307734], success_rate=0.2
+global_step=212328, episodic_return=[70.85093], success_rate=0.41
+global_step=212728, episodic_return=[1.0942637], success_rate=0.0
+SPS: 103
+global_step=213128, episodic_return=[61.743855], success_rate=0.33
+global_step=213528, episodic_return=[26.52033], success_rate=0.17
+global_step=213928, episodic_return=[84.25765], success_rate=0.54
+global_step=214328, episodic_return=[14.007801], success_rate=0.12
+global_step=214728, episodic_return=[55.847378], success_rate=0.39
+SPS: 103
+global_step=215128, episodic_return=[-0.5780016], success_rate=0.01
+global_step=215528, episodic_return=[85.60238], success_rate=0.56
+global_step=215928, episodic_return=[21.575935], success_rate=0.14
+global_step=216328, episodic_return=[11.876625], success_rate=0.13
+global_step=216728, episodic_return=[8.775659], success_rate=0.1
+SPS: 103
+global_step=217128, episodic_return=[16.264174], success_rate=0.13
+global_step=217528, episodic_return=[21.274284], success_rate=0.23
+global_step=217928, episodic_return=[52.710686], success_rate=0.35
+global_step=218328, episodic_return=[109.87545], success_rate=0.76
+global_step=218728, episodic_return=[29.240425], success_rate=0.16
+global_step=219128, episodic_return=[12.239838], success_rate=0.04
+SPS: 103
+global_step=219164, episodic_return=[-1.6263268], success_rate=0.0
+global_step=219564, episodic_return=[112.50007], success_rate=0.74
+global_step=219964, episodic_return=[74.066605], success_rate=0.44
+global_step=220364, episodic_return=[42.530407], success_rate=0.28
+global_step=220764, episodic_return=[14.889113], success_rate=0.11
+global_step=221164, episodic_return=[74.601524], success_rate=0.45
+SPS: 103
+global_step=221564, episodic_return=[-7.602403], success_rate=0.0
+global_step=221964, episodic_return=[49.926266], success_rate=0.27
+global_step=222364, episodic_return=[4.199504], success_rate=0.03
+global_step=222764, episodic_return=[40.856796], success_rate=0.28
+global_step=223164, episodic_return=[39.994358], success_rate=0.32
+SPS: 103
+global_step=223564, episodic_return=[-7.5886087], success_rate=0.0
+global_step=223964, episodic_return=[-4.371562], success_rate=0.0
+global_step=224364, episodic_return=[4.316912], success_rate=0.0
+global_step=224764, episodic_return=[66.503235], success_rate=0.48
+global_step=225164, episodic_return=[88.09174], success_rate=0.65
+SPS: 103
+global_step=225564, episodic_return=[37.9037], success_rate=0.26
+global_step=225964, episodic_return=[5.3232217], success_rate=0.03
+global_step=226364, episodic_return=[47.695107], success_rate=0.33
+global_step=226764, episodic_return=[23.052433], success_rate=0.21
+global_step=227164, episodic_return=[14.692016], success_rate=0.14
+SPS: 103
+global_step=227564, episodic_return=[62.124313], success_rate=0.36
+global_step=227964, episodic_return=[-0.8132832], success_rate=0.0
+global_step=228364, episodic_return=[2.079021], success_rate=0.0
+global_step=228764, episodic_return=[-9.328996], success_rate=0.0
+global_step=229164, episodic_return=[66.87191], success_rate=0.52
+SPS: 103
+global_step=229564, episodic_return=[19.509565], success_rate=0.22
+global_step=229964, episodic_return=[-2.2919161], success_rate=0.0
+global_step=230364, episodic_return=[44.430077], success_rate=0.34
+global_step=230764, episodic_return=[7.007886], success_rate=0.0
+global_step=231164, episodic_return=[-4.7705173], success_rate=0.0
+SPS: 103
+global_step=231564, episodic_return=[3.6253214], success_rate=0.02
+global_step=231964, episodic_return=[49.830963], success_rate=0.33
+global_step=232364, episodic_return=[-7.622621], success_rate=0.0
+global_step=232764, episodic_return=[48.389862], success_rate=0.38
+global_step=233164, episodic_return=[46.793163], success_rate=0.32
+SPS: 103
+global_step=233564, episodic_return=[-5.197152], success_rate=0.0
+global_step=233964, episodic_return=[74.233345], success_rate=0.46
+global_step=234364, episodic_return=[7.652796], success_rate=0.0
+global_step=234764, episodic_return=[30.394142], success_rate=0.18
+global_step=235164, episodic_return=[44.267094], success_rate=0.32
+SPS: 103
+global_step=235564, episodic_return=[14.131141], success_rate=0.09
+global_step=235964, episodic_return=[-10.157984], success_rate=0.0
+global_step=236364, episodic_return=[40.77265], success_rate=0.31
+global_step=236764, episodic_return=[41.347446], success_rate=0.32
+global_step=237164, episodic_return=[84.90309], success_rate=0.64
+global_step=237564, episodic_return=[33.57147], success_rate=0.23
+SPS: 103
+global_step=237964, episodic_return=[26.54389], success_rate=0.11
+global_step=238364, episodic_return=[40.006916], success_rate=0.19
+global_step=238764, episodic_return=[77.909386], success_rate=0.55
+global_step=239164, episodic_return=[36.90941], success_rate=0.24
+global_step=239564, episodic_return=[97.30043], success_rate=0.66
+SPS: 103
+global_step=239964, episodic_return=[33.17198], success_rate=0.24
+global_step=240364, episodic_return=[10.821891], success_rate=0.17
+global_step=240764, episodic_return=[50.96427], success_rate=0.47
+global_step=241164, episodic_return=[-5.792146], success_rate=0.0
+global_step=241564, episodic_return=[54.73575], success_rate=0.38
+SPS: 103
+global_step=241964, episodic_return=[89.64207], success_rate=0.57
+global_step=242364, episodic_return=[-11.291992], success_rate=0.0
+global_step=242764, episodic_return=[20.95645], success_rate=0.17
+global_step=243164, episodic_return=[-11.116283], success_rate=0.0
+global_step=243564, episodic_return=[-3.287143], success_rate=0.0
+SPS: 103
+global_step=243964, episodic_return=[47.565083], success_rate=0.36
+global_step=244364, episodic_return=[27.614923], success_rate=0.23
+global_step=244764, episodic_return=[24.87823], success_rate=0.13
+global_step=245164, episodic_return=[72.55186], success_rate=0.45
+global_step=245564, episodic_return=[61.24601], success_rate=0.44
+SPS: 103
+global_step=245964, episodic_return=[52.321095], success_rate=0.36
+global_step=246364, episodic_return=[-8.5282755], success_rate=0.0
+global_step=246764, episodic_return=[16.450602], success_rate=0.16
+global_step=246789, episodic_return=[0.06732956], success_rate=0.0
+global_step=247189, episodic_return=[20.093197], success_rate=0.19
+global_step=247209, episodic_return=[0.08170834], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=247609, episodic_return=[105.58336], success_rate=0.81
+SPS: 103
+global_step=248009, episodic_return=[32.444946], success_rate=0.31
+global_step=248409, episodic_return=[48.858685], success_rate=0.39
+global_step=248809, episodic_return=[69.54071], success_rate=0.49
+global_step=249209, episodic_return=[68.367676], success_rate=0.54
+global_step=249609, episodic_return=[44.825687], success_rate=0.37
+SPS: 103
+global_step=250009, episodic_return=[47.23489], success_rate=0.47
+global_step=250409, episodic_return=[7.3886847], success_rate=0.15
+global_step=250809, episodic_return=[-1.8174894], success_rate=0.03
+global_step=251209, episodic_return=[-13.837806], success_rate=0.0
+global_step=251609, episodic_return=[-22.306644], success_rate=0.0
+SPS: 103
+global_step=252009, episodic_return=[80.7782], success_rate=0.64
+global_step=252409, episodic_return=[-9.163181], success_rate=0.06
+global_step=252809, episodic_return=[25.109562], success_rate=0.23
+global_step=253209, episodic_return=[19.580172], success_rate=0.21
+global_step=253609, episodic_return=[-12.537885], success_rate=0.0
+SPS: 103
+global_step=254009, episodic_return=[-1.9368773], success_rate=0.0
+global_step=254028, episodic_return=[-0.16962495], success_rate=0.0
+global_step=254428, episodic_return=[-30.631155], success_rate=0.0
+global_step=254828, episodic_return=[-22.884024], success_rate=0.0
+global_step=255228, episodic_return=[-21.616001], success_rate=0.0
+global_step=255628, episodic_return=[37.958855], success_rate=0.39
+SPS: 103
+global_step=256028, episodic_return=[48.901684], success_rate=0.46
+global_step=256428, episodic_return=[-4.5631433], success_rate=0.1
+global_step=256828, episodic_return=[93.43638], success_rate=0.69
+global_step=257228, episodic_return=[71.0129], success_rate=0.61
+global_step=257628, episodic_return=[19.218565], success_rate=0.37
+global_step=258028, episodic_return=[25.55547], success_rate=0.29
+SPS: 103
+global_step=258428, episodic_return=[-23.301952], success_rate=0.0
+global_step=258828, episodic_return=[88.89062], success_rate=0.8
+global_step=259228, episodic_return=[51.560078], success_rate=0.45
+global_step=259628, episodic_return=[-12.59855], success_rate=0.1
+global_step=260028, episodic_return=[35.499516], success_rate=0.4
+SPS: 103
+global_step=260428, episodic_return=[34.83582], success_rate=0.32
+global_step=260828, episodic_return=[-11.514612], success_rate=0.07
+global_step=261228, episodic_return=[-17.35689], success_rate=0.0
+global_step=261628, episodic_return=[27.596], success_rate=0.29
+global_step=262028, episodic_return=[56.135498], success_rate=0.56
+SPS: 103
+global_step=262428, episodic_return=[26.24276], success_rate=0.27
+global_step=262828, episodic_return=[45.548508], success_rate=0.48
+global_step=263228, episodic_return=[-16.046682], success_rate=0.0
+global_step=263628, episodic_return=[-24.885788], success_rate=0.0
+global_step=264028, episodic_return=[58.535557], success_rate=0.52
+SPS: 103
+global_step=264428, episodic_return=[-11.530834], success_rate=0.02
+global_step=264828, episodic_return=[-15.084224], success_rate=0.0
+global_step=265228, episodic_return=[63.740494], success_rate=0.6
+global_step=265628, episodic_return=[-12.0706835], success_rate=0.0
+global_step=266028, episodic_return=[57.368874], success_rate=0.48
+SPS: 103
+global_step=266428, episodic_return=[69.67826], success_rate=0.55
+global_step=266828, episodic_return=[62.310127], success_rate=0.55
+global_step=267228, episodic_return=[75.08748], success_rate=0.6
+global_step=267628, episodic_return=[-8.539837], success_rate=0.03
+global_step=268028, episodic_return=[73.994156], success_rate=0.58
+SPS: 103
+global_step=268428, episodic_return=[-25.946892], success_rate=0.0
+global_step=268449, episodic_return=[0.05636877], success_rate=0.0
+global_step=268849, episodic_return=[58.733906], success_rate=0.51
+global_step=269249, episodic_return=[44.961754], success_rate=0.42
+global_step=269649, episodic_return=[58.466263], success_rate=0.48
+global_step=270049, episodic_return=[42.03732], success_rate=0.4
+SPS: 102
+global_step=270449, episodic_return=[27.173826], success_rate=0.3
+global_step=270849, episodic_return=[55.655304], success_rate=0.59
+global_step=271249, episodic_return=[-23.674986], success_rate=0.02
+global_step=271269, episodic_return=[-0.12742783], success_rate=0.0
+global_step=271669, episodic_return=[47.76442], success_rate=0.37
+global_step=272069, episodic_return=[36.57874], success_rate=0.42
+SPS: 102
+global_step=272469, episodic_return=[52.489655], success_rate=0.52
+global_step=272869, episodic_return=[-10.769005], success_rate=0.12
+global_step=273269, episodic_return=[-7.707773], success_rate=0.06
+global_step=273669, episodic_return=[70.948006], success_rate=0.65
+global_step=274069, episodic_return=[59.228947], success_rate=0.51
+SPS: 102
+global_step=274469, episodic_return=[73.51167], success_rate=0.66
+global_step=274869, episodic_return=[71.35913], success_rate=0.66
+global_step=275269, episodic_return=[79.29597], success_rate=0.72
+global_step=275669, episodic_return=[17.62168], success_rate=0.27
+global_step=276069, episodic_return=[62.08979], success_rate=0.53
+global_step=276469, episodic_return=[5.799033], success_rate=0.12
+SPS: 102
+global_step=276869, episodic_return=[-24.69627], success_rate=0.0
+global_step=277269, episodic_return=[31.81365], success_rate=0.3
+global_step=277669, episodic_return=[-6.7805324], success_rate=0.16
+global_step=278069, episodic_return=[18.139093], success_rate=0.27
+global_step=278469, episodic_return=[-21.481482], success_rate=0.0
+SPS: 102
+global_step=278869, episodic_return=[-18.853937], success_rate=0.0
+global_step=279269, episodic_return=[-19.72438], success_rate=0.01
+global_step=279669, episodic_return=[27.522968], success_rate=0.31
+global_step=279691, episodic_return=[-0.15768015], success_rate=0.0
+global_step=280091, episodic_return=[-20.045593], success_rate=0.0
+global_step=280491, episodic_return=[70.57413], success_rate=0.59
+SPS: 102
+global_step=280891, episodic_return=[47.836765], success_rate=0.56
+global_step=281291, episodic_return=[31.684883], success_rate=0.32
+global_step=281691, episodic_return=[5.0860767], success_rate=0.14
+global_step=282091, episodic_return=[7.90893], success_rate=0.18
+global_step=282491, episodic_return=[64.41127], success_rate=0.62
+SPS: 102
+global_step=282891, episodic_return=[90.90945], success_rate=0.77
+global_step=283291, episodic_return=[-4.8608294], success_rate=0.16
+global_step=283691, episodic_return=[-19.408094], success_rate=0.0
+global_step=284091, episodic_return=[38.373882], success_rate=0.35
+global_step=284113, episodic_return=[0.04852453], success_rate=0.0
+global_step=284513, episodic_return=[-31.869856], success_rate=0.0
+SPS: 102
+global_step=284913, episodic_return=[-16.108501], success_rate=0.0
+global_step=285313, episodic_return=[54.22801], success_rate=0.39
+global_step=285713, episodic_return=[-3.8546867], success_rate=0.07
+global_step=286113, episodic_return=[60.653496], success_rate=0.45
+global_step=286513, episodic_return=[27.111307], success_rate=0.28
+SPS: 102
+global_step=286913, episodic_return=[73.50963], success_rate=0.54
+global_step=287313, episodic_return=[-20.727324], success_rate=0.0
+global_step=287713, episodic_return=[-19.844044], success_rate=0.0
+global_step=288113, episodic_return=[61.12012], success_rate=0.5
+global_step=288513, episodic_return=[54.001503], success_rate=0.37
+SPS: 102
+global_step=288913, episodic_return=[22.214048], success_rate=0.24
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=289313, episodic_return=[125.16906], success_rate=0.95
+global_step=289713, episodic_return=[58.702736], success_rate=0.48
+global_step=290113, episodic_return=[5.1999183], success_rate=0.09
+global_step=290513, episodic_return=[-10.280364], success_rate=0.11
+SPS: 102
+global_step=290913, episodic_return=[-4.9050817], success_rate=0.08
+global_step=291313, episodic_return=[46.711086], success_rate=0.36
+global_step=291713, episodic_return=[60.510708], success_rate=0.46
+global_step=292113, episodic_return=[14.856082], success_rate=0.27
+global_step=292513, episodic_return=[-28.100586], success_rate=0.0
+global_step=292535, episodic_return=[0.11955428], success_rate=0.0
+SPS: 102
+global_step=292935, episodic_return=[40.868153], success_rate=0.36
+global_step=293335, episodic_return=[103.82637], success_rate=0.8
+global_step=293735, episodic_return=[32.685974], success_rate=0.27
+global_step=294135, episodic_return=[-1.3819332], success_rate=0.01
+global_step=294535, episodic_return=[-25.1039], success_rate=0.0
+SPS: 102
+global_step=294935, episodic_return=[-17.746017], success_rate=0.0
+global_step=295335, episodic_return=[78.50233], success_rate=0.61
+global_step=295735, episodic_return=[47.131443], success_rate=0.4
+global_step=296135, episodic_return=[-31.530233], success_rate=0.0
+global_step=296535, episodic_return=[-5.124808], success_rate=0.11
+global_step=296935, episodic_return=[20.056675], success_rate=0.22
+SPS: 102
+global_step=297335, episodic_return=[-12.04698], success_rate=0.01
+global_step=297735, episodic_return=[19.674051], success_rate=0.23
+global_step=298135, episodic_return=[-9.533259], success_rate=0.0
+global_step=298535, episodic_return=[-9.841004], success_rate=0.0
+global_step=298935, episodic_return=[74.70054], success_rate=0.58
+SPS: 102
+global_step=299335, episodic_return=[36.582058], success_rate=0.33
+global_step=299735, episodic_return=[-19.791271], success_rate=0.0
+global_step=300135, episodic_return=[26.05909], success_rate=0.26
+global_step=300535, episodic_return=[49.806625], success_rate=0.35
+global_step=300935, episodic_return=[48.02264], success_rate=0.41
+SPS: 102
+global_step=301335, episodic_return=[-15.800517], success_rate=0.0
+global_step=301735, episodic_return=[38.286964], success_rate=0.3
+global_step=302135, episodic_return=[-3.3388276], success_rate=0.0
+global_step=302535, episodic_return=[69.74624], success_rate=0.52
+global_step=302935, episodic_return=[-14.672002], success_rate=0.0
+global_step=302952, episodic_return=[-0.12568614], success_rate=0.0
+SPS: 102
+global_step=303352, episodic_return=[115.547745], success_rate=0.85
+global_step=303752, episodic_return=[48.75682], success_rate=0.31
+global_step=304152, episodic_return=[15.454855], success_rate=0.07
+global_step=304552, episodic_return=[109.59698], success_rate=0.79
+global_step=304952, episodic_return=[82.812], success_rate=0.56
+SPS: 102
+global_step=305352, episodic_return=[33.00286], success_rate=0.28
+global_step=305381, episodic_return=[-0.07460481], success_rate=0.0
+global_step=305781, episodic_return=[18.13284], success_rate=0.21
+global_step=306181, episodic_return=[69.367546], success_rate=0.59
+global_step=306201, episodic_return=[-0.16935277], success_rate=0.0
+global_step=306601, episodic_return=[56.09082], success_rate=0.44
+global_step=307001, episodic_return=[46.00282], success_rate=0.36
+SPS: 102
+global_step=307401, episodic_return=[-11.252381], success_rate=0.0
+global_step=307801, episodic_return=[54.00543], success_rate=0.57
+global_step=308201, episodic_return=[17.48853], success_rate=0.26
+global_step=308601, episodic_return=[74.87191], success_rate=0.54
+global_step=309001, episodic_return=[-6.324767], success_rate=0.0
+SPS: 102
+global_step=309401, episodic_return=[39.453594], success_rate=0.3
+global_step=309801, episodic_return=[63.040287], success_rate=0.42
+global_step=310201, episodic_return=[53.24145], success_rate=0.4
+global_step=310601, episodic_return=[61.593307], success_rate=0.5
+global_step=311001, episodic_return=[47.594078], success_rate=0.45
+SPS: 102
+global_step=311401, episodic_return=[38.17004], success_rate=0.26
+global_step=311801, episodic_return=[57.821453], success_rate=0.52
+global_step=312201, episodic_return=[-15.58307], success_rate=0.0
+global_step=312601, episodic_return=[-1.8864403], success_rate=0.17
+global_step=313001, episodic_return=[5.2782416], success_rate=0.18
+SPS: 102
+global_step=313401, episodic_return=[11.381369], success_rate=0.17
+global_step=313801, episodic_return=[37.901287], success_rate=0.31
+global_step=314201, episodic_return=[52.957832], success_rate=0.54
+global_step=314601, episodic_return=[90.8473], success_rate=0.74
+global_step=315001, episodic_return=[38.54102], success_rate=0.34
+SPS: 102
+global_step=315401, episodic_return=[6.534668], success_rate=0.16
+global_step=315801, episodic_return=[48.327934], success_rate=0.42
+global_step=316201, episodic_return=[30.946072], success_rate=0.36
+global_step=316601, episodic_return=[24.506104], success_rate=0.22
+global_step=317001, episodic_return=[92.6144], success_rate=0.73
+global_step=317401, episodic_return=[-8.389194], success_rate=0.02
+SPS: 102
+global_step=317801, episodic_return=[46.144558], success_rate=0.31
+global_step=318201, episodic_return=[76.15887], success_rate=0.64
+global_step=318601, episodic_return=[96.43325], success_rate=0.7
+global_step=319001, episodic_return=[8.417611], success_rate=0.18
+global_step=319019, episodic_return=[0.06863359], success_rate=0.0
+global_step=319419, episodic_return=[50.933907], success_rate=0.39
+SPS: 102
+global_step=319819, episodic_return=[68.62283], success_rate=0.5
+global_step=320219, episodic_return=[-13.892357], success_rate=0.0
+global_step=320619, episodic_return=[89.05146], success_rate=0.7
+global_step=321019, episodic_return=[68.86378], success_rate=0.48
+global_step=321419, episodic_return=[118.203026], success_rate=0.88
+SPS: 102
+global_step=321819, episodic_return=[-0.28240177], success_rate=0.1
+global_step=322219, episodic_return=[93.27106], success_rate=0.65
+global_step=322619, episodic_return=[55.90993], success_rate=0.49
+global_step=323019, episodic_return=[41.055508], success_rate=0.36
+global_step=323419, episodic_return=[79.12813], success_rate=0.64
+SPS: 102
+global_step=323819, episodic_return=[-9.827628], success_rate=0.0
+global_step=324219, episodic_return=[58.734222], success_rate=0.48
+global_step=324619, episodic_return=[58.1719], success_rate=0.46
+global_step=325019, episodic_return=[49.590443], success_rate=0.47
+global_step=325419, episodic_return=[71.571785], success_rate=0.62
+SPS: 102
+global_step=325819, episodic_return=[-6.5238976], success_rate=0.0
+global_step=326219, episodic_return=[3.8389535], success_rate=0.12
+global_step=326619, episodic_return=[40.797638], success_rate=0.36
+global_step=327019, episodic_return=[63.940166], success_rate=0.58
+global_step=327419, episodic_return=[41.013786], success_rate=0.44
+SPS: 102
+global_step=327819, episodic_return=[59.68981], success_rate=0.57
+global_step=328219, episodic_return=[73.26831], success_rate=0.57
+global_step=328619, episodic_return=[-10.048798], success_rate=0.0
+global_step=329019, episodic_return=[-20.06182], success_rate=0.0
+global_step=329419, episodic_return=[38.843777], success_rate=0.32
+SPS: 102
+global_step=329819, episodic_return=[-9.299688], success_rate=0.0
+global_step=330219, episodic_return=[-12.375408], success_rate=0.0
+global_step=330619, episodic_return=[78.77081], success_rate=0.75
+global_step=331019, episodic_return=[109.19743], success_rate=0.91
+global_step=331044, episodic_return=[-0.19076034], success_rate=0.0
+global_step=331444, episodic_return=[69.343216], success_rate=0.6
+SPS: 102
+global_step=331844, episodic_return=[48.522682], success_rate=0.46
+global_step=331865, episodic_return=[-0.10992967], success_rate=0.0
+global_step=332265, episodic_return=[-24.611023], success_rate=0.0
+global_step=332665, episodic_return=[-26.790293], success_rate=0.0
+global_step=333065, episodic_return=[0.8547917], success_rate=0.2
+global_step=333465, episodic_return=[98.340675], success_rate=0.86
+SPS: 102
+global_step=333865, episodic_return=[49.28734], success_rate=0.5
+global_step=334265, episodic_return=[99.36475], success_rate=0.84
+global_step=334665, episodic_return=[-3.7390969], success_rate=0.17
+global_step=335065, episodic_return=[24.600624], success_rate=0.34
+global_step=335465, episodic_return=[-4.493854], success_rate=0.04
+global_step=335865, episodic_return=[69.396454], success_rate=0.63
+SPS: 102
+global_step=336265, episodic_return=[51.11831], success_rate=0.53
+global_step=336665, episodic_return=[84.90755], success_rate=0.73
+global_step=337065, episodic_return=[50.03977], success_rate=0.5
+global_step=337465, episodic_return=[44.719414], success_rate=0.36
+global_step=337865, episodic_return=[8.492336], success_rate=0.24
+SPS: 102
+global_step=338265, episodic_return=[38.894817], success_rate=0.4
+global_step=338665, episodic_return=[27.33534], success_rate=0.31
+global_step=339065, episodic_return=[-22.606792], success_rate=0.0
+global_step=339465, episodic_return=[-1.7608846], success_rate=0.09
+global_step=339865, episodic_return=[41.555294], success_rate=0.41
+SPS: 102
+global_step=340265, episodic_return=[-7.6428933], success_rate=0.11
+global_step=340665, episodic_return=[-21.142595], success_rate=0.0
+global_step=341065, episodic_return=[-1.9104089], success_rate=0.15
+global_step=341465, episodic_return=[81.59931], success_rate=0.68
+global_step=341865, episodic_return=[-10.514137], success_rate=0.04
+SPS: 102
+global_step=342265, episodic_return=[-18.616932], success_rate=0.01
+global_step=342665, episodic_return=[38.33482], success_rate=0.38
+global_step=343065, episodic_return=[15.655176], success_rate=0.21
+global_step=343465, episodic_return=[50.582306], success_rate=0.52
+global_step=343865, episodic_return=[32.506607], success_rate=0.4
+SPS: 102
+global_step=344265, episodic_return=[-28.778667], success_rate=0.0
+global_step=344665, episodic_return=[23.477055], success_rate=0.23
+global_step=345065, episodic_return=[9.981931], success_rate=0.25
+global_step=345465, episodic_return=[41.483955], success_rate=0.43
+global_step=345865, episodic_return=[-0.9288628], success_rate=0.15
+SPS: 102
+global_step=346265, episodic_return=[19.458033], success_rate=0.2
+global_step=346565, episodic_return=[28.468742], success_rate=0.28
+global_step=346755, episodic_return=[59.069176], success_rate=0.5
+global_step=347155, episodic_return=[32.298103], success_rate=0.34
+global_step=347555, episodic_return=[-29.293869], success_rate=0.0
+global_step=347955, episodic_return=[58.040894], success_rate=0.55
+SPS: 102
+global_step=348355, episodic_return=[14.454484], success_rate=0.26
+global_step=348755, episodic_return=[1.7998252], success_rate=0.16
+global_step=349155, episodic_return=[28.104824], success_rate=0.28
+global_step=349555, episodic_return=[20.75397], success_rate=0.31
+global_step=349955, episodic_return=[74.86323], success_rate=0.68
+SPS: 102
+global_step=350355, episodic_return=[70.71945], success_rate=0.64
+global_step=350755, episodic_return=[68.16815], success_rate=0.57
+global_step=351155, episodic_return=[49.10044], success_rate=0.48
+global_step=351555, episodic_return=[-5.930576], success_rate=0.05
+global_step=351955, episodic_return=[25.054855], success_rate=0.36
+SPS: 102
+global_step=352355, episodic_return=[6.4828544], success_rate=0.15
+global_step=352755, episodic_return=[-31.400957], success_rate=0.0
+global_step=353155, episodic_return=[-8.435392], success_rate=0.13
+global_step=353555, episodic_return=[27.515957], success_rate=0.31
+global_step=353955, episodic_return=[45.182697], success_rate=0.51
+SPS: 101
+global_step=354355, episodic_return=[81.37711], success_rate=0.69
+global_step=354755, episodic_return=[45.024727], success_rate=0.45
+global_step=355155, episodic_return=[-17.202576], success_rate=0.02
+global_step=355555, episodic_return=[-25.795805], success_rate=0.0
+global_step=355955, episodic_return=[-1.8055488], success_rate=0.14
+SPS: 101
+global_step=356355, episodic_return=[39.64545], success_rate=0.43
+global_step=356755, episodic_return=[76.81094], success_rate=0.63
+global_step=357155, episodic_return=[19.59999], success_rate=0.31
+global_step=357555, episodic_return=[-32.000195], success_rate=0.0
+global_step=357955, episodic_return=[61.054707], success_rate=0.57
+global_step=358355, episodic_return=[44.639782], success_rate=0.37
+SPS: 101
+global_step=358755, episodic_return=[34.046993], success_rate=0.34
+global_step=359155, episodic_return=[58.52194], success_rate=0.58
+global_step=359555, episodic_return=[41.116173], success_rate=0.41
+global_step=359955, episodic_return=[31.586315], success_rate=0.33
+global_step=360355, episodic_return=[-11.906685], success_rate=0.04
+SPS: 101
+global_step=360755, episodic_return=[44.647602], success_rate=0.38
+global_step=361155, episodic_return=[45.061733], success_rate=0.51
+global_step=361555, episodic_return=[40.211895], success_rate=0.32
+global_step=361955, episodic_return=[103.11363], success_rate=0.86
+global_step=362355, episodic_return=[-30.042738], success_rate=0.0
+SPS: 101
+global_step=362701, episodic_return=[34.99015], success_rate=0.33
+global_step=363101, episodic_return=[65.05947], success_rate=0.53
+global_step=363501, episodic_return=[48.498882], success_rate=0.46
+global_step=363901, episodic_return=[3.1340306], success_rate=0.14
+global_step=364121, episodic_return=[22.661793], success_rate=0.24
+global_step=364521, episodic_return=[-9.437143], success_rate=0.0
+SPS: 101
+global_step=364921, episodic_return=[-2.5147014], success_rate=0.12
+global_step=365321, episodic_return=[33.828102], success_rate=0.31
+global_step=365688, episodic_return=[-3.577347], success_rate=0.0
+global_step=366088, episodic_return=[25.708797], success_rate=0.22
+global_step=366488, episodic_return=[34.50597], success_rate=0.37
+SPS: 101
+global_step=366888, episodic_return=[-3.276876], success_rate=0.05
+global_step=367288, episodic_return=[36.708755], success_rate=0.39
+global_step=367688, episodic_return=[-16.764837], success_rate=0.0
+global_step=368088, episodic_return=[13.976139], success_rate=0.21
+global_step=368488, episodic_return=[45.751526], success_rate=0.42
+SPS: 101
+global_step=368888, episodic_return=[73.22269], success_rate=0.59
+global_step=369288, episodic_return=[-10.525202], success_rate=0.0
+global_step=369688, episodic_return=[57.788227], success_rate=0.49
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=370088, episodic_return=[124.93678], success_rate=0.97
+global_step=370488, episodic_return=[109.6576], success_rate=0.82
+SPS: 101
+global_step=370888, episodic_return=[69.71075], success_rate=0.52
+global_step=371288, episodic_return=[23.926254], success_rate=0.27
+global_step=371688, episodic_return=[19.358994], success_rate=0.16
+global_step=372088, episodic_return=[0.2744716], success_rate=0.08
+global_step=372488, episodic_return=[98.42541], success_rate=0.77
+SPS: 101
+global_step=372888, episodic_return=[48.060562], success_rate=0.45
+global_step=373288, episodic_return=[28.473404], success_rate=0.25
+global_step=373688, episodic_return=[-6.42429], success_rate=0.0
+global_step=374088, episodic_return=[70.61594], success_rate=0.54
+global_step=374488, episodic_return=[42.882866], success_rate=0.41
+global_step=374534, episodic_return=[0.21020949], success_rate=0.0
+SPS: 101
+global_step=374808, episodic_return=[0.44473925], success_rate=0.04
+global_step=375046, episodic_return=[-2.3582969], success_rate=0.07
+global_step=375446, episodic_return=[27.161486], success_rate=0.31
+global_step=375846, episodic_return=[57.46607], success_rate=0.55
+global_step=376246, episodic_return=[-7.5489516], success_rate=0.02
+global_step=376646, episodic_return=[-15.348139], success_rate=0.0
+SPS: 101
+global_step=377046, episodic_return=[23.382004], success_rate=0.22
+global_step=377446, episodic_return=[9.6830225], success_rate=0.19
+global_step=377846, episodic_return=[-12.724952], success_rate=0.0
+global_step=378246, episodic_return=[112.60281], success_rate=0.82
+global_step=378646, episodic_return=[37.02482], success_rate=0.44
+SPS: 101
+global_step=379046, episodic_return=[-2.8598785], success_rate=0.14
+global_step=379446, episodic_return=[19.994661], success_rate=0.2
+global_step=379846, episodic_return=[36.45118], success_rate=0.39
+global_step=380246, episodic_return=[75.09152], success_rate=0.57
+global_step=380646, episodic_return=[25.102674], success_rate=0.17
+SPS: 101
+global_step=381046, episodic_return=[92.72548], success_rate=0.74
+global_step=381446, episodic_return=[44.383343], success_rate=0.33
+global_step=381846, episodic_return=[72.18512], success_rate=0.65
+global_step=382246, episodic_return=[45.837524], success_rate=0.44
+global_step=382646, episodic_return=[-12.121111], success_rate=0.0
+SPS: 101
+global_step=383046, episodic_return=[10.292965], success_rate=0.13
+global_step=383446, episodic_return=[66.923904], success_rate=0.56
+global_step=383846, episodic_return=[17.686182], success_rate=0.14
+global_step=384246, episodic_return=[25.518618], success_rate=0.27
+global_step=384646, episodic_return=[-20.433619], success_rate=0.0
+SPS: 101
+global_step=385046, episodic_return=[3.945154], success_rate=0.09
+global_step=385446, episodic_return=[52.88576], success_rate=0.42
+global_step=385846, episodic_return=[88.41054], success_rate=0.72
+global_step=386246, episodic_return=[75.860535], success_rate=0.58
+global_step=386646, episodic_return=[-1.349365], success_rate=0.01
+global_step=387046, episodic_return=[41.01609], success_rate=0.41
+SPS: 101
+global_step=387446, episodic_return=[-11.467079], success_rate=0.0
+global_step=387846, episodic_return=[46.907436], success_rate=0.43
+global_step=388246, episodic_return=[74.60134], success_rate=0.59
+global_step=388646, episodic_return=[6.2054553], success_rate=0.16
+global_step=389046, episodic_return=[77.85309], success_rate=0.66
+SPS: 101
+global_step=389446, episodic_return=[-6.0046244], success_rate=0.01
+global_step=389846, episodic_return=[-4.3308916], success_rate=0.0
+global_step=390246, episodic_return=[38.299698], success_rate=0.34
+global_step=390646, episodic_return=[27.34983], success_rate=0.25
+global_step=391046, episodic_return=[41.290123], success_rate=0.32
+SPS: 101
+global_step=391446, episodic_return=[-13.087897], success_rate=0.0
+global_step=391846, episodic_return=[-3.585611], success_rate=0.0
+global_step=392246, episodic_return=[91.35578], success_rate=0.64
+global_step=392646, episodic_return=[95.91278], success_rate=0.74
+global_step=393046, episodic_return=[26.383884], success_rate=0.13
+SPS: 101
+global_step=393446, episodic_return=[69.33181], success_rate=0.55
+global_step=393846, episodic_return=[-10.392667], success_rate=0.0
+global_step=394246, episodic_return=[6.815087], success_rate=0.1
+global_step=394646, episodic_return=[51.821857], success_rate=0.29
+global_step=395046, episodic_return=[70.55331], success_rate=0.46
+SPS: 101
+global_step=395446, episodic_return=[-15.864782], success_rate=0.0
+global_step=395846, episodic_return=[2.3651905], success_rate=0.09
+global_step=396246, episodic_return=[110.32763], success_rate=0.84
+global_step=396646, episodic_return=[-6.265283], success_rate=0.0
+global_step=397046, episodic_return=[57.995033], success_rate=0.49
+SPS: 101
+global_step=397446, episodic_return=[104.54819], success_rate=0.73
+global_step=397846, episodic_return=[43.63546], success_rate=0.27
+global_step=398246, episodic_return=[-1.4266132], success_rate=0.08
+global_step=398646, episodic_return=[49.77191], success_rate=0.49
+global_step=399046, episodic_return=[10.852417], success_rate=0.12
+SPS: 101
+global_step=399446, episodic_return=[-0.680399], success_rate=0.13
+global_step=399846, episodic_return=[12.151755], success_rate=0.14
+global_step=400246, episodic_return=[11.595112], success_rate=0.12
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=400646, episodic_return=[128.81468], success_rate=0.98
+global_step=401046, episodic_return=[101.26636], success_rate=0.74
+SPS: 101
+global_step=401446, episodic_return=[52.189774], success_rate=0.37
+global_step=401846, episodic_return=[-9.239844], success_rate=0.0
+global_step=402246, episodic_return=[18.035778], success_rate=0.11
+global_step=402646, episodic_return=[-17.686714], success_rate=0.0
+global_step=403046, episodic_return=[-5.918835], success_rate=0.0
+global_step=403446, episodic_return=[-5.160863], success_rate=0.0
+SPS: 101
+global_step=403846, episodic_return=[54.040783], success_rate=0.39
+global_step=404246, episodic_return=[54.23197], success_rate=0.44
+global_step=404646, episodic_return=[52.494984], success_rate=0.35
+global_step=405046, episodic_return=[26.44267], success_rate=0.26
+global_step=405446, episodic_return=[-0.5779523], success_rate=0.02
+SPS: 101
+global_step=405846, episodic_return=[4.307956], success_rate=0.14
+global_step=406246, episodic_return=[-4.072778], success_rate=0.01
+global_step=406646, episodic_return=[112.615364], success_rate=0.83
+global_step=407046, episodic_return=[4.409396], success_rate=0.07
+global_step=407446, episodic_return=[28.714987], success_rate=0.27
+SPS: 101
+global_step=407846, episodic_return=[63.964256], success_rate=0.46
+global_step=408246, episodic_return=[33.751564], success_rate=0.28
+global_step=408646, episodic_return=[81.25231], success_rate=0.58
+global_step=409046, episodic_return=[63.065636], success_rate=0.47
+global_step=409446, episodic_return=[72.76575], success_rate=0.59
+SPS: 101
+global_step=409846, episodic_return=[14.988187], success_rate=0.11
+global_step=410246, episodic_return=[95.512054], success_rate=0.75
+global_step=410646, episodic_return=[-10.372343], success_rate=0.0
+global_step=411046, episodic_return=[25.963509], success_rate=0.22
+global_step=411446, episodic_return=[-5.888898], success_rate=0.0
+SPS: 101
+global_step=411846, episodic_return=[34.044785], success_rate=0.26
+global_step=412246, episodic_return=[65.842255], success_rate=0.49
+global_step=412646, episodic_return=[-11.730944], success_rate=0.0
+global_step=413046, episodic_return=[38.34553], success_rate=0.25
+global_step=413446, episodic_return=[59.80818], success_rate=0.43
+SPS: 101
+global_step=413846, episodic_return=[66.70213], success_rate=0.54
+global_step=414246, episodic_return=[-1.7177474], success_rate=0.04
+global_step=414646, episodic_return=[15.920174], success_rate=0.16
+global_step=415046, episodic_return=[65.088715], success_rate=0.48
+global_step=415446, episodic_return=[34.771935], success_rate=0.29
+SPS: 101
+global_step=415846, episodic_return=[-7.7131844], success_rate=0.0
+global_step=416246, episodic_return=[57.382915], success_rate=0.4
+global_step=416646, episodic_return=[-1.3467687], success_rate=0.0
+global_step=417046, episodic_return=[53.75605], success_rate=0.44
+global_step=417446, episodic_return=[47.363243], success_rate=0.38
+SPS: 101
+global_step=417846, episodic_return=[118.210976], success_rate=0.85
+global_step=418246, episodic_return=[67.94589], success_rate=0.48
+global_step=418646, episodic_return=[14.202653], success_rate=0.2
+global_step=419046, episodic_return=[28.253597], success_rate=0.23
+global_step=419446, episodic_return=[35.43591], success_rate=0.33
+SPS: 101
+global_step=419846, episodic_return=[60.378174], success_rate=0.48
+global_step=420246, episodic_return=[26.747625], success_rate=0.22
+global_step=420646, episodic_return=[57.19617], success_rate=0.44
+global_step=421046, episodic_return=[77.35694], success_rate=0.67
+global_step=421446, episodic_return=[34.54828], success_rate=0.3
+global_step=421846, episodic_return=[40.088993], success_rate=0.37
+SPS: 101
+global_step=422246, episodic_return=[95.90242], success_rate=0.78
+global_step=422646, episodic_return=[27.497648], success_rate=0.34
+global_step=423046, episodic_return=[35.481075], success_rate=0.31
+global_step=423446, episodic_return=[22.786747], success_rate=0.34
+global_step=423846, episodic_return=[19.727417], success_rate=0.28
+SPS: 101
+global_step=424246, episodic_return=[3.5613282], success_rate=0.21
+global_step=424646, episodic_return=[67.9349], success_rate=0.61
+global_step=425046, episodic_return=[82.09543], success_rate=0.7
+global_step=425446, episodic_return=[101.97759], success_rate=0.89
+global_step=425846, episodic_return=[84.11153], success_rate=0.65
+SPS: 101
+global_step=426246, episodic_return=[36.35476], success_rate=0.42
+global_step=426646, episodic_return=[-1.4839691], success_rate=0.13
+global_step=427046, episodic_return=[69.40793], success_rate=0.54
+global_step=427446, episodic_return=[-19.861485], success_rate=0.0
+global_step=427846, episodic_return=[-11.902655], success_rate=0.0
+SPS: 101
+global_step=428246, episodic_return=[104.93795], success_rate=0.9
+global_step=428646, episodic_return=[26.562168], success_rate=0.27
+global_step=429046, episodic_return=[1.8521866], success_rate=0.23
+global_step=429446, episodic_return=[56.726727], success_rate=0.37
+global_step=429846, episodic_return=[102.55668], success_rate=0.86
+SPS: 101
+global_step=430246, episodic_return=[-16.389534], success_rate=0.0
+global_step=430646, episodic_return=[54.147354], success_rate=0.45
+global_step=431046, episodic_return=[5.203102], success_rate=0.18
+global_step=431446, episodic_return=[53.887188], success_rate=0.47
+global_step=431846, episodic_return=[41.034454], success_rate=0.38
+SPS: 101
+global_step=432246, episodic_return=[75.31811], success_rate=0.71
+global_step=432646, episodic_return=[8.990974], success_rate=0.11
+global_step=433046, episodic_return=[65.55136], success_rate=0.64
+global_step=433446, episodic_return=[44.767185], success_rate=0.38
+global_step=433846, episodic_return=[36.04578], success_rate=0.36
+SPS: 101
+global_step=434246, episodic_return=[73.320915], success_rate=0.64
+global_step=434646, episodic_return=[63.526543], success_rate=0.57
+global_step=435046, episodic_return=[14.459489], success_rate=0.23
+global_step=435446, episodic_return=[110.80443], success_rate=0.9
+global_step=435846, episodic_return=[5.4730773], success_rate=0.2
+SPS: 101
+global_step=436246, episodic_return=[-6.5751443], success_rate=0.09
+global_step=436646, episodic_return=[-2.6814344], success_rate=0.1
+global_step=437046, episodic_return=[-12.38311], success_rate=0.0
+global_step=437446, episodic_return=[33.88084], success_rate=0.49
+global_step=437846, episodic_return=[12.817233], success_rate=0.22
+global_step=438246, episodic_return=[-22.54131], success_rate=0.0
+SPS: 101
+global_step=438646, episodic_return=[56.6152], success_rate=0.56
+global_step=439046, episodic_return=[5.417012], success_rate=0.15
+global_step=439446, episodic_return=[65.56129], success_rate=0.58
+global_step=439846, episodic_return=[112.94884], success_rate=0.85
+global_step=440246, episodic_return=[6.899965], success_rate=0.18
+SPS: 101
+global_step=440646, episodic_return=[90.09117], success_rate=0.75
+global_step=441046, episodic_return=[-1.5223327], success_rate=0.08
+global_step=441446, episodic_return=[-11.486546], success_rate=0.0
+global_step=441846, episodic_return=[40.724644], success_rate=0.26
+global_step=442246, episodic_return=[-13.567376], success_rate=0.02
+SPS: 101
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=442640, episodic_return=[124.39702], success_rate=1.0
+global_step=443040, episodic_return=[50.442474], success_rate=0.49
+global_step=443440, episodic_return=[-10.343559], success_rate=0.0
+global_step=443840, episodic_return=[37.390263], success_rate=0.43
+global_step=444240, episodic_return=[66.58702], success_rate=0.57
+SPS: 101
+global_step=444467, episodic_return=[85.70642], success_rate=0.67
+global_step=444867, episodic_return=[30.329834], success_rate=0.35
+global_step=445267, episodic_return=[63.334717], success_rate=0.54
+global_step=445667, episodic_return=[67.96008], success_rate=0.6
+global_step=445849, episodic_return=[-9.498078], success_rate=0.0
+global_step=446249, episodic_return=[46.12553], success_rate=0.38
+SPS: 101
+global_step=446649, episodic_return=[-18.368626], success_rate=0.01
+global_step=447049, episodic_return=[57.352486], success_rate=0.43
+global_step=447449, episodic_return=[50.61793], success_rate=0.43
+global_step=447849, episodic_return=[23.413235], success_rate=0.3
+global_step=448249, episodic_return=[14.751552], success_rate=0.19
+SPS: 101
+global_step=448649, episodic_return=[51.073223], success_rate=0.36
+global_step=449049, episodic_return=[27.086313], success_rate=0.32
+global_step=449449, episodic_return=[79.22232], success_rate=0.65
+global_step=449849, episodic_return=[8.610151], success_rate=0.16
+global_step=450249, episodic_return=[24.498148], success_rate=0.3
+SPS: 100
+global_step=450649, episodic_return=[61.294514], success_rate=0.49
+global_step=451049, episodic_return=[-11.290065], success_rate=0.01
+global_step=451449, episodic_return=[4.962039], success_rate=0.15
+global_step=451849, episodic_return=[-2.5493214], success_rate=0.0
+global_step=452249, episodic_return=[18.437654], success_rate=0.22
+SPS: 100
+global_step=452649, episodic_return=[42.338177], success_rate=0.38
+global_step=453049, episodic_return=[79.879974], success_rate=0.7
+global_step=453449, episodic_return=[39.726227], success_rate=0.37
+global_step=453849, episodic_return=[-7.824006], success_rate=0.0
+global_step=454249, episodic_return=[30.77842], success_rate=0.29
+global_step=454649, episodic_return=[6.493935], success_rate=0.21
+SPS: 100
+global_step=455049, episodic_return=[62.459206], success_rate=0.54
+global_step=455449, episodic_return=[12.397384], success_rate=0.23
+global_step=455849, episodic_return=[-22.251995], success_rate=0.01
+global_step=456249, episodic_return=[81.25518], success_rate=0.72
+global_step=456649, episodic_return=[-15.3420315], success_rate=0.0
+SPS: 100
+global_step=457049, episodic_return=[40.5576], success_rate=0.44
+global_step=457449, episodic_return=[44.417862], success_rate=0.41
+global_step=457849, episodic_return=[11.9739], success_rate=0.15
+global_step=458249, episodic_return=[29.905495], success_rate=0.37
+global_step=458649, episodic_return=[30.504509], success_rate=0.32
+SPS: 100
+global_step=459049, episodic_return=[23.616522], success_rate=0.33
+global_step=459449, episodic_return=[21.394745], success_rate=0.32
+global_step=459849, episodic_return=[-14.647202], success_rate=0.0
+global_step=460249, episodic_return=[-15.60722], success_rate=0.0
+global_step=460649, episodic_return=[-11.127858], success_rate=0.14
+SPS: 100
+global_step=461049, episodic_return=[-9.199823], success_rate=0.0
+global_step=461449, episodic_return=[15.994977], success_rate=0.28
+global_step=461849, episodic_return=[-12.6803665], success_rate=0.0
+global_step=462249, episodic_return=[-8.647909], success_rate=0.0
+global_step=462649, episodic_return=[40.855427], success_rate=0.46
+SPS: 100
+global_step=463049, episodic_return=[18.294138], success_rate=0.31
+global_step=463449, episodic_return=[44.39034], success_rate=0.51
+global_step=463849, episodic_return=[33.879562], success_rate=0.38
+global_step=464249, episodic_return=[32.40852], success_rate=0.44
+global_step=464649, episodic_return=[38.003765], success_rate=0.4
+SPS: 100
+global_step=465049, episodic_return=[-12.724935], success_rate=0.08
+global_step=465449, episodic_return=[-28.371231], success_rate=0.0
+global_step=465849, episodic_return=[50.000603], success_rate=0.49
+global_step=466249, episodic_return=[37.37879], success_rate=0.33
+global_step=466649, episodic_return=[94.21438], success_rate=0.8
+SPS: 100
+global_step=467049, episodic_return=[-7.438137], success_rate=0.13
+global_step=467449, episodic_return=[38.885994], success_rate=0.48
+global_step=467849, episodic_return=[35.88447], success_rate=0.35
+global_step=468249, episodic_return=[28.10233], success_rate=0.34
+global_step=468649, episodic_return=[47.655125], success_rate=0.48
+SPS: 100
+global_step=469049, episodic_return=[-7.104742], success_rate=0.15
+global_step=469449, episodic_return=[29.462605], success_rate=0.4
+global_step=469849, episodic_return=[-12.112512], success_rate=0.04
+global_step=470249, episodic_return=[56.800518], success_rate=0.53
+global_step=470649, episodic_return=[17.5721], success_rate=0.26
+SPS: 100
+global_step=471049, episodic_return=[-20.404972], success_rate=0.07
+global_step=471449, episodic_return=[24.843607], success_rate=0.34
+global_step=471849, episodic_return=[71.10973], success_rate=0.67
+global_step=472249, episodic_return=[23.320028], success_rate=0.37
+global_step=472649, episodic_return=[-22.399696], success_rate=0.0
+global_step=473049, episodic_return=[-2.2793806], success_rate=0.14
+SPS: 100
+global_step=473449, episodic_return=[34.569397], success_rate=0.38
+global_step=473849, episodic_return=[16.848991], success_rate=0.23
+global_step=474249, episodic_return=[-5.472815], success_rate=0.07
+global_step=474649, episodic_return=[-12.633173], success_rate=0.07
+global_step=475049, episodic_return=[68.49917], success_rate=0.63
+SPS: 100
+global_step=475285, episodic_return=[-8.490669], success_rate=0.0
+global_step=475510, episodic_return=[33.529842], success_rate=0.35
+global_step=475910, episodic_return=[11.176622], success_rate=0.2
+global_step=476139, episodic_return=[36.24163], success_rate=0.31
+global_step=476539, episodic_return=[99.84926], success_rate=0.87
+global_step=476939, episodic_return=[45.82474], success_rate=0.43
+SPS: 100
+global_step=477296, episodic_return=[43.795315], success_rate=0.45
+global_step=477696, episodic_return=[57.536503], success_rate=0.54
+global_step=478096, episodic_return=[64.820755], success_rate=0.57
+global_step=478454, episodic_return=[51.140644], success_rate=0.44
+global_step=478854, episodic_return=[6.4624352], success_rate=0.18
+SPS: 100
+global_step=479254, episodic_return=[-10.809625], success_rate=0.0
+global_step=479445, episodic_return=[41.225563], success_rate=0.38
+global_step=479845, episodic_return=[26.416267], success_rate=0.28
+global_step=480037, episodic_return=[-12.6167965], success_rate=0.0
+global_step=480437, episodic_return=[54.69184], success_rate=0.51
+global_step=480718, episodic_return=[54.1482], success_rate=0.48
+global_step=480878, episodic_return=[56.896408], success_rate=0.47
+global_step=481278, episodic_return=[48.38796], success_rate=0.44
+SPS: 100
+global_step=481678, episodic_return=[33.37847], success_rate=0.38
+global_step=481848, episodic_return=[75.994415], success_rate=0.59
+global_step=482248, episodic_return=[4.814436], success_rate=0.27
+global_step=482648, episodic_return=[30.483183], success_rate=0.4
+global_step=483048, episodic_return=[-4.4856505], success_rate=0.14
+SPS: 100
+global_step=483433, episodic_return=[14.527257], success_rate=0.26
+global_step=483833, episodic_return=[5.911693], success_rate=0.2
+global_step=484233, episodic_return=[32.4543], success_rate=0.44
+global_step=484633, episodic_return=[88.18903], success_rate=0.85
+global_step=484759, episodic_return=[-14.513327], success_rate=0.0
+global_step=485049, episodic_return=[77.346], success_rate=0.66
+SPS: 100
+global_step=485449, episodic_return=[-8.29429], success_rate=0.03
+global_step=485744, episodic_return=[48.348587], success_rate=0.46
+global_step=486144, episodic_return=[15.861614], success_rate=0.31
+global_step=486544, episodic_return=[89.13399], success_rate=0.84
+global_step=486778, episodic_return=[26.508324], success_rate=0.28
+global_step=486982, episodic_return=[-9.430388], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=487178, episodic_return=[127.21557], success_rate=1.0
+SPS: 100
+global_step=487578, episodic_return=[42.898125], success_rate=0.52
+global_step=487978, episodic_return=[6.6865273], success_rate=0.2
+global_step=488378, episodic_return=[7.15669], success_rate=0.2
+global_step=488569, episodic_return=[5.232544], success_rate=0.16
+global_step=488969, episodic_return=[-6.268752], success_rate=0.11
+global_step=489140, episodic_return=[50.70775], success_rate=0.42
+SPS: 100
+global_step=489540, episodic_return=[-31.731386], success_rate=0.0
+global_step=489940, episodic_return=[12.9330635], success_rate=0.24
+global_step=490257, episodic_return=[10.161972], success_rate=0.17
+global_step=490438, episodic_return=[42.98957], success_rate=0.39
+global_step=490817, episodic_return=[-10.561364], success_rate=0.03
+global_step=491004, episodic_return=[49.032787], success_rate=0.44
+global_step=491404, episodic_return=[43.47311], success_rate=0.46
+SPS: 100
+global_step=491804, episodic_return=[36.786674], success_rate=0.44
+global_step=492142, episodic_return=[17.696205], success_rate=0.23
+global_step=492542, episodic_return=[31.008928], success_rate=0.3
+global_step=492942, episodic_return=[14.759012], success_rate=0.31
+global_step=493342, episodic_return=[31.518206], success_rate=0.42
+SPS: 100
+global_step=493742, episodic_return=[-28.174696], success_rate=0.0
+global_step=494142, episodic_return=[-18.913155], success_rate=0.05
+global_step=494542, episodic_return=[-15.509001], success_rate=0.04
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=494848, episodic_return=[115.25148], success_rate=1.0
+global_step=495248, episodic_return=[25.560204], success_rate=0.29
+global_step=495490, episodic_return=[92.7604], success_rate=0.77
+SPS: 100
+global_step=495890, episodic_return=[24.624737], success_rate=0.36
+global_step=496290, episodic_return=[-20.28552], success_rate=0.04
+global_step=496690, episodic_return=[91.35733], success_rate=0.79
+global_step=497090, episodic_return=[45.215347], success_rate=0.5
+global_step=497273, episodic_return=[50.49679], success_rate=0.45
+SPS: 100
+global_step=497673, episodic_return=[28.173676], success_rate=0.36
+global_step=498073, episodic_return=[-9.198751], success_rate=0.0
+global_step=498473, episodic_return=[2.8866982], success_rate=0.15
+global_step=498873, episodic_return=[18.625914], success_rate=0.19
+global_step=499273, episodic_return=[-22.822811], success_rate=0.0
+global_step=499673, episodic_return=[48.474472], success_rate=0.43
+SPS: 100
+global_step=500073, episodic_return=[-12.298615], success_rate=0.0
+global_step=500473, episodic_return=[2.3398318], success_rate=0.15
+global_step=500873, episodic_return=[50.055668], success_rate=0.52
+global_step=501273, episodic_return=[-19.854033], success_rate=0.0
+global_step=501673, episodic_return=[-4.6789007], success_rate=0.08
+SPS: 100
+global_step=502073, episodic_return=[5.815648], success_rate=0.2
+global_step=502473, episodic_return=[38.66459], success_rate=0.42
+global_step=502873, episodic_return=[17.955685], success_rate=0.27
+global_step=503273, episodic_return=[29.250381], success_rate=0.32
+global_step=503673, episodic_return=[-26.078701], success_rate=0.0
+SPS: 100
+global_step=504073, episodic_return=[53.232605], success_rate=0.52
+global_step=504473, episodic_return=[91.07464], success_rate=0.79
+global_step=504873, episodic_return=[55.59636], success_rate=0.47
+global_step=505273, episodic_return=[98.6193], success_rate=0.74
+global_step=505673, episodic_return=[82.704475], success_rate=0.77
+SPS: 100
+global_step=506073, episodic_return=[62.37173], success_rate=0.52
+global_step=506473, episodic_return=[57.03736], success_rate=0.48
+global_step=506873, episodic_return=[25.482534], success_rate=0.32
+global_step=507273, episodic_return=[75.76292], success_rate=0.66
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=507640, episodic_return=[128.06651], success_rate=1.0
+SPS: 100
+global_step=508040, episodic_return=[123.20681], success_rate=0.99
+global_step=508440, episodic_return=[-12.174612], success_rate=0.03
+global_step=508840, episodic_return=[29.41023], success_rate=0.33
+global_step=509240, episodic_return=[40.8774], success_rate=0.46
+global_step=509640, episodic_return=[26.673956], success_rate=0.33
+SPS: 100
+global_step=510040, episodic_return=[-15.37338], success_rate=0.0
+global_step=510440, episodic_return=[16.03662], success_rate=0.26
+global_step=510840, episodic_return=[-18.051113], success_rate=0.0
+global_step=511240, episodic_return=[102.90886], success_rate=0.8
+global_step=511640, episodic_return=[31.437502], success_rate=0.32
+SPS: 100
+global_step=512040, episodic_return=[113.1166], success_rate=0.99
+global_step=512440, episodic_return=[-22.808235], success_rate=0.0
+global_step=512840, episodic_return=[48.637398], success_rate=0.53
+global_step=513240, episodic_return=[75.93289], success_rate=0.58
+global_step=513640, episodic_return=[51.739567], success_rate=0.47
+global_step=514040, episodic_return=[-20.186756], success_rate=0.0
+SPS: 100
+global_step=514440, episodic_return=[93.40304], success_rate=0.74
+global_step=514840, episodic_return=[24.242752], success_rate=0.24
+global_step=515240, episodic_return=[18.846968], success_rate=0.2
+global_step=515640, episodic_return=[66.67732], success_rate=0.57
+global_step=516040, episodic_return=[-11.305013], success_rate=0.0
+SPS: 100
+global_step=516440, episodic_return=[90.458954], success_rate=0.77
+global_step=516840, episodic_return=[14.558002], success_rate=0.26
+global_step=517240, episodic_return=[14.988678], success_rate=0.21
+global_step=517640, episodic_return=[66.09984], success_rate=0.47
+global_step=518040, episodic_return=[0.10635251], success_rate=0.18
+SPS: 100
+global_step=518440, episodic_return=[39.297398], success_rate=0.42
+global_step=518840, episodic_return=[21.779226], success_rate=0.28
+global_step=519240, episodic_return=[48.183334], success_rate=0.52
+global_step=519640, episodic_return=[118.11178], success_rate=0.95
+global_step=520040, episodic_return=[23.814049], success_rate=0.23
+SPS: 100
+global_step=520440, episodic_return=[52.244095], success_rate=0.44
+global_step=520840, episodic_return=[4.9982295], success_rate=0.05
+global_step=521240, episodic_return=[-0.64670146], success_rate=0.11
+global_step=521640, episodic_return=[10.418546], success_rate=0.1
+global_step=522040, episodic_return=[22.811504], success_rate=0.31
+SPS: 100
+global_step=522440, episodic_return=[-2.4123533], success_rate=0.0
+global_step=522840, episodic_return=[15.0098295], success_rate=0.24
+global_step=523240, episodic_return=[21.86304], success_rate=0.29
+global_step=523640, episodic_return=[40.31192], success_rate=0.3
+global_step=524040, episodic_return=[70.25997], success_rate=0.62
+SPS: 100
+global_step=524440, episodic_return=[121.55621], success_rate=0.99
+global_step=524840, episodic_return=[-1.6968055], success_rate=0.08
+global_step=525240, episodic_return=[9.439858], success_rate=0.13
+global_step=525640, episodic_return=[-2.5025601], success_rate=0.09
+global_step=526040, episodic_return=[8.775417], success_rate=0.21
+SPS: 100
+global_step=526440, episodic_return=[69.063995], success_rate=0.62
+global_step=526840, episodic_return=[7.8432794], success_rate=0.19
+global_step=527240, episodic_return=[-9.503473], success_rate=0.0
+global_step=527640, episodic_return=[54.484516], success_rate=0.43
+global_step=528040, episodic_return=[1.8699441], success_rate=0.13
+SPS: 100
+global_step=528440, episodic_return=[32.70631], success_rate=0.25
+global_step=528840, episodic_return=[16.96785], success_rate=0.26
+global_step=529240, episodic_return=[54.504128], success_rate=0.49
+global_step=529640, episodic_return=[67.08564], success_rate=0.58
+global_step=530040, episodic_return=[38.416187], success_rate=0.31
+SPS: 100
+global_step=530440, episodic_return=[37.353233], success_rate=0.36
+global_step=530840, episodic_return=[28.666801], success_rate=0.27
+global_step=531240, episodic_return=[36.78137], success_rate=0.25
+global_step=531640, episodic_return=[10.753099], success_rate=0.08
+global_step=532040, episodic_return=[20.028658], success_rate=0.15
+global_step=532440, episodic_return=[113.99361], success_rate=0.78
+SPS: 100
+global_step=532840, episodic_return=[2.1952171], success_rate=0.1
+global_step=533240, episodic_return=[45.87225], success_rate=0.4
+global_step=533640, episodic_return=[110.23719], success_rate=0.87
+global_step=534040, episodic_return=[20.633045], success_rate=0.21
+global_step=534440, episodic_return=[14.849749], success_rate=0.17
+SPS: 100
+global_step=534840, episodic_return=[58.57001], success_rate=0.41
+global_step=535240, episodic_return=[-1.512261], success_rate=0.04
+global_step=535640, episodic_return=[97.573814], success_rate=0.74
+global_step=536040, episodic_return=[41.863556], success_rate=0.42
+global_step=536440, episodic_return=[65.51237], success_rate=0.45
+SPS: 100
+global_step=536840, episodic_return=[44.062717], success_rate=0.36
+global_step=537240, episodic_return=[55.40011], success_rate=0.33
+global_step=537640, episodic_return=[60.1927], success_rate=0.57
+global_step=538040, episodic_return=[72.39448], success_rate=0.56
+global_step=538440, episodic_return=[9.08839], success_rate=0.14
+SPS: 100
+global_step=538840, episodic_return=[91.21884], success_rate=0.73
+global_step=539240, episodic_return=[110.695786], success_rate=0.79
+global_step=539640, episodic_return=[41.334408], success_rate=0.36
+global_step=540040, episodic_return=[19.741411], success_rate=0.2
+global_step=540440, episodic_return=[80.02462], success_rate=0.55
+SPS: 100
+global_step=540840, episodic_return=[16.188036], success_rate=0.25
+global_step=541240, episodic_return=[66.64017], success_rate=0.59
+global_step=541640, episodic_return=[9.460765], success_rate=0.19
+global_step=542040, episodic_return=[9.891503], success_rate=0.11
+global_step=542440, episodic_return=[-10.248719], success_rate=0.0
+SPS: 100
+global_step=542840, episodic_return=[104.37517], success_rate=0.76
+global_step=543240, episodic_return=[36.11756], success_rate=0.3
+global_step=543640, episodic_return=[48.800156], success_rate=0.41
+global_step=544040, episodic_return=[74.7561], success_rate=0.57
+global_step=544440, episodic_return=[25.119633], success_rate=0.18
+SPS: 100
+global_step=544840, episodic_return=[31.008177], success_rate=0.27
+global_step=545240, episodic_return=[91.15799], success_rate=0.63
+global_step=545640, episodic_return=[44.25494], success_rate=0.34
+global_step=546040, episodic_return=[101.99269], success_rate=0.74
+global_step=546440, episodic_return=[59.591583], success_rate=0.49
+SPS: 100
+global_step=546840, episodic_return=[28.239443], success_rate=0.29
+global_step=547240, episodic_return=[41.18984], success_rate=0.36
+global_step=547640, episodic_return=[-12.683336], success_rate=0.0
+global_step=548040, episodic_return=[53.682526], success_rate=0.48
+global_step=548440, episodic_return=[40.28529], success_rate=0.33
+global_step=548840, episodic_return=[2.3596182], success_rate=0.07
+SPS: 100
+global_step=549240, episodic_return=[76.35888], success_rate=0.64
+global_step=549640, episodic_return=[11.421181], success_rate=0.14
+global_step=550040, episodic_return=[51.588234], success_rate=0.29
+global_step=550440, episodic_return=[54.663624], success_rate=0.46
+global_step=550840, episodic_return=[37.573257], success_rate=0.31
+SPS: 100
+global_step=551240, episodic_return=[31.559462], success_rate=0.27
+global_step=551640, episodic_return=[-7.7065167], success_rate=0.01
+global_step=552040, episodic_return=[89.77377], success_rate=0.7
+global_step=552440, episodic_return=[41.3031], success_rate=0.38
+global_step=552840, episodic_return=[0.49524406], success_rate=0.05
+SPS: 100
+global_step=553240, episodic_return=[4.5429473], success_rate=0.07
+global_step=553640, episodic_return=[38.082973], success_rate=0.37
+global_step=554040, episodic_return=[26.801352], success_rate=0.15
+global_step=554440, episodic_return=[7.4024773], success_rate=0.1
+global_step=554840, episodic_return=[-4.139494], success_rate=0.0
+SPS: 100
+global_step=555240, episodic_return=[-6.071923], success_rate=0.0
+global_step=555640, episodic_return=[49.979656], success_rate=0.42
+global_step=556040, episodic_return=[26.15522], success_rate=0.3
+global_step=556440, episodic_return=[29.40287], success_rate=0.19
+global_step=556840, episodic_return=[52.52736], success_rate=0.28
+SPS: 100
+global_step=557240, episodic_return=[17.529446], success_rate=0.18
+global_step=557640, episodic_return=[14.549407], success_rate=0.12
+global_step=558040, episodic_return=[22.906313], success_rate=0.22
+global_step=558440, episodic_return=[58.03421], success_rate=0.41
+global_step=558840, episodic_return=[52.819126], success_rate=0.36
+SPS: 100
+global_step=559240, episodic_return=[72.9675], success_rate=0.47
+global_step=559640, episodic_return=[78.12574], success_rate=0.62
+global_step=560040, episodic_return=[63.340088], success_rate=0.49
+global_step=560440, episodic_return=[5.1374397], success_rate=0.05
+global_step=560840, episodic_return=[19.18175], success_rate=0.19
+SPS: 100
+global_step=561240, episodic_return=[31.298836], success_rate=0.19
+global_step=561640, episodic_return=[4.2513328], success_rate=0.0
+global_step=562040, episodic_return=[103.15754], success_rate=0.7
+global_step=562440, episodic_return=[64.25699], success_rate=0.47
+global_step=562840, episodic_return=[31.191366], success_rate=0.27
+SPS: 100
+global_step=563240, episodic_return=[-8.514526], success_rate=0.01
+global_step=563640, episodic_return=[69.28803], success_rate=0.42
+global_step=564040, episodic_return=[23.075851], success_rate=0.18
+global_step=564440, episodic_return=[53.89889], success_rate=0.33
+global_step=564840, episodic_return=[23.958975], success_rate=0.22
+global_step=565240, episodic_return=[87.615005], success_rate=0.55
+SPS: 100
+global_step=565640, episodic_return=[36.640697], success_rate=0.22
+global_step=566040, episodic_return=[46.334553], success_rate=0.35
+global_step=566440, episodic_return=[7.154788], success_rate=0.02
+global_step=566840, episodic_return=[15.861518], success_rate=0.15
+global_step=567240, episodic_return=[17.453548], success_rate=0.08
+SPS: 100
+global_step=567640, episodic_return=[-0.993375], success_rate=0.0
+global_step=568040, episodic_return=[8.870082], success_rate=0.08
+global_step=568440, episodic_return=[85.4084], success_rate=0.56
+global_step=568840, episodic_return=[70.95908], success_rate=0.5
+global_step=569240, episodic_return=[67.03148], success_rate=0.49
+SPS: 100
+global_step=569640, episodic_return=[100.31043], success_rate=0.7
+global_step=570040, episodic_return=[32.93492], success_rate=0.32
+global_step=570440, episodic_return=[36.3904], success_rate=0.28
+global_step=570840, episodic_return=[-0.86257833], success_rate=0.0
+global_step=571240, episodic_return=[56.472813], success_rate=0.33
+SPS: 100
+global_step=571640, episodic_return=[72.71925], success_rate=0.56
+global_step=572040, episodic_return=[-5.4543624], success_rate=0.01
+global_step=572440, episodic_return=[31.117043], success_rate=0.25
+global_step=572840, episodic_return=[60.53212], success_rate=0.51
+global_step=573240, episodic_return=[-8.102829], success_rate=0.0
+SPS: 100
+global_step=573640, episodic_return=[60.879555], success_rate=0.52
+global_step=574040, episodic_return=[34.81472], success_rate=0.3
+global_step=574440, episodic_return=[-6.7210493], success_rate=0.05
+global_step=574840, episodic_return=[63.3069], success_rate=0.48
+global_step=575240, episodic_return=[69.41425], success_rate=0.45
+SPS: 100
+global_step=575640, episodic_return=[38.822456], success_rate=0.33
+global_step=575849, episodic_return=[-3.881175], success_rate=0.0
+global_step=576249, episodic_return=[92.59429], success_rate=0.66
+global_step=576649, episodic_return=[24.179619], success_rate=0.2
+global_step=577049, episodic_return=[34.79038], success_rate=0.34
+global_step=577449, episodic_return=[-4.6306124], success_rate=0.0
+SPS: 100
+global_step=577849, episodic_return=[35.746086], success_rate=0.28
+global_step=578249, episodic_return=[-10.861216], success_rate=0.0
+global_step=578649, episodic_return=[20.174053], success_rate=0.15
+global_step=579049, episodic_return=[16.190899], success_rate=0.16
+global_step=579449, episodic_return=[72.53908], success_rate=0.43
+SPS: 100
+global_step=579849, episodic_return=[40.928574], success_rate=0.32
+global_step=580249, episodic_return=[44.530163], success_rate=0.28
+global_step=580649, episodic_return=[51.034138], success_rate=0.46
+global_step=581049, episodic_return=[37.787075], success_rate=0.28
+global_step=581449, episodic_return=[27.344515], success_rate=0.25
+SPS: 100
+global_step=581849, episodic_return=[54.898666], success_rate=0.33
+global_step=582249, episodic_return=[87.15681], success_rate=0.59
+global_step=582649, episodic_return=[13.185361], success_rate=0.17
+global_step=583049, episodic_return=[49.025627], success_rate=0.38
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=583236, episodic_return=[126.22141], success_rate=1.0
+global_step=583636, episodic_return=[68.210594], success_rate=0.54
+SPS: 100
+global_step=584036, episodic_return=[43.122753], success_rate=0.34
+global_step=584436, episodic_return=[129.32292], success_rate=0.98
+global_step=584836, episodic_return=[-4.2307105], success_rate=0.1
+global_step=585236, episodic_return=[-2.9139466], success_rate=0.0
+global_step=585636, episodic_return=[-9.81815], success_rate=0.0
+SPS: 100
+global_step=586036, episodic_return=[42.83923], success_rate=0.41
+global_step=586436, episodic_return=[77.422264], success_rate=0.56
+global_step=586836, episodic_return=[62.582462], success_rate=0.46
+global_step=587236, episodic_return=[55.517204], success_rate=0.47
+global_step=587636, episodic_return=[-18.98475], success_rate=0.0
+SPS: 100
+global_step=588036, episodic_return=[57.01949], success_rate=0.52
+global_step=588436, episodic_return=[31.870918], success_rate=0.29
+global_step=588836, episodic_return=[41.256966], success_rate=0.42
+global_step=589236, episodic_return=[-14.7772665], success_rate=0.0
+global_step=589636, episodic_return=[63.303246], success_rate=0.46
+SPS: 100
+global_step=590036, episodic_return=[37.387844], success_rate=0.37
+global_step=590436, episodic_return=[42.06747], success_rate=0.41
+global_step=590836, episodic_return=[-14.603682], success_rate=0.0
+global_step=591236, episodic_return=[60.421383], success_rate=0.52
+global_step=591636, episodic_return=[-19.876955], success_rate=0.0
+SPS: 100
+global_step=592036, episodic_return=[46.332966], success_rate=0.36
+global_step=592436, episodic_return=[45.734123], success_rate=0.27
+global_step=592836, episodic_return=[78.37621], success_rate=0.59
+global_step=593236, episodic_return=[1.9180108], success_rate=0.08
+global_step=593636, episodic_return=[59.12873], success_rate=0.42
+SPS: 100
+global_step=594036, episodic_return=[51.024548], success_rate=0.42
+global_step=594436, episodic_return=[27.462635], success_rate=0.19
+global_step=594836, episodic_return=[31.074455], success_rate=0.24
+global_step=595236, episodic_return=[17.875786], success_rate=0.22
+global_step=595636, episodic_return=[-15.622235], success_rate=0.0
+SPS: 100
+global_step=596036, episodic_return=[46.58873], success_rate=0.38
+global_step=596436, episodic_return=[-4.014322], success_rate=0.0
+global_step=596836, episodic_return=[89.7284], success_rate=0.64
+global_step=597236, episodic_return=[29.220083], success_rate=0.22
+global_step=597636, episodic_return=[10.026524], success_rate=0.09
+SPS: 100
+global_step=598036, episodic_return=[23.825836], success_rate=0.31
+global_step=598436, episodic_return=[-6.1987643], success_rate=0.0
+global_step=598836, episodic_return=[39.575233], success_rate=0.28
+global_step=599236, episodic_return=[-9.361397], success_rate=0.0
+global_step=599636, episodic_return=[38.76064], success_rate=0.28
+global_step=600036, episodic_return=[6.2222986], success_rate=0.04
+SPS: 100
+global_step=600436, episodic_return=[30.698227], success_rate=0.24
+global_step=600836, episodic_return=[38.591537], success_rate=0.39
+global_step=601236, episodic_return=[72.70503], success_rate=0.54
+global_step=601636, episodic_return=[-3.1992316], success_rate=0.09
+global_step=602036, episodic_return=[11.515028], success_rate=0.13
+SPS: 100
+global_step=602436, episodic_return=[-7.838242], success_rate=0.0
+global_step=602836, episodic_return=[37.115097], success_rate=0.33
+global_step=603236, episodic_return=[48.77666], success_rate=0.39
+global_step=603636, episodic_return=[50.806103], success_rate=0.41
+global_step=604036, episodic_return=[-10.912753], success_rate=0.0
+SPS: 100
+global_step=604436, episodic_return=[79.84934], success_rate=0.62
+global_step=604836, episodic_return=[-9.298959], success_rate=0.03
+global_step=605236, episodic_return=[56.050972], success_rate=0.43
+global_step=605636, episodic_return=[32.401943], success_rate=0.27
+global_step=606036, episodic_return=[53.392452], success_rate=0.38
+SPS: 100
+global_step=606436, episodic_return=[120.845764], success_rate=0.98
+global_step=606836, episodic_return=[54.925564], success_rate=0.42
+global_step=607236, episodic_return=[51.27055], success_rate=0.46
+global_step=607636, episodic_return=[74.55406], success_rate=0.6
+global_step=608036, episodic_return=[11.115899], success_rate=0.14
+SPS: 100
+global_step=608436, episodic_return=[-18.241034], success_rate=0.0
+global_step=608836, episodic_return=[61.585964], success_rate=0.52
+global_step=609236, episodic_return=[76.522224], success_rate=0.57
+global_step=609636, episodic_return=[112.7468], success_rate=0.86
+global_step=610036, episodic_return=[23.507915], success_rate=0.21
+SPS: 100
+global_step=610342, episodic_return=[-10.400315], success_rate=0.0
+global_step=610742, episodic_return=[52.517784], success_rate=0.53
+global_step=611142, episodic_return=[70.40738], success_rate=0.64
+global_step=611542, episodic_return=[2.7181106], success_rate=0.06
+global_step=611753, episodic_return=[63.708157], success_rate=0.55
+global_step=612153, episodic_return=[78.93259], success_rate=0.69
+SPS: 100
+global_step=612553, episodic_return=[41.098858], success_rate=0.36
+global_step=612953, episodic_return=[40.183144], success_rate=0.4
+global_step=613353, episodic_return=[33.713943], success_rate=0.27
+global_step=613753, episodic_return=[55.87221], success_rate=0.51
+global_step=614153, episodic_return=[-19.051514], success_rate=0.0
+SPS: 100
+global_step=614553, episodic_return=[21.816427], success_rate=0.18
+global_step=614953, episodic_return=[-18.12424], success_rate=0.0
+global_step=614973, episodic_return=[-0.14132516], success_rate=0.0
+global_step=615373, episodic_return=[100.2391], success_rate=0.81
+global_step=615773, episodic_return=[-17.088997], success_rate=0.0
+global_step=616173, episodic_return=[53.904728], success_rate=0.46
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=616414, episodic_return=[129.47795], success_rate=1.0
+SPS: 99
+global_step=616814, episodic_return=[52.47244], success_rate=0.5
+global_step=617214, episodic_return=[107.43208], success_rate=0.86
+global_step=617614, episodic_return=[36.402836], success_rate=0.39
+global_step=618014, episodic_return=[36.367233], success_rate=0.39
+global_step=618414, episodic_return=[59.60433], success_rate=0.49
+SPS: 99
+global_step=618814, episodic_return=[39.73696], success_rate=0.39
+global_step=619214, episodic_return=[-7.1871686], success_rate=0.03
+global_step=619614, episodic_return=[85.79976], success_rate=0.67
+global_step=620014, episodic_return=[-4.106699], success_rate=0.08
+global_step=620414, episodic_return=[50.074734], success_rate=0.41
+SPS: 99
+global_step=620814, episodic_return=[46.529507], success_rate=0.42
+global_step=621214, episodic_return=[12.758991], success_rate=0.19
+global_step=621614, episodic_return=[-16.464235], success_rate=0.02
+global_step=622014, episodic_return=[-11.380057], success_rate=0.01
+global_step=622414, episodic_return=[1.8432032], success_rate=0.1
+SPS: 99
+global_step=622814, episodic_return=[-12.158856], success_rate=0.03
+global_step=623214, episodic_return=[1.726319], success_rate=0.0
+global_step=623614, episodic_return=[31.243292], success_rate=0.32
+global_step=624014, episodic_return=[92.86207], success_rate=0.71
+global_step=624414, episodic_return=[33.02582], success_rate=0.35
+SPS: 99
+global_step=624814, episodic_return=[54.796577], success_rate=0.48
+global_step=625214, episodic_return=[57.835846], success_rate=0.56
+global_step=625614, episodic_return=[3.3877816], success_rate=0.03
+global_step=626014, episodic_return=[74.63678], success_rate=0.57
+global_step=626414, episodic_return=[40.2349], success_rate=0.35
+SPS: 99
+global_step=626814, episodic_return=[112.02731], success_rate=0.84
+global_step=627214, episodic_return=[-1.5421302], success_rate=0.11
+global_step=627614, episodic_return=[46.27184], success_rate=0.43
+global_step=628014, episodic_return=[54.812683], success_rate=0.5
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=628393, episodic_return=[126.397766], success_rate=1.0
+SPS: 99
+global_step=628793, episodic_return=[69.578384], success_rate=0.61
+global_step=629193, episodic_return=[58.227085], success_rate=0.55
+global_step=629593, episodic_return=[6.274207], success_rate=0.21
+global_step=629993, episodic_return=[31.159113], success_rate=0.4
+global_step=630393, episodic_return=[7.060235], success_rate=0.16
+SPS: 99
+global_step=630793, episodic_return=[-3.8484995], success_rate=0.12
+global_step=631193, episodic_return=[8.982234], success_rate=0.24
+global_step=631593, episodic_return=[20.98401], success_rate=0.3
+global_step=631993, episodic_return=[-3.776623], success_rate=0.13
+global_step=632393, episodic_return=[24.885363], success_rate=0.28
+global_step=632793, episodic_return=[-6.8678846], success_rate=0.05
+SPS: 99
+global_step=633193, episodic_return=[-11.0755], success_rate=0.11
+global_step=633593, episodic_return=[28.824944], success_rate=0.39
+global_step=633993, episodic_return=[46.274277], success_rate=0.44
+global_step=634393, episodic_return=[-18.098743], success_rate=0.0
+global_step=634793, episodic_return=[82.608444], success_rate=0.71
+SPS: 99
+global_step=635193, episodic_return=[66.6578], success_rate=0.56
+global_step=635593, episodic_return=[51.056274], success_rate=0.39
+global_step=635993, episodic_return=[0.96998084], success_rate=0.12
+global_step=636393, episodic_return=[1.6910126], success_rate=0.13
+global_step=636793, episodic_return=[35.59245], success_rate=0.42
+SPS: 99
+global_step=637193, episodic_return=[120.47517], success_rate=0.98
+global_step=637593, episodic_return=[14.061534], success_rate=0.17
+global_step=637993, episodic_return=[35.056583], success_rate=0.42
+global_step=638393, episodic_return=[66.129715], success_rate=0.61
+global_step=638793, episodic_return=[38.849987], success_rate=0.39
+SPS: 99
+global_step=639193, episodic_return=[21.897945], success_rate=0.24
+global_step=639593, episodic_return=[51.44288], success_rate=0.49
+global_step=639993, episodic_return=[21.26509], success_rate=0.22
+global_step=640393, episodic_return=[-11.5798025], success_rate=0.05
+global_step=640793, episodic_return=[62.27289], success_rate=0.51
+SPS: 99
+global_step=641193, episodic_return=[0.7324886], success_rate=0.13
+global_step=641593, episodic_return=[-17.040613], success_rate=0.0
+global_step=641993, episodic_return=[37.188595], success_rate=0.41
+global_step=642393, episodic_return=[42.557373], success_rate=0.37
+global_step=642793, episodic_return=[49.634014], success_rate=0.45
+SPS: 99
+global_step=643193, episodic_return=[82.564545], success_rate=0.7
+global_step=643593, episodic_return=[96.53069], success_rate=0.76
+global_step=643993, episodic_return=[64.41893], success_rate=0.55
+global_step=644393, episodic_return=[41.154877], success_rate=0.39
+global_step=644793, episodic_return=[41.781574], success_rate=0.39
+SPS: 99
+global_step=645193, episodic_return=[43.977688], success_rate=0.41
+global_step=645593, episodic_return=[4.936504], success_rate=0.2
+global_step=645993, episodic_return=[58.827988], success_rate=0.53
+global_step=646393, episodic_return=[38.057934], success_rate=0.4
+global_step=646793, episodic_return=[38.38756], success_rate=0.45
+SPS: 99
+global_step=647193, episodic_return=[113.10939], success_rate=0.88
+global_step=647593, episodic_return=[-19.25594], success_rate=0.0
+global_step=647993, episodic_return=[-10.669216], success_rate=0.16
+global_step=648393, episodic_return=[-5.6646214], success_rate=0.08
+global_step=648793, episodic_return=[94.23299], success_rate=0.74
+global_step=649193, episodic_return=[34.696777], success_rate=0.39
+SPS: 99
+global_step=649593, episodic_return=[36.00617], success_rate=0.37
+global_step=649993, episodic_return=[86.43647], success_rate=0.73
+global_step=650393, episodic_return=[50.20476], success_rate=0.48
+global_step=650793, episodic_return=[32.464943], success_rate=0.39
+global_step=651193, episodic_return=[79.17332], success_rate=0.6
+SPS: 99
+global_step=651593, episodic_return=[11.306761], success_rate=0.17
+global_step=651993, episodic_return=[-18.540161], success_rate=0.05
+global_step=652393, episodic_return=[121.73762], success_rate=0.96
+global_step=652793, episodic_return=[93.54306], success_rate=0.88
+global_step=653193, episodic_return=[13.724133], success_rate=0.22
+SPS: 99
+global_step=653593, episodic_return=[101.41063], success_rate=0.8
+global_step=653993, episodic_return=[49.36766], success_rate=0.5
+global_step=654393, episodic_return=[52.902534], success_rate=0.56
+global_step=654793, episodic_return=[22.513483], success_rate=0.31
+global_step=655193, episodic_return=[76.513016], success_rate=0.67
+SPS: 99
+global_step=655593, episodic_return=[1.5160441], success_rate=0.14
+global_step=655608, episodic_return=[-0.18951496], success_rate=0.0
+global_step=656008, episodic_return=[5.574519], success_rate=0.15
+global_step=656408, episodic_return=[68.35614], success_rate=0.64
+global_step=656808, episodic_return=[24.516436], success_rate=0.29
+global_step=657208, episodic_return=[91.87735], success_rate=0.8
+SPS: 99
+global_step=657608, episodic_return=[99.33685], success_rate=0.81
+global_step=658008, episodic_return=[24.34842], success_rate=0.29
+global_step=658408, episodic_return=[-8.699214], success_rate=0.09
+global_step=658808, episodic_return=[63.107433], success_rate=0.56
+global_step=659208, episodic_return=[99.341896], success_rate=0.81
+global_step=659225, episodic_return=[-0.18550642], success_rate=0.0
+SPS: 99
+global_step=659625, episodic_return=[96.60307], success_rate=0.78
+global_step=660025, episodic_return=[77.83734], success_rate=0.65
+global_step=660425, episodic_return=[62.921112], success_rate=0.55
+global_step=660825, episodic_return=[18.664202], success_rate=0.27
+global_step=661225, episodic_return=[47.03975], success_rate=0.42
+SPS: 99
+global_step=661625, episodic_return=[95.71818], success_rate=0.79
+global_step=662025, episodic_return=[111.31278], success_rate=0.94
+global_step=662425, episodic_return=[37.671535], success_rate=0.37
+global_step=662825, episodic_return=[-15.313605], success_rate=0.0
+global_step=663225, episodic_return=[99.22037], success_rate=0.83
+SPS: 99
+global_step=663625, episodic_return=[31.786589], success_rate=0.33
+global_step=664025, episodic_return=[41.894005], success_rate=0.39
+global_step=664425, episodic_return=[104.5811], success_rate=0.84
+global_step=664825, episodic_return=[102.02206], success_rate=0.86
+global_step=665225, episodic_return=[16.31651], success_rate=0.24
+SPS: 99
+global_step=665625, episodic_return=[1.9105493], success_rate=0.08
+global_step=666025, episodic_return=[-14.235837], success_rate=0.0
+global_step=666425, episodic_return=[118.17912], success_rate=0.97
+global_step=666825, episodic_return=[28.014523], success_rate=0.31
+global_step=666841, episodic_return=[-0.21241404], success_rate=0.0
+global_step=667241, episodic_return=[7.721834], success_rate=0.16
+global_step=667641, episodic_return=[44.027355], success_rate=0.38
+SPS: 99
+global_step=668041, episodic_return=[36.735188], success_rate=0.4
+global_step=668441, episodic_return=[50.491123], success_rate=0.43
+global_step=668841, episodic_return=[51.986786], success_rate=0.51
+global_step=669241, episodic_return=[116.70514], success_rate=0.93
+global_step=669641, episodic_return=[40.520775], success_rate=0.37
+global_step=669658, episodic_return=[-0.07676595], success_rate=0.0
+SPS: 99
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=669882, episodic_return=[130.13011], success_rate=1.0
+global_step=670282, episodic_return=[-8.693691], success_rate=0.05
+global_step=670682, episodic_return=[-17.076735], success_rate=0.0
+global_step=671082, episodic_return=[40.833794], success_rate=0.43
+global_step=671482, episodic_return=[44.33058], success_rate=0.42
+SPS: 99
+global_step=671882, episodic_return=[9.904402], success_rate=0.23
+global_step=671895, episodic_return=[-0.17983294], success_rate=0.0
+global_step=672295, episodic_return=[-1.4644128], success_rate=0.09
+global_step=672695, episodic_return=[43.839222], success_rate=0.4
+global_step=673095, episodic_return=[-19.475185], success_rate=0.0
+global_step=673495, episodic_return=[-22.833807], success_rate=0.01
+SPS: 99
+global_step=673895, episodic_return=[-19.404854], success_rate=0.0
+global_step=674295, episodic_return=[11.589788], success_rate=0.17
+global_step=674695, episodic_return=[-15.26982], success_rate=0.0
+global_step=675095, episodic_return=[48.19099], success_rate=0.49
+global_step=675495, episodic_return=[72.20672], success_rate=0.65
+SPS: 99
+global_step=675895, episodic_return=[49.591595], success_rate=0.44
+global_step=676295, episodic_return=[-14.179625], success_rate=0.0
+global_step=676695, episodic_return=[103.797844], success_rate=0.84
+global_step=677095, episodic_return=[-6.9117107], success_rate=0.09
+global_step=677495, episodic_return=[-17.646835], success_rate=0.0
+SPS: 99
+global_step=677895, episodic_return=[-9.350355], success_rate=0.0
+global_step=678295, episodic_return=[-7.92616], success_rate=0.0
+global_step=678695, episodic_return=[73.38572], success_rate=0.62
+global_step=679095, episodic_return=[38.60913], success_rate=0.36
+global_step=679495, episodic_return=[16.856215], success_rate=0.24
+global_step=679895, episodic_return=[33.641315], success_rate=0.31
+SPS: 99
+global_step=680295, episodic_return=[9.065574], success_rate=0.14
+global_step=680695, episodic_return=[1.6684545], success_rate=0.13
+global_step=681095, episodic_return=[0.14932151], success_rate=0.08
+global_step=681495, episodic_return=[-7.340854], success_rate=0.07
+global_step=681895, episodic_return=[50.409042], success_rate=0.41
+SPS: 99
+global_step=682295, episodic_return=[-22.081715], success_rate=0.0
+global_step=682695, episodic_return=[80.786896], success_rate=0.58
+global_step=683095, episodic_return=[104.54636], success_rate=0.8
+global_step=683495, episodic_return=[67.939125], success_rate=0.55
+global_step=683895, episodic_return=[5.383829], success_rate=0.11
+SPS: 99
+global_step=684295, episodic_return=[-10.133603], success_rate=0.02
+global_step=684695, episodic_return=[1.0596713], success_rate=0.11
+global_step=685095, episodic_return=[-14.141425], success_rate=0.0
+global_step=685495, episodic_return=[-15.186937], success_rate=0.0
+global_step=685895, episodic_return=[121.234535], success_rate=0.93
+SPS: 99
+global_step=686295, episodic_return=[50.66235], success_rate=0.35
+global_step=686695, episodic_return=[14.995452], success_rate=0.25
+global_step=687095, episodic_return=[2.1673508], success_rate=0.14
+global_step=687495, episodic_return=[37.497864], success_rate=0.26
+global_step=687895, episodic_return=[48.824875], success_rate=0.44
+SPS: 99
+global_step=688295, episodic_return=[29.229176], success_rate=0.35
+global_step=688695, episodic_return=[16.988678], success_rate=0.23
+global_step=689095, episodic_return=[24.10139], success_rate=0.27
+global_step=689495, episodic_return=[38.01517], success_rate=0.39
+global_step=689895, episodic_return=[64.01278], success_rate=0.45
+SPS: 99
+global_step=690295, episodic_return=[75.29423], success_rate=0.69
+global_step=690695, episodic_return=[18.567207], success_rate=0.28
+global_step=691095, episodic_return=[59.575897], success_rate=0.43
+global_step=691495, episodic_return=[83.94606], success_rate=0.61
+global_step=691895, episodic_return=[73.109085], success_rate=0.64
+SPS: 99
+global_step=692295, episodic_return=[-19.85495], success_rate=0.0
+global_step=692695, episodic_return=[-11.727076], success_rate=0.0
+global_step=692712, episodic_return=[-0.00647771], success_rate=0.0
+global_step=693112, episodic_return=[28.655499], success_rate=0.32
+global_step=693512, episodic_return=[69.282425], success_rate=0.47
+global_step=693912, episodic_return=[17.311333], success_rate=0.14
+SPS: 99
+global_step=694312, episodic_return=[81.562485], success_rate=0.63
+global_step=694712, episodic_return=[56.19242], success_rate=0.47
+global_step=695112, episodic_return=[21.7614], success_rate=0.27
+global_step=695512, episodic_return=[90.85246], success_rate=0.75
+global_step=695912, episodic_return=[34.25131], success_rate=0.34
+global_step=696312, episodic_return=[50.9429], success_rate=0.47
+SPS: 99
+global_step=696712, episodic_return=[44.82238], success_rate=0.38
+global_step=697112, episodic_return=[58.798138], success_rate=0.49
+global_step=697129, episodic_return=[-0.00259846], success_rate=0.0
+global_step=697529, episodic_return=[-14.209124], success_rate=0.0
+global_step=697929, episodic_return=[-6.1257143], success_rate=0.0
+global_step=698329, episodic_return=[-12.760784], success_rate=0.0
+SPS: 99
+global_step=698729, episodic_return=[45.621395], success_rate=0.38
+global_step=699129, episodic_return=[22.189928], success_rate=0.27
+global_step=699529, episodic_return=[92.8536], success_rate=0.76
+global_step=699929, episodic_return=[-12.298416], success_rate=0.0
+global_step=700329, episodic_return=[-4.153245], success_rate=0.0
+SPS: 99
+global_step=700729, episodic_return=[11.131013], success_rate=0.1
+global_step=701129, episodic_return=[38.12078], success_rate=0.33
+global_step=701143, episodic_return=[-0.19669437], success_rate=0.0
+global_step=701543, episodic_return=[25.723036], success_rate=0.25
+global_step=701943, episodic_return=[33.289608], success_rate=0.32
+global_step=702343, episodic_return=[-5.5434885], success_rate=0.0
+SPS: 99
+global_step=702743, episodic_return=[0.992413], success_rate=0.0
+global_step=703143, episodic_return=[15.707103], success_rate=0.08
+global_step=703543, episodic_return=[42.84584], success_rate=0.39
+global_step=703557, episodic_return=[-0.1320852], success_rate=0.0
+global_step=703957, episodic_return=[-1.5008873], success_rate=0.0
+global_step=704357, episodic_return=[-5.0860777], success_rate=0.02
+SPS: 99
+global_step=704757, episodic_return=[9.834645], success_rate=0.09
+global_step=705157, episodic_return=[69.16606], success_rate=0.43
+global_step=705172, episodic_return=[-0.04641673], success_rate=0.0
+global_step=705572, episodic_return=[14.803779], success_rate=0.18
+global_step=705972, episodic_return=[61.186527], success_rate=0.5
+global_step=706372, episodic_return=[6.9789343], success_rate=0.1
+SPS: 99
+global_step=706772, episodic_return=[99.77889], success_rate=0.78
+global_step=707172, episodic_return=[6.4798417], success_rate=0.14
+global_step=707572, episodic_return=[65.09497], success_rate=0.56
+global_step=707972, episodic_return=[8.548093], success_rate=0.13
+global_step=708372, episodic_return=[15.359974], success_rate=0.19
+SPS: 99
+global_step=708772, episodic_return=[28.658804], success_rate=0.26
+global_step=709172, episodic_return=[40.708244], success_rate=0.4
+global_step=709572, episodic_return=[14.916797], success_rate=0.14
+global_step=709972, episodic_return=[78.27693], success_rate=0.66
+global_step=710372, episodic_return=[-9.315135], success_rate=0.0
+SPS: 99
+global_step=710772, episodic_return=[10.979683], success_rate=0.18
+global_step=711172, episodic_return=[-13.40315], success_rate=0.0
+global_step=711572, episodic_return=[-10.651662], success_rate=0.0
+global_step=711972, episodic_return=[4.5640273], success_rate=0.08
+global_step=712372, episodic_return=[114.73016], success_rate=0.88
+SPS: 99
+global_step=712772, episodic_return=[59.473995], success_rate=0.47
+global_step=713172, episodic_return=[-0.07590109], success_rate=0.08
+global_step=713572, episodic_return=[62.981], success_rate=0.52
+global_step=713972, episodic_return=[-4.7972646], success_rate=0.0
+global_step=714372, episodic_return=[-12.614747], success_rate=0.0
+SPS: 99
+global_step=714772, episodic_return=[-17.736185], success_rate=0.0
+global_step=715172, episodic_return=[81.08405], success_rate=0.63
+global_step=715572, episodic_return=[51.045513], success_rate=0.4
+global_step=715972, episodic_return=[-11.902417], success_rate=0.0
+global_step=716372, episodic_return=[-13.436504], success_rate=0.0
+global_step=716772, episodic_return=[103.849655], success_rate=0.81
+SPS: 99
+global_step=717172, episodic_return=[96.97071], success_rate=0.71
+global_step=717572, episodic_return=[-16.026875], success_rate=0.02
+global_step=717972, episodic_return=[106.3492], success_rate=0.83
+global_step=718372, episodic_return=[-13.700822], success_rate=0.0
+global_step=718772, episodic_return=[23.672611], success_rate=0.2
+SPS: 99
+global_step=719172, episodic_return=[0.6004932], success_rate=0.14
+global_step=719572, episodic_return=[0.7986611], success_rate=0.07
+global_step=719972, episodic_return=[22.741587], success_rate=0.28
+global_step=720322, episodic_return=[-6.976565], success_rate=0.0
+global_step=720722, episodic_return=[108.17366], success_rate=0.86
+SPS: 99
+global_step=721122, episodic_return=[-11.224628], success_rate=0.0
+global_step=721522, episodic_return=[62.292835], success_rate=0.58
+global_step=721922, episodic_return=[-13.12753], success_rate=0.0
+global_step=722322, episodic_return=[83.97116], success_rate=0.68
+global_step=722722, episodic_return=[24.50227], success_rate=0.24
+SPS: 99
+global_step=723122, episodic_return=[80.250725], success_rate=0.65
+global_step=723522, episodic_return=[71.44249], success_rate=0.58
+global_step=723922, episodic_return=[28.576626], success_rate=0.32
+global_step=724322, episodic_return=[86.93643], success_rate=0.62
+global_step=724722, episodic_return=[-10.919659], success_rate=0.0
+SPS: 99
+global_step=725122, episodic_return=[117.09341], success_rate=0.9
+global_step=725522, episodic_return=[0.15876465], success_rate=0.03
+global_step=725922, episodic_return=[-8.701115], success_rate=0.0
+global_step=726322, episodic_return=[106.40176], success_rate=0.85
+global_step=726722, episodic_return=[-7.811519], success_rate=0.0
+SPS: 99
+global_step=727122, episodic_return=[-17.549314], success_rate=0.0
+global_step=727522, episodic_return=[49.51299], success_rate=0.37
+global_step=727788, episodic_return=[6.6826587], success_rate=0.11
+global_step=728188, episodic_return=[37.683773], success_rate=0.31
+global_step=728588, episodic_return=[-7.8355174], success_rate=0.0
+global_step=728988, episodic_return=[47.813507], success_rate=0.43
+SPS: 99
+global_step=729388, episodic_return=[11.731218], success_rate=0.18
+global_step=729788, episodic_return=[84.6181], success_rate=0.69
+global_step=730188, episodic_return=[60.23529], success_rate=0.46
+global_step=730588, episodic_return=[108.5897], success_rate=0.9
+global_step=730988, episodic_return=[78.18256], success_rate=0.68
+SPS: 99
+global_step=731388, episodic_return=[37.948296], success_rate=0.33
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=731638, episodic_return=[123.820435], success_rate=1.0
+global_step=732038, episodic_return=[-9.249322], success_rate=0.0
+global_step=732438, episodic_return=[102.78283], success_rate=0.81
+global_step=732838, episodic_return=[7.3448706], success_rate=0.19
+SPS: 99
+global_step=733238, episodic_return=[87.999626], success_rate=0.67
+global_step=733638, episodic_return=[-10.286713], success_rate=0.04
+global_step=734038, episodic_return=[123.974556], success_rate=0.96
+global_step=734438, episodic_return=[-9.173847], success_rate=0.03
+global_step=734838, episodic_return=[55.461117], success_rate=0.52
+SPS: 99
+global_step=735238, episodic_return=[33.57582], success_rate=0.36
+global_step=735638, episodic_return=[22.984983], success_rate=0.3
+global_step=736038, episodic_return=[61.090324], success_rate=0.55
+global_step=736438, episodic_return=[-10.205805], success_rate=0.0
+global_step=736838, episodic_return=[87.06773], success_rate=0.74
+global_step=737238, episodic_return=[-0.26519495], success_rate=0.1
+SPS: 99
+global_step=737425, episodic_return=[49.893177], success_rate=0.42
+global_step=737825, episodic_return=[-19.964796], success_rate=0.0
+global_step=738225, episodic_return=[6.7058992], success_rate=0.16
+global_step=738625, episodic_return=[107.266495], success_rate=0.94
+global_step=739025, episodic_return=[46.77388], success_rate=0.45
+SPS: 99
+global_step=739425, episodic_return=[102.346825], success_rate=0.88
+global_step=739825, episodic_return=[32.753376], success_rate=0.3
+global_step=740225, episodic_return=[65.27311], success_rate=0.59
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=740588, episodic_return=[126.90266], success_rate=1.0
+global_step=740988, episodic_return=[-20.124174], success_rate=0.0
+SPS: 99
+global_step=741388, episodic_return=[40.90333], success_rate=0.43
+global_step=741788, episodic_return=[31.45325], success_rate=0.41
+global_step=742188, episodic_return=[48.772526], success_rate=0.43
+global_step=742588, episodic_return=[81.17096], success_rate=0.7
+global_step=742988, episodic_return=[48.272198], success_rate=0.52
+global_step=743388, episodic_return=[73.46667], success_rate=0.66
+SPS: 99
+global_step=743788, episodic_return=[69.39036], success_rate=0.63
+global_step=744188, episodic_return=[68.36548], success_rate=0.57
+global_step=744552, episodic_return=[43.872604], success_rate=0.44
+global_step=744952, episodic_return=[113.316124], success_rate=0.99
+global_step=745139, episodic_return=[84.09994], success_rate=0.68
+SPS: 99
+global_step=745539, episodic_return=[101.72984], success_rate=0.84
+global_step=745939, episodic_return=[43.260204], success_rate=0.41
+global_step=746339, episodic_return=[20.315798], success_rate=0.2
+global_step=746739, episodic_return=[92.6843], success_rate=0.85
+global_step=747139, episodic_return=[80.753494], success_rate=0.65
+SPS: 99
+global_step=747539, episodic_return=[61.04541], success_rate=0.59
+global_step=747939, episodic_return=[-16.979023], success_rate=0.0
+global_step=748339, episodic_return=[-1.4342866], success_rate=0.12
+global_step=748555, episodic_return=[97.27567], success_rate=0.8
+global_step=748955, episodic_return=[19.979517], success_rate=0.28
+global_step=749355, episodic_return=[81.70973], success_rate=0.76
+SPS: 99
+global_step=749655, episodic_return=[50.468864], success_rate=0.46
+global_step=750055, episodic_return=[-14.86567], success_rate=0.03
+global_step=750455, episodic_return=[122.811035], success_rate=0.93
+global_step=750855, episodic_return=[10.574805], success_rate=0.19
+global_step=751255, episodic_return=[-20.478153], success_rate=0.0
+SPS: 99
+global_step=751655, episodic_return=[-0.7157632], success_rate=0.08
+global_step=752055, episodic_return=[-15.079342], success_rate=0.0
+global_step=752455, episodic_return=[34.5865], success_rate=0.39
+global_step=752855, episodic_return=[110.17151], success_rate=0.95
+global_step=753255, episodic_return=[-10.160827], success_rate=0.03
+global_step=753655, episodic_return=[86.23899], success_rate=0.75
+SPS: 99
+global_step=754055, episodic_return=[102.10658], success_rate=0.83
+global_step=754455, episodic_return=[18.965294], success_rate=0.27
+global_step=754855, episodic_return=[57.008675], success_rate=0.56
+global_step=755255, episodic_return=[-4.617937], success_rate=0.13
+global_step=755655, episodic_return=[110.49463], success_rate=0.92
+SPS: 99
+global_step=756055, episodic_return=[69.79513], success_rate=0.67
+global_step=756455, episodic_return=[49.901836], success_rate=0.51
+global_step=756855, episodic_return=[50.03373], success_rate=0.45
+global_step=757255, episodic_return=[-13.862577], success_rate=0.0
+global_step=757655, episodic_return=[26.50399], success_rate=0.37
+SPS: 99
+global_step=758055, episodic_return=[105.23172], success_rate=0.87
+global_step=758455, episodic_return=[49.049274], success_rate=0.53
+global_step=758855, episodic_return=[-7.268606], success_rate=0.04
+global_step=759255, episodic_return=[-11.152087], success_rate=0.0
+global_step=759655, episodic_return=[-17.22414], success_rate=0.0
+SPS: 99
+global_step=760055, episodic_return=[46.91678], success_rate=0.41
+global_step=760455, episodic_return=[67.30177], success_rate=0.55
+global_step=760855, episodic_return=[-17.136757], success_rate=0.0
+global_step=761255, episodic_return=[9.093885], success_rate=0.21
+global_step=761655, episodic_return=[14.985548], success_rate=0.23
+SPS: 99
+global_step=762055, episodic_return=[64.27408], success_rate=0.57
+global_step=762455, episodic_return=[14.036149], success_rate=0.22
+global_step=762855, episodic_return=[75.82514], success_rate=0.62
+global_step=763255, episodic_return=[-13.71282], success_rate=0.0
+global_step=763655, episodic_return=[70.78797], success_rate=0.64
+SPS: 98
+global_step=764055, episodic_return=[47.60703], success_rate=0.47
+global_step=764455, episodic_return=[-12.493596], success_rate=0.0
+global_step=764855, episodic_return=[-11.025308], success_rate=0.0
+global_step=765255, episodic_return=[23.88272], success_rate=0.19
+global_step=765655, episodic_return=[82.53294], success_rate=0.68
+SPS: 98
+global_step=766055, episodic_return=[44.409256], success_rate=0.39
+global_step=766455, episodic_return=[42.17424], success_rate=0.37
+global_step=766855, episodic_return=[2.292477], success_rate=0.12
+global_step=767255, episodic_return=[-12.113146], success_rate=0.0
+global_step=767655, episodic_return=[55.865124], success_rate=0.43
+SPS: 98
+global_step=768055, episodic_return=[67.36235], success_rate=0.44
+global_step=768455, episodic_return=[-5.438757], success_rate=0.0
+global_step=768855, episodic_return=[97.63682], success_rate=0.82
+global_step=769255, episodic_return=[51.121613], success_rate=0.34
+global_step=769655, episodic_return=[7.00267], success_rate=0.14
+SPS: 98
+global_step=770055, episodic_return=[-8.533929], success_rate=0.0
+global_step=770455, episodic_return=[-8.430825], success_rate=0.01
+global_step=770855, episodic_return=[91.41594], success_rate=0.69
+global_step=771255, episodic_return=[42.480106], success_rate=0.4
+global_step=771655, episodic_return=[102.443344], success_rate=0.79
+global_step=772055, episodic_return=[34.826733], success_rate=0.37
+SPS: 98
+global_step=772455, episodic_return=[9.593396], success_rate=0.15
+global_step=772855, episodic_return=[10.503578], success_rate=0.01
+global_step=773255, episodic_return=[36.72363], success_rate=0.3
+global_step=773655, episodic_return=[46.747623], success_rate=0.32
+global_step=774055, episodic_return=[-13.806534], success_rate=0.0
+SPS: 98
+global_step=774455, episodic_return=[103.793686], success_rate=0.84
+global_step=774855, episodic_return=[43.969173], success_rate=0.35
+global_step=775255, episodic_return=[35.493313], success_rate=0.32
+global_step=775655, episodic_return=[67.28122], success_rate=0.59
+global_step=776055, episodic_return=[-10.742516], success_rate=0.03
+SPS: 98
+global_step=776455, episodic_return=[65.62824], success_rate=0.4
+global_step=776855, episodic_return=[-14.783849], success_rate=0.0
+global_step=777255, episodic_return=[55.861324], success_rate=0.48
+global_step=777655, episodic_return=[90.69245], success_rate=0.63
+global_step=778055, episodic_return=[50.960815], success_rate=0.36
+SPS: 98
+global_step=778455, episodic_return=[82.142685], success_rate=0.66
+global_step=778855, episodic_return=[101.14351], success_rate=0.76
+global_step=779255, episodic_return=[-0.20860338], success_rate=0.09
+global_step=779655, episodic_return=[1.6912384], success_rate=0.09
+global_step=780055, episodic_return=[17.408966], success_rate=0.19
+global_step=780260, episodic_return=[50.144318], success_rate=0.41
+SPS: 98
+global_step=780660, episodic_return=[-11.831887], success_rate=0.0
+global_step=781060, episodic_return=[15.05863], success_rate=0.19
+global_step=781460, episodic_return=[71.123985], success_rate=0.58
+global_step=781860, episodic_return=[73.18903], success_rate=0.59
+global_step=782260, episodic_return=[134.31213], success_rate=0.98
+SPS: 98
+global_step=782660, episodic_return=[-4.015431], success_rate=0.02
+global_step=783060, episodic_return=[97.56297], success_rate=0.71
+global_step=783460, episodic_return=[-7.9474425], success_rate=0.06
+global_step=783860, episodic_return=[73.144104], success_rate=0.63
+global_step=784260, episodic_return=[54.658936], success_rate=0.4
+SPS: 98
+global_step=784660, episodic_return=[48.190956], success_rate=0.4
+global_step=785060, episodic_return=[-11.945062], success_rate=0.0
+global_step=785460, episodic_return=[101.38106], success_rate=0.78
+global_step=785860, episodic_return=[-16.621977], success_rate=0.0
+global_step=786260, episodic_return=[-3.8462405], success_rate=0.0
+SPS: 98
+global_step=786660, episodic_return=[-13.365261], success_rate=0.0
+global_step=787060, episodic_return=[52.45678], success_rate=0.33
+global_step=787460, episodic_return=[-14.049542], success_rate=0.0
+global_step=787860, episodic_return=[70.03156], success_rate=0.48
+global_step=788260, episodic_return=[2.7714422], success_rate=0.11
+SPS: 98
+global_step=788660, episodic_return=[29.51082], success_rate=0.29
+global_step=789060, episodic_return=[84.17198], success_rate=0.61
+global_step=789460, episodic_return=[46.54099], success_rate=0.4
+global_step=789860, episodic_return=[-7.811289], success_rate=0.0
+global_step=790260, episodic_return=[-12.075603], success_rate=0.0
+SPS: 98
+global_step=790660, episodic_return=[48.701847], success_rate=0.43
+global_step=791060, episodic_return=[8.336639], success_rate=0.06
+global_step=791460, episodic_return=[54.493324], success_rate=0.38
+global_step=791860, episodic_return=[117.195724], success_rate=0.83
+global_step=792260, episodic_return=[-8.312586], success_rate=0.0
+SPS: 98
+global_step=792660, episodic_return=[-12.413906], success_rate=0.0
+global_step=793060, episodic_return=[-4.8272595], success_rate=0.02
+global_step=793460, episodic_return=[-13.547244], success_rate=0.0
+global_step=793860, episodic_return=[127.86217], success_rate=0.98
+global_step=794260, episodic_return=[8.831736], success_rate=0.15
+SPS: 98
+global_step=794660, episodic_return=[104.94224], success_rate=0.8
+global_step=795060, episodic_return=[52.94329], success_rate=0.39
+global_step=795460, episodic_return=[-3.218903], success_rate=0.07
+global_step=795860, episodic_return=[65.679985], success_rate=0.49
+global_step=796260, episodic_return=[81.84668], success_rate=0.59
+global_step=796660, episodic_return=[-11.342254], success_rate=0.0
+SPS: 98
+global_step=797060, episodic_return=[43.996372], success_rate=0.29
+global_step=797460, episodic_return=[66.39092], success_rate=0.41
+global_step=797860, episodic_return=[120.078384], success_rate=0.88
+global_step=798260, episodic_return=[2.2095718], success_rate=0.0
+global_step=798660, episodic_return=[-8.549884], success_rate=0.0
+SPS: 98
+global_step=799060, episodic_return=[76.562935], success_rate=0.59
+global_step=799460, episodic_return=[-6.585157], success_rate=0.0
+global_step=799860, episodic_return=[89.78558], success_rate=0.62
+global_step=799898, episodic_return=[-6.7408333], success_rate=0.0
+global_step=800298, episodic_return=[49.888626], success_rate=0.39
+global_step=800698, episodic_return=[-5.174044], success_rate=0.0
+SPS: 98
+global_step=801098, episodic_return=[97.02427], success_rate=0.67
+global_step=801498, episodic_return=[2.8014002], success_rate=0.0
+global_step=801898, episodic_return=[-9.553619], success_rate=0.0
+global_step=802298, episodic_return=[104.715866], success_rate=0.8
+global_step=802698, episodic_return=[-8.528961], success_rate=0.0
+SPS: 98
+global_step=803098, episodic_return=[-0.3209158], success_rate=0.08
+global_step=803498, episodic_return=[36.044365], success_rate=0.28
+global_step=803898, episodic_return=[87.12196], success_rate=0.62
+global_step=804298, episodic_return=[-15.5529585], success_rate=0.0
+global_step=804698, episodic_return=[19.553732], success_rate=0.19
+SPS: 98
+global_step=805098, episodic_return=[-16.963121], success_rate=0.0
+global_step=805498, episodic_return=[-4.6058607], success_rate=0.08
+global_step=805898, episodic_return=[16.376184], success_rate=0.14
+global_step=806298, episodic_return=[52.967087], success_rate=0.41
+global_step=806316, episodic_return=[-0.03715746], success_rate=0.0
+global_step=806716, episodic_return=[0.7713438], success_rate=0.06
+SPS: 98
+global_step=807116, episodic_return=[66.89798], success_rate=0.5
+global_step=807516, episodic_return=[16.568409], success_rate=0.18
+global_step=807916, episodic_return=[-16.959723], success_rate=0.0
+global_step=808316, episodic_return=[40.595287], success_rate=0.28
+global_step=808716, episodic_return=[-20.282434], success_rate=0.0
+SPS: 98
+global_step=809116, episodic_return=[-6.960762], success_rate=0.0
+global_step=809516, episodic_return=[-3.2161956], success_rate=0.07
+global_step=809916, episodic_return=[126.06022], success_rate=0.94
+global_step=810316, episodic_return=[-14.060512], success_rate=0.0
+global_step=810716, episodic_return=[-12.666756], success_rate=0.0
+SPS: 98
+global_step=811116, episodic_return=[95.39864], success_rate=0.69
+global_step=811145, episodic_return=[-1.2091584], success_rate=0.0
+global_step=811545, episodic_return=[69.71767], success_rate=0.5
+global_step=811945, episodic_return=[-11.123683], success_rate=0.0
+global_step=812345, episodic_return=[61.012024], success_rate=0.41
+global_step=812745, episodic_return=[86.154236], success_rate=0.63
+global_step=812757, episodic_return=[-0.06345007], success_rate=0.0
+SPS: 98
+global_step=813157, episodic_return=[53.362766], success_rate=0.34
+global_step=813557, episodic_return=[-10.23906], success_rate=0.0
+global_step=813957, episodic_return=[12.247539], success_rate=0.11
+global_step=813969, episodic_return=[-0.19641292], success_rate=0.0
+global_step=814369, episodic_return=[0.2599838], success_rate=0.02
+global_step=814769, episodic_return=[-49.953274], success_rate=0.0
+SPS: 98
+global_step=815169, episodic_return=[32.577145], success_rate=0.3
+global_step=815569, episodic_return=[90.62986], success_rate=0.64
+global_step=815582, episodic_return=[-0.17819121], success_rate=0.0
+global_step=815982, episodic_return=[63.62079], success_rate=0.55
+global_step=816382, episodic_return=[50.591545], success_rate=0.37
+global_step=816782, episodic_return=[18.3771], success_rate=0.16
+SPS: 98
+global_step=817182, episodic_return=[96.4755], success_rate=0.74
+global_step=817582, episodic_return=[110.761], success_rate=0.87
+global_step=817982, episodic_return=[-1.3754886], success_rate=0.01
+global_step=818382, episodic_return=[66.974495], success_rate=0.54
+global_step=818782, episodic_return=[9.070344], success_rate=0.15
+global_step=819182, episodic_return=[-4.803059], success_rate=0.02
+global_step=819198, episodic_return=[-0.01438384], success_rate=0.0
+SPS: 98
+global_step=819598, episodic_return=[57.1577], success_rate=0.41
+global_step=819998, episodic_return=[-8.231451], success_rate=0.0
+global_step=820398, episodic_return=[-16.82674], success_rate=0.0
+global_step=820798, episodic_return=[-3.9304519], success_rate=0.05
+global_step=821198, episodic_return=[-5.88312], success_rate=0.0
+global_step=821211, episodic_return=[-0.20383681], success_rate=0.0
+SPS: 98
+global_step=821611, episodic_return=[11.7294855], success_rate=0.13
+global_step=822011, episodic_return=[-11.161402], success_rate=0.0
+global_step=822411, episodic_return=[86.715034], success_rate=0.61
+global_step=822811, episodic_return=[80.457085], success_rate=0.6
+global_step=823211, episodic_return=[128.59659], success_rate=0.95
+SPS: 98
+global_step=823611, episodic_return=[80.28261], success_rate=0.73
+global_step=824011, episodic_return=[62.2235], success_rate=0.53
+global_step=824411, episodic_return=[27.733355], success_rate=0.29
+global_step=824811, episodic_return=[56.06022], success_rate=0.44
+global_step=825211, episodic_return=[83.52181], success_rate=0.62
+SPS: 98
+global_step=825611, episodic_return=[59.28009], success_rate=0.54
+global_step=826011, episodic_return=[71.38993], success_rate=0.58
+global_step=826411, episodic_return=[48.297173], success_rate=0.35
+global_step=826811, episodic_return=[5.5721135], success_rate=0.15
+global_step=827211, episodic_return=[91.33028], success_rate=0.67
+global_step=827226, episodic_return=[-0.1908125], success_rate=0.0
+SPS: 98
+global_step=827626, episodic_return=[-15.8840685], success_rate=0.0
+global_step=828026, episodic_return=[79.58819], success_rate=0.65
+global_step=828426, episodic_return=[104.42167], success_rate=0.82
+global_step=828826, episodic_return=[-13.829765], success_rate=0.0
+global_step=829226, episodic_return=[59.153328], success_rate=0.47
+SPS: 98
+global_step=829626, episodic_return=[82.23069], success_rate=0.6
+global_step=830026, episodic_return=[74.30195], success_rate=0.6
+global_step=830426, episodic_return=[70.13525], success_rate=0.58
+global_step=830443, episodic_return=[-0.06119649], success_rate=0.0
+global_step=830843, episodic_return=[82.045395], success_rate=0.63
+global_step=831243, episodic_return=[50.755283], success_rate=0.36
+SPS: 98
+global_step=831643, episodic_return=[61.853928], success_rate=0.41
+global_step=832043, episodic_return=[15.1348095], success_rate=0.16
+global_step=832443, episodic_return=[-17.724081], success_rate=0.0
+global_step=832843, episodic_return=[52.07215], success_rate=0.52
+global_step=833243, episodic_return=[59.855766], success_rate=0.4
+SPS: 98
+global_step=833643, episodic_return=[30.72009], success_rate=0.29
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=833799, episodic_return=[126.15181], success_rate=1.0
+global_step=833816, episodic_return=[-0.18645145], success_rate=0.0
+global_step=833833, episodic_return=[-0.05059959], success_rate=0.0
+global_step=833849, episodic_return=[-0.08551683], success_rate=0.0
+global_step=834249, episodic_return=[69.7249], success_rate=0.51
+global_step=834267, episodic_return=[-0.10680541], success_rate=0.0
+global_step=834281, episodic_return=[-0.11523061], success_rate=0.0
+global_step=834681, episodic_return=[-15.073638], success_rate=0.0
+global_step=835081, episodic_return=[118.196976], success_rate=0.92
+global_step=835097, episodic_return=[-0.12653388], success_rate=0.0
+global_step=835497, episodic_return=[-12.702562], success_rate=0.0
+SPS: 97
+global_step=835897, episodic_return=[49.623924], success_rate=0.45
+global_step=836297, episodic_return=[115.5799], success_rate=0.88
+global_step=836697, episodic_return=[-5.0234866], success_rate=0.1
+global_step=837097, episodic_return=[-12.716454], success_rate=0.0
+global_step=837497, episodic_return=[53.44354], success_rate=0.46
+global_step=837516, episodic_return=[0.01734284], success_rate=0.0
+global_step=837531, episodic_return=[0.00632846], success_rate=0.0
+global_step=837546, episodic_return=[-0.19503804], success_rate=0.0
+global_step=837576, episodic_return=[-1.3616109], success_rate=0.0
+SPS: 97
+global_step=837976, episodic_return=[103.85718], success_rate=0.85
+global_step=837990, episodic_return=[-0.1387484], success_rate=0.0
+global_step=838390, episodic_return=[-15.951274], success_rate=0.0
+global_step=838790, episodic_return=[-10.401414], success_rate=0.0
+global_step=838807, episodic_return=[-0.18571053], success_rate=0.0
+global_step=838825, episodic_return=[-0.04957978], success_rate=0.0
+global_step=839225, episodic_return=[120.5554], success_rate=0.94
+global_step=839243, episodic_return=[0.08212894], success_rate=0.0
+global_step=839643, episodic_return=[115.35603], success_rate=0.9
+SPS: 97
+global_step=840043, episodic_return=[43.962048], success_rate=0.38
+global_step=840443, episodic_return=[121.36782], success_rate=0.83
+global_step=840461, episodic_return=[0.00317118], success_rate=0.0
+global_step=840481, episodic_return=[-0.16235545], success_rate=0.0
+global_step=840881, episodic_return=[92.68427], success_rate=0.72
+global_step=841281, episodic_return=[95.4412], success_rate=0.74
+global_step=841681, episodic_return=[28.982594], success_rate=0.27
+global_step=841697, episodic_return=[0.03617793], success_rate=0.0
+SPS: 97
+global_step=842097, episodic_return=[111.80771], success_rate=0.87
+global_step=842497, episodic_return=[34.942017], success_rate=0.29
+global_step=842897, episodic_return=[43.14734], success_rate=0.32
+global_step=843297, episodic_return=[100.076454], success_rate=0.81
+global_step=843697, episodic_return=[75.82269], success_rate=0.56
+SPS: 97
+global_step=844097, episodic_return=[-10.438706], success_rate=0.0
+global_step=844497, episodic_return=[33.81151], success_rate=0.35
+global_step=844897, episodic_return=[67.05225], success_rate=0.61
+global_step=845297, episodic_return=[69.34184], success_rate=0.5
+global_step=845314, episodic_return=[-0.06776395], success_rate=0.0
+global_step=845329, episodic_return=[-0.17223659], success_rate=0.0
+global_step=845344, episodic_return=[-0.07638997], success_rate=0.0
+global_step=845744, episodic_return=[30.128199], success_rate=0.26
+SPS: 97
+global_step=846144, episodic_return=[94.44887], success_rate=0.81
+global_step=846544, episodic_return=[-19.030813], success_rate=0.0
+global_step=846944, episodic_return=[66.832634], success_rate=0.51
+global_step=847344, episodic_return=[71.66774], success_rate=0.58
+global_step=847744, episodic_return=[-15.699945], success_rate=0.0
+SPS: 97
+global_step=848144, episodic_return=[-14.366838], success_rate=0.0
+global_step=848544, episodic_return=[55.48777], success_rate=0.46
+global_step=848563, episodic_return=[-0.18074095], success_rate=0.0
+global_step=848963, episodic_return=[-12.975844], success_rate=0.0
+global_step=849363, episodic_return=[-11.069898], success_rate=0.0
+global_step=849763, episodic_return=[-16.91754], success_rate=0.02
+SPS: 97
+global_step=850163, episodic_return=[-10.680745], success_rate=0.0
+global_step=850178, episodic_return=[0.02990037], success_rate=0.0
+global_step=850578, episodic_return=[104.14198], success_rate=0.77
+global_step=850978, episodic_return=[25.134237], success_rate=0.3
+global_step=851378, episodic_return=[-11.912369], success_rate=0.03
+global_step=851778, episodic_return=[-10.407799], success_rate=0.0
+SPS: 97
+global_step=852178, episodic_return=[-15.024897], success_rate=0.0
+global_step=852578, episodic_return=[60.944653], success_rate=0.53
+global_step=852978, episodic_return=[83.48791], success_rate=0.71
+global_step=853378, episodic_return=[-11.51431], success_rate=0.0
+global_step=853778, episodic_return=[103.16696], success_rate=0.77
+global_step=853792, episodic_return=[-0.16784802], success_rate=0.0
+SPS: 97
+global_step=854192, episodic_return=[-12.224971], success_rate=0.0
+global_step=854592, episodic_return=[46.948174], success_rate=0.4
+global_step=854992, episodic_return=[63.55513], success_rate=0.44
+global_step=855023, episodic_return=[-1.3567543], success_rate=0.0
+global_step=855423, episodic_return=[-14.270747], success_rate=0.0
+global_step=855823, episodic_return=[1.7435198], success_rate=0.13
+SPS: 97
+global_step=856223, episodic_return=[5.791604], success_rate=0.13
+global_step=856623, episodic_return=[35.580883], success_rate=0.29
+global_step=857023, episodic_return=[91.32587], success_rate=0.71
+global_step=857423, episodic_return=[52.253605], success_rate=0.44
+global_step=857823, episodic_return=[109.183365], success_rate=0.87
+SPS: 97
+global_step=858223, episodic_return=[-9.018716], success_rate=0.0
+global_step=858623, episodic_return=[27.157017], success_rate=0.27
+global_step=859023, episodic_return=[0.21948858], success_rate=0.13
+global_step=859423, episodic_return=[92.81572], success_rate=0.68
+global_step=859823, episodic_return=[21.86759], success_rate=0.26
+SPS: 97
+global_step=860223, episodic_return=[-16.606638], success_rate=0.0
+global_step=860623, episodic_return=[35.440784], success_rate=0.4
+global_step=861023, episodic_return=[-13.310461], success_rate=0.0
+global_step=861423, episodic_return=[34.31225], success_rate=0.41
+global_step=861823, episodic_return=[-16.842993], success_rate=0.0
+SPS: 97
+global_step=862223, episodic_return=[-8.926366], success_rate=0.04
+global_step=862623, episodic_return=[-25.65355], success_rate=0.0
+global_step=863023, episodic_return=[45.148403], success_rate=0.39
+global_step=863423, episodic_return=[86.404976], success_rate=0.7
+global_step=863823, episodic_return=[-16.479921], success_rate=0.0
+global_step=864223, episodic_return=[77.07576], success_rate=0.65
+SPS: 97
+global_step=864623, episodic_return=[62.039738], success_rate=0.58
+global_step=865023, episodic_return=[64.98504], success_rate=0.64
+global_step=865423, episodic_return=[-21.629961], success_rate=0.0
+global_step=865823, episodic_return=[-19.314144], success_rate=0.0
+global_step=866223, episodic_return=[19.342321], success_rate=0.25
+global_step=866239, episodic_return=[-0.11166486], success_rate=0.0
+SPS: 97
+global_step=866639, episodic_return=[78.13554], success_rate=0.68
+global_step=867039, episodic_return=[44.42832], success_rate=0.41
+global_step=867055, episodic_return=[0.13316637], success_rate=0.0
+global_step=867455, episodic_return=[-23.86423], success_rate=0.0
+global_step=867855, episodic_return=[-20.384281], success_rate=0.0
+global_step=868255, episodic_return=[86.41244], success_rate=0.76
+SPS: 97
+global_step=868655, episodic_return=[-14.996348], success_rate=0.0
+global_step=868685, episodic_return=[-1.4368191], success_rate=0.0
+global_step=869085, episodic_return=[109.36891], success_rate=0.93
+global_step=869485, episodic_return=[-12.930399], success_rate=0.05
+global_step=869885, episodic_return=[63.75179], success_rate=0.58
+global_step=870285, episodic_return=[13.174358], success_rate=0.24
+SPS: 97
+global_step=870685, episodic_return=[65.57375], success_rate=0.6
+global_step=871085, episodic_return=[48.764736], success_rate=0.44
+global_step=871485, episodic_return=[-21.66217], success_rate=0.0
+global_step=871885, episodic_return=[-19.74625], success_rate=0.0
+global_step=872285, episodic_return=[31.28109], success_rate=0.36
+SPS: 97
+global_step=872685, episodic_return=[53.40534], success_rate=0.49
+global_step=872701, episodic_return=[-0.05858971], success_rate=0.0
+global_step=873101, episodic_return=[-27.138372], success_rate=0.0
+global_step=873501, episodic_return=[4.8575315], success_rate=0.18
+global_step=873786, episodic_return=[74.89974], success_rate=0.65
+global_step=874186, episodic_return=[20.18692], success_rate=0.23
+SPS: 97
+global_step=874586, episodic_return=[-22.172678], success_rate=0.01
+global_step=874986, episodic_return=[3.451939], success_rate=0.14
+global_step=875386, episodic_return=[4.835767], success_rate=0.2
+global_step=875786, episodic_return=[57.28237], success_rate=0.57
+global_step=876186, episodic_return=[-28.076754], success_rate=0.0
+SPS: 97
+global_step=876586, episodic_return=[22.84372], success_rate=0.33
+global_step=876986, episodic_return=[70.88449], success_rate=0.66
+global_step=877386, episodic_return=[68.32925], success_rate=0.5
+global_step=877786, episodic_return=[-21.480196], success_rate=0.0
+global_step=878186, episodic_return=[38.531136], success_rate=0.43
+global_step=878203, episodic_return=[-0.02477749], success_rate=0.0
+SPS: 97
+global_step=878603, episodic_return=[73.29347], success_rate=0.69
+global_step=879003, episodic_return=[83.6313], success_rate=0.78
+global_step=879403, episodic_return=[45.44142], success_rate=0.43
+global_step=879803, episodic_return=[27.880112], success_rate=0.27
+global_step=880203, episodic_return=[40.92882], success_rate=0.41
+global_step=880603, episodic_return=[79.216446], success_rate=0.78
+SPS: 97
+global_step=881003, episodic_return=[88.04639], success_rate=0.75
+global_step=881403, episodic_return=[-13.409102], success_rate=0.07
+global_step=881803, episodic_return=[94.313644], success_rate=0.83
+global_step=882203, episodic_return=[-25.627346], success_rate=0.0
+global_step=882603, episodic_return=[-16.610094], success_rate=0.08
+SPS: 97
+global_step=883003, episodic_return=[68.60231], success_rate=0.7
+global_step=883403, episodic_return=[28.2588], success_rate=0.41
+global_step=883803, episodic_return=[91.14224], success_rate=0.79
+global_step=884203, episodic_return=[54.170776], success_rate=0.5
+global_step=884603, episodic_return=[56.93255], success_rate=0.61
+SPS: 97
+global_step=885003, episodic_return=[-25.915081], success_rate=0.0
+global_step=885403, episodic_return=[74.8564], success_rate=0.73
+global_step=885803, episodic_return=[-25.447378], success_rate=0.02
+global_step=886203, episodic_return=[37.80477], success_rate=0.48
+global_step=886603, episodic_return=[-9.594423], success_rate=0.05
+SPS: 97
+global_step=887003, episodic_return=[-15.624292], success_rate=0.08
+global_step=887403, episodic_return=[43.72606], success_rate=0.45
+global_step=887803, episodic_return=[51.912544], success_rate=0.55
+global_step=888203, episodic_return=[-23.26049], success_rate=0.0
+global_step=888603, episodic_return=[64.446205], success_rate=0.59
+SPS: 97
+global_step=889003, episodic_return=[16.496296], success_rate=0.27
+global_step=889403, episodic_return=[56.066425], success_rate=0.56
+global_step=889803, episodic_return=[44.765224], success_rate=0.49
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=890088, episodic_return=[119.84935], success_rate=1.0
+global_step=890488, episodic_return=[63.514313], success_rate=0.62
+SPS: 97
+global_step=890888, episodic_return=[-24.733524], success_rate=0.0
+global_step=891010, episodic_return=[-3.6298628], success_rate=0.0
+global_step=891410, episodic_return=[89.843124], success_rate=0.83
+global_step=891810, episodic_return=[-13.119608], success_rate=0.11
+global_step=892210, episodic_return=[8.129067], success_rate=0.26
+global_step=892610, episodic_return=[-24.301012], success_rate=0.03
+SPS: 97
+global_step=893010, episodic_return=[-12.113124], success_rate=0.15
+global_step=893410, episodic_return=[-26.613892], success_rate=0.0
+global_step=893810, episodic_return=[25.582867], success_rate=0.39
+global_step=894210, episodic_return=[32.525276], success_rate=0.42
+global_step=894610, episodic_return=[-30.970568], success_rate=0.0
+SPS: 97
+global_step=895010, episodic_return=[-19.87725], success_rate=0.01
+global_step=895165, episodic_return=[-5.628655], success_rate=0.0
+global_step=895565, episodic_return=[-8.683496], success_rate=0.13
+global_step=895725, episodic_return=[70.37371], success_rate=0.56
+global_step=896125, episodic_return=[32.251373], success_rate=0.46
+global_step=896525, episodic_return=[64.87027], success_rate=0.68
+global_step=896925, episodic_return=[48.69078], success_rate=0.56
+SPS: 97
+global_step=897325, episodic_return=[-30.158058], success_rate=0.0
+global_step=897725, episodic_return=[-3.5516837], success_rate=0.18
+global_step=898125, episodic_return=[51.726646], success_rate=0.53
+global_step=898261, episodic_return=[30.256758], success_rate=0.28
+global_step=898406, episodic_return=[41.248497], success_rate=0.36
+global_step=898806, episodic_return=[93.99721], success_rate=0.85
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=898875, episodic_return=[126.56387], success_rate=1.0
+SPS: 97
+global_step=899275, episodic_return=[45.955856], success_rate=0.53
+global_step=899675, episodic_return=[22.143036], success_rate=0.34
+global_step=900075, episodic_return=[65.322464], success_rate=0.62
+global_step=900228, episodic_return=[-11.398701], success_rate=0.0
+global_step=900628, episodic_return=[67.30077], success_rate=0.66
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=900984, episodic_return=[114.397606], success_rate=1.0
+SPS: 97
+global_step=901384, episodic_return=[88.906296], success_rate=0.82
+global_step=901784, episodic_return=[80.97979], success_rate=0.79
+global_step=902184, episodic_return=[4.1685977], success_rate=0.3
+global_step=902584, episodic_return=[90.27549], success_rate=0.9
+global_step=902984, episodic_return=[55.299965], success_rate=0.56
+SPS: 97
+global_step=903320, episodic_return=[77.280815], success_rate=0.71
+global_step=903524, episodic_return=[47.235825], success_rate=0.42
+global_step=903674, episodic_return=[28.570189], success_rate=0.29
+global_step=904074, episodic_return=[110.9205], success_rate=0.99
+global_step=904224, episodic_return=[-4.0170474], success_rate=0.03
+global_step=904624, episodic_return=[-22.428303], success_rate=0.0
+global_step=905024, episodic_return=[72.149], success_rate=0.73
+SPS: 97
+global_step=905424, episodic_return=[94.413216], success_rate=0.84
+global_step=905593, episodic_return=[31.496878], success_rate=0.29
+global_step=905993, episodic_return=[24.46493], success_rate=0.37
+global_step=906393, episodic_return=[37.46375], success_rate=0.45
+global_step=906793, episodic_return=[-17.939545], success_rate=0.1
+global_step=907193, episodic_return=[25.209867], success_rate=0.34
+SPS: 97
+global_step=907500, episodic_return=[-20.983456], success_rate=0.0
+global_step=907900, episodic_return=[32.57858], success_rate=0.41
+global_step=908257, episodic_return=[65.37077], success_rate=0.63
+global_step=908657, episodic_return=[72.942604], success_rate=0.74
+global_step=908869, episodic_return=[-12.7706175], success_rate=0.0
+global_step=909030, episodic_return=[-7.726665], success_rate=0.0
+SPS: 97
+global_step=909430, episodic_return=[69.14115], success_rate=0.67
+global_step=909830, episodic_return=[81.35283], success_rate=0.84
+global_step=910230, episodic_return=[79.65661], success_rate=0.75
+global_step=910630, episodic_return=[89.56547], success_rate=0.84
+global_step=911030, episodic_return=[101.7477], success_rate=0.91
+SPS: 97
+global_step=911430, episodic_return=[7.8609815], success_rate=0.27
+global_step=911830, episodic_return=[-23.07584], success_rate=0.01
+global_step=912230, episodic_return=[58.35191], success_rate=0.66
+global_step=912630, episodic_return=[85.9715], success_rate=0.8
+global_step=913030, episodic_return=[-14.628198], success_rate=0.1
+SPS: 97
+global_step=913430, episodic_return=[36.95699], success_rate=0.48
+global_step=913830, episodic_return=[22.12148], success_rate=0.37
+global_step=914135, episodic_return=[40.372913], success_rate=0.46
+global_step=914535, episodic_return=[73.22766], success_rate=0.71
+global_step=914935, episodic_return=[-36.880188], success_rate=0.0
+global_step=914956, episodic_return=[-0.20244953], success_rate=0.0
+global_step=915356, episodic_return=[-35.902744], success_rate=0.0
+SPS: 96
+global_step=915756, episodic_return=[77.43316], success_rate=0.8
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=916148, episodic_return=[113.93931], success_rate=1.0
+global_step=916548, episodic_return=[63.62522], success_rate=0.68
+global_step=916926, episodic_return=[-23.665676], success_rate=0.0
+global_step=917326, episodic_return=[55.94274], success_rate=0.57
+SPS: 96
+global_step=917726, episodic_return=[104.17248], success_rate=0.99
+global_step=918126, episodic_return=[53.821342], success_rate=0.6
+global_step=918526, episodic_return=[80.242455], success_rate=0.76
+global_step=918926, episodic_return=[86.516556], success_rate=0.85
+global_step=919326, episodic_return=[67.268906], success_rate=0.7
+SPS: 96
+global_step=919726, episodic_return=[68.768364], success_rate=0.69
+global_step=920126, episodic_return=[48.11248], success_rate=0.54
+global_step=920526, episodic_return=[-6.108338], success_rate=0.2
+global_step=920926, episodic_return=[86.3989], success_rate=0.83
+global_step=921326, episodic_return=[-29.575226], success_rate=0.0
+SPS: 96
+global_step=921691, episodic_return=[64.66618], success_rate=0.67
+global_step=922091, episodic_return=[88.324936], success_rate=0.82
+global_step=922309, episodic_return=[-17.069519], success_rate=0.0
+global_step=922709, episodic_return=[81.31549], success_rate=0.78
+global_step=923109, episodic_return=[-25.480497], success_rate=0.0
+global_step=923509, episodic_return=[22.547283], success_rate=0.42
+SPS: 96
+global_step=923909, episodic_return=[78.65277], success_rate=0.82
+global_step=924182, episodic_return=[104.57763], success_rate=0.89
+global_step=924582, episodic_return=[-30.868553], success_rate=0.0
+global_step=924982, episodic_return=[-32.84957], success_rate=0.0
+global_step=925382, episodic_return=[105.07916], success_rate=0.99
+SPS: 96
+global_step=925782, episodic_return=[39.807056], success_rate=0.48
+global_step=926182, episodic_return=[81.36339], success_rate=0.75
+global_step=926582, episodic_return=[-30.634214], success_rate=0.0
+global_step=926982, episodic_return=[-36.096405], success_rate=0.0
+global_step=927239, episodic_return=[27.083702], success_rate=0.31
+global_step=927567, episodic_return=[57.741913], success_rate=0.64
+SPS: 96
+global_step=927808, episodic_return=[-15.2249], success_rate=0.03
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_21-27-20/ppo_continuous_action.cleanrl_model
+global_step=927999, episodic_return=[117.46253], success_rate=1.0
+global_step=928165, episodic_return=[28.772346], success_rate=0.31
+global_step=928565, episodic_return=[26.780819], success_rate=0.41
+global_step=928702, episodic_return=[68.57664], success_rate=0.58
+global_step=928720, episodic_return=[-0.1928632], success_rate=0.0
+global_step=929120, episodic_return=[77.2189], success_rate=0.71
+global_step=929409, episodic_return=[24.29565], success_rate=0.28
+global_step=929559, episodic_return=[76.39641], success_rate=0.61
+global_step=929702, episodic_return=[19.028828], success_rate=0.2
+SPS: 96
+Traceback (most recent call last):
+  File "ppo_continuous_action.py", line 280, in <module>
+    next_obs, reward, terminations, truncations, infos = envs.step(action.cpu().numpy())
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/vector/vector_env.py", line 203, in step
+    return self.step_wait()
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/vector/sync_vector_env.py", line 149, in step_wait
+    ) = env.step(action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/wrappers/normalize.py", line 133, in step
+    obs, rews, terminateds, truncateds, infos = self.env.step(action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/wrappers/normalize.py", line 76, in step
+    obs, rews, terminateds, truncateds, infos = self.env.step(action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/core.py", line 538, in step
+    return self.env.step(self.action(action))
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/wrappers/record_episode_statistics.py", line 89, in step
+    ) = self.env.step(action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/core.py", line 469, in step
+    observation, reward, terminated, truncated, info = self.env.step(action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/wrappers/gym_wrapper.py", line 118, in step
+    ob_dict, reward, terminated, info = self.env.step(action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/environments/base.py", line 401, in step
+    reward, done, info = self._post_action(action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/environments/manipulation/wipe.py", line 717, in _post_action
+    reward, done, info = super()._post_action(action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/environments/base.py", line 429, in _post_action
+    reward = self.reward(action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/environments/manipulation/wipe.py", line 335, in reward
+    if self.check_contact(self.robots[0].robot_model):
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/environments/base.py", line 577, in check_contact
+    return SU.check_contact(sim=self.sim, geoms_1=geoms_1, geoms_2=geoms_2)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/utils/sim_utils.py", line 36, in check_contact
+    c2_in_g1 = sim.model.geom_id2name(contact.geom2) in geoms_1
+KeyboardInterrupt
+global_step=930102, episodic_return=[-30.560709], success_rate=0.02

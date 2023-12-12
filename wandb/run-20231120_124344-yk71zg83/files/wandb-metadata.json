@@ -1,0 +1,127 @@
+{
+    "os": "Linux-6.2.0-36-generic-x86_64-with-glibc2.17",
+    "python": "3.8.18",
+    "heartbeatAt": "2023-11-20T19:43:45.791640",
+    "startedAt": "2023-11-20T19:43:44.546030",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--track",
+        "--env-id=Wipe",
+        "--total-timesteps=100000",
+        "--cuda",
+        "--num-envs=1",
+        "--target-kl=0.015",
+        "--num-steps=100"
+    ],
+    "state": "running",
+    "program": "ppo_continuous_action.py",
+    "codePath": "ppo_continuous_action.py",
+    "host": "FBI-Van",
+    "username": "abhinav",
+    "executable": "/home/abhinav/anaconda3/envs/RL-Env/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2915.176,
+        "min": 800.0,
+        "max": 4825.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2950.83,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 3500.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 3617.528,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 993.776,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2935.327,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 3386.806,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 3499.991,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 3465.838,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2682.104,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 3402.21,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 3500.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 3199.207,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 3221.453,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 3500.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 3500.0,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 955.409,
+            "min": 800.0,
+            "max": 4800.0
+        }
+    ],
+    "disk": {
+        "total": 952.8284187316895,
+        "used": 112.92982482910156
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 62.515506744384766
+    }
+}

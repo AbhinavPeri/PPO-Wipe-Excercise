@@ -1,0 +1,34 @@
+/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/spaces/box.py:130: UserWarning: [33mWARN: Box bound precision lowered by casting to float32
+  gym.logger.warn(f"Box bound precision lowered by casting to {self.dtype}")
+model saved to runs/Wipe__OSC_POSITION, Bigger Replay Buffer, LR=3e-4, No Observation Transform, Smaller Network, More Epochs__1__2023-11-22_11-57-23/OSC_POSITION, Bigger Replay Buffer, LR=3e-4, No Observation Transform, Smaller Network, More Epochs.cleanrl_model
+global_step=249, episodic_return=[2.3283012], success_rate=0.0
+model saved to runs/Wipe__OSC_POSITION, Bigger Replay Buffer, LR=3e-4, No Observation Transform, Smaller Network, More Epochs__1__2023-11-22_11-57-23/OSC_POSITION, Bigger Replay Buffer, LR=3e-4, No Observation Transform, Smaller Network, More Epochs.cleanrl_model
+global_step=649, episodic_return=[1.8020449], success_rate=0.0
+Traceback (most recent call last):
+  File "ppo_continuous_action.py", line 285, in <module>
+    next_obs, reward, terminations, truncations, infos = envs.step(action.cpu().numpy())
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/vector/vector_env.py", line 203, in step
+    return self.step_wait()
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/vector/sync_vector_env.py", line 149, in step_wait
+    ) = env.step(action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/core.py", line 502, in step
+    observation, reward, terminated, truncated, info = self.env.step(action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/wrappers/normalize.py", line 133, in step
+    obs, rews, terminateds, truncateds, infos = self.env.step(action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/core.py", line 538, in step
+    return self.env.step(self.action(action))
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/wrappers/record_episode_statistics.py", line 89, in step
+    ) = self.env.step(action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/core.py", line 469, in step
+    observation, reward, terminated, truncated, info = self.env.step(action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/wrappers/gym_wrapper.py", line 118, in step
+    ob_dict, reward, terminated, info = self.env.step(action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/environments/base.py", line 393, in step
+    self._pre_action(action, policy_step)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/environments/robot_env.py", line 583, in _pre_action
+    robot.control(robot_action, policy_step=policy_step)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/robots/single_arm.py", line 258, in control
+    self.grip_action(gripper=self.gripper, gripper_action=gripper_action)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/robots/manipulator.py", line 28, in grip_action
+    bias = 0.5 * (ctrl_range[:, 1] + ctrl_range[:, 0])
+KeyboardInterrupt

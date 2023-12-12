@@ -1,0 +1,71 @@
+/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/spaces/box.py:130: UserWarning: [33mWARN: Box bound precision lowered by casting to float32
+  gym.logger.warn(f"Box bound precision lowered by casting to {self.dtype}")
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=200, episodic_return=[1.586943], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=400, episodic_return=[1.4395721], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=600, episodic_return=[0.5879627], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=800, episodic_return=[0.99018466], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=1000, episodic_return=[0.5715263], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=1170, episodic_return=[1.1478602], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=1370, episodic_return=[0.71887696], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=1570, episodic_return=[0.5003727], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=1770, episodic_return=[1.5393579], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=1970, episodic_return=[1.5635923], success_rate=0.0
+SPS: 93
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=2170, episodic_return=[1.0907506], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=2370, episodic_return=[0.7105226], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=2570, episodic_return=[2.5527363], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=2753, episodic_return=[0.5462679], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=2953, episodic_return=[0.94424975], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=3153, episodic_return=[0.5072225], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=3353, episodic_return=[2.0724366], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__2023-11-20_16-11-56/ppo_continuous_action.cleanrl_model
+global_step=3553, episodic_return=[0.49026123], success_rate=0.0
+Traceback (most recent call last):
+  File "ppo_continuous_action.py", line 280, in <module>
+    next_obs, reward, terminations, truncations, infos = envs.step(action.cpu().numpy())
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/vector/vector_env.py", line 203, in step
+    return self.step_wait()
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/vector/sync_vector_env.py", line 153, in step_wait
+    observation, info = env.reset()
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/core.py", line 414, in reset
+    return self.env.reset(seed=seed, options=options)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/core.py", line 414, in reset
+    return self.env.reset(seed=seed, options=options)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/core.py", line 462, in reset
+    obs, info = self.env.reset(seed=seed, options=options)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/wrappers/normalize.py", line 85, in reset
+    obs, info = self.env.reset(**kwargs)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/core.py", line 414, in reset
+    return self.env.reset(seed=seed, options=options)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/wrappers/record_episode_statistics.py", line 73, in reset
+    obs, info = super().reset(**kwargs)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/core.py", line 414, in reset
+    return self.env.reset(seed=seed, options=options)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/core.py", line 462, in reset
+    obs, info = self.env.reset(seed=seed, options=options)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/wrappers/gym_wrapper.py", line 99, in reset
+    ob_dict = self.env.reset()
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/environments/base.py", line 252, in reset
+    self._initialize_sim()
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/environments/base.py", line 230, in _initialize_sim
+    self.sim = MjSim.from_xml_string(xml)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/robosuite-1.4.1-py3.8.egg/robosuite/utils/binding_utils.py", line 1072, in from_xml_string
+    model = mujoco.MjModel.from_xml_string(xml)
+KeyboardInterrupt

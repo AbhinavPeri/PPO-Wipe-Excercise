@@ -1,0 +1,555 @@
+/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/spaces/box.py:130: UserWarning: [33mWARN: Box bound precision lowered by casting to float32
+  gym.logger.warn(f"Box bound precision lowered by casting to {self.dtype}")
+global_step=200, episodic_return=[1.586943], success_rate=0.0
+global_step=400, episodic_return=[1.4395721], success_rate=0.0
+global_step=600, episodic_return=[0.5879627], success_rate=0.0
+global_step=800, episodic_return=[0.99018466], success_rate=0.0
+global_step=1000, episodic_return=[0.5715263], success_rate=0.0
+global_step=1170, episodic_return=[1.1478602], success_rate=0.0
+global_step=1370, episodic_return=[0.71887696], success_rate=0.0
+global_step=1570, episodic_return=[0.5003727], success_rate=0.0
+global_step=1770, episodic_return=[1.5393579], success_rate=0.0
+global_step=1970, episodic_return=[1.5635923], success_rate=0.0
+SPS: 77
+global_step=2170, episodic_return=[1.0907506], success_rate=0.0
+global_step=2370, episodic_return=[0.7105226], success_rate=0.0
+global_step=2570, episodic_return=[2.5527363], success_rate=0.0
+global_step=2753, episodic_return=[0.5462679], success_rate=0.0
+global_step=2953, episodic_return=[0.94424975], success_rate=0.0
+global_step=3153, episodic_return=[0.5072225], success_rate=0.0
+global_step=3353, episodic_return=[2.0724366], success_rate=0.0
+global_step=3553, episodic_return=[0.49026123], success_rate=0.0
+global_step=3753, episodic_return=[-0.6309941], success_rate=0.0
+global_step=3861, episodic_return=[0.18282036], success_rate=0.0
+global_step=4061, episodic_return=[0.82072866], success_rate=0.0
+KL Divergence (0.01577422022819519) exceeded threshold (0.015). Early stopping.
+SPS: 78
+global_step=4261, episodic_return=[1.1129982], success_rate=0.0
+global_step=4461, episodic_return=[1.2503399], success_rate=0.0
+global_step=4661, episodic_return=[0.6364835], success_rate=0.0
+global_step=4861, episodic_return=[0.66073376], success_rate=0.0
+global_step=5061, episodic_return=[1.2587974], success_rate=0.0
+global_step=5261, episodic_return=[1.2651753], success_rate=0.0
+global_step=5461, episodic_return=[0.7220582], success_rate=0.0
+global_step=5661, episodic_return=[0.8978838], success_rate=0.0
+global_step=5861, episodic_return=[1.6105869], success_rate=0.0
+global_step=6061, episodic_return=[2.4183638], success_rate=0.0
+KL Divergence (0.01624397560954094) exceeded threshold (0.015). Early stopping.
+SPS: 79
+global_step=6261, episodic_return=[2.0138745], success_rate=0.0
+global_step=6461, episodic_return=[1.5757357], success_rate=0.0
+global_step=6661, episodic_return=[2.4823923], success_rate=0.0
+global_step=6861, episodic_return=[0.7881144], success_rate=0.0
+global_step=7061, episodic_return=[3.2489429], success_rate=0.0
+global_step=7261, episodic_return=[0.5159559], success_rate=0.0
+global_step=7461, episodic_return=[1.9516743], success_rate=0.0
+global_step=7661, episodic_return=[2.3085768], success_rate=0.0
+global_step=7861, episodic_return=[1.6123128], success_rate=0.0
+global_step=8061, episodic_return=[1.4752808], success_rate=0.0
+KL Divergence (0.016870182007551193) exceeded threshold (0.015). Early stopping.
+SPS: 80
+global_step=8261, episodic_return=[2.7835119], success_rate=0.0
+global_step=8461, episodic_return=[0.77505696], success_rate=0.0
+global_step=8661, episodic_return=[1.0758315], success_rate=0.0
+global_step=8861, episodic_return=[1.7479525], success_rate=0.0
+global_step=9061, episodic_return=[2.5216336], success_rate=0.0
+global_step=9261, episodic_return=[1.9427035], success_rate=0.0
+global_step=9461, episodic_return=[1.4732027], success_rate=0.0
+global_step=9661, episodic_return=[2.3297], success_rate=0.0
+global_step=9861, episodic_return=[1.5245086], success_rate=0.0
+global_step=10061, episodic_return=[1.4083623], success_rate=0.0
+KL Divergence (0.015698280185461044) exceeded threshold (0.015). Early stopping.
+SPS: 79
+global_step=10261, episodic_return=[1.9023967], success_rate=0.0
+global_step=10461, episodic_return=[1.8253124], success_rate=0.0
+global_step=10661, episodic_return=[3.1874974], success_rate=0.0
+global_step=10861, episodic_return=[2.78586], success_rate=0.0
+global_step=11061, episodic_return=[3.4862907], success_rate=0.0
+global_step=11261, episodic_return=[0.97188544], success_rate=0.0
+global_step=11461, episodic_return=[3.5412788], success_rate=0.0
+global_step=11661, episodic_return=[2.7152953], success_rate=0.0
+global_step=11861, episodic_return=[3.6818967], success_rate=0.0
+global_step=12061, episodic_return=[4.9326363], success_rate=0.0
+global_step=12261, episodic_return=[3.2564034], success_rate=0.0
+KL Divergence (0.018982132896780968) exceeded threshold (0.015). Early stopping.
+SPS: 78
+global_step=12461, episodic_return=[6.2364388], success_rate=0.0
+global_step=12661, episodic_return=[3.9943619], success_rate=0.0
+global_step=12861, episodic_return=[1.8336526], success_rate=0.0
+global_step=13061, episodic_return=[1.2802964], success_rate=0.0
+global_step=13261, episodic_return=[1.9482826], success_rate=0.0
+global_step=13461, episodic_return=[1.4661452], success_rate=0.0
+global_step=13661, episodic_return=[1.3658744], success_rate=0.0
+global_step=13861, episodic_return=[2.8743577], success_rate=0.0
+global_step=14061, episodic_return=[2.043299], success_rate=0.0
+global_step=14261, episodic_return=[2.7294765], success_rate=0.0
+KL Divergence (0.015199486166238785) exceeded threshold (0.015). Early stopping.
+SPS: 79
+global_step=14461, episodic_return=[1.9271353], success_rate=0.0
+global_step=14661, episodic_return=[5.296472], success_rate=0.0
+global_step=14861, episodic_return=[0.87484384], success_rate=0.0
+global_step=15061, episodic_return=[3.4852371], success_rate=0.0
+global_step=15261, episodic_return=[3.725565], success_rate=0.0
+global_step=15461, episodic_return=[1.2329253], success_rate=0.0
+global_step=15661, episodic_return=[3.2421908], success_rate=0.0
+global_step=15861, episodic_return=[1.8136177], success_rate=0.0
+global_step=16061, episodic_return=[1.2212299], success_rate=0.0
+global_step=16261, episodic_return=[2.4020813], success_rate=0.0
+KL Divergence (0.015817876905202866) exceeded threshold (0.015). Early stopping.
+SPS: 80
+global_step=16461, episodic_return=[1.5053198], success_rate=0.0
+global_step=16661, episodic_return=[3.2183957], success_rate=0.0
+global_step=16861, episodic_return=[4.008658], success_rate=0.0
+global_step=17061, episodic_return=[1.2698846], success_rate=0.0
+global_step=17261, episodic_return=[1.3492273], success_rate=0.0
+global_step=17461, episodic_return=[2.000311], success_rate=0.0
+global_step=17661, episodic_return=[1.5501711], success_rate=0.0
+global_step=17861, episodic_return=[1.0759685], success_rate=0.0
+global_step=18061, episodic_return=[1.4043707], success_rate=0.0
+global_step=18261, episodic_return=[1.1057291], success_rate=0.0
+SPS: 81
+global_step=18461, episodic_return=[6.075228], success_rate=0.0
+global_step=18661, episodic_return=[5.1299434], success_rate=0.0
+global_step=18861, episodic_return=[1.9216465], success_rate=0.0
+global_step=19061, episodic_return=[3.022025], success_rate=0.0
+global_step=19261, episodic_return=[1.216361], success_rate=0.0
+global_step=19461, episodic_return=[5.3303156], success_rate=0.0
+global_step=19661, episodic_return=[2.4552875], success_rate=0.0
+global_step=19861, episodic_return=[4.8227205], success_rate=0.0
+global_step=20061, episodic_return=[1.4031745], success_rate=0.0
+global_step=20261, episodic_return=[2.1633499], success_rate=0.0
+global_step=20461, episodic_return=[1.476387], success_rate=0.0
+KL Divergence (0.01854676753282547) exceeded threshold (0.015). Early stopping.
+SPS: 82
+global_step=20661, episodic_return=[4.629465], success_rate=0.0
+global_step=20861, episodic_return=[3.5140185], success_rate=0.0
+global_step=21061, episodic_return=[2.6747427], success_rate=0.0
+global_step=21261, episodic_return=[2.2664406], success_rate=0.0
+global_step=21461, episodic_return=[1.2845758], success_rate=0.0
+global_step=21661, episodic_return=[2.2908084], success_rate=0.0
+global_step=21861, episodic_return=[2.4450898], success_rate=0.0
+global_step=22061, episodic_return=[3.8861616], success_rate=0.0
+global_step=22261, episodic_return=[3.2712224], success_rate=0.0
+global_step=22461, episodic_return=[1.1270856], success_rate=0.0
+KL Divergence (0.016232416033744812) exceeded threshold (0.015). Early stopping.
+SPS: 82
+global_step=22661, episodic_return=[4.508185], success_rate=0.0
+global_step=22861, episodic_return=[2.7237213], success_rate=0.0
+global_step=23061, episodic_return=[3.314552], success_rate=0.0
+global_step=23261, episodic_return=[2.8105528], success_rate=0.0
+global_step=23461, episodic_return=[1.9464716], success_rate=0.0
+global_step=23661, episodic_return=[0.78542185], success_rate=0.0
+global_step=23861, episodic_return=[3.7221508], success_rate=0.0
+global_step=24061, episodic_return=[3.8911726], success_rate=0.0
+global_step=24261, episodic_return=[0.9294251], success_rate=0.0
+global_step=24461, episodic_return=[1.3792804], success_rate=0.0
+KL Divergence (0.015832673758268356) exceeded threshold (0.015). Early stopping.
+SPS: 83
+global_step=24661, episodic_return=[2.9409616], success_rate=0.0
+global_step=24861, episodic_return=[6.383886], success_rate=0.0
+global_step=25061, episodic_return=[5.109723], success_rate=0.0
+global_step=25261, episodic_return=[4.1624455], success_rate=0.0
+global_step=25461, episodic_return=[2.7082207], success_rate=0.0
+global_step=25661, episodic_return=[4.9527383], success_rate=0.0
+global_step=25861, episodic_return=[5.6035986], success_rate=0.0
+global_step=26061, episodic_return=[6.385204], success_rate=0.0
+global_step=26261, episodic_return=[1.232059], success_rate=0.0
+global_step=26461, episodic_return=[5.2083497], success_rate=0.0
+SPS: 83
+global_step=26661, episodic_return=[4.4830203], success_rate=0.0
+global_step=26861, episodic_return=[6.4354978], success_rate=0.0
+global_step=27061, episodic_return=[5.0659695], success_rate=0.0
+global_step=27261, episodic_return=[1.2679185], success_rate=0.0
+global_step=27461, episodic_return=[0.97627634], success_rate=0.0
+global_step=27661, episodic_return=[6.034973], success_rate=0.0
+global_step=27861, episodic_return=[1.1816272], success_rate=0.0
+global_step=28061, episodic_return=[2.2410383], success_rate=0.0
+global_step=28261, episodic_return=[3.555647], success_rate=0.0
+global_step=28461, episodic_return=[3.5407941], success_rate=0.0
+global_step=28661, episodic_return=[5.1108413], success_rate=0.0
+SPS: 83
+global_step=28861, episodic_return=[1.1919945], success_rate=0.0
+global_step=29061, episodic_return=[4.003604], success_rate=0.0
+global_step=29261, episodic_return=[4.429365], success_rate=0.0
+global_step=29461, episodic_return=[2.3470457], success_rate=0.0
+global_step=29661, episodic_return=[1.7130336], success_rate=0.0
+global_step=29861, episodic_return=[2.420285], success_rate=0.0
+global_step=30061, episodic_return=[1.3349425], success_rate=0.0
+global_step=30261, episodic_return=[1.0935009], success_rate=0.0
+global_step=30461, episodic_return=[2.2544184], success_rate=0.0
+global_step=30661, episodic_return=[1.4040765], success_rate=0.0
+SPS: 83
+global_step=30861, episodic_return=[2.731949], success_rate=0.0
+global_step=31061, episodic_return=[5.570493], success_rate=0.0
+global_step=31261, episodic_return=[4.801474], success_rate=0.0
+global_step=31461, episodic_return=[3.9943924], success_rate=0.0
+global_step=31661, episodic_return=[2.289242], success_rate=0.0
+global_step=31861, episodic_return=[2.3950133], success_rate=0.0
+global_step=32061, episodic_return=[4.583083], success_rate=0.0
+global_step=32261, episodic_return=[2.2030063], success_rate=0.0
+global_step=32461, episodic_return=[3.7356482], success_rate=0.0
+global_step=32661, episodic_return=[3.1976051], success_rate=0.0
+SPS: 83
+global_step=32861, episodic_return=[3.3975356], success_rate=0.0
+global_step=33061, episodic_return=[4.310092], success_rate=0.0
+global_step=33261, episodic_return=[5.521057], success_rate=0.0
+global_step=33461, episodic_return=[4.3140965], success_rate=0.0
+global_step=33661, episodic_return=[2.9063728], success_rate=0.0
+global_step=33861, episodic_return=[5.653501], success_rate=0.0
+global_step=34061, episodic_return=[0.8323371], success_rate=0.0
+global_step=34261, episodic_return=[4.5534496], success_rate=0.0
+global_step=34461, episodic_return=[6.1701937], success_rate=0.0
+global_step=34661, episodic_return=[3.7107112], success_rate=0.0
+SPS: 83
+global_step=34861, episodic_return=[4.5920706], success_rate=0.0
+global_step=35061, episodic_return=[2.4577074], success_rate=0.0
+global_step=35261, episodic_return=[1.4503361], success_rate=0.0
+global_step=35461, episodic_return=[1.8463348], success_rate=0.0
+global_step=35661, episodic_return=[4.712277], success_rate=0.0
+global_step=35861, episodic_return=[2.6356819], success_rate=0.0
+global_step=36061, episodic_return=[4.5363235], success_rate=0.0
+global_step=36261, episodic_return=[6.73229], success_rate=0.0
+global_step=36461, episodic_return=[2.1912737], success_rate=0.0
+global_step=36661, episodic_return=[5.6266], success_rate=0.0
+global_step=36861, episodic_return=[2.1648693], success_rate=0.0
+SPS: 83
+global_step=37061, episodic_return=[2.0734124], success_rate=0.0
+global_step=37261, episodic_return=[4.289795], success_rate=0.0
+global_step=37461, episodic_return=[4.29795], success_rate=0.0
+global_step=37661, episodic_return=[2.4960146], success_rate=0.0
+global_step=37861, episodic_return=[3.6454508], success_rate=0.0
+global_step=38061, episodic_return=[3.6756854], success_rate=0.0
+global_step=38261, episodic_return=[5.5268917], success_rate=0.0
+global_step=38461, episodic_return=[4.5910263], success_rate=0.0
+global_step=38661, episodic_return=[3.8179657], success_rate=0.0
+global_step=38861, episodic_return=[4.029981], success_rate=0.0
+SPS: 83
+global_step=39061, episodic_return=[1.6234179], success_rate=0.0
+global_step=39261, episodic_return=[3.7860243], success_rate=0.0
+global_step=39461, episodic_return=[5.136331], success_rate=0.0
+global_step=39661, episodic_return=[1.3923181], success_rate=0.0
+global_step=39861, episodic_return=[2.7501009], success_rate=0.0
+global_step=40061, episodic_return=[5.068289], success_rate=0.0
+global_step=40261, episodic_return=[1.4259144], success_rate=0.0
+global_step=40461, episodic_return=[5.7133074], success_rate=0.0
+global_step=40661, episodic_return=[5.2449865], success_rate=0.0
+global_step=40861, episodic_return=[5.8727937], success_rate=0.0
+SPS: 84
+global_step=41061, episodic_return=[6.712601], success_rate=0.0
+global_step=41261, episodic_return=[3.3238394], success_rate=0.0
+global_step=41461, episodic_return=[3.4711726], success_rate=0.0
+global_step=41661, episodic_return=[2.2060096], success_rate=0.0
+global_step=41861, episodic_return=[4.169228], success_rate=0.0
+global_step=42061, episodic_return=[5.5260606], success_rate=0.0
+global_step=42261, episodic_return=[3.5612245], success_rate=0.0
+global_step=42461, episodic_return=[3.8491163], success_rate=0.0
+global_step=42661, episodic_return=[6.0566087], success_rate=0.0
+global_step=42861, episodic_return=[3.1477041], success_rate=0.0
+SPS: 84
+global_step=43061, episodic_return=[3.336269], success_rate=0.0
+global_step=43261, episodic_return=[4.962643], success_rate=0.0
+global_step=43461, episodic_return=[1.9892093], success_rate=0.0
+global_step=43661, episodic_return=[4.0509], success_rate=0.0
+global_step=43861, episodic_return=[3.8763342], success_rate=0.0
+global_step=44061, episodic_return=[5.884536], success_rate=0.0
+global_step=44261, episodic_return=[1.8802277], success_rate=0.0
+global_step=44461, episodic_return=[4.784875], success_rate=0.0
+global_step=44661, episodic_return=[4.323669], success_rate=0.0
+global_step=44861, episodic_return=[1.738625], success_rate=0.0
+SPS: 85
+global_step=45061, episodic_return=[4.974547], success_rate=0.0
+global_step=45261, episodic_return=[1.5949878], success_rate=0.0
+global_step=45461, episodic_return=[2.7444253], success_rate=0.0
+global_step=45661, episodic_return=[4.278027], success_rate=0.0
+global_step=45861, episodic_return=[3.403697], success_rate=0.0
+global_step=46061, episodic_return=[6.09524], success_rate=0.0
+global_step=46261, episodic_return=[5.507165], success_rate=0.0
+global_step=46461, episodic_return=[3.203661], success_rate=0.0
+global_step=46661, episodic_return=[4.295364], success_rate=0.0
+global_step=46861, episodic_return=[1.5780137], success_rate=0.0
+global_step=47061, episodic_return=[1.6317387], success_rate=0.0
+SPS: 85
+global_step=47261, episodic_return=[2.3816113], success_rate=0.0
+global_step=47461, episodic_return=[6.7834654], success_rate=0.0
+global_step=47661, episodic_return=[3.3666997], success_rate=0.0
+global_step=47861, episodic_return=[2.2089453], success_rate=0.0
+global_step=48061, episodic_return=[4.9079432], success_rate=0.0
+global_step=48261, episodic_return=[5.5492973], success_rate=0.0
+global_step=48461, episodic_return=[2.8989072], success_rate=0.0
+global_step=48661, episodic_return=[6.767955], success_rate=0.0
+global_step=48861, episodic_return=[5.1765223], success_rate=0.0
+global_step=49061, episodic_return=[1.6529611], success_rate=0.0
+SPS: 85
+global_step=49261, episodic_return=[3.1517484], success_rate=0.0
+global_step=49461, episodic_return=[5.863795], success_rate=0.0
+global_step=49661, episodic_return=[2.2233534], success_rate=0.0
+global_step=49861, episodic_return=[6.041249], success_rate=0.0
+global_step=50061, episodic_return=[1.9188949], success_rate=0.0
+global_step=50261, episodic_return=[2.313634], success_rate=0.0
+global_step=50461, episodic_return=[3.6586082], success_rate=0.0
+global_step=50661, episodic_return=[5.761711], success_rate=0.0
+global_step=50861, episodic_return=[1.8429399], success_rate=0.0
+global_step=51061, episodic_return=[2.5133958], success_rate=0.0
+SPS: 86
+global_step=51261, episodic_return=[3.741579], success_rate=0.0
+global_step=51461, episodic_return=[5.5484776], success_rate=0.0
+global_step=51661, episodic_return=[4.6640587], success_rate=0.0
+global_step=51861, episodic_return=[2.5619833], success_rate=0.0
+global_step=52061, episodic_return=[6.3489017], success_rate=0.0
+global_step=52261, episodic_return=[1.6608346], success_rate=0.0
+global_step=52461, episodic_return=[3.5385685], success_rate=0.0
+global_step=52661, episodic_return=[4.154534], success_rate=0.0
+global_step=52861, episodic_return=[5.3561993], success_rate=0.0
+global_step=53061, episodic_return=[2.821607], success_rate=0.0
+SPS: 86
+global_step=53261, episodic_return=[3.5955467], success_rate=0.0
+global_step=53461, episodic_return=[4.2863665], success_rate=0.0
+global_step=53661, episodic_return=[3.1587086], success_rate=0.0
+global_step=53861, episodic_return=[1.5949672], success_rate=0.0
+global_step=54061, episodic_return=[3.134709], success_rate=0.0
+global_step=54261, episodic_return=[5.029117], success_rate=0.0
+global_step=54461, episodic_return=[2.8684454], success_rate=0.0
+global_step=54661, episodic_return=[3.0845156], success_rate=0.0
+global_step=54861, episodic_return=[5.819047], success_rate=0.0
+global_step=55061, episodic_return=[7.082238], success_rate=0.0
+global_step=55261, episodic_return=[1.7517422], success_rate=0.0
+SPS: 87
+global_step=55461, episodic_return=[6.960093], success_rate=0.0
+global_step=55661, episodic_return=[2.9822218], success_rate=0.0
+global_step=55861, episodic_return=[2.101163], success_rate=0.0
+global_step=56061, episodic_return=[4.923796], success_rate=0.0
+global_step=56261, episodic_return=[1.2284867], success_rate=0.0
+global_step=56461, episodic_return=[4.5015225], success_rate=0.0
+global_step=56661, episodic_return=[4.74965], success_rate=0.0
+global_step=56861, episodic_return=[4.4392843], success_rate=0.0
+global_step=57061, episodic_return=[5.3384624], success_rate=0.0
+global_step=57261, episodic_return=[3.2470725], success_rate=0.0
+SPS: 87
+global_step=57461, episodic_return=[5.029396], success_rate=0.0
+global_step=57661, episodic_return=[1.2835418], success_rate=0.0
+global_step=57861, episodic_return=[5.390637], success_rate=0.0
+global_step=58061, episodic_return=[2.6649117], success_rate=0.0
+global_step=58261, episodic_return=[6.2749963], success_rate=0.0
+global_step=58461, episodic_return=[1.9146752], success_rate=0.0
+global_step=58661, episodic_return=[4.936818], success_rate=0.0
+global_step=58861, episodic_return=[5.629152], success_rate=0.0
+global_step=59061, episodic_return=[2.744088], success_rate=0.0
+global_step=59261, episodic_return=[2.969996], success_rate=0.0
+SPS: 87
+global_step=59461, episodic_return=[1.9325169], success_rate=0.0
+global_step=59661, episodic_return=[2.695912], success_rate=0.0
+global_step=59861, episodic_return=[3.9609926], success_rate=0.0
+global_step=60061, episodic_return=[6.0303965], success_rate=0.0
+global_step=60261, episodic_return=[2.3740246], success_rate=0.0
+global_step=60461, episodic_return=[2.3849022], success_rate=0.0
+global_step=60661, episodic_return=[2.9194052], success_rate=0.0
+global_step=60861, episodic_return=[4.6599307], success_rate=0.0
+global_step=61061, episodic_return=[6.3232107], success_rate=0.0
+global_step=61261, episodic_return=[6.195007], success_rate=0.0
+SPS: 88
+global_step=61461, episodic_return=[1.7193276], success_rate=0.0
+global_step=61661, episodic_return=[4.514631], success_rate=0.0
+global_step=61861, episodic_return=[4.064423], success_rate=0.0
+global_step=62061, episodic_return=[3.929116], success_rate=0.0
+global_step=62261, episodic_return=[2.7408879], success_rate=0.0
+global_step=62461, episodic_return=[2.3420804], success_rate=0.0
+global_step=62661, episodic_return=[2.1073654], success_rate=0.0
+global_step=62861, episodic_return=[3.750148], success_rate=0.0
+global_step=63061, episodic_return=[1.6931682], success_rate=0.0
+global_step=63261, episodic_return=[3.6989276], success_rate=0.0
+global_step=63461, episodic_return=[3.9051032], success_rate=0.0
+KL Divergence (0.01520747784525156) exceeded threshold (0.015). Early stopping.
+SPS: 88
+global_step=63661, episodic_return=[5.2598014], success_rate=0.0
+global_step=63861, episodic_return=[2.4605098], success_rate=0.0
+global_step=64061, episodic_return=[4.694276], success_rate=0.0
+global_step=64261, episodic_return=[7.459368], success_rate=0.0
+global_step=64461, episodic_return=[1.1644908], success_rate=0.0
+global_step=64661, episodic_return=[1.7208123], success_rate=0.0
+global_step=64861, episodic_return=[2.7870271], success_rate=0.0
+global_step=65061, episodic_return=[1.8119211], success_rate=0.0
+global_step=65261, episodic_return=[2.7453194], success_rate=0.0
+global_step=65461, episodic_return=[2.5658166], success_rate=0.0
+SPS: 88
+global_step=65661, episodic_return=[4.971167], success_rate=0.0
+global_step=65861, episodic_return=[2.0839345], success_rate=0.0
+global_step=66061, episodic_return=[3.6693892], success_rate=0.0
+global_step=66261, episodic_return=[5.033294], success_rate=0.0
+global_step=66461, episodic_return=[5.82012], success_rate=0.0
+global_step=66661, episodic_return=[6.4951954], success_rate=0.0
+global_step=66861, episodic_return=[4.7384653], success_rate=0.0
+global_step=67061, episodic_return=[3.1519432], success_rate=0.0
+global_step=67261, episodic_return=[4.2764387], success_rate=0.0
+global_step=67461, episodic_return=[2.0126917], success_rate=0.0
+SPS: 88
+global_step=67661, episodic_return=[4.916841], success_rate=0.0
+global_step=67861, episodic_return=[4.843407], success_rate=0.0
+global_step=68061, episodic_return=[1.7127389], success_rate=0.0
+global_step=68261, episodic_return=[1.4480956], success_rate=0.0
+global_step=68461, episodic_return=[4.7704277], success_rate=0.0
+global_step=68661, episodic_return=[5.4071765], success_rate=0.0
+global_step=68861, episodic_return=[1.9467207], success_rate=0.0
+global_step=69061, episodic_return=[4.734248], success_rate=0.0
+global_step=69261, episodic_return=[1.6107755], success_rate=0.0
+global_step=69461, episodic_return=[6.187787], success_rate=0.0
+SPS: 89
+global_step=69661, episodic_return=[7.1931467], success_rate=0.0
+global_step=69861, episodic_return=[2.8896604], success_rate=0.0
+global_step=70061, episodic_return=[8.446166], success_rate=0.0
+global_step=70261, episodic_return=[4.212704], success_rate=0.0
+global_step=70461, episodic_return=[5.361238], success_rate=0.0
+global_step=70661, episodic_return=[2.183965], success_rate=0.0
+global_step=70861, episodic_return=[6.1399326], success_rate=0.0
+global_step=71061, episodic_return=[4.308668], success_rate=0.0
+global_step=71261, episodic_return=[7.5862184], success_rate=0.0
+global_step=71461, episodic_return=[1.6166073], success_rate=0.0
+global_step=71661, episodic_return=[7.372376], success_rate=0.0
+SPS: 89
+global_step=71861, episodic_return=[5.2580986], success_rate=0.0
+global_step=72061, episodic_return=[6.985652], success_rate=0.0
+global_step=72261, episodic_return=[5.1981463], success_rate=0.0
+global_step=72461, episodic_return=[5.559945], success_rate=0.0
+global_step=72661, episodic_return=[4.558338], success_rate=0.0
+global_step=72861, episodic_return=[3.2572749], success_rate=0.0
+global_step=73061, episodic_return=[5.0629306], success_rate=0.0
+global_step=73261, episodic_return=[2.5863883], success_rate=0.0
+global_step=73461, episodic_return=[2.9853668], success_rate=0.0
+global_step=73661, episodic_return=[2.1234822], success_rate=0.0
+SPS: 89
+global_step=73861, episodic_return=[3.8721802], success_rate=0.0
+global_step=74061, episodic_return=[7.379921], success_rate=0.0
+global_step=74261, episodic_return=[3.8538725], success_rate=0.0
+global_step=74461, episodic_return=[2.6804335], success_rate=0.0
+global_step=74661, episodic_return=[6.2431355], success_rate=0.0
+global_step=74861, episodic_return=[4.165997], success_rate=0.0
+global_step=75061, episodic_return=[2.8226259], success_rate=0.0
+global_step=75261, episodic_return=[1.6396103], success_rate=0.0
+global_step=75461, episodic_return=[5.48379], success_rate=0.0
+global_step=75661, episodic_return=[3.8362687], success_rate=0.0
+SPS: 89
+global_step=75861, episodic_return=[3.6620824], success_rate=0.0
+global_step=76061, episodic_return=[4.9370995], success_rate=0.0
+global_step=76261, episodic_return=[3.0145016], success_rate=0.0
+global_step=76461, episodic_return=[3.5393395], success_rate=0.0
+global_step=76661, episodic_return=[6.8095727], success_rate=0.0
+global_step=76861, episodic_return=[4.749622], success_rate=0.0
+global_step=77061, episodic_return=[7.0696964], success_rate=0.0
+global_step=77261, episodic_return=[6.664736], success_rate=0.0
+global_step=77461, episodic_return=[1.8047357], success_rate=0.0
+global_step=77661, episodic_return=[3.4736712], success_rate=0.0
+SPS: 89
+global_step=77861, episodic_return=[3.088288], success_rate=0.0
+global_step=78061, episodic_return=[3.2996056], success_rate=0.0
+global_step=78261, episodic_return=[2.34667], success_rate=0.0
+global_step=78461, episodic_return=[3.2590392], success_rate=0.0
+global_step=78661, episodic_return=[6.86063], success_rate=0.0
+global_step=78861, episodic_return=[6.9559593], success_rate=0.0
+global_step=79061, episodic_return=[4.3743124], success_rate=0.0
+global_step=79261, episodic_return=[3.8715343], success_rate=0.0
+global_step=79461, episodic_return=[5.154896], success_rate=0.0
+global_step=79661, episodic_return=[4.847667], success_rate=0.0
+global_step=79861, episodic_return=[2.2435985], success_rate=0.0
+SPS: 90
+global_step=80061, episodic_return=[1.4072978], success_rate=0.0
+global_step=80261, episodic_return=[3.4356017], success_rate=0.0
+global_step=80461, episodic_return=[4.8598876], success_rate=0.0
+global_step=80661, episodic_return=[6.063518], success_rate=0.0
+global_step=80861, episodic_return=[2.3040712], success_rate=0.0
+global_step=81061, episodic_return=[1.6250656], success_rate=0.0
+global_step=81261, episodic_return=[6.009193], success_rate=0.0
+global_step=81461, episodic_return=[8.041523], success_rate=0.0
+global_step=81661, episodic_return=[4.3810105], success_rate=0.0
+global_step=81861, episodic_return=[7.26201], success_rate=0.0
+SPS: 90
+global_step=82061, episodic_return=[2.6039577], success_rate=0.0
+global_step=82261, episodic_return=[7.412314], success_rate=0.0
+global_step=82461, episodic_return=[2.077936], success_rate=0.0
+global_step=82661, episodic_return=[4.847661], success_rate=0.0
+global_step=82861, episodic_return=[6.7623363], success_rate=0.0
+global_step=83061, episodic_return=[3.2501924], success_rate=0.0
+global_step=83261, episodic_return=[7.839588], success_rate=0.0
+global_step=83461, episodic_return=[1.685903], success_rate=0.0
+global_step=83661, episodic_return=[3.028468], success_rate=0.0
+global_step=83861, episodic_return=[7.1386995], success_rate=0.0
+SPS: 90
+global_step=84061, episodic_return=[3.3857403], success_rate=0.0
+global_step=84261, episodic_return=[3.5313537], success_rate=0.0
+global_step=84461, episodic_return=[8.833459], success_rate=0.0
+global_step=84661, episodic_return=[7.432116], success_rate=0.0
+global_step=84861, episodic_return=[5.528278], success_rate=0.0
+global_step=85061, episodic_return=[8.783011], success_rate=0.0
+global_step=85261, episodic_return=[5.8353653], success_rate=0.0
+global_step=85461, episodic_return=[9.791462], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__1700509309/ppo_continuous_action.cleanrl_model
+global_step=85661, episodic_return=[35.947823], success_rate=0.28
+global_step=85861, episodic_return=[7.8134336], success_rate=0.0
+SPS: 90
+global_step=86061, episodic_return=[3.9004626], success_rate=0.0
+global_step=86261, episodic_return=[1.8006811], success_rate=0.0
+global_step=86461, episodic_return=[2.8930283], success_rate=0.0
+global_step=86661, episodic_return=[13.7837715], success_rate=0.04
+global_step=86861, episodic_return=[7.0143123], success_rate=0.0
+global_step=87061, episodic_return=[2.5541325], success_rate=0.0
+global_step=87261, episodic_return=[2.3406384], success_rate=0.0
+global_step=87461, episodic_return=[3.2882404], success_rate=0.0
+global_step=87661, episodic_return=[27.639128], success_rate=0.25
+global_step=87861, episodic_return=[3.3914332], success_rate=0.0
+global_step=88061, episodic_return=[4.581618], success_rate=0.0
+SPS: 90
+global_step=88261, episodic_return=[2.6649122], success_rate=0.0
+global_step=88461, episodic_return=[4.826797], success_rate=0.0
+global_step=88661, episodic_return=[-20.980148], success_rate=0.0
+global_step=88861, episodic_return=[5.3362737], success_rate=0.0
+global_step=89061, episodic_return=[4.582224], success_rate=0.0
+global_step=89261, episodic_return=[8.022945], success_rate=0.04
+global_step=89461, episodic_return=[4.4812956], success_rate=0.0
+global_step=89661, episodic_return=[2.959466], success_rate=0.0
+global_step=89861, episodic_return=[13.166573], success_rate=0.09
+global_step=90061, episodic_return=[7.32202], success_rate=0.0
+SPS: 90
+global_step=90261, episodic_return=[0.07779289], success_rate=0.0
+global_step=90461, episodic_return=[3.4883087], success_rate=0.0
+global_step=90661, episodic_return=[-1.2170274], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__1700509309/ppo_continuous_action.cleanrl_model
+global_step=90861, episodic_return=[40.88633], success_rate=0.38
+global_step=91061, episodic_return=[4.71785], success_rate=0.0
+global_step=91261, episodic_return=[3.750784], success_rate=0.0
+global_step=91461, episodic_return=[3.8239636], success_rate=0.0
+global_step=91661, episodic_return=[1.4975464], success_rate=0.0
+global_step=91861, episodic_return=[32.548843], success_rate=0.28
+global_step=92061, episodic_return=[4.2666206], success_rate=0.0
+SPS: 91
+global_step=92261, episodic_return=[13.015873], success_rate=0.31
+global_step=92461, episodic_return=[3.07498], success_rate=0.0
+global_step=92661, episodic_return=[1.982832], success_rate=0.0
+global_step=92861, episodic_return=[-6.347484], success_rate=0.05
+global_step=93061, episodic_return=[18.299295], success_rate=0.34
+global_step=93261, episodic_return=[9.809598], success_rate=0.12
+global_step=93461, episodic_return=[7.930076], success_rate=0.13
+global_step=93661, episodic_return=[4.5060897], success_rate=0.0
+global_step=93861, episodic_return=[-9.854291], success_rate=0.0
+global_step=94061, episodic_return=[27.350986], success_rate=0.24
+SPS: 91
+global_step=94261, episodic_return=[-6.138887], success_rate=0.05
+global_step=94461, episodic_return=[6.967306], success_rate=0.0
+global_step=94661, episodic_return=[-11.824439], success_rate=0.02
+global_step=94861, episodic_return=[3.7030792], success_rate=0.0
+global_step=95061, episodic_return=[15.099006], success_rate=0.12
+global_step=95261, episodic_return=[22.904623], success_rate=0.18
+global_step=95461, episodic_return=[5.732534], success_rate=0.0
+global_step=95661, episodic_return=[14.100863], success_rate=0.05
+global_step=95861, episodic_return=[-15.730588], success_rate=0.0
+global_step=96061, episodic_return=[4.022568], success_rate=0.09
+SPS: 91
+global_step=96261, episodic_return=[30.234335], success_rate=0.34
+global_step=96461, episodic_return=[20.09529], success_rate=0.33
+global_step=96661, episodic_return=[-15.945818], success_rate=0.0
+global_step=96861, episodic_return=[15.897783], success_rate=0.11
+global_step=97061, episodic_return=[11.981413], success_rate=0.15
+global_step=97261, episodic_return=[24.026697], success_rate=0.25
+global_step=97461, episodic_return=[30.485165], success_rate=0.36
+global_step=97661, episodic_return=[-18.841162], success_rate=0.0
+global_step=97861, episodic_return=[-10.816579], success_rate=0.0
+global_step=98061, episodic_return=[-2.9547026], success_rate=0.0
+global_step=98261, episodic_return=[10.109437], success_rate=0.32
+SPS: 91

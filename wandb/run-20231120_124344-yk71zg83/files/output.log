@@ -1,0 +1,16 @@
+/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/spaces/box.py:130: UserWarning: [33mWARN: Box bound precision lowered by casting to float32
+  gym.logger.warn(f"Box bound precision lowered by casting to {self.dtype}")
+Traceback (most recent call last):
+  File "ppo_continuous_action.py", line 336, in <module>
+    _, newlogprob, entropy, newvalue = agent.get_action_and_value(b_obs[mb_inds], b_actions[mb_inds])
+  File "ppo_continuous_action.py", line 189, in get_action_and_value
+    probs = Normal(action_mean, action_std)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/torch/distributions/normal.py", line 56, in __init__
+    super().__init__(batch_shape, validate_args=validate_args)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/torch/distributions/distribution.py", line 68, in __init__
+    raise ValueError(
+ValueError: Expected parameter loc (Tensor of shape (3, 6)) of distribution Normal(loc: torch.Size([3, 6]), scale: torch.Size([3, 6])) to satisfy the constraint Real(), but found invalid values:
+tensor([[nan, nan, nan, nan, nan, nan],
+        [nan, nan, nan, nan, nan, nan],
+        [nan, nan, nan, nan, nan, nan]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)

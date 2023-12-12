@@ -1,0 +1,35 @@
+2023-11-20 12:30:22,224 INFO    MainThread:13827 [wandb_setup.py:_flush():76] Configure stats pid to 13827
+2023-11-20 12:30:22,224 INFO    MainThread:13827 [wandb_setup.py:_flush():76] Loading settings from /home/abhinav/.config/wandb/settings
+2023-11-20 12:30:22,224 INFO    MainThread:13827 [wandb_setup.py:_flush():76] Loading settings from /home/abhinav/PycharmProjects/RL-DIRP/wandb/settings
+2023-11-20 12:30:22,224 INFO    MainThread:13827 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-11-20 12:30:22,224 INFO    MainThread:13827 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-11-20 12:30:22,224 INFO    MainThread:13827 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'ppo_continuous_action.py', 'program': 'ppo_continuous_action.py'}
+2023-11-20 12:30:22,225 INFO    MainThread:13827 [wandb_init.py:_log_setup():506] Logging user logs to /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_123022-i4rwr2ly/logs/debug.log
+2023-11-20 12:30:22,225 INFO    MainThread:13827 [wandb_init.py:_log_setup():507] Logging internal logs to /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_123022-i4rwr2ly/logs/debug-internal.log
+2023-11-20 12:30:22,225 INFO    MainThread:13827 [wandb_init.py:init():546] calling init triggers
+2023-11-20 12:30:22,225 INFO    MainThread:13827 [wandb_init.py:init():552] wandb.init called with sweep_config: {}
+config: {'exp_name': 'ppo_continuous_action', 'seed': 1, 'torch_deterministic': True, 'cuda': True, 'track': True, 'wandb_project_name': 'cleanRL', 'wandb_entity': None, 'capture_video': False, 'save_model': False, 'upload_model': False, 'hf_entity': '', 'env_id': 'Wipe', 'total_timesteps': 100000, 'learning_rate': 0.0003, 'num_envs': 1, 'num_steps': 2048, 'anneal_lr': True, 'gamma': 0.99, 'gae_lambda': 0.95, 'num_minibatches': 32, 'update_epochs': 10, 'norm_adv': True, 'clip_coef': 0.2, 'clip_vloss': True, 'ent_coef': 0.0, 'vf_coef': 0.5, 'max_grad_norm': 0.5, 'target_kl': None, 'batch_size': 2048, 'minibatch_size': 64}
+2023-11-20 12:30:22,225 INFO    MainThread:13827 [wandb_init.py:init():602] starting backend
+2023-11-20 12:30:22,225 INFO    MainThread:13827 [wandb_init.py:init():606] setting up manager
+2023-11-20 12:30:22,226 INFO    MainThread:13827 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-11-20 12:30:22,227 INFO    MainThread:13827 [wandb_init.py:init():613] backend started and connected
+2023-11-20 12:30:22,229 INFO    MainThread:13827 [wandb_init.py:init():701] updated telemetry
+2023-11-20 12:30:22,229 INFO    MainThread:13827 [wandb_init.py:init():741] communicating run to backend with 60.0 second timeout
+2023-11-20 12:30:22,767 WARNING MainThread:13827 [wandb_init.py:init():1165] interrupted
+Traceback (most recent call last):
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 1144, in init
+    run = wi.init()
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/wandb/sdk/wandb_init.py", line 744, in init
+    result = run_init_handle.wait(
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/wandb/sdk/lib/mailbox.py", line 283, in wait
+    found, abandoned = self._slot._get_and_clear(timeout=wait_timeout)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/wandb/sdk/lib/mailbox.py", line 130, in _get_and_clear
+    if self._wait(timeout=timeout):
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/wandb/sdk/lib/mailbox.py", line 126, in _wait
+    return self._event.wait(timeout=timeout)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/threading.py", line 558, in wait
+    signaled = self._cond.wait(timeout)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/threading.py", line 306, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+2023-11-20 12:30:25,159 WARNING MsgRouterThr:13827 [router.py:message_loop():77] message_loop has been closed

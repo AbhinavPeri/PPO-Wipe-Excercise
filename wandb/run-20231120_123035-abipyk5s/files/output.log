@@ -1,0 +1,547 @@
+/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/gymnasium/spaces/box.py:130: UserWarning: [33mWARN: Box bound precision lowered by casting to float32
+  gym.logger.warn(f"Box bound precision lowered by casting to {self.dtype}")
+global_step=200, episodic_return=[1.586943], success_rate=0.0
+global_step=400, episodic_return=[1.4395721], success_rate=0.0
+global_step=600, episodic_return=[0.5879627], success_rate=0.0
+global_step=800, episodic_return=[0.99018466], success_rate=0.0
+global_step=1000, episodic_return=[0.5715263], success_rate=0.0
+global_step=1170, episodic_return=[1.1478602], success_rate=0.0
+global_step=1370, episodic_return=[0.71887696], success_rate=0.0
+global_step=1570, episodic_return=[0.5003727], success_rate=0.0
+global_step=1770, episodic_return=[1.5393579], success_rate=0.0
+global_step=1970, episodic_return=[1.5635923], success_rate=0.0
+SPS: 99
+global_step=2170, episodic_return=[1.0907506], success_rate=0.0
+global_step=2370, episodic_return=[0.7105226], success_rate=0.0
+global_step=2570, episodic_return=[2.5527363], success_rate=0.0
+global_step=2753, episodic_return=[0.5462679], success_rate=0.0
+global_step=2953, episodic_return=[0.94424975], success_rate=0.0
+global_step=3153, episodic_return=[0.5072225], success_rate=0.0
+global_step=3353, episodic_return=[2.0724366], success_rate=0.0
+global_step=3553, episodic_return=[0.49026123], success_rate=0.0
+global_step=3753, episodic_return=[-0.6309941], success_rate=0.0
+global_step=3861, episodic_return=[0.18282036], success_rate=0.0
+global_step=4061, episodic_return=[0.82072866], success_rate=0.0
+SPS: 102
+global_step=4261, episodic_return=[1.0675632], success_rate=0.0
+global_step=4461, episodic_return=[2.0050378], success_rate=0.0
+global_step=4661, episodic_return=[0.6150759], success_rate=0.0
+global_step=4861, episodic_return=[0.8125742], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__1700508634/ppo_continuous_action.cleanrl_model
+global_step=5061, episodic_return=[8.325847], success_rate=0.06
+global_step=5261, episodic_return=[1.9995267], success_rate=0.0
+global_step=5461, episodic_return=[0.5853099], success_rate=0.0
+global_step=5661, episodic_return=[0.90539175], success_rate=0.0
+global_step=5861, episodic_return=[1.5526977], success_rate=0.0
+global_step=6061, episodic_return=[2.4302444], success_rate=0.0
+SPS: 101
+global_step=6261, episodic_return=[0.74932796], success_rate=0.0
+global_step=6461, episodic_return=[1.4361532], success_rate=0.0
+global_step=6661, episodic_return=[1.4127488], success_rate=0.0
+global_step=6861, episodic_return=[2.7342832], success_rate=0.0
+global_step=7061, episodic_return=[2.1542785], success_rate=0.0
+global_step=7261, episodic_return=[0.48568335], success_rate=0.0
+global_step=7461, episodic_return=[0.7318935], success_rate=0.0
+global_step=7661, episodic_return=[2.1310003], success_rate=0.0
+global_step=7861, episodic_return=[1.0279185], success_rate=0.0
+global_step=8061, episodic_return=[1.9569689], success_rate=0.0
+SPS: 100
+global_step=8261, episodic_return=[1.3922198], success_rate=0.0
+global_step=8461, episodic_return=[2.27513], success_rate=0.0
+global_step=8661, episodic_return=[1.4591546], success_rate=0.0
+global_step=8861, episodic_return=[1.3895206], success_rate=0.0
+global_step=9061, episodic_return=[4.680172], success_rate=0.0
+global_step=9261, episodic_return=[3.826821], success_rate=0.0
+global_step=9461, episodic_return=[1.9572151], success_rate=0.0
+global_step=9661, episodic_return=[3.6936202], success_rate=0.0
+global_step=9861, episodic_return=[1.3380928], success_rate=0.0
+global_step=10061, episodic_return=[0.8278505], success_rate=0.0
+SPS: 101
+global_step=10261, episodic_return=[2.4757009], success_rate=0.0
+global_step=10461, episodic_return=[2.0930872], success_rate=0.0
+global_step=10661, episodic_return=[5.115967], success_rate=0.0
+global_step=10861, episodic_return=[2.450236], success_rate=0.0
+global_step=11061, episodic_return=[3.06946], success_rate=0.0
+global_step=11261, episodic_return=[1.0848329], success_rate=0.0
+global_step=11461, episodic_return=[4.0387926], success_rate=0.0
+global_step=11661, episodic_return=[3.037136], success_rate=0.0
+global_step=11861, episodic_return=[2.2727928], success_rate=0.0
+global_step=12061, episodic_return=[1.8245169], success_rate=0.0
+global_step=12261, episodic_return=[5.189672], success_rate=0.0
+SPS: 102
+global_step=12461, episodic_return=[3.911023], success_rate=0.0
+global_step=12661, episodic_return=[2.8627324], success_rate=0.0
+global_step=12861, episodic_return=[3.0680408], success_rate=0.0
+global_step=13061, episodic_return=[2.8652163], success_rate=0.0
+global_step=13261, episodic_return=[2.6732094], success_rate=0.0
+global_step=13461, episodic_return=[3.6843886], success_rate=0.0
+global_step=13661, episodic_return=[3.9658322], success_rate=0.0
+global_step=13861, episodic_return=[2.995916], success_rate=0.0
+global_step=14061, episodic_return=[1.5518272], success_rate=0.0
+global_step=14261, episodic_return=[2.954028], success_rate=0.0
+SPS: 102
+global_step=14461, episodic_return=[1.3657061], success_rate=0.0
+global_step=14661, episodic_return=[3.9572878], success_rate=0.0
+global_step=14861, episodic_return=[4.4758964], success_rate=0.0
+global_step=15061, episodic_return=[4.3006816], success_rate=0.0
+global_step=15261, episodic_return=[4.597046], success_rate=0.0
+global_step=15461, episodic_return=[5.4165807], success_rate=0.0
+global_step=15661, episodic_return=[3.6160343], success_rate=0.0
+global_step=15861, episodic_return=[2.9074686], success_rate=0.0
+global_step=16061, episodic_return=[3.4274583], success_rate=0.0
+global_step=16261, episodic_return=[3.5849211], success_rate=0.0
+SPS: 102
+global_step=16461, episodic_return=[2.6989908], success_rate=0.0
+global_step=16661, episodic_return=[1.6467837], success_rate=0.0
+global_step=16861, episodic_return=[3.2212806], success_rate=0.0
+global_step=17061, episodic_return=[5.7040977], success_rate=0.0
+global_step=17261, episodic_return=[6.140384], success_rate=0.0
+global_step=17461, episodic_return=[4.023772], success_rate=0.0
+global_step=17661, episodic_return=[3.50552], success_rate=0.0
+global_step=17861, episodic_return=[0.81080765], success_rate=0.0
+global_step=18061, episodic_return=[4.032423], success_rate=0.0
+global_step=18261, episodic_return=[1.1736897], success_rate=0.0
+SPS: 103
+global_step=18461, episodic_return=[7.1207247], success_rate=0.0
+global_step=18661, episodic_return=[4.517775], success_rate=0.0
+global_step=18861, episodic_return=[3.938163], success_rate=0.0
+global_step=19061, episodic_return=[3.0851424], success_rate=0.0
+global_step=19261, episodic_return=[5.880077], success_rate=0.0
+global_step=19461, episodic_return=[0.80727273], success_rate=0.0
+global_step=19661, episodic_return=[3.3034565], success_rate=0.0
+global_step=19861, episodic_return=[5.890101], success_rate=0.0
+global_step=20061, episodic_return=[3.330171], success_rate=0.0
+global_step=20261, episodic_return=[1.3719509], success_rate=0.0
+global_step=20461, episodic_return=[4.298293], success_rate=0.0
+SPS: 103
+global_step=20661, episodic_return=[2.9960515], success_rate=0.0
+global_step=20861, episodic_return=[5.6866107], success_rate=0.0
+global_step=21061, episodic_return=[2.5454485], success_rate=0.0
+global_step=21261, episodic_return=[2.8480387], success_rate=0.0
+global_step=21461, episodic_return=[5.3670874], success_rate=0.0
+global_step=21661, episodic_return=[1.9626354], success_rate=0.0
+global_step=21861, episodic_return=[2.1254487], success_rate=0.0
+global_step=22061, episodic_return=[3.4794002], success_rate=0.0
+global_step=22261, episodic_return=[4.590899], success_rate=0.0
+global_step=22461, episodic_return=[6.6782246], success_rate=0.0
+SPS: 103
+global_step=22661, episodic_return=[3.467062], success_rate=0.0
+global_step=22861, episodic_return=[4.5982466], success_rate=0.0
+global_step=23061, episodic_return=[2.2207756], success_rate=0.0
+global_step=23261, episodic_return=[2.626676], success_rate=0.0
+global_step=23461, episodic_return=[1.6164111], success_rate=0.0
+global_step=23661, episodic_return=[1.2250422], success_rate=0.0
+global_step=23861, episodic_return=[4.231284], success_rate=0.0
+global_step=24061, episodic_return=[1.2831519], success_rate=0.0
+global_step=24261, episodic_return=[1.894876], success_rate=0.0
+global_step=24461, episodic_return=[6.9065275], success_rate=0.0
+SPS: 103
+global_step=24661, episodic_return=[0.97696334], success_rate=0.0
+global_step=24861, episodic_return=[2.6571765], success_rate=0.0
+global_step=25061, episodic_return=[3.3749566], success_rate=0.0
+global_step=25261, episodic_return=[4.514095], success_rate=0.0
+global_step=25461, episodic_return=[1.3778918], success_rate=0.0
+global_step=25661, episodic_return=[4.043781], success_rate=0.0
+global_step=25861, episodic_return=[3.292449], success_rate=0.0
+global_step=26061, episodic_return=[6.2255425], success_rate=0.0
+global_step=26261, episodic_return=[3.0172968], success_rate=0.0
+global_step=26461, episodic_return=[6.2776327], success_rate=0.0
+SPS: 102
+global_step=26661, episodic_return=[5.0235248], success_rate=0.0
+global_step=26861, episodic_return=[1.7125342], success_rate=0.0
+global_step=27061, episodic_return=[5.467712], success_rate=0.0
+global_step=27261, episodic_return=[2.0229864], success_rate=0.0
+global_step=27461, episodic_return=[1.637049], success_rate=0.0
+global_step=27661, episodic_return=[2.5404587], success_rate=0.0
+global_step=27861, episodic_return=[6.724281], success_rate=0.0
+global_step=28061, episodic_return=[6.549943], success_rate=0.0
+global_step=28261, episodic_return=[2.625254], success_rate=0.0
+global_step=28461, episodic_return=[5.1303596], success_rate=0.0
+global_step=28661, episodic_return=[7.509156], success_rate=0.0
+SPS: 101
+global_step=28861, episodic_return=[7.318217], success_rate=0.0
+global_step=29061, episodic_return=[6.2438116], success_rate=0.0
+global_step=29261, episodic_return=[3.1441107], success_rate=0.0
+global_step=29461, episodic_return=[1.731096], success_rate=0.0
+global_step=29661, episodic_return=[5.654361], success_rate=0.0
+global_step=29861, episodic_return=[8.153459], success_rate=0.0
+global_step=30061, episodic_return=[1.2180386], success_rate=0.0
+global_step=30261, episodic_return=[8.163633], success_rate=0.0
+global_step=30461, episodic_return=[9.0243225], success_rate=0.0
+global_step=30661, episodic_return=[5.552271], success_rate=0.0
+SPS: 101
+global_step=30861, episodic_return=[1.9635038], success_rate=0.0
+global_step=31061, episodic_return=[1.642166], success_rate=0.0
+global_step=31261, episodic_return=[1.1551574], success_rate=0.0
+global_step=31461, episodic_return=[6.894971], success_rate=0.0
+global_step=31661, episodic_return=[6.8707914], success_rate=0.0
+global_step=31861, episodic_return=[2.5977395], success_rate=0.0
+global_step=32061, episodic_return=[1.9323484], success_rate=0.0
+global_step=32261, episodic_return=[4.1537547], success_rate=0.0
+global_step=32461, episodic_return=[5.50665], success_rate=0.0
+global_step=32661, episodic_return=[5.498287], success_rate=0.0
+SPS: 100
+global_step=32861, episodic_return=[6.1998816], success_rate=0.0
+global_step=33061, episodic_return=[3.9802802], success_rate=0.0
+global_step=33261, episodic_return=[7.9440446], success_rate=0.0
+global_step=33461, episodic_return=[1.5521625], success_rate=0.0
+global_step=33661, episodic_return=[5.7340436], success_rate=0.0
+global_step=33861, episodic_return=[6.2563643], success_rate=0.0
+global_step=34061, episodic_return=[4.6436286], success_rate=0.0
+global_step=34261, episodic_return=[6.540727], success_rate=0.0
+global_step=34461, episodic_return=[1.3038228], success_rate=0.0
+global_step=34661, episodic_return=[9.470018], success_rate=0.0
+SPS: 100
+global_step=34861, episodic_return=[2.322828], success_rate=0.0
+global_step=35061, episodic_return=[2.1194813], success_rate=0.0
+global_step=35261, episodic_return=[3.3955615], success_rate=0.0
+global_step=35461, episodic_return=[1.9588215], success_rate=0.0
+global_step=35661, episodic_return=[1.5546983], success_rate=0.0
+global_step=35861, episodic_return=[6.14341], success_rate=0.0
+global_step=36061, episodic_return=[2.1762657], success_rate=0.0
+global_step=36261, episodic_return=[4.910536], success_rate=0.0
+global_step=36461, episodic_return=[8.5956135], success_rate=0.0
+global_step=36661, episodic_return=[8.731946], success_rate=0.0
+global_step=36861, episodic_return=[5.0504675], success_rate=0.0
+SPS: 100
+global_step=37061, episodic_return=[4.600673], success_rate=0.0
+global_step=37261, episodic_return=[3.6641994], success_rate=0.0
+global_step=37461, episodic_return=[7.734671], success_rate=0.0
+global_step=37661, episodic_return=[8.45265], success_rate=0.0
+global_step=37861, episodic_return=[3.0950236], success_rate=0.0
+global_step=38061, episodic_return=[1.364278], success_rate=0.0
+global_step=38261, episodic_return=[2.7875903], success_rate=0.0
+global_step=38461, episodic_return=[5.583386], success_rate=0.0
+global_step=38661, episodic_return=[1.8660698], success_rate=0.0
+global_step=38861, episodic_return=[2.3736615], success_rate=0.0
+SPS: 100
+global_step=39061, episodic_return=[4.6023173], success_rate=0.0
+global_step=39261, episodic_return=[5.751453], success_rate=0.0
+global_step=39461, episodic_return=[5.1523857], success_rate=0.0
+global_step=39661, episodic_return=[5.2445884], success_rate=0.0
+global_step=39861, episodic_return=[6.943509], success_rate=0.0
+global_step=40061, episodic_return=[2.0977125], success_rate=0.0
+global_step=40261, episodic_return=[7.677385], success_rate=0.0
+global_step=40461, episodic_return=[4.9963427], success_rate=0.0
+global_step=40661, episodic_return=[1.3504165], success_rate=0.0
+global_step=40861, episodic_return=[6.9352016], success_rate=0.0
+SPS: 99
+global_step=41061, episodic_return=[6.5080237], success_rate=0.0
+global_step=41261, episodic_return=[7.7311482], success_rate=0.0
+global_step=41461, episodic_return=[5.2314544], success_rate=0.0
+global_step=41661, episodic_return=[4.2759323], success_rate=0.0
+global_step=41861, episodic_return=[6.5619335], success_rate=0.0
+global_step=42061, episodic_return=[2.9443085], success_rate=0.0
+global_step=42261, episodic_return=[3.531569], success_rate=0.0
+global_step=42461, episodic_return=[7.991408], success_rate=0.0
+global_step=42661, episodic_return=[6.6806955], success_rate=0.0
+global_step=42861, episodic_return=[5.894516], success_rate=0.0
+SPS: 99
+global_step=43061, episodic_return=[9.685013], success_rate=0.0
+global_step=43261, episodic_return=[3.4013076], success_rate=0.0
+global_step=43461, episodic_return=[7.965788], success_rate=0.0
+global_step=43661, episodic_return=[5.809451], success_rate=0.0
+global_step=43861, episodic_return=[7.5002313], success_rate=0.0
+global_step=44061, episodic_return=[6.136267], success_rate=0.0
+global_step=44261, episodic_return=[7.2404747], success_rate=0.0
+global_step=44461, episodic_return=[4.4443984], success_rate=0.0
+global_step=44661, episodic_return=[8.481807], success_rate=0.0
+global_step=44861, episodic_return=[5.301276], success_rate=0.0
+SPS: 99
+global_step=45061, episodic_return=[7.2816787], success_rate=0.0
+global_step=45261, episodic_return=[6.966], success_rate=0.0
+global_step=45461, episodic_return=[3.9285064], success_rate=0.0
+global_step=45661, episodic_return=[7.9556313], success_rate=0.0
+global_step=45861, episodic_return=[4.5519996], success_rate=0.0
+global_step=46061, episodic_return=[7.2368846], success_rate=0.0
+global_step=46261, episodic_return=[2.9825974], success_rate=0.0
+global_step=46461, episodic_return=[4.5467954], success_rate=0.0
+global_step=46661, episodic_return=[7.7835193], success_rate=0.0
+global_step=46861, episodic_return=[1.4973614], success_rate=0.0
+global_step=47061, episodic_return=[8.030295], success_rate=0.0
+SPS: 99
+global_step=47261, episodic_return=[9.269557], success_rate=0.0
+global_step=47461, episodic_return=[5.7585382], success_rate=0.0
+global_step=47661, episodic_return=[4.429659], success_rate=0.0
+global_step=47861, episodic_return=[5.0950475], success_rate=0.0
+global_step=48061, episodic_return=[1.4956226], success_rate=0.0
+global_step=48261, episodic_return=[6.5368595], success_rate=0.0
+global_step=48461, episodic_return=[7.565968], success_rate=0.0
+global_step=48661, episodic_return=[7.605042], success_rate=0.0
+global_step=48861, episodic_return=[4.4297295], success_rate=0.0
+global_step=49061, episodic_return=[2.7931774], success_rate=0.0
+SPS: 99
+global_step=49261, episodic_return=[4.185032], success_rate=0.0
+global_step=49461, episodic_return=[3.6428227], success_rate=0.0
+global_step=49661, episodic_return=[1.2596512], success_rate=0.0
+global_step=49861, episodic_return=[3.3547533], success_rate=0.0
+global_step=50061, episodic_return=[7.763869], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__1700508634/ppo_continuous_action.cleanrl_model
+global_step=50261, episodic_return=[19.07803], success_rate=0.17
+global_step=50461, episodic_return=[3.3847573], success_rate=0.0
+global_step=50661, episodic_return=[7.496754], success_rate=0.0
+global_step=50861, episodic_return=[2.6930118], success_rate=0.0
+global_step=51061, episodic_return=[2.220599], success_rate=0.0
+SPS: 99
+global_step=51261, episodic_return=[6.695461], success_rate=0.0
+global_step=51461, episodic_return=[9.201168], success_rate=0.0
+global_step=51661, episodic_return=[6.377383], success_rate=0.0
+global_step=51861, episodic_return=[1.2893047], success_rate=0.0
+global_step=52061, episodic_return=[5.792804], success_rate=0.0
+global_step=52261, episodic_return=[3.0650594], success_rate=0.0
+global_step=52461, episodic_return=[1.5507805], success_rate=0.0
+global_step=52661, episodic_return=[6.046024], success_rate=0.0
+global_step=52861, episodic_return=[2.260183], success_rate=0.0
+global_step=53061, episodic_return=[8.802944], success_rate=0.03
+SPS: 99
+global_step=53261, episodic_return=[3.1782584], success_rate=0.0
+global_step=53461, episodic_return=[6.1407857], success_rate=0.0
+global_step=53661, episodic_return=[3.0613434], success_rate=0.0
+global_step=53861, episodic_return=[7.144733], success_rate=0.0
+global_step=54061, episodic_return=[5.24221], success_rate=0.0
+global_step=54261, episodic_return=[1.9947875], success_rate=0.0
+global_step=54461, episodic_return=[1.0982171], success_rate=0.0
+global_step=54661, episodic_return=[12.972679], success_rate=0.13
+global_step=54861, episodic_return=[3.4626927], success_rate=0.0
+global_step=55061, episodic_return=[10.2407055], success_rate=0.03
+global_step=55261, episodic_return=[5.914405], success_rate=0.0
+SPS: 98
+global_step=55461, episodic_return=[1.4057981], success_rate=0.0
+global_step=55661, episodic_return=[6.1376705], success_rate=0.0
+global_step=55861, episodic_return=[2.5392232], success_rate=0.0
+global_step=56061, episodic_return=[4.30359], success_rate=0.0
+global_step=56261, episodic_return=[4.5611935], success_rate=0.0
+global_step=56461, episodic_return=[5.137356], success_rate=0.0
+global_step=56661, episodic_return=[7.8689585], success_rate=0.0
+global_step=56861, episodic_return=[1.993039], success_rate=0.0
+global_step=57061, episodic_return=[5.8427815], success_rate=0.0
+global_step=57261, episodic_return=[3.9062517], success_rate=0.0
+SPS: 98
+global_step=57461, episodic_return=[2.1019018], success_rate=0.0
+global_step=57661, episodic_return=[7.1664877], success_rate=0.0
+global_step=57861, episodic_return=[4.669068], success_rate=0.0
+global_step=58061, episodic_return=[16.33147], success_rate=0.09
+global_step=58261, episodic_return=[19.0871], success_rate=0.14
+global_step=58461, episodic_return=[-2.643829], success_rate=0.0
+global_step=58661, episodic_return=[23.253658], success_rate=0.16
+global_step=58861, episodic_return=[6.1052895], success_rate=0.0
+global_step=59061, episodic_return=[3.561979], success_rate=0.0
+global_step=59261, episodic_return=[2.1928442], success_rate=0.0
+SPS: 98
+global_step=59461, episodic_return=[7.600171], success_rate=0.02
+global_step=59661, episodic_return=[0.6404593], success_rate=0.0
+global_step=59861, episodic_return=[-8.514496], success_rate=0.0
+model saved to runs/Wipe__ppo_continuous_action__1__1700508634/ppo_continuous_action.cleanrl_model
+global_step=60061, episodic_return=[46.54448], success_rate=0.43
+global_step=60261, episodic_return=[35.036438], success_rate=0.28
+global_step=60461, episodic_return=[18.026953], success_rate=0.08
+global_step=60661, episodic_return=[2.4693978], success_rate=0.0
+global_step=60861, episodic_return=[3.3035727], success_rate=0.0
+global_step=61061, episodic_return=[2.0224214], success_rate=0.0
+global_step=61261, episodic_return=[5.3534255], success_rate=0.0
+SPS: 98
+global_step=61461, episodic_return=[3.9259567], success_rate=0.0
+global_step=61661, episodic_return=[-17.125067], success_rate=0.0
+global_step=61861, episodic_return=[-8.166703], success_rate=0.0
+global_step=62061, episodic_return=[16.865593], success_rate=0.22
+global_step=62261, episodic_return=[17.711433], success_rate=0.09
+global_step=62461, episodic_return=[27.148134], success_rate=0.25
+model saved to runs/Wipe__ppo_continuous_action__1__1700508634/ppo_continuous_action.cleanrl_model
+global_step=62661, episodic_return=[41.553055], success_rate=0.56
+global_step=62861, episodic_return=[-7.605273], success_rate=0.0
+global_step=63061, episodic_return=[28.574408], success_rate=0.29
+global_step=63261, episodic_return=[33.597668], success_rate=0.3
+global_step=63461, episodic_return=[-14.487757], success_rate=0.0
+SPS: 97
+global_step=63661, episodic_return=[40.375694], success_rate=0.44
+model saved to runs/Wipe__ppo_continuous_action__1__1700508634/ppo_continuous_action.cleanrl_model
+global_step=63861, episodic_return=[51.990604], success_rate=0.63
+global_step=64061, episodic_return=[3.2053912], success_rate=0.15
+global_step=64261, episodic_return=[19.473854], success_rate=0.17
+global_step=64461, episodic_return=[52.876034], success_rate=0.61
+global_step=64661, episodic_return=[-6.692025], success_rate=0.0
+global_step=64861, episodic_return=[-2.2654543], success_rate=0.12
+global_step=65061, episodic_return=[7.7662916], success_rate=0.17
+global_step=65261, episodic_return=[6.331161], success_rate=0.02
+global_step=65461, episodic_return=[-1.2596574], success_rate=0.02
+SPS: 97
+global_step=65661, episodic_return=[-11.3844595], success_rate=0.0
+global_step=65861, episodic_return=[2.7338326], success_rate=0.14
+global_step=66061, episodic_return=[21.720167], success_rate=0.34
+global_step=66261, episodic_return=[32.28236], success_rate=0.41
+global_step=66461, episodic_return=[-7.575354], success_rate=0.09
+global_step=66661, episodic_return=[-8.810713], success_rate=0.0
+global_step=66861, episodic_return=[23.553932], success_rate=0.26
+global_step=67061, episodic_return=[-4.732421], success_rate=0.0
+global_step=67261, episodic_return=[-3.7520695], success_rate=0.0
+global_step=67461, episodic_return=[40.078312], success_rate=0.42
+SPS: 95
+global_step=67661, episodic_return=[-15.228419], success_rate=0.0
+global_step=67861, episodic_return=[-13.87081], success_rate=0.0
+global_step=68061, episodic_return=[-3.8893151], success_rate=0.0
+global_step=68261, episodic_return=[-10.851736], success_rate=0.07
+global_step=68461, episodic_return=[4.229319], success_rate=0.04
+global_step=68661, episodic_return=[20.116749], success_rate=0.27
+global_step=68861, episodic_return=[30.276402], success_rate=0.43
+global_step=69061, episodic_return=[-21.85516], success_rate=0.0
+global_step=69261, episodic_return=[-8.520681], success_rate=0.15
+global_step=69461, episodic_return=[-28.28368], success_rate=0.0
+SPS: 94
+global_step=69661, episodic_return=[-3.7857542], success_rate=0.15
+global_step=69861, episodic_return=[-11.928655], success_rate=0.0
+global_step=70061, episodic_return=[47.147125], success_rate=0.48
+global_step=70261, episodic_return=[7.9413013], success_rate=0.17
+global_step=70461, episodic_return=[-20.512527], success_rate=0.0
+global_step=70661, episodic_return=[-22.885414], success_rate=0.0
+global_step=70861, episodic_return=[-12.609614], success_rate=0.0
+global_step=71061, episodic_return=[-23.138527], success_rate=0.0
+global_step=71261, episodic_return=[-22.823229], success_rate=0.0
+global_step=71461, episodic_return=[-0.60982096], success_rate=0.12
+global_step=71661, episodic_return=[-19.504032], success_rate=0.0
+SPS: 93
+global_step=71861, episodic_return=[12.515911], success_rate=0.21
+global_step=72061, episodic_return=[-3.0339775], success_rate=0.0
+global_step=72261, episodic_return=[31.699762], success_rate=0.33
+global_step=72461, episodic_return=[25.02295], success_rate=0.33
+global_step=72661, episodic_return=[-13.048011], success_rate=0.06
+global_step=72861, episodic_return=[-5.7911825], success_rate=0.0
+global_step=73061, episodic_return=[2.0968616], success_rate=0.13
+global_step=73261, episodic_return=[9.343915], success_rate=0.24
+global_step=73461, episodic_return=[0.14606476], success_rate=0.13
+global_step=73661, episodic_return=[-25.400408], success_rate=0.0
+SPS: 92
+global_step=73861, episodic_return=[-8.649328], success_rate=0.01
+global_step=74061, episodic_return=[25.859777], success_rate=0.28
+global_step=74261, episodic_return=[9.139063], success_rate=0.19
+global_step=74461, episodic_return=[14.103162], success_rate=0.15
+global_step=74661, episodic_return=[-12.631456], success_rate=0.03
+global_step=74861, episodic_return=[-1.7491395], success_rate=0.0
+global_step=75061, episodic_return=[4.001576], success_rate=0.0
+global_step=75261, episodic_return=[3.653446], success_rate=0.0
+global_step=75461, episodic_return=[15.49949], success_rate=0.29
+global_step=75661, episodic_return=[33.86532], success_rate=0.24
+SPS: 91
+global_step=75861, episodic_return=[32.91986], success_rate=0.32
+global_step=76061, episodic_return=[-15.2423525], success_rate=0.0
+global_step=76261, episodic_return=[-6.584041], success_rate=0.0
+global_step=76461, episodic_return=[1.1407479], success_rate=0.0
+global_step=76661, episodic_return=[-4.8360014], success_rate=0.0
+global_step=76861, episodic_return=[-8.912504], success_rate=0.0
+global_step=77061, episodic_return=[27.278362], success_rate=0.19
+global_step=77261, episodic_return=[0.04786418], success_rate=0.02
+global_step=77461, episodic_return=[-7.908161], success_rate=0.0
+global_step=77661, episodic_return=[27.942307], success_rate=0.27
+SPS: 91
+global_step=77861, episodic_return=[21.864801], success_rate=0.34
+global_step=78061, episodic_return=[-12.879258], success_rate=0.0
+global_step=78261, episodic_return=[30.037136], success_rate=0.37
+global_step=78461, episodic_return=[2.0185137], success_rate=0.0
+global_step=78661, episodic_return=[16.340227], success_rate=0.24
+global_step=78861, episodic_return=[-6.85105], success_rate=0.0
+global_step=79061, episodic_return=[-1.2559388], success_rate=0.0
+global_step=79261, episodic_return=[-4.916535], success_rate=0.0
+global_step=79461, episodic_return=[-3.6439183], success_rate=0.0
+global_step=79661, episodic_return=[35.680027], success_rate=0.33
+global_step=79861, episodic_return=[8.837407], success_rate=0.13
+SPS: 90
+global_step=80061, episodic_return=[-4.030293], success_rate=0.03
+global_step=80261, episodic_return=[-1.6334615], success_rate=0.0
+global_step=80461, episodic_return=[15.084978], success_rate=0.15
+global_step=80661, episodic_return=[16.039558], success_rate=0.16
+global_step=80861, episodic_return=[25.36328], success_rate=0.24
+global_step=81061, episodic_return=[-0.6149947], success_rate=0.0
+global_step=81261, episodic_return=[8.699787], success_rate=0.0
+global_step=81461, episodic_return=[29.281963], success_rate=0.23
+global_step=81661, episodic_return=[-6.457909], success_rate=0.0
+global_step=81861, episodic_return=[3.8946435], success_rate=0.0
+SPS: 90
+global_step=82061, episodic_return=[-11.62846], success_rate=0.0
+global_step=82261, episodic_return=[27.642248], success_rate=0.34
+global_step=82461, episodic_return=[-12.177217], success_rate=0.0
+global_step=82661, episodic_return=[-4.558247], success_rate=0.0
+global_step=82861, episodic_return=[24.658022], success_rate=0.19
+global_step=83061, episodic_return=[-1.423543], success_rate=0.0
+global_step=83261, episodic_return=[32.603115], success_rate=0.25
+global_step=83461, episodic_return=[-2.4766994], success_rate=0.0
+global_step=83661, episodic_return=[-8.440909], success_rate=0.05
+global_step=83861, episodic_return=[8.648762], success_rate=0.08
+SPS: 90
+global_step=84061, episodic_return=[27.076431], success_rate=0.29
+global_step=84261, episodic_return=[24.131287], success_rate=0.16
+global_step=84461, episodic_return=[5.000061], success_rate=0.0
+global_step=84661, episodic_return=[27.62339], success_rate=0.28
+global_step=84861, episodic_return=[1.2635639], success_rate=0.0
+global_step=85061, episodic_return=[37.431225], success_rate=0.28
+global_step=85261, episodic_return=[-4.505238], success_rate=0.0
+global_step=85461, episodic_return=[18.130116], success_rate=0.19
+global_step=85661, episodic_return=[-2.6412442], success_rate=0.0
+global_step=85861, episodic_return=[2.3805084], success_rate=0.0
+SPS: 90
+global_step=86061, episodic_return=[1.5114291], success_rate=0.0
+global_step=86261, episodic_return=[37.786472], success_rate=0.34
+global_step=86461, episodic_return=[41.456024], success_rate=0.41
+global_step=86661, episodic_return=[23.419613], success_rate=0.22
+global_step=86861, episodic_return=[-3.1068537], success_rate=0.0
+global_step=87061, episodic_return=[-9.733319], success_rate=0.0
+global_step=87261, episodic_return=[33.079678], success_rate=0.28
+global_step=87461, episodic_return=[45.44619], success_rate=0.45
+global_step=87661, episodic_return=[-4.427023], success_rate=0.0
+global_step=87861, episodic_return=[22.487122], success_rate=0.15
+global_step=88061, episodic_return=[-0.17094636], success_rate=0.0
+SPS: 90
+global_step=88261, episodic_return=[1.1000475], success_rate=0.0
+global_step=88461, episodic_return=[20.1116], success_rate=0.2
+global_step=88661, episodic_return=[-12.046151], success_rate=0.0
+global_step=88861, episodic_return=[9.203753], success_rate=0.06
+global_step=89061, episodic_return=[3.708934], success_rate=0.0
+global_step=89261, episodic_return=[0.590264], success_rate=0.03
+global_step=89461, episodic_return=[14.884527], success_rate=0.17
+global_step=89661, episodic_return=[16.391314], success_rate=0.28
+global_step=89861, episodic_return=[-11.768909], success_rate=0.0
+global_step=90061, episodic_return=[23.095871], success_rate=0.24
+SPS: 89
+global_step=90261, episodic_return=[1.2071464], success_rate=0.05
+global_step=90461, episodic_return=[37.671223], success_rate=0.37
+global_step=90661, episodic_return=[-2.753607], success_rate=0.0
+global_step=90861, episodic_return=[-2.0832067], success_rate=0.0
+global_step=91061, episodic_return=[1.7234387], success_rate=0.0
+global_step=91261, episodic_return=[3.8412755], success_rate=0.0
+global_step=91461, episodic_return=[17.286377], success_rate=0.12
+global_step=91661, episodic_return=[21.116474], success_rate=0.2
+global_step=91861, episodic_return=[2.3764558], success_rate=0.05
+global_step=92061, episodic_return=[-2.6031032], success_rate=0.0
+SPS: 89
+global_step=92261, episodic_return=[14.995238], success_rate=0.14
+global_step=92461, episodic_return=[5.520394], success_rate=0.0
+global_step=92661, episodic_return=[7.0712194], success_rate=0.14
+global_step=92861, episodic_return=[33.002148], success_rate=0.31
+global_step=93061, episodic_return=[50.370953], success_rate=0.46
+global_step=93261, episodic_return=[0.6819638], success_rate=0.0
+global_step=93461, episodic_return=[-8.490012], success_rate=0.0
+global_step=93661, episodic_return=[3.5692077], success_rate=0.0
+global_step=93861, episodic_return=[-5.012889], success_rate=0.0
+global_step=94061, episodic_return=[0.46698505], success_rate=0.0
+SPS: 89
+global_step=94261, episodic_return=[31.628878], success_rate=0.27
+global_step=94461, episodic_return=[2.2704613], success_rate=0.0
+global_step=94661, episodic_return=[24.252892], success_rate=0.2
+global_step=94861, episodic_return=[32.349674], success_rate=0.28
+global_step=95061, episodic_return=[38.92905], success_rate=0.34
+global_step=95261, episodic_return=[6.3448224], success_rate=0.0
+global_step=95461, episodic_return=[-4.1302347], success_rate=0.01
+global_step=95661, episodic_return=[18.810017], success_rate=0.17
+global_step=95861, episodic_return=[1.4823426], success_rate=0.0
+global_step=96061, episodic_return=[-4.266577], success_rate=0.0
+SPS: 88
+global_step=96261, episodic_return=[35.023346], success_rate=0.32
+global_step=96461, episodic_return=[10.489787], success_rate=0.15
+global_step=96661, episodic_return=[0.4286566], success_rate=0.0
+global_step=96861, episodic_return=[15.505433], success_rate=0.19
+global_step=97061, episodic_return=[15.272197], success_rate=0.1
+global_step=97261, episodic_return=[22.218632], success_rate=0.2
+global_step=97461, episodic_return=[36.724846], success_rate=0.3
+global_step=97661, episodic_return=[-3.1610804], success_rate=0.0
+global_step=97861, episodic_return=[-4.819085], success_rate=0.0
+global_step=98061, episodic_return=[-2.3993683], success_rate=0.0
+global_step=98261, episodic_return=[-6.574412], success_rate=0.0
+SPS: 88

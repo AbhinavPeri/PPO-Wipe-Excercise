@@ -1,0 +1,255 @@
+2023-11-20 13:12:50,752 INFO    StreamThr :15929 [internal.py:wandb_internal():87] W&B internal server running at pid: 15929, started at: 2023-11-20 13:12:50.751905
+2023-11-20 13:12:50,753 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: status
+2023-11-20 13:12:50,754 INFO    WriterThread:15929 [datastore.py:open_for_write():85] open: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/run-t0y0cgbd.wandb
+2023-11-20 13:12:50,754 DEBUG   SenderThread:15929 [sender.py:send():336] send: header
+2023-11-20 13:12:50,755 DEBUG   SenderThread:15929 [sender.py:send():336] send: run
+2023-11-20 13:12:51,252 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: check_version
+2023-11-20 13:12:51,252 INFO    SenderThread:15929 [dir_watcher.py:__init__():219] watching files in: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files
+2023-11-20 13:12:51,253 INFO    SenderThread:15929 [sender.py:_start_run_threads():1078] run started: t0y0cgbd with start time 1700511170.751384
+2023-11-20 13:12:51,253 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: summary_record
+2023-11-20 13:12:51,253 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-11-20 13:12:51,253 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: check_version
+2023-11-20 13:12:51,541 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: run_start
+2023-11-20 13:12:51,557 DEBUG   HandlerThread:15929 [system_info.py:__init__():31] System info init
+2023-11-20 13:12:51,557 DEBUG   HandlerThread:15929 [system_info.py:__init__():46] System info init done
+2023-11-20 13:12:51,557 INFO    HandlerThread:15929 [system_monitor.py:start():183] Starting system monitor
+2023-11-20 13:12:51,557 INFO    SystemMonitor:15929 [system_monitor.py:_start():147] Starting system asset monitoring threads
+2023-11-20 13:12:51,558 INFO    HandlerThread:15929 [system_monitor.py:probe():204] Collecting system info
+2023-11-20 13:12:51,559 INFO    SystemMonitor:15929 [interfaces.py:start():187] Started cpu monitoring
+2023-11-20 13:12:51,560 INFO    SystemMonitor:15929 [interfaces.py:start():187] Started disk monitoring
+2023-11-20 13:12:51,561 INFO    SystemMonitor:15929 [interfaces.py:start():187] Started gpu monitoring
+2023-11-20 13:12:51,562 INFO    SystemMonitor:15929 [interfaces.py:start():187] Started memory monitoring
+2023-11-20 13:12:51,562 INFO    SystemMonitor:15929 [interfaces.py:start():187] Started network monitoring
+2023-11-20 13:12:51,571 DEBUG   HandlerThread:15929 [system_info.py:probe():195] Probing system
+2023-11-20 13:12:51,575 DEBUG   HandlerThread:15929 [git.py:repo():40] git repository is invalid
+2023-11-20 13:12:51,575 DEBUG   HandlerThread:15929 [system_info.py:probe():240] Probing system done
+2023-11-20 13:12:51,575 DEBUG   HandlerThread:15929 [system_monitor.py:probe():213] {'os': 'Linux-6.2.0-36-generic-x86_64-with-glibc2.17', 'python': '3.8.18', 'heartbeatAt': '2023-11-20T20:12:51.571469', 'startedAt': '2023-11-20T20:12:50.747095', 'docker': None, 'cuda': None, 'args': ('--track', '--env-id=Wipe', '--cuda', '--num-envs=1'), 'state': 'running', 'program': 'ppo_continuous_action.py', 'codePath': 'ppo_continuous_action.py', 'host': 'FBI-Van', 'username': 'abhinav', 'executable': '/home/abhinav/anaconda3/envs/RL-Env/bin/python', 'cpu_count': 8, 'cpu_count_logical': 16, 'cpu_freq': {'current': 1624.4141875, 'min': 800.0, 'max': 4825.0}, 'cpu_freq_per_core': [{'current': 2107.526, 'min': 800.0, 'max': 4800.0}, {'current': 2435.854, 'min': 800.0, 'max': 4900.0}, {'current': 2138.197, 'min': 800.0, 'max': 4800.0}, {'current': 1159.86, 'min': 800.0, 'max': 4800.0}, {'current': 1173.532, 'min': 800.0, 'max': 4900.0}, {'current': 2193.201, 'min': 800.0, 'max': 4800.0}, {'current': 2182.28, 'min': 800.0, 'max': 4800.0}, {'current': 801.025, 'min': 800.0, 'max': 4800.0}, {'current': 2144.308, 'min': 800.0, 'max': 4800.0}, {'current': 3459.749, 'min': 800.0, 'max': 4900.0}, {'current': 2138.499, 'min': 800.0, 'max': 4800.0}, {'current': 2500.0, 'min': 800.0, 'max': 4800.0}, {'current': 2147.521, 'min': 800.0, 'max': 4900.0}, {'current': 2522.212, 'min': 800.0, 'max': 4800.0}, {'current': 801.016, 'min': 800.0, 'max': 4800.0}, {'current': 1736.53, 'min': 800.0, 'max': 4800.0}], 'disk': {'total': 952.8284187316895, 'used': 112.93877792358398}, 'gpu': 'NVIDIA GeForce RTX 3050 Ti Laptop GPU', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA GeForce RTX 3050 Ti Laptop GPU', 'memory_total': 4294967296}], 'memory': {'total': 62.515506744384766}}
+2023-11-20 13:12:51,575 INFO    HandlerThread:15929 [system_monitor.py:probe():214] Finished collecting system info
+2023-11-20 13:12:51,575 INFO    HandlerThread:15929 [system_monitor.py:probe():217] Publishing system info
+2023-11-20 13:12:51,575 DEBUG   HandlerThread:15929 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2023-11-20 13:12:51,575 DEBUG   HandlerThread:15929 [system_info.py:_save_pip():67] Saving pip packages done
+2023-11-20 13:12:51,575 DEBUG   HandlerThread:15929 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2023-11-20 13:12:52,254 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_created():278] file/dir created: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/requirements.txt
+2023-11-20 13:12:52,254 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_created():278] file/dir created: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/conda-environment.yaml
+2023-11-20 13:12:52,255 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_created():278] file/dir created: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/wandb-summary.json
+2023-11-20 13:12:56,664 DEBUG   HandlerThread:15929 [system_info.py:_save_conda():86] Saving conda packages done
+2023-11-20 13:12:56,664 DEBUG   HandlerThread:15929 [system_info.py:_save_code():89] Saving code
+2023-11-20 13:12:56,664 DEBUG   HandlerThread:15929 [system_info.py:_save_code():110] Saving code done
+2023-11-20 13:12:56,665 INFO    HandlerThread:15929 [system_monitor.py:probe():219] Finished publishing system info
+2023-11-20 13:12:56,669 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: status_report
+2023-11-20 13:12:56,669 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: keepalive
+2023-11-20 13:12:56,669 DEBUG   SenderThread:15929 [sender.py:send():336] send: files
+2023-11-20 13:12:56,669 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-metadata.json with policy now
+2023-11-20 13:12:56,669 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file code/ppo_continuous_action.py with policy now
+2023-11-20 13:12:56,673 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: stop_status
+2023-11-20 13:12:56,673 INFO    HandlerThread:15929 [handler.py:handle_tbrecord():747] handling tbrecord: tbrecord {
+  log_dir: "runs/Wipe__ppo_continuous_action__1__1700511169"
+  save: true
+}
+control {
+  relay_id: "a49dc7d0065d404eaa431ccab4654751"
+}
+_info {
+  stream_id: "t0y0cgbd"
+}
+
+2023-11-20 13:12:56,674 DEBUG   HandlerThread:15929 [config_util.py:dict_from_config_file():103] no default config file found in config-defaults.yaml
+2023-11-20 13:12:56,674 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: stop_status
+2023-11-20 13:12:56,951 INFO    wandb-upload_1:15929 [upload_job.py:push():118] Skipped uploading /tmp/tmpo4lgb7ekwandb/bl7lwism-code/ppo_continuous_action.py
+2023-11-20 13:12:57,255 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/conda-environment.yaml
+2023-11-20 13:12:57,256 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_created():278] file/dir created: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/wandb-metadata.json
+2023-11-20 13:12:57,256 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_created():278] file/dir created: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/events.out.tfevents.1700511176.FBI-Van.15919.0
+2023-11-20 13:12:57,256 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_created():278] file/dir created: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/code/ppo_continuous_action.py
+2023-11-20 13:12:57,256 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_created():278] file/dir created: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/code
+2023-11-20 13:12:57,297 INFO    wandb-upload_0:15929 [upload_job.py:push():138] Uploaded file /tmp/tmpo4lgb7ekwandb/2judqgqh-wandb-metadata.json
+2023-11-20 13:12:57,437 DEBUG   SenderThread:15929 [sender.py:send():336] send: telemetry
+2023-11-20 13:12:57,437 DEBUG   SenderThread:15929 [sender.py:send():336] send: tbrecord
+2023-11-20 13:12:57,438 DEBUG   SenderThread:15929 [sender.py:send():336] send: files
+2023-11-20 13:12:57,438 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file events.out.tfevents.1700511176.FBI-Van.15919.0 with policy live
+2023-11-20 13:12:57,862 INFO    wandb-upload_1:15929 [upload_job.py:push():138] Uploaded file /tmp/tmpo4lgb7ekwandb/d8y4ihzc-events.out.tfevents.1700511176.FBI-Van.15919.0
+2023-11-20 13:12:58,256 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_created():278] file/dir created: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/output.log
+2023-11-20 13:13:00,256 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/output.log
+2023-11-20 13:13:01,256 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/events.out.tfevents.1700511176.FBI-Van.15919.0
+2023-11-20 13:13:01,823 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: status_report
+2023-11-20 13:13:03,257 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/output.log
+2023-11-20 13:13:03,257 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/events.out.tfevents.1700511176.FBI-Van.15919.0
+2023-11-20 13:13:05,257 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/events.out.tfevents.1700511176.FBI-Van.15919.0
+2023-11-20 13:13:06,768 DEBUG   SenderThread:15929 [sender.py:send():336] send: history
+2023-11-20 13:13:06,768 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: summary_record
+2023-11-20 13:13:06,770 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-11-20 13:13:06,770 DEBUG   SenderThread:15929 [sender.py:send():336] send: history
+2023-11-20 13:13:06,770 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: summary_record
+2023-11-20 13:13:06,781 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-11-20 13:13:06,781 DEBUG   SenderThread:15929 [sender.py:send():336] send: history
+2023-11-20 13:13:06,782 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: summary_record
+2023-11-20 13:13:06,782 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-11-20 13:13:07,258 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/wandb-summary.json
+2023-11-20 13:13:07,258 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/output.log
+2023-11-20 13:13:07,259 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/events.out.tfevents.1700511176.FBI-Van.15919.0
+2023-11-20 13:13:07,764 DEBUG   SenderThread:15929 [sender.py:send():336] send: history
+2023-11-20 13:13:07,764 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: summary_record
+2023-11-20 13:13:07,764 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: status_report
+2023-11-20 13:13:07,764 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-11-20 13:13:08,259 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/wandb-summary.json
+2023-11-20 13:13:09,259 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/output.log
+2023-11-20 13:13:09,259 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/events.out.tfevents.1700511176.FBI-Van.15919.0
+2023-11-20 13:13:09,767 DEBUG   SenderThread:15929 [sender.py:send():336] send: history
+2023-11-20 13:13:09,768 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: summary_record
+2023-11-20 13:13:09,768 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-11-20 13:13:10,259 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/wandb-summary.json
+2023-11-20 13:13:10,770 DEBUG   SenderThread:15929 [sender.py:send():336] send: history
+2023-11-20 13:13:10,770 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: summary_record
+2023-11-20 13:13:10,770 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-11-20 13:13:11,260 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/wandb-summary.json
+2023-11-20 13:13:11,260 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/output.log
+2023-11-20 13:13:11,260 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/events.out.tfevents.1700511176.FBI-Van.15919.0
+2023-11-20 13:13:11,672 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: keepalive
+2023-11-20 13:13:12,774 DEBUG   SenderThread:15929 [sender.py:send():336] send: history
+2023-11-20 13:13:12,774 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: summary_record
+2023-11-20 13:13:12,774 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: status_report
+2023-11-20 13:13:12,775 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-11-20 13:13:13,260 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/wandb-summary.json
+2023-11-20 13:13:13,260 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/output.log
+2023-11-20 13:13:13,261 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/events.out.tfevents.1700511176.FBI-Van.15919.0
+2023-11-20 13:13:14,778 DEBUG   SenderThread:15929 [sender.py:send():336] send: history
+2023-11-20 13:13:14,778 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: summary_record
+2023-11-20 13:13:14,779 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-11-20 13:13:15,261 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/wandb-summary.json
+2023-11-20 13:13:15,261 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/output.log
+2023-11-20 13:13:15,261 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/events.out.tfevents.1700511176.FBI-Van.15919.0
+2023-11-20 13:13:16,673 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: keepalive
+2023-11-20 13:13:16,782 DEBUG   SenderThread:15929 [sender.py:send():336] send: history
+2023-11-20 13:13:16,782 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: summary_record
+2023-11-20 13:13:16,782 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-11-20 13:13:17,262 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/wandb-summary.json
+2023-11-20 13:13:17,262 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/output.log
+2023-11-20 13:13:17,262 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/events.out.tfevents.1700511176.FBI-Van.15919.0
+2023-11-20 13:13:17,783 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: status_report
+2023-11-20 13:13:18,786 DEBUG   SenderThread:15929 [sender.py:send():336] send: history
+2023-11-20 13:13:18,786 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: summary_record
+2023-11-20 13:13:18,787 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-11-20 13:13:19,262 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/wandb-summary.json
+2023-11-20 13:13:19,263 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/output.log
+2023-11-20 13:13:19,263 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/events.out.tfevents.1700511176.FBI-Van.15919.0
+2023-11-20 13:13:20,791 DEBUG   SenderThread:15929 [sender.py:send():336] send: history
+2023-11-20 13:13:20,791 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: summary_record
+2023-11-20 13:13:20,791 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-11-20 13:13:21,263 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/wandb-summary.json
+2023-11-20 13:13:21,263 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/output.log
+2023-11-20 13:13:21,263 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/events.out.tfevents.1700511176.FBI-Van.15919.0
+2023-11-20 13:13:21,674 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: keepalive
+2023-11-20 13:13:22,014 DEBUG   SenderThread:15929 [sender.py:send():336] send: exit
+2023-11-20 13:13:22,014 INFO    SenderThread:15929 [sender.py:send_exit():559] handling exit code: 255
+2023-11-20 13:13:22,015 INFO    SenderThread:15929 [sender.py:send_exit():561] handling runtime: 30
+2023-11-20 13:13:22,015 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-11-20 13:13:22,015 INFO    SenderThread:15929 [sender.py:send_exit():567] send defer
+2023-11-20 13:13:22,015 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: defer
+2023-11-20 13:13:22,015 INFO    HandlerThread:15929 [handler.py:handle_request_defer():170] handle defer: 0
+2023-11-20 13:13:22,015 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: defer
+2023-11-20 13:13:22,015 INFO    SenderThread:15929 [sender.py:send_request_defer():583] handle sender defer: 0
+2023-11-20 13:13:22,015 INFO    SenderThread:15929 [sender.py:transition_state():587] send defer: 1
+2023-11-20 13:13:22,015 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: defer
+2023-11-20 13:13:22,015 INFO    HandlerThread:15929 [handler.py:handle_request_defer():170] handle defer: 1
+2023-11-20 13:13:22,015 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: defer
+2023-11-20 13:13:22,015 INFO    SenderThread:15929 [sender.py:send_request_defer():583] handle sender defer: 1
+2023-11-20 13:13:22,015 INFO    SenderThread:15929 [sender.py:transition_state():587] send defer: 2
+2023-11-20 13:13:22,015 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: defer
+2023-11-20 13:13:22,015 INFO    HandlerThread:15929 [handler.py:handle_request_defer():170] handle defer: 2
+2023-11-20 13:13:22,015 INFO    HandlerThread:15929 [system_monitor.py:finish():193] Stopping system monitor
+2023-11-20 13:13:22,016 DEBUG   SystemMonitor:15929 [system_monitor.py:_start():161] Starting system metrics aggregation loop
+2023-11-20 13:13:22,016 DEBUG   SystemMonitor:15929 [system_monitor.py:_start():168] Finished system metrics aggregation loop
+2023-11-20 13:13:22,016 DEBUG   SystemMonitor:15929 [system_monitor.py:_start():172] Publishing last batch of metrics
+2023-11-20 13:13:22,016 INFO    HandlerThread:15929 [interfaces.py:finish():199] Joined cpu monitor
+2023-11-20 13:13:22,017 INFO    HandlerThread:15929 [interfaces.py:finish():199] Joined disk monitor
+2023-11-20 13:13:22,039 INFO    HandlerThread:15929 [interfaces.py:finish():199] Joined gpu monitor
+2023-11-20 13:13:22,040 INFO    HandlerThread:15929 [interfaces.py:finish():199] Joined memory monitor
+2023-11-20 13:13:22,040 INFO    HandlerThread:15929 [interfaces.py:finish():199] Joined network monitor
+2023-11-20 13:13:22,040 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: defer
+2023-11-20 13:13:22,040 INFO    SenderThread:15929 [sender.py:send_request_defer():583] handle sender defer: 2
+2023-11-20 13:13:22,040 INFO    SenderThread:15929 [sender.py:transition_state():587] send defer: 3
+2023-11-20 13:13:22,040 DEBUG   SenderThread:15929 [sender.py:send():336] send: stats
+2023-11-20 13:13:22,040 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: defer
+2023-11-20 13:13:22,040 INFO    HandlerThread:15929 [handler.py:handle_request_defer():170] handle defer: 3
+2023-11-20 13:13:22,041 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: defer
+2023-11-20 13:13:22,041 INFO    SenderThread:15929 [sender.py:send_request_defer():583] handle sender defer: 3
+2023-11-20 13:13:22,041 INFO    SenderThread:15929 [sender.py:transition_state():587] send defer: 4
+2023-11-20 13:13:22,041 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: defer
+2023-11-20 13:13:22,041 INFO    HandlerThread:15929 [handler.py:handle_request_defer():170] handle defer: 4
+2023-11-20 13:13:22,264 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/wandb-summary.json
+2023-11-20 13:13:24,266 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/output.log
+2023-11-20 13:13:24,266 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/config.yaml
+2023-11-20 13:13:28,792 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: poll_exit
+2023-11-20 13:13:28,793 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: status_report
+2023-11-20 13:13:28,793 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: keepalive
+2023-11-20 13:13:28,793 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: status_report
+2023-11-20 13:13:28,796 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: defer
+2023-11-20 13:13:28,796 INFO    SenderThread:15929 [sender.py:send_request_defer():583] handle sender defer: 4
+2023-11-20 13:13:28,796 INFO    SenderThread:15929 [sender.py:transition_state():587] send defer: 5
+2023-11-20 13:13:28,796 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: poll_exit
+2023-11-20 13:13:28,796 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: defer
+2023-11-20 13:13:28,797 DEBUG   SenderThread:15929 [sender.py:send():336] send: history
+2023-11-20 13:13:28,797 INFO    HandlerThread:15929 [handler.py:handle_request_defer():170] handle defer: 5
+2023-11-20 13:13:28,798 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: summary_record
+2023-11-20 13:13:28,802 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-11-20 13:13:28,803 DEBUG   SenderThread:15929 [sender.py:send():336] send: summary
+2023-11-20 13:13:28,804 INFO    SenderThread:15929 [sender.py:_save_file():1332] saving file wandb-summary.json with policy end
+2023-11-20 13:13:28,804 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: defer
+2023-11-20 13:13:28,804 INFO    SenderThread:15929 [sender.py:send_request_defer():583] handle sender defer: 5
+2023-11-20 13:13:28,804 INFO    SenderThread:15929 [sender.py:transition_state():587] send defer: 6
+2023-11-20 13:13:28,804 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: defer
+2023-11-20 13:13:28,804 INFO    HandlerThread:15929 [handler.py:handle_request_defer():170] handle defer: 6
+2023-11-20 13:13:28,805 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: defer
+2023-11-20 13:13:28,805 INFO    SenderThread:15929 [sender.py:send_request_defer():583] handle sender defer: 6
+2023-11-20 13:13:28,805 INFO    SenderThread:15929 [sender.py:transition_state():587] send defer: 7
+2023-11-20 13:13:28,806 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: status_report
+2023-11-20 13:13:28,806 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: defer
+2023-11-20 13:13:28,806 INFO    HandlerThread:15929 [handler.py:handle_request_defer():170] handle defer: 7
+2023-11-20 13:13:28,807 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: defer
+2023-11-20 13:13:28,807 INFO    SenderThread:15929 [sender.py:send_request_defer():583] handle sender defer: 7
+2023-11-20 13:13:29,269 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/wandb-summary.json
+2023-11-20 13:13:30,859 INFO    SenderThread:15929 [sender.py:transition_state():587] send defer: 8
+2023-11-20 13:13:30,860 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: defer
+2023-11-20 13:13:30,860 INFO    HandlerThread:15929 [handler.py:handle_request_defer():170] handle defer: 8
+2023-11-20 13:13:30,860 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: defer
+2023-11-20 13:13:30,861 INFO    SenderThread:15929 [sender.py:send_request_defer():583] handle sender defer: 8
+2023-11-20 13:13:30,861 INFO    SenderThread:15929 [sender.py:transition_state():587] send defer: 9
+2023-11-20 13:13:30,861 DEBUG   HandlerThread:15929 [handler.py:handle_request():144] handle_request: defer
+2023-11-20 13:13:30,861 INFO    HandlerThread:15929 [handler.py:handle_request_defer():170] handle defer: 9
+2023-11-20 13:13:30,862 DEBUG   SenderThread:15929 [sender.py:send_request():363] send_request: defer
+2023-11-20 13:13:30,862 INFO    SenderThread:15929 [sender.py:send_request_defer():583] handle sender defer: 9
+2023-11-20 13:13:30,862 INFO    SenderThread:15929 [dir_watcher.py:finish():365] shutting down directory watcher
+2023-11-20 13:13:31,269 INFO    Thread-13 :15929 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/output.log
+2023-11-20 13:13:31,270 INFO    SenderThread:15929 [dir_watcher.py:finish():395] scan: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files
+2023-11-20 13:13:31,270 INFO    SenderThread:15929 [dir_watcher.py:finish():409] scan save: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/conda-environment.yaml conda-environment.yaml
+2023-11-20 13:13:31,270 INFO    SenderThread:15929 [dir_watcher.py:finish():409] scan save: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/wandb-metadata.json wandb-metadata.json
+2023-11-20 13:13:31,270 INFO    SenderThread:15929 [dir_watcher.py:finish():409] scan save: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/events.out.tfevents.1700511176.FBI-Van.15919.0 events.out.tfevents.1700511176.FBI-Van.15919.0
+2023-11-20 13:13:31,795 WARNING StreamThr :15929 [internal.py:is_dead():415] Internal process exiting, parent pid 15919 disappeared
+2023-11-20 13:13:31,796 ERROR   StreamThr :15929 [internal.py:wandb_internal():153] Internal process shutdown.
+2023-11-20 13:13:31,862 INFO    HandlerThread:15929 [handler.py:finish():842] shutting down handler
+2023-11-20 13:13:31,862 INFO    WriterThread:15929 [datastore.py:close():298] close: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/run-t0y0cgbd.wandb
+2023-11-20 13:13:31,862 ERROR   StreamThr :15929 [internal.py:wandb_internal():175] Thread SenderThread:
+Traceback (most recent call last):
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/wandb/sdk/internal/internal_util.py", line 49, in run
+    self._run()
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/wandb/sdk/internal/internal_util.py", line 100, in _run
+    self._process(record)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/wandb/sdk/internal/internal.py", line 329, in _process
+    self._sm.send(record)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/wandb/sdk/internal/sender.py", line 343, in send
+    send_handler(record)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/wandb/sdk/internal/sender.py", line 365, in send_request
+    send_handler(record)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/wandb/sdk/internal/sender.py", line 619, in send_request_defer
+    self._dir_watcher.finish()
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/wandb/filesync/dir_watcher.py", line 410, in finish
+    self._get_file_event_handler(file_path, save_name).finish()
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/wandb/filesync/dir_watcher.py", line 189, in finish
+    self.on_modified(force=True)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/wandb/filesync/dir_watcher.py", line 175, in on_modified
+    if self.current_size == 0:
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/site-packages/wandb/filesync/dir_watcher.py", line 141, in current_size
+    return os.path.getsize(self.file_path)
+  File "/home/abhinav/anaconda3/envs/RL-Env/lib/python3.8/genericpath.py", line 50, in getsize
+    return os.stat(filename).st_size
+FileNotFoundError: [Errno 2] No such file or directory: '/home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/events.out.tfevents.1700511176.FBI-Van.15919.0'
+2023-11-20 13:13:31,992 INFO    wandb-upload_0:15929 [upload_job.py:push():138] Uploaded file /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_131250-t0y0cgbd/files/conda-environment.yaml

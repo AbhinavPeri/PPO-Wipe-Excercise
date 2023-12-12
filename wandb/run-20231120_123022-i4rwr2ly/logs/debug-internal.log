@@ -1,0 +1,17 @@
+2023-11-20 12:30:22,228 INFO    StreamThr :13838 [internal.py:wandb_internal():87] W&B internal server running at pid: 13838, started at: 2023-11-20 12:30:22.227940
+2023-11-20 12:30:22,229 DEBUG   HandlerThread:13838 [handler.py:handle_request():144] handle_request: status
+2023-11-20 12:30:22,230 INFO    WriterThread:13838 [datastore.py:open_for_write():85] open: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_123022-i4rwr2ly/run-i4rwr2ly.wandb
+2023-11-20 12:30:22,231 DEBUG   SenderThread:13838 [sender.py:send():336] send: header
+2023-11-20 12:30:22,231 DEBUG   SenderThread:13838 [sender.py:send():336] send: run
+2023-11-20 12:30:22,770 DEBUG   HandlerThread:13838 [handler.py:handle_request():144] handle_request: shutdown
+2023-11-20 12:30:22,770 INFO    HandlerThread:13838 [handler.py:finish():842] shutting down handler
+2023-11-20 12:30:22,918 INFO    SenderThread:13838 [dir_watcher.py:__init__():219] watching files in: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_123022-i4rwr2ly/files
+2023-11-20 12:30:22,918 INFO    SenderThread:13838 [sender.py:_start_run_threads():1078] run started: i4rwr2ly with start time 1700508622.227319
+2023-11-20 12:30:22,918 INFO    SenderThread:13838 [sender.py:finish():1504] shutting down sender
+2023-11-20 12:30:22,918 INFO    SenderThread:13838 [dir_watcher.py:finish():365] shutting down directory watcher
+2023-11-20 12:30:23,231 INFO    WriterThread:13838 [datastore.py:close():298] close: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_123022-i4rwr2ly/run-i4rwr2ly.wandb
+2023-11-20 12:30:23,919 INFO    SenderThread:13838 [dir_watcher.py:finish():395] scan: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_123022-i4rwr2ly/files
+2023-11-20 12:30:23,919 INFO    SenderThread:13838 [dir_watcher.py:finish():409] scan save: /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_123022-i4rwr2ly/files/config.yaml config.yaml
+2023-11-20 12:30:23,919 INFO    SenderThread:13838 [file_pusher.py:finish():164] shutting down file pusher
+2023-11-20 12:30:23,919 INFO    SenderThread:13838 [file_pusher.py:join():169] waiting for file pusher
+2023-11-20 12:30:24,642 INFO    wandb-upload_0:13838 [upload_job.py:push():138] Uploaded file /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231120_123022-i4rwr2ly/files/config.yaml

@@ -1,0 +1,28 @@
+2023-11-21 11:37:28,439 INFO    MainThread:43346 [wandb_setup.py:_flush():76] Configure stats pid to 43346
+2023-11-21 11:37:28,439 INFO    MainThread:43346 [wandb_setup.py:_flush():76] Loading settings from /home/abhinav/.config/wandb/settings
+2023-11-21 11:37:28,439 INFO    MainThread:43346 [wandb_setup.py:_flush():76] Loading settings from /home/abhinav/PycharmProjects/RL-DIRP/wandb/settings
+2023-11-21 11:37:28,439 INFO    MainThread:43346 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-11-21 11:37:28,439 INFO    MainThread:43346 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-11-21 11:37:28,439 INFO    MainThread:43346 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'ppo_continuous_action.py', 'program': 'ppo_continuous_action.py'}
+2023-11-21 11:37:28,439 INFO    MainThread:43346 [wandb_init.py:_log_setup():506] Logging user logs to /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231121_113728-1nwqlgjl/logs/debug.log
+2023-11-21 11:37:28,439 INFO    MainThread:43346 [wandb_init.py:_log_setup():507] Logging internal logs to /home/abhinav/PycharmProjects/RL-DIRP/wandb/run-20231121_113728-1nwqlgjl/logs/debug-internal.log
+2023-11-21 11:37:28,439 INFO    MainThread:43346 [wandb_init.py:init():546] calling init triggers
+2023-11-21 11:37:28,439 INFO    MainThread:43346 [wandb_init.py:init():552] wandb.init called with sweep_config: {}
+config: {'exp_name': 'Training from existing model. No observation transforms, lr annealing, and no value loss clipping', 'seed': 1, 'torch_deterministic': True, 'cuda': True, 'track': True, 'wandb_project_name': 'cleanRL', 'wandb_entity': None, 'capture_video': False, 'save_model': False, 'upload_model': False, 'hf_entity': '', 'checkpoint_path': 'runs/Wipe__ppo_continuous_action__1__2023-11-21_00-02-09/ppo_continuous_action.cleanrl_model', 'env_id': 'Wipe', 'total_timesteps': 1000000, 'learning_rate': 0.0003, 'num_envs': 1, 'num_steps': 2048, 'anneal_lr': False, 'gamma': 0.99, 'gae_lambda': 0.95, 'num_minibatches': 32, 'update_epochs': 10, 'norm_adv': True, 'clip_coef': 0.2, 'clip_vloss': False, 'ent_coef': 0.0, 'vf_coef': 0.5, 'max_grad_norm': 0.5, 'target_kl': None, 'batch_size': 2048, 'minibatch_size': 64}
+2023-11-21 11:37:28,439 INFO    MainThread:43346 [wandb_init.py:init():602] starting backend
+2023-11-21 11:37:28,439 INFO    MainThread:43346 [wandb_init.py:init():606] setting up manager
+2023-11-21 11:37:28,441 INFO    MainThread:43346 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-11-21 11:37:28,442 INFO    MainThread:43346 [wandb_init.py:init():613] backend started and connected
+2023-11-21 11:37:28,444 INFO    MainThread:43346 [wandb_init.py:init():701] updated telemetry
+2023-11-21 11:37:28,445 INFO    MainThread:43346 [wandb_init.py:init():741] communicating run to backend with 60.0 second timeout
+2023-11-21 11:37:29,010 INFO    MainThread:43346 [wandb_run.py:_on_init():2131] communicating current version
+2023-11-21 11:37:29,203 INFO    MainThread:43346 [wandb_run.py:_on_init():2140] got version response upgrade_message: "wandb version 0.16.0 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2023-11-21 11:37:29,203 INFO    MainThread:43346 [wandb_init.py:init():789] starting run threads in backend
+2023-11-21 11:37:34,893 INFO    MainThread:43346 [wandb_run.py:_console_start():2112] atexit reg
+2023-11-21 11:37:34,893 INFO    MainThread:43346 [wandb_run.py:_redirect():1967] redirect: SettingsConsole.WRAP_RAW
+2023-11-21 11:37:34,893 INFO    MainThread:43346 [wandb_run.py:_redirect():2032] Wrapping output streams.
+2023-11-21 11:37:34,893 INFO    MainThread:43346 [wandb_run.py:_redirect():2057] Redirects installed.
+2023-11-21 11:37:34,894 INFO    MainThread:43346 [wandb_init.py:init():831] run started, returning control to user process
+2023-11-21 11:37:34,894 INFO    MainThread:43346 [wandb_run.py:_tensorboard_callback():1394] tensorboard callback: runs/Wipe__Training from existing model. No observation transforms, lr annealing, and no value loss clipping__1__2023-11-21_11-37-26, True
+2023-11-21 14:45:25,902 WARNING MsgRouterThr:43346 [router.py:message_loop():77] message_loop has been closed
